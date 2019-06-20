@@ -1,0 +1,14 @@
+cnn_0345.parse 1 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG2
+cnn_0345.parse 1 5 predicted sit-v sit.01 ----- 5:0-rel  3:1-ARGM-TMP 4:1-ARG1 6:1-ARGM-MNR
+cnn_0345.parse 1 13 predicted singe-v singe.- ----- 13:0-rel  11:1-ARG0 14:1-ARG1
+cnn_0345.parse 2 3 predicted pray-v pray.- ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 2:0-ARGM-MOD
+cnn_0345.parse 2 6 predicted cry-v cry.01 ----- 6:0-rel  0:2-ARG1 5:1-ARGM-TMP 7:1-ARGM-MNR
+cnn_0345.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0345.parse 4 2 predicted accuse-v accuse.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0345.parse 4 4 predicted beat-v beat.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1 10:1-ARG2
+cnn_0345.parse 4 15 predicted say-v say.01 ----- 15:0-rel  14:1-ARG0 17:1-C-ARG1
+cnn_0345.parse 4 18 predicted tell-v tell.01 ----- 18:0-rel  17:1-ARG0 19:1-ARG2 20:2-ARG1
+cnn_0345.parse 5 2 predicted happen-v happen.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG1 3:1-ARGM-TMP
+cnn_0345.parse 6 5 predicted begin-v begin.01 ----- 5:0-rel  0:1-ARGM-TMP 1:2-ARG1 6:2-C-ARG1
+cnn_0345.parse 6 6 predicted turn-v turn.01 ----- 6:0-rel  1:2-ARG1
+cnn_0345.parse 7 4 predicted join-v join.04 ----- 4:0-rel  0:2-ARG0 5:1-ARG1 6:1-ARGM-DIR

@@ -1,0 +1,60 @@
+chtb_0049.parse 1 10 predicted hold-v hold.04 ----- 10:0-rel  0:1-ARGM-TMP 3:1-ARG0
+chtb_0049.parse 1 24 predicted support-v support.01 ----- 24:0-rel  23:1-ARGM-MNR
+chtb_0049.parse 1 48 predicted provide-v provide.01 ----- 48:0-rel  47:1-ARGM-TMP
+chtb_0049.parse 1 51 predicted train-v train.01 ----- 51:0-rel  52:1-ARG2 57:1-ARGM-LOC
+chtb_0049.parse 2 7 predicted implement-v implement.01 ----- 7:0-rel  0:1-ARG0 6:1-ARGM-TMP 8:2-ARG1
+chtb_0049.parse 2 25 predicted make-v make.01 ----- 25:0-rel  0:1-ARG0 6:1-ARGM-TMP 33:1-ARGM-LOC
+chtb_0049.parse 3 2 predicted invite-v invite.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+chtb_0049.parse 3 6 predicted implement-v implement.01 ----- 6:0-rel  3:1-ARG0 7:2-ARG1
+chtb_0049.parse 3 13 predicted put-v put.01 ----- 13:0-rel  10:1-ARG1 14:1-ARGM-DIR 15:1-ARG0
+chtb_0049.parse 3 25 predicted enter-v enter.01 ----- 25:0-rel  20:2-ARGM-TMP 26:1-ARG1 28:1-ARGM-PRD
+chtb_0049.parse 3 36 predicted attract-v attract.01 ----- 36:0-rel  37:1-ARG1
+chtb_0049.parse 4 2 predicted represent-v represent.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG0
+chtb_0049.parse 4 18 predicted give-v give.01 ----- 18:0-rel  0:2-ARG0 17:1-ARGM-TMP 19:2-ARG1 24:1-ARG2
+chtb_0049.parse 5 6 predicted aim-v aim.02 ----- 6:0-rel  7:1-ARG2
+chtb_0049.parse 5 25 predicted meet-v meet.03 ----- 25:0-rel  14:1-ARGM-LOC 15:2-ARG0
+chtb_0049.parse 5 46 predicted propose-v propose.01 ----- 46:0-rel  0:1-ARG1 45:1-ARGM-TMP 47:1-ARG0
+chtb_0049.parse 6 9 predicted decide-v decide.01 ----- 9:0-rel  0:1-ARGM-TMP 3:1-ARG0 10:2-ARG1
+chtb_0049.parse 6 11 predicted support-v support.01 ----- 11:0-rel  3:1-ARG0 12:1-ARG1
+chtb_0049.parse 6 14 predicted announce-v announce.01 ----- 14:0-rel  0:1-ARGM-TMP 3:1-ARG0 15:1-ARG1 16:1-ARG2
+chtb_0049.parse 7 9 predicted change-v change.01 ----- 9:0-rel  6:1-ARGM-TMP 7:1-ARG1 10:1-ARG3 14:1-ARG2
+chtb_0049.parse 7 32 predicted implement-v implement.01 ----- 32:0-rel  0:1-ARGM-TMP 19:2-ARG0 31:0-ARGM-EXT 33:2-ARG1
+chtb_0049.parse 7 39 predicted attract-v attract.01 ----- 39:0-rel  40:1-ARG1
+chtb_0049.parse 7 47 predicted start-v start.01 ----- 47:0-rel  0:1-ARGM-TMP 19:2-ARG0 46:1-ARGM-TMP 48:2-ARG1
+chtb_0049.parse 8 8 predicted give-v give.01 ----- 8:0-rel  0:2-ARG0 7:1-ARGM-DIS 9:1-ARG1 10:1-ARG2
+chtb_0049.parse 9 11 predicted have-v have.03 ----- 11:0-rel  4:1-ARG0
+chtb_0049.parse 9 16 predicted support-v support.01 ----- 16:0-rel  14:1-ARGM-TMP 17:1-ARG1
+chtb_0049.parse 9 24 predicted help-v help.01 ----- 24:0-rel  23:1-ARGM-MNR 25:2-ARG1
+chtb_0049.parse 9 37 predicted attract-v attract.01 ----- 37:0-rel  38:1-ARG1
+chtb_0049.parse 9 42 predicted help-v help.01 ----- 42:0-rel  43:2-ARG1
+chtb_0049.parse 9 43 predicted implement-v implement.01 ----- 43:0-rel  44:1-ARG1
+chtb_0049.parse 10 27 predicted hold-v hold.04 ----- 27:0-rel  0:1-ARGM-TMP 5:1-ARGM-MNR 22:1-ARG0 26:1-ARGM-MNR 28:1-ARG1
+chtb_0049.parse 10 42 predicted make-v make.01 ----- 42:0-rel  41:1-ARG0 43:2-ARG1
+chtb_0049.parse 11 15 predicted hold-v hold.04 ----- 15:0-rel  0:1-ARGM-TMP 5:1-ARG1 12:0-ARGM-MOD 13:1-ARGM-ADV 16:1-ARGM-LOC
+chtb_0049.parse 12 8 predicted entrust-v entrust.01 ----- 8:0-rel  0:1-ARGM-DIS 2:1-ARG0 7:1-ARGM-ADV
+chtb_0049.parse 12 13 predicted be-v be.01 ----- 13:0-rel  9:2-ARG1
+chtb_0049.parse 12 19 predicted research-v research.01 ----- 19:0-rel  16:1-ARG0 18:1-ARGM-ADV 20:1-ARG1
+chtb_0049.parse 12 25 predicted implement-v implement.01 ----- 25:0-rel  26:2-ARG1
+chtb_0049.parse 13 7 predicted receive-v receive.01 ----- 7:0-rel  0:1-ARG0 6:1-ARGM-DIS 8:1-ARG1
+chtb_0049.parse 14 7 predicted allocate-v allocate.01 ----- 7:0-rel  0:1-ARGM-DIS 3:1-ARG0 8:2-ARG1 12:1-ARG2
+chtb_0049.parse 14 27 predicted put-v put.03 ----- 27:0-rel  25:1-ARG0 29:1-ARG1
+chtb_0049.parse 14 31 predicted do-v do.02 ----- 31:0-rel  25:1-ARG0
+chtb_0049.parse 15 9 predicted sign-v sign.02 ----- 9:0-rel  0:1-ARGM-DIS 2:1-ARG0 10:1-ARG1 12:1-ARG2
+chtb_0049.parse 15 15 predicted participate-v participate.01 ----- 15:0-rel  2:1-ARG0 16:1-ARG1
+chtb_0049.parse 16 11 predicted make-v make.03 ----- 11:0-rel  0:1-ARGM-ADV 8:1-ARG0 10:1-ARGM-DIS
+chtb_0049.parse 17 10 predicted say-v say.01 ----- 10:0-rel  0:2-ARG0
+chtb_0049.parse 17 19 predicted play-v play.02 ----- 19:0-rel  13:2-ARG0 20:1-ARG1
+chtb_0049.parse 18 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARG1
+chtb_0049.parse 18 15 predicted enhance-v enhance.01 ----- 15:0-rel  9:2-ARG1 16:1-ARG2
+chtb_0049.parse 18 27 predicted change-v change.01 ----- 27:0-rel  19:2-ARG1 28:1-ARGM-MNR
+chtb_0049.parse 18 37 predicted gain-v gain.02 ----- 37:0-rel  31:1-ARG1 38:1-ARG0
+chtb_0049.parse 19 9 predicted invest-v invest.01 ----- 9:0-rel  0:1-ARGM-ADV 4:3-ARG0 10:2-ARG1 15:1-ARG2
+chtb_0049.parse 19 21 predicted invest-v invest.01 ----- 21:0-rel  19:0-ARGM-MNR 22:0-ARG1
+chtb_0049.parse 20 3 predicted promote-v promote.02 ----- 3:0-rel  4:2-ARG1
+chtb_0049.parse 20 14 predicted donate-v donate.01 ----- 14:0-rel  0:1-ARGM-PRP 12:1-ARG0 15:2-ARG1 19:2-ARGM-PRP
+chtb_0049.parse 20 20 predicted establish-v establish.01 ----- 20:0-rel  21:1-ARG1
+chtb_0049.parse 21 7 predicted take-v take.01 ----- 7:0-rel  0:1-ARGM-TMP 2:1-ARG1 8:1-ARG2
+chtb_0049.parse 22 9 predicted be-v be.01 ----- 9:0-rel  6:1-ARG1 8:1-R-ARG1 10:1-ARG2
+chtb_0049.parse 22 20 predicted say-v say.01 ----- 20:0-rel  0:2-ARG0
+chtb_0049.parse 22 25 predicted be-v be.01 ----- 25:0-rel  23:1-ARG1 26:1-ARG2
+chtb_0049.parse 22 28 predicted join-v join.01 ----- 28:0-rel  23:1-ARG0 29:1-ARG1

@@ -1,0 +1,11 @@
+cnn_0183.parse 0 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+cnn_0183.parse 0 7 predicted plan-v plan.01 ----- 7:0-rel  6:1-ARG0 8:2-ARG1
+cnn_0183.parse 0 9 predicted put-v put.01 ----- 9:0-rel  6:1-ARG0 10:2-ARG1 15:1-ARG2
+cnn_0183.parse 1 2 predicted note-v note.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0183.parse 1 7 predicted name-v name.01 ----- 7:0-rel  4:1-ARG1 8:1-ARGM-LOC
+cnn_0183.parse 1 18 predicted be-v be.01 ----- 18:0-rel  4:1-ARG1
+cnn_0183.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0183.parse 2 3 predicted see-v see.01 ----- 3:0-rel  2:1-ARG0
+cnn_0183.parse 2 9 predicted arrest-v arrest.01 ----- 9:0-rel  7:1-ARG0 10:1-ARG1 11:1-ARGM-ADV
+cnn_0183.parse 3 4 predicted believe-v believe.01 ----- 4:0-rel  0:1-ARG1 5:2-C-ARG1
+cnn_0183.parse 3 7 predicted live-v live.01 ----- 7:0-rel  0:1-ARG0 8:1-ARGM-LOC 10:1-ARGM-MNR

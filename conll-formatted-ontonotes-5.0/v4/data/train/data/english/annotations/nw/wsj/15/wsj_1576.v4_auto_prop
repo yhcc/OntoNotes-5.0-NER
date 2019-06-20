@@ -1,0 +1,10 @@
+wsj_1576.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1576.parse 0 5 predicted stop-v stop.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD
+wsj_1576.parse 0 6 predicted produce-v produce.01 ----- 6:0-rel  3:1-ARG0 7:1-ARG1 8:1-ARGM-TMP
+wsj_1576.parse 0 12 predicted continue-v continue.01 ----- 12:0-rel  13:0-ARG1
+wsj_1576.parse 1 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG0 6:3-ARG1
+wsj_1576.parse 1 8 predicted close-v close.01 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD 16:1-ARGM-TMP
+wsj_1576.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1576.parse 2 5 predicted face-v face.01 ----- 5:0-rel  2:1-ARG0
+wsj_1576.parse 2 11 predicted rise-v rise.01 ----- 11:0-rel  12:0-ARG1
+wsj_1576.parse 2 21 predicted decline-v decline.01 ----- 21:0-rel  22:1-ARG1

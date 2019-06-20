@@ -1,0 +1,7 @@
+wsj_1237.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1237.parse 0 4 predicted sign-v sign.02 ----- 4:0-rel  3:1-ARG0
+wsj_1237.parse 1 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:3-ARG1
+wsj_1237.parse 1 13 predicted expect-v expect.01 ----- 13:0-rel  10:1-ARG1 14:2-C-ARG1
+wsj_1237.parse 1 15 predicted close-v close.03 ----- 15:0-rel  10:1-ARG1 16:1-ARGM-TMP
+wsj_1237.parse 2 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+wsj_1237.parse 2 13 predicted say-v say.01 ----- 13:0-rel  0:2-ARG1 12:1-ARG0 14:0-ARGM-DIS

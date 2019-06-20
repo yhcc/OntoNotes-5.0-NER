@@ -1,0 +1,11 @@
+abc_0039.parse 1 5 predicted force-v force.01 ----- 5:0-rel  0:1-ARG1 2:1-R-ARG1 6:2-ARG2
+abc_0039.parse 1 7 predicted call-v call.03 ----- 7:0-rel  2:1-ARG0 8:1-ARG1
+abc_0039.parse 1 11 predicted offer-v offer.01 ----- 11:0-rel  0:2-ARG0 12:2-ARG1
+abc_0039.parse 1 13 predicted recognize-v recognize.01 ----- 13:0-rel  0:2-ARG0 14:1-ARG1
+abc_0039.parse 2 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARG1
+abc_0039.parse 3 2 predicted be-v be.02 ----- 2:0-rel  1:0-ARGM-MOD 3:2-ARG1
+abc_0039.parse 3 10 predicted have-v have.03 ----- 10:0-rel  8:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+abc_0039.parse 4 3 predicted like-v like.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+abc_0039.parse 5 5 predicted believe-v believe.01 ----- 5:0-rel  3:1-ARGM-LOC 4:1-ARG0 6:3-ARG1
+abc_0039.parse 5 8 predicted bear-v bear.02 ----- 8:0-rel  6:1-ARG1
+abc_0039.parse 5 14 predicted scale-v scale.01 ----- 14:0-rel  0:1-ARGM-LOC 10:1-ARG1 15:1-ARGM-DIR 16:1-ARGM-CAU

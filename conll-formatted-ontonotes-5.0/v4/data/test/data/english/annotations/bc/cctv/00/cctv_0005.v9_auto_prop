@@ -1,0 +1,722 @@
+cctv_0005.parse 0 6 predicted agree-v agree.01 ----- 6:0-rel  1:1-ARGM-ADV 3:1-ARG1 5:1-ARGM-MNR 7:1-C-ARG1 8:1-ARG0
+cctv_0005.parse 1 1 predicted express-v express.01 ----- 1:0-rel  2:1-ARG1
+cctv_0005.parse 1 10 predicted compare-v compare.01 ----- 10:0-rel  0:2-ARGM-PRP 5:1-ARG0 11:1-ARG1 14:1-ARG2
+cctv_0005.parse 1 20 predicted cast-v cast.01 ----- 20:0-rel  15:1-ARG1 17:1-R-ARG1
+cctv_0005.parse 2 1 predicted take-v take.10 ----- 1:0-rel  2:1-ARG1
+cctv_0005.parse 2 4 predicted prove-v prove.01 ----- 4:0-rel  2:1-ARGM-TMP 5:2-ARG1
+cctv_0005.parse 2 11 predicted meet-v meet.03 ----- 11:0-rel  6:1-ARG0 9:0-ARGM-MOD 10:1-ARGM-ADV 12:1-ARG1
+cctv_0005.parse 2 19 predicted arise-v arise.01 ----- 19:0-rel  16:1-ARG1 18:1-R-ARG1 20:1-ARGM-TMP
+cctv_0005.parse 2 27 predicted correct-v correct.01 ----- 27:0-rel  16:2-ARG1 24:0-ARGM-MOD 26:1-ARGM-MNR
+cctv_0005.parse 3 8 predicted end-v end.01 ----- 8:0-rel  0:1-ARGM-DIS 3:1-ARG1 7:0-ARGM-MOD 9:1-ARGM-LOC
+cctv_0005.parse 4 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 6 2 predicted be-v be.01 ----- 2:0-rel  0:2-ARG1 3:2-ARG2
+cctv_0005.parse 6 7 predicted host-v host.01 ----- 7:0-rel  3:1-ARG1 8:1-ARG0
+cctv_0005.parse 10 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARGM-TMP
+cctv_0005.parse 10 4 predicted turn-v turn.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1 7:1-ARGM-DIR
+cctv_0005.parse 10 15 predicted happen-v happen.01 ----- 15:0-rel  8:1-ARG1 14:1-R-ARG1 16:1-ARGM-LOC 18:1-ARGM-TMP
+cctv_0005.parse 11 11 predicted occur-v occur.01 ----- 11:0-rel  0:1-ARGM-TMP 6:1-ARG1 12:1-ARGM-LOC
+cctv_0005.parse 11 30 predicted result-v result.01 ----- 30:0-rel  31:1-ARG2
+cctv_0005.parse 11 34 predicted cave-v cave.- ----- 34:0-rel  32:1-ARG1 35:1-ARG2
+cctv_0005.parse 12 6 predicted activate-v activate.01 ----- 6:0-rel  0:2-ARG0 5:1-ARGM-TMP 7:2-ARG1
+cctv_0005.parse 13 4 predicted carry-v carry.03 ----- 4:0-rel  0:1-ARG0
+cctv_0005.parse 14 8 predicted activate-v activate.01 ----- 8:0-rel  4:1-ARG1 9:1-ARG0
+cctv_0005.parse 14 12 predicted operate-v operate.01 ----- 12:0-rel  2:1-ARGM-MNR 4:2-ARG1 13:1-ARGM-MNR 14:1-ARGM-TMP
+cctv_0005.parse 15 7 predicted do-v do.02 ----- 7:0-rel  5:0-ARGM-MOD 8:2-ARG1
+cctv_0005.parse 15 9 predicted handle-v handle.01 ----- 9:0-rel  10:2-ARG1
+cctv_0005.parse 16 8 predicted take-v take.01 ----- 8:0-rel  6:1-ARG0
+cctv_0005.parse 16 10 predicted resolve-v resolve.01 ----- 10:0-rel  6:1-ARG0 11:2-ARG1
+cctv_0005.parse 16 25 predicted ensure-v ensure.01 ----- 25:0-rel  26:1-ARG1
+cctv_0005.parse 16 33 predicted affect-v affect.01 ----- 33:0-rel  27:2-ARG1 32:0-ARGM-NEG
+cctv_0005.parse 17 4 predicted invite-v invite.01 ----- 4:0-rel  0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARG0 5:1-ARG1 8:1-ARG2
+cctv_0005.parse 17 13 predicted follow-v follow.02 ----- 13:0-rel  14:1-ARG1 16:1-ARGM-MNR
+cctv_0005.parse 18 9 predicted be-v be.01 ----- 9:0-rel  0:2-ARG1 10:2-ARG2
+cctv_0005.parse 20 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2 2:2-ARG1
+cctv_0005.parse 22 8 predicted participate-v participate.01 ----- 8:0-rel  9:1-ARG1
+cctv_0005.parse 23 4 predicted want-v want.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV
+cctv_0005.parse 23 6 predicted know-v know.01 ----- 6:0-rel  2:1-ARG0
+cctv_0005.parse 23 15 predicted found-v found.01 ----- 15:0-rel  10:1-ARGM-MNR 11:2-ARG0 17:1-ARG1
+cctv_0005.parse 24 11 predicted happen-v happen.02 ----- 11:0-rel  8:1-ARGM-DIS 10:1-ARG1
+cctv_0005.parse 24 13 predicted find-v find.03 ----- 13:0-rel  10:1-ARG0
+cctv_0005.parse 27 1 predicted happen-v happen.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG1
+cctv_0005.parse 27 7 predicted have-v have.03 ----- 7:0-rel  3:1-ARG0 8:1-ARG1
+cctv_0005.parse 28 6 predicted send-v send.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:0-ARGM-DIS 3:1-ARG0 5:1-ARGM-TMP 7:1-ARG2 8:1-ARG1
+cctv_0005.parse 28 13 predicted say-v say.01 ----- 13:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 14:3-ARG1
+cctv_0005.parse 28 16 predicted come-v come.01 ----- 16:0-rel  14:1-ARG1 15:0-ARGM-MOD
+cctv_0005.parse 28 17 predicted pick-v pick.01 ----- 17:0-rel  18:1-ARG1 19:1-ARGM-DIR
+cctv_0005.parse 28 21 predicted go-v go.02 ----- 21:0-rel  22:1-ARGM-MNR
+cctv_0005.parse 29 4 predicted receive-v receive.01 ----- 4:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:1-ARG1 7:1-ARG2
+cctv_0005.parse 32 2 predicted happen-v happen.01 ----- 2:0-rel  0:1-ARG1 3:2-C-ARG1
+cctv_0005.parse 32 4 predicted call-v call.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cctv_0005.parse 33 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG
+cctv_0005.parse 35 2 predicted call-v call.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 4:1-ARGM-TMP
+cctv_0005.parse 35 7 predicted say-v say.01 ----- 7:0-rel  0:1-ARG0 8:4-ARG1
+cctv_0005.parse 35 9 predicted happen-v happen.01 ----- 9:0-rel  8:1-ARG1 10:1-ARGM-LOC
+cctv_0005.parse 35 18 predicted go-v go.02 ----- 18:0-rel  15:1-ARG0 19:1-ARG4
+cctv_0005.parse 35 24 predicted research-v research.01 ----- 24:0-rel  15:1-ARG0 22:1-ARGM-TMP 25:1-ARG1
+cctv_0005.parse 36 3 predicted mean-v mean.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-DIS
+cctv_0005.parse 36 8 predicted found-v found.01 ----- 8:0-rel  7:1-ARG0 10:1-ARG1
+cctv_0005.parse 39 8 predicted receive-v receive.01 ----- 8:0-rel  0:1-ARGM-DIS 2:1-ARGM-MNR 6:1-ARG0 7:1-ARGM-ADV 9:1-ARG1 14:1-ARGM-MNR
+cctv_0005.parse 40 8 predicted say-v say.01 ----- 8:0-rel  6:0-ARGM-MOD
+cctv_0005.parse 40 20 predicted contain-v contain.01 ----- 20:0-rel  19:1-ARG0 21:2-ARG1
+cctv_0005.parse 40 30 predicted receive-v receive.01 ----- 30:0-rel  0:1-ARGM-TMP 31:1-ARGM-TMP
+cctv_0005.parse 42 4 predicted feel-v feel.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARG0 5:2-ARG1
+cctv_0005.parse 42 11 predicted receive-v receive.01 ----- 11:0-rel  9:1-ARGM-TMP 10:1-ARG0 12:1-ARG1
+cctv_0005.parse 43 2 predicted live-v live.01 ----- 2:0-rel  1:1-ARG0 3:1-ARGM-LOC
+cctv_0005.parse 43 14 predicted affect-v affect.01 ----- 14:0-rel  11:1-ARG0 13:0-ARGM-NEG 15:1-ARG1 16:1-ARGM-EXT
+cctv_0005.parse 43 19 predicted think-v think.01 ----- 19:0-rel  0:1-ARGM-ADV 18:1-ARG0 20:3-ARG1
+cctv_0005.parse 43 21 predicted be-v be.01 ----- 21:0-rel  20:1-ARG1 22:1-ARG2
+cctv_0005.parse 43 28 predicted inform-v inform.01 ----- 28:0-rel  29:1-ARG1
+cctv_0005.parse 47 2 predicted take-v take.01 ----- 2:0-rel  1:1-ARG0
+cctv_0005.parse 48 1 predicted remember-v remember.01 ----- 1:0-rel  0:1-ARG0
+cctv_0005.parse 48 5 predicted write-v write.01 ----- 5:0-rel  2:1-ARG1 6:1-ARGM-MNR
+cctv_0005.parse 48 48 predicted implement-v implement.01 ----- 48:0-rel  43:1-ARGM-DIS 45:1-ARG1 49:1-ARGM-LOC
+cctv_0005.parse 48 66 predicted make-v make.01 ----- 66:0-rel  64:1-ARG0 67:1-ARG1
+cctv_0005.parse 49 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cctv_0005.parse 49 13 predicted send-v send.01 ----- 13:0-rel  10:1-ARG1
+cctv_0005.parse 50 10 predicted thank-v thank.01 ----- 10:0-rel  11:1-ARG1 12:1-ARG2
+cctv_0005.parse 51 6 predicted send-v send.01 ----- 6:0-rel  3:1-ARG1
+cctv_0005.parse 51 10 predicted feel-v feel.02 ----- 10:0-rel  2:1-ARGM-TMP 9:1-ARG0
+cctv_0005.parse 51 12 predicted seem-v seem.01 ----- 12:0-rel  13:2-ARG1
+cctv_0005.parse 51 14 predicted be-v be.01 ----- 14:0-rel  11:1-ARG1 15:2-ARG2
+cctv_0005.parse 51 24 predicted used-v used.- ----- 24:0-rel  19:1-ARG0 25:1-ARG1
+cctv_0005.parse 51 28 predicted give-v give.01 ----- 28:0-rel  19:1-ARG0 29:1-ARG1 30:1-ARGM-TMP
+cctv_0005.parse 52 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG
+cctv_0005.parse 52 9 predicted live-v live.01 ----- 9:0-rel  5:2-ARG0 10:1-ARGM-LOC
+cctv_0005.parse 52 13 predicted be-v be.01 ----- 13:0-rel  14:1-ARG1 15:2-ARG2
+cctv_0005.parse 53 11 predicted be-v be.01 ----- 11:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 9:1-ARG1 10:0-ARGM-MOD 12:2-ARG2
+cctv_0005.parse 53 17 predicted send-v send.01 ----- 17:0-rel  12:1-ARGM-TMP 15:1-ARG1 18:1-ARGM-MNR 19:1-ARGM-TMP
+cctv_0005.parse 55 9 predicted used-v used.- ----- 9:0-rel  0:1-ARGM-DIS 3:1-ARGM-LOC 7:1-ARG0 10:1-ARG1 11:1-ARGM-TMP
+cctv_0005.parse 55 14 predicted spread-v spread.02 ----- 14:0-rel  7:1-ARG0 15:1-ARG1
+cctv_0005.parse 57 7 predicted used-v used.- ----- 7:0-rel  0:2-ARG0 5:0-ARGM-MOD 8:1-ARG1 9:1-ARGM-ADV
+cctv_0005.parse 59 2 predicted used-v used.- ----- 2:0-rel  0:0-ARGM-MOD 3:1-ARG1 4:1-ARGM-ADV
+cctv_0005.parse 60 3 predicted remember-v remember.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+cctv_0005.parse 60 4 predicted receive-v receive.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+cctv_0005.parse 60 14 predicted snow-v snow.- ----- 14:0-rel  13:1-ARG0 16:1-ARGM-CAU
+cctv_0005.parse 60 19 predicted affect-v affect.01 ----- 19:0-rel  17:1-ARG0 18:0-ARGM-MOD 20:1-ARG1 22:1-ARGM-LOC 24:1-ARGM-EXT
+cctv_0005.parse 62 5 predicted give-v give.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-NEG 6:1-ARG2 7:1-ARG1
+cctv_0005.parse 62 13 predicted do-v do.02 ----- 13:0-rel  12:1-ARG0 14:1-ARG1
+cctv_0005.parse 64 6 predicted send-v send.01 ----- 6:0-rel  2:1-ARGM-TMP 3:1-ARG1 7:2-ARG2
+cctv_0005.parse 64 8 predicted inform-v inform.01 ----- 8:0-rel  3:1-ARG0 9:1-ARG1 10:1-ARG2
+cctv_0005.parse 64 18 predicted consider-v consider.01 ----- 18:0-rel  15:0-ARGM-MOD 16:1-ARG0
+cctv_0005.parse 65 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARGM-ADV 5:1-ARG2
+cctv_0005.parse 65 27 predicted be-v be.01 ----- 27:0-rel  22:1-ARG1 26:1-R-ARG1
+cctv_0005.parse 65 29 predicted ponder-v ponder.01 ----- 29:0-rel  30:1-ARGM-MNR
+cctv_0005.parse 67 8 predicted make-v make.03 ----- 8:0-rel  3:1-ARGM-TMP 4:1-ARG1 9:1-ARGM-MNR
+cctv_0005.parse 67 19 predicted make-v make.03 ----- 19:0-rel  15:1-ARGM-TMP 17:1-ARG1 20:1-ARGM-MNR
+cctv_0005.parse 68 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 3:1-ARG1 5:2-ARG2
+cctv_0005.parse 68 8 predicted emphasize-v emphasize.01 ----- 8:0-rel  5:1-ARG1 7:1-ARGM-TMP 9:1-ARGM-LOC
+cctv_0005.parse 69 2 predicted make-v make.02 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+cctv_0005.parse 69 4 predicted sound-v sound.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+cctv_0005.parse 69 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG2
+cctv_0005.parse 70 4 predicted talk-v talk.01 ----- 4:0-rel  2:1-ARGM-TMP 3:1-ARG0 7:1-ARGM-TMP
+cctv_0005.parse 70 12 predicted seem-v seem.01 ----- 12:0-rel  13:2-ARG1
+cctv_0005.parse 70 16 predicted do-v do.02 ----- 16:0-rel  15:1-ARGM-ADV 17:1-ARGM-MNR
+cctv_0005.parse 72 1 predicted seem-v seem.01 ----- 1:0-rel  2:1-ARG1
+cctv_0005.parse 72 20 predicted let-v let.01 ----- 20:0-rel  21:2-ARG1
+cctv_0005.parse 72 22 predicted find-v find.01 ----- 22:0-rel  21:1-ARG0 24:1-ARG1
+cctv_0005.parse 73 10 predicted apply-v apply.02 ----- 10:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARGM-DIS 6:2-ARG0
+cctv_0005.parse 73 14 predicted call-v call.01 ----- 14:0-rel  12:0-ARGM-MNR 15:0-ARG2
+cctv_0005.parse 74 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cctv_0005.parse 76 28 predicted apply-v apply.02 ----- 28:0-rel  0:1-ARGM-DIS 3:2-ARG1 29:1-ARGM-LOC
+cctv_0005.parse 77 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+cctv_0005.parse 77 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1
+cctv_0005.parse 77 15 predicted remember-v remember.01 ----- 15:0-rel  14:1-ARG0
+cctv_0005.parse 77 26 predicted criticize-v criticize.01 ----- 26:0-rel  22:2-ARG0 27:1-ARG1 28:1-ARGM-TMP
+cctv_0005.parse 79 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cctv_0005.parse 79 10 predicted put-v put.03 ----- 10:0-rel  3:1-ARG1 9:0-ARGM-NEG 11:1-ARG2
+cctv_0005.parse 80 5 predicted think-v think.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 4:1-ARG0 6:1-ARG1
+cctv_0005.parse 80 14 predicted create-v create.01 ----- 14:0-rel  7:2-ARG0 12:0-ARGM-MOD 13:1-ARGM-EXT 15:2-ARG1 22:1-ARGM-MNR
+cctv_0005.parse 83 1 predicted drive-v drive.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-TMP
+cctv_0005.parse 84 4 predicted inform-v inform.01 ----- 4:0-rel  1:1-ARG1 3:0-ARGM-NEG 5:1-ARG2 10:1-ARGM-TMP
+cctv_0005.parse 84 17 predicted continue-v continue.01 ----- 17:0-rel  16:1-ARG0 18:2-ARG1
+cctv_0005.parse 84 19 predicted head-v head.02 ----- 19:0-rel  16:1-ARG0 20:1-ARG1
+cctv_0005.parse 84 25 predicted think-v think.01 ----- 25:0-rel  24:1-ARG0 26:3-ARG1
+cctv_0005.parse 84 27 predicted happen-v happen.01 ----- 27:0-rel  26:0-ARGM-MOD 28:1-ARGM-ADV
+cctv_0005.parse 84 32 predicted know-v know.01 ----- 32:0-rel  29:1-ARG0 31:0-ARGM-NEG 33:2-ARG1
+cctv_0005.parse 84 35 predicted go-v go.15 ----- 35:0-rel  33:1-ARG1
+cctv_0005.parse 86 5 predicted think-v think.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARG0 6:3-ARG1
+cctv_0005.parse 86 9 predicted be-v be.01 ----- 9:0-rel  6:1-ARG1 7:0-ARGM-MOD 10:1-ARG2
+cctv_0005.parse 87 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cctv_0005.parse 87 7 predicted use-v use.01 ----- 7:0-rel  2:1-ARG1
+cctv_0005.parse 88 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+cctv_0005.parse 88 8 predicted used-v used.- ----- 8:0-rel  5:1-ARGM-TMP 6:1-ARG1 9:2-ARG2
+cctv_0005.parse 88 10 predicted announce-v announce.01 ----- 10:0-rel  6:1-ARG0 11:1-ARG1
+cctv_0005.parse 88 17 predicted say-v say.01 ----- 17:0-rel  5:2-ARGM-TMP 15:0-ARGM-MOD 18:2-ARG1
+cctv_0005.parse 88 20 predicted fit-v fit.01 ----- 20:0-rel  21:2-ARG1 26:1-ARGM-MNR
+cctv_0005.parse 89 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARGM-CAU 2:1-ARG1
+cctv_0005.parse 90 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 90 7 predicted say-v say.01 ----- 7:0-rel  4:1-ARG1 5:0-ARGM-MOD
+cctv_0005.parse 90 10 predicted be-v be.01 ----- 10:0-rel  9:1-ARG1 11:2-ARG2
+cctv_0005.parse 91 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARGM-ADV 3:0-ARGM-NEG
+cctv_0005.parse 91 8 predicted use-v use.01 ----- 8:0-rel  5:1-ARG0 9:1-ARG1
+cctv_0005.parse 91 13 predicted compare-v compare.01 ----- 13:0-rel  11:1-ARG1 14:1-ARG2
+cctv_0005.parse 92 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG1 3:0-ARGM-MOD
+cctv_0005.parse 92 22 predicted used-v used.- ----- 22:0-rel  21:1-ARGM-EXT 23:1-ARG0
+cctv_0005.parse 93 3 predicted notice-v notice.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+cctv_0005.parse 93 10 predicted receive-v receive.01 ----- 10:0-rel  5:2-ARG0 11:1-ARG1
+cctv_0005.parse 94 1 predicted seem-v seem.01 ----- 1:0-rel  2:1-ARG1
+cctv_0005.parse 94 5 predicted receive-v receive.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG1
+cctv_0005.parse 98 6 predicted react-v react.01 ----- 6:0-rel  2:1-ARGM-MNR 5:1-ARG0
+cctv_0005.parse 99 2 predicted take-v take.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+cctv_0005.parse 101 1 predicted see-v see.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cctv_0005.parse 102 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+cctv_0005.parse 102 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1 7:2-ARG2
+cctv_0005.parse 103 2 predicted receive-v receive.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1 6:1-ARGM-TMP
+cctv_0005.parse 108 5 predicted think-v think.01 ----- 5:0-rel  2:1-ARG1 4:1-ARG0
+cctv_0005.parse 108 13 predicted respond-v respond.01 ----- 13:0-rel  9:1-R-ARGM-LOC 11:1-ARG0 14:1-ARGM-TMP
+cctv_0005.parse 111 5 predicted drive-v drive.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-NEG 6:1-ARGM-TMP
+cctv_0005.parse 112 1 predicted set-v set.07 ----- 1:0-rel  0:1-ARG0 3:2-ARGM-TMP
+cctv_0005.parse 112 7 predicted take-v take.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1 10:1-ARGM-LOC
+cctv_0005.parse 113 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cctv_0005.parse 115 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARGM-DIS 3:1-ARG1 7:1-ARGM-ADV 8:1-ARG2
+cctv_0005.parse 116 4 predicted inform-v inform.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-DIS 5:1-ARG1 7:1-ARG2
+cctv_0005.parse 117 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cctv_0005.parse 118 1 predicted seem-v seem.01 ----- 1:0-rel  2:1-ARG1
+cctv_0005.parse 118 10 predicted respond-v respond.01 ----- 10:0-rel  3:1-ARGM-MNR 9:1-ARG0 11:1-ARGM-MNR
+cctv_0005.parse 119 12 predicted bring-v bring.01 ----- 12:0-rel  10:1-ARG1 14:1-ARG0
+cctv_0005.parse 119 20 predicted be-v be.01 ----- 20:0-rel  0:1-ARGM-DIS 6:1-ARGM-DIS 18:1-ARG1 21:1-ARG2
+cctv_0005.parse 119 36 predicted leave-v leave.01 ----- 36:0-rel  22:2-ARG0 31:1-ARGM-DIS 33:1-ARG0 35:1-ARGM-DIS 37:1-ARG1 38:1-ARG2
+cctv_0005.parse 120 2 predicted find-v find.03 ----- 2:0-rel  1:1-ARG0 4:1-ARG1
+cctv_0005.parse 121 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+cctv_0005.parse 121 23 predicted rush-v rush.01 ----- 23:0-rel  5:1-ARGM-TMP 17:2-ARG1 24:1-ARG2 30:1-ARGM-DIR
+cctv_0005.parse 121 34 predicted carry-v carry.03 ----- 34:0-rel  0:1-ARGM-DIS 36:2-ARG1
+cctv_0005.parse 122 8 predicted string-v string.01 ----- 8:0-rel  0:1-ARGM-DIS 2:2-ARG1
+cctv_0005.parse 123 15 predicted arrive-v arrive.01 ----- 15:0-rel  0:2-ARG1 12:1-ARGM-DIS 16:1-ARG4
+cctv_0005.parse 123 18 predicted designate-v designate.01 ----- 18:0-rel  19:0-ARG1
+cctv_0005.parse 124 7 predicted see-v see.01 ----- 7:0-rel  6:1-ARG0 11:1-ARG1
+cctv_0005.parse 126 9 predicted say-v say.01 ----- 9:0-rel  0:1-ARGM-DIS 2:1-ARGM-DIS 5:1-ARG0 10:1-ARG1
+cctv_0005.parse 127 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cctv_0005.parse 127 4 predicted arrive-v arrive.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG4
+cctv_0005.parse 127 13 predicted occur-v occur.01 ----- 13:0-rel  10:1-ARG1
+cctv_0005.parse 128 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG1 3:0-ARGM-MOD 6:1-C-ARG1
+cctv_0005.parse 128 12 predicted activate-v activate.01 ----- 12:0-rel  7:1-ARG1 13:1-ARGM-MNR 15:1-ARGM-TMP
+cctv_0005.parse 128 16 predicted receive-v receive.01 ----- 16:0-rel  7:1-ARG0 17:1-ARG1
+cctv_0005.parse 129 8 predicted work-v work.01 ----- 8:0-rel  2:1-ARGM-DIS 4:1-ARGM-DIS 7:1-ARG0 9:1-ARG2
+cctv_0005.parse 129 20 predicted know-v know.01 ----- 20:0-rel  19:1-ARG0 21:1-ARG1
+cctv_0005.parse 129 24 predicted give-v give.01 ----- 24:0-rel  22:2-ARG0 25:1-ARG1 29:1-ARGM-TMP
+cctv_0005.parse 132 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARGM-DIS
+cctv_0005.parse 132 5 predicted turn-v turn.01 ----- 5:0-rel  3:1-ARG0 4:1-ARGM-TMP 6:1-ARG1 8:1-ARGM-DIR
+cctv_0005.parse 133 6 predicted take-v take.01 ----- 6:0-rel  2:1-ARG1 7:1-ARGM-TMP
+cctv_0005.parse 133 17 predicted cause-v cause.01 ----- 17:0-rel  14:1-ARG1
+cctv_0005.parse 133 22 predicted think-v think.01 ----- 22:0-rel  21:1-ARG0 23:3-ARG1
+cctv_0005.parse 133 23 predicted be-v be.01 ----- 23:0-rel  24:1-ARG2
+cctv_0005.parse 134 2 predicted concern-v concern.02 ----- 2:0-rel  3:1-ARG1
+cctv_0005.parse 134 6 predicted think-v think.01 ----- 6:0-rel  0:1-ARGM-ADV 2:1-ARGM-DIS 5:1-ARG0 7:4-ARG1
+cctv_0005.parse 134 10 predicted be-v be.01 ----- 10:0-rel  7:2-ARG1 11:1-ARG2
+cctv_0005.parse 135 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG1
+cctv_0005.parse 136 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cctv_0005.parse 136 5 predicted have-v have.03 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+cctv_0005.parse 136 29 predicted cause-v cause.01 ----- 29:0-rel  3:1-ARGM-ADV 27:1-ARG0 28:0-ARGM-MOD
+cctv_0005.parse 136 36 predicted have-v have.03 ----- 36:0-rel  30:1-ARG0
+cctv_0005.parse 138 3 predicted impact-v impact.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-ADV
+cctv_0005.parse 139 6 predicted be-v be.02 ----- 6:0-rel  7:1-ARG1
+cctv_0005.parse 139 14 predicted occur-v occur.01 ----- 14:0-rel  11:1-ARGM-TMP 13:1-ARG1 15:1-ARGM-TMP
+cctv_0005.parse 139 21 predicted clear-v clear.01 ----- 21:0-rel  16:1-ARGM-TMP 18:1-ARG1
+cctv_0005.parse 139 25 predicted take-v take.01 ----- 25:0-rel  23:1-ARG0 24:1-ARGM-ADV 26:2-ARG1 30:1-ARG2
+cctv_0005.parse 140 5 predicted imagine-v imagine.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 4:0-ARGM-NEG
+cctv_0005.parse 140 6 predicted impose-v impose.01 ----- 6:0-rel  2:1-ARG0 7:1-ARG1
+cctv_0005.parse 140 17 predicted stretch-v stretch.01 ----- 17:0-rel  16:1-ARG1 18:1-ARG3
+cctv_0005.parse 140 34 predicted block-v block.01 ----- 34:0-rel  35:1-ARG1
+cctv_0005.parse 141 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:0-ARGM-MOD 6:1-ARG2
+cctv_0005.parse 141 12 predicted be-v be.01 ----- 12:0-rel  8:1-ARG1 11:1-R-ARG1 13:2-ARG2
+cctv_0005.parse 142 19 predicted move-v move.01 ----- 19:0-rel  0:1-ARGM-DIS 13:1-ARGM-TMP 18:1-ARG0 20:1-ARG1 22:1-ARGM-DIR
+cctv_0005.parse 142 30 predicted be-v be.01 ----- 30:0-rel  25:1-ARGM-TMP 29:1-ARG1 31:1-ARG2
+cctv_0005.parse 143 10 predicted come-v come.01 ----- 10:0-rel  2:1-ARGM-ADV 9:1-ARG1 11:1-ARG4
+cctv_0005.parse 143 21 predicted continue-v continue.01 ----- 21:0-rel  15:1-ARG1 18:1-ARGM-TMP 22:1-ARGM-MNR
+cctv_0005.parse 143 36 predicted experience-v experience.01 ----- 36:0-rel  32:1-ARG0 35:1-ARGM-ADV
+cctv_0005.parse 143 47 predicted surround-v surround.01 ----- 47:0-rel  45:1-ARG1 48:2-ARG2
+cctv_0005.parse 146 4 predicted make-v make.04 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 5:1-ARG1 6:1-ARGM-TMP
+cctv_0005.parse 146 8 predicted receive-v receive.01 ----- 8:0-rel  7:1-ARG0 9:1-ARG1
+cctv_0005.parse 148 3 predicted feel-v feel.01 ----- 3:0-rel  0:1-ARGM-ADV 2:1-ARG0 4:1-ARG1
+cctv_0005.parse 149 2 predicted know-v know.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cctv_0005.parse 150 6 predicted interview-v interview.01 ----- 6:0-rel  3:1-ARG1 4:1-R-ARG1 5:1-ARG0 7:1-ARGM-TMP
+cctv_0005.parse 151 4 predicted handle-v handle.01 ----- 4:0-rel  5:1-ARGM-TMP
+cctv_0005.parse 151 7 predicted understand-v understand.01 ----- 7:0-rel  6:1-ARG0
+cctv_0005.parse 152 9 predicted say-v say.01 ----- 9:0-rel  2:0-ARGM-DIS 8:1-ARG0 11:1-C-ARG1
+cctv_0005.parse 152 12 predicted set-v set.07 ----- 12:0-rel  11:1-ARG0 14:1-ARGM-TMP 15:1-ARGM-TMP
+cctv_0005.parse 152 23 predicted drive-v drive.01 ----- 23:0-rel  20:1-ARG0 22:0-ARGM-NEG 24:1-ARGM-TMP
+cctv_0005.parse 152 27 predicted inform-v inform.01 ----- 27:0-rel  25:1-ARG1
+cctv_0005.parse 153 5 predicted drive-v drive.01 ----- 5:0-rel  0:1-ARG0 3:0-ARGM-NEG 4:1-ARGM-ADV
+cctv_0005.parse 155 7 predicted think-v think.01 ----- 7:0-rel  0:1-ARGM-ADV 2:1-ARGM-LOC 6:1-ARG0 8:1-ARG1
+cctv_0005.parse 155 10 predicted be-v be.01 ----- 10:0-rel  9:1-ARG1 11:1-ARG2
+cctv_0005.parse 156 8 predicted receive-v receive.01 ----- 8:0-rel  0:1-ARGM-DIS 3:1-ARGM-TMP 6:1-ARG0 9:1-ARG1
+cctv_0005.parse 157 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0
+cctv_0005.parse 157 5 predicted work-v work.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+cctv_0005.parse 158 2 predicted discuss-v discuss.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cctv_0005.parse 158 6 predicted go-v go.02 ----- 6:0-rel  4:1-ARG1 5:0-ARGM-MOD 7:1-ARG4 8:1-ARGM-LOC
+cctv_0005.parse 159 4 predicted suggest-v suggest.01 ----- 4:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:1-ARG1
+cctv_0005.parse 159 8 predicted say-v say.01 ----- 8:0-rel  0:1-ARGM-TMP 3:1-ARG0
+cctv_0005.parse 159 17 predicted take-v take.01 ----- 17:0-rel  10:1-ARG0 12:1-ARGM-DIS 14:0-ARGM-MOD 15:1-ARGM-ADV 18:1-ARG1
+cctv_0005.parse 159 25 predicted reach-v reach.01 ----- 25:0-rel  22:1-ARG0 23:0-ARGM-MOD 24:1-ARGM-MNR 26:1-ARG1 28:1-ARGM-TMP
+cctv_0005.parse 159 30 predicted get-v get.05 ----- 30:0-rel  29:1-ARG1 32:1-ARG2
+cctv_0005.parse 161 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+cctv_0005.parse 162 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-ADV 2:1-ARG0
+cctv_0005.parse 163 10 predicted be-v be.01 ----- 10:0-rel  4:2-ARG1 8:0-ARGM-MOD 9:0-ARGM-NEG 11:1-ARG2
+cctv_0005.parse 163 22 predicted mention-v mention.01 ----- 22:0-rel  17:1-ARG1 20:1-ARG0 21:1-ARGM-TMP
+cctv_0005.parse 163 30 predicted occur-v occur.01 ----- 30:0-rel  26:1-ARGM-DIS 28:1-ARG1
+cctv_0005.parse 164 4 predicted take-v take.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 8:1-ARG1
+cctv_0005.parse 165 2 predicted represent-v represent.01 ----- 2:0-rel  0:1-ARG0
+cctv_0005.parse 166 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG1 5:1-ARG2
+cctv_0005.parse 168 2 predicted be-v be.01 ----- 2:0-rel  1:1-ARG1
+cctv_0005.parse 168 32 predicted see-v see.01 ----- 32:0-rel  30:1-ARG0 31:0-ARGM-MOD 33:1-ARG1
+cctv_0005.parse 168 40 predicted say-v say.01 ----- 40:0-rel  0:1-ARGM-ADV 37:1-ARG1 38:0-ARGM-MOD 41:1-C-ARG1
+cctv_0005.parse 168 56 predicted have-v have.03 ----- 56:0-rel  42:2-ARG0 55:1-ARGM-ADV
+cctv_0005.parse 169 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG1 5:2-ARG2
+cctv_0005.parse 171 2 predicted live-v live.01 ----- 2:0-rel  1:1-ARG0 3:1-ARGM-LOC
+cctv_0005.parse 171 6 predicted want-v want.01 ----- 6:0-rel  1:2-ARG0 7:2-ARG1
+cctv_0005.parse 171 8 predicted cross-v cross.02 ----- 8:0-rel  1:2-ARG0 9:1-ARGM-DIR
+cctv_0005.parse 171 17 predicted go-v go.02 ----- 17:0-rel  14:1-ARG0 18:1-ARGM-MNR
+cctv_0005.parse 172 6 predicted occur-v occur.01 ----- 6:0-rel  3:1-ARG1 7:1-ARGM-LOC
+cctv_0005.parse 172 14 predicted imagine-v imagine.01 ----- 14:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 11:1-ARG0 12:0-ARGM-MOD 13:1-ARGM-ADV
+cctv_0005.parse 172 29 predicted be-v be.01 ----- 29:0-rel  18:1-ARG2 23:2-ARG1 28:0-ARGM-MOD
+cctv_0005.parse 172 37 predicted catch-v catch.03 ----- 37:0-rel  36:1-ARG1 38:1-ARG2
+cctv_0005.parse 173 4 predicted think-v think.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARG0 5:3-ARG1
+cctv_0005.parse 173 7 predicted see-v see.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1
+cctv_0005.parse 173 13 predicted cross-v cross.02 ----- 13:0-rel  10:1-ARG0 12:1-R-ARG0 14:1-ARG1
+cctv_0005.parse 175 3 predicted cross-v cross.02 ----- 3:0-rel  1:1-ARG0 2:1-R-ARG0 4:1-ARG1
+cctv_0005.parse 175 8 predicted be-v be.01 ----- 8:0-rel  1:2-ARG1 9:1-ARGM-TMP
+cctv_0005.parse 175 13 predicted affect-v affect.01 ----- 13:0-rel  1:2-ARG1 9:1-ARGM-TMP 11:1-ARGM-TMP 14:1-ARG0
+cctv_0005.parse 175 27 predicted show-v show.01 ----- 27:0-rel  0:1-ARGM-ADV 22:2-ARG0 28:1-ARG1
+cctv_0005.parse 175 39 predicted reroute-v reroute.- ----- 39:0-rel  29:2-ARG1
+cctv_0005.parse 177 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+cctv_0005.parse 177 12 predicted wonder-v wonder.01 ----- 12:0-rel  5:1-ARGM-ADV 6:2-ARG0 13:2-ARG1
+cctv_0005.parse 177 16 predicted be-v be.01 ----- 16:0-rel  13:1-ARGM-MNR 14:1-ARG1 17:1-ARG2
+cctv_0005.parse 177 19 predicted accommodate-v accommodate.01 ----- 19:0-rel  14:1-ARG0 20:1-ARG1
+cctv_0005.parse 178 5 predicted happen-v happen.01 ----- 5:0-rel  1:1-ARG1 4:0-ARGM-NEG
+cctv_0005.parse 178 11 predicted know-v know.01 ----- 11:0-rel  0:1-ARGM-ADV 7:1-ARGM-ADV 8:1-ARG0 9:0-ARGM-MOD 10:0-ARGM-NEG
+cctv_0005.parse 178 17 predicted have-v have.03 ----- 17:0-rel  13:1-ARG0 15:0-ARGM-MOD 16:1-ARGM-ADV 18:2-ARG1
+cctv_0005.parse 179 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV 3:1-ARG2
+cctv_0005.parse 179 7 predicted look-v look.01 ----- 7:0-rel  6:1-ARGM-ADV 8:1-ARG1
+cctv_0005.parse 181 2 predicted see-v see.01 ----- 2:0-rel  1:0-ARGM-NEG 3:2-ARG1
+cctv_0005.parse 183 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+cctv_0005.parse 186 10 predicted take-v take.01 ----- 10:0-rel  5:1-ARG0 9:1-ARGM-TMP 11:2-ARG1
+cctv_0005.parse 186 12 predicted direct-v direct.01 ----- 12:0-rel  5:1-ARG0 13:1-ARG1
+cctv_0005.parse 187 3 predicted interview-v interview.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-ADV
+cctv_0005.parse 188 2 predicted hear-v hear.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+cctv_0005.parse 188 6 predicted say-v say.01 ----- 6:0-rel  3:1-ARG1 4:1-ARG0
+cctv_0005.parse 189 7 predicted activate-v activate.01 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-TMP 8:1-ARG1
+cctv_0005.parse 190 8 predicted emerge-v emerge.01 ----- 8:0-rel  5:1-ARGM-LOC 6:1-ARG0
+cctv_0005.parse 190 12 predicted set-v set.03 ----- 12:0-rel  0:1-ARGM-LOC 10:1-ARG0 11:1-ARGM-TMP
+cctv_0005.parse 191 6 predicted go-v go.02 ----- 6:0-rel  4:1-ARG1 7:1-ARGM-DIR
+cctv_0005.parse 191 12 predicted have-v have.02 ----- 12:0-rel  0:1-ARGM-MNR
+cctv_0005.parse 191 14 predicted make-v make.01 ----- 14:0-rel  4:2-ARG0 15:1-ARG1
+cctv_0005.parse 192 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:3-ARG2
+cctv_0005.parse 192 14 predicted link-v link.01 ----- 14:0-rel  5:2-ARG0 13:1-R-ARG0 15:2-ARG1
+cctv_0005.parse 193 3 predicted ensure-v ensure.01 ----- 3:0-rel  4:2-ARG1
+cctv_0005.parse 193 12 predicted formulate-v formulate.01 ----- 12:0-rel  0:1-ARGM-PRP 11:1-ARG0 13:2-ARG1
+cctv_0005.parse 194 1 predicted set-v set.03 ----- 1:0-rel  0:1-ARG0 3:1-ARG1
+cctv_0005.parse 194 36 predicted deploy-v deploy.01 ----- 36:0-rel  0:1-ARG0 37:2-ARG1 43:2-ARGM-PRP
+cctv_0005.parse 194 44 predicted divert-v divert.01 ----- 44:0-rel  37:2-ARG0
+cctv_0005.parse 194 46 predicted direct-v direct.01 ----- 46:0-rel  0:1-ARG0 37:2-ARG0 47:1-ARG1
+cctv_0005.parse 195 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 4:1-ARG1
+cctv_0005.parse 195 9 predicted take-v take.01 ----- 9:0-rel  5:1-ARG1 7:1-ARGM-MNR
+cctv_0005.parse 196 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:2-ARG2
+cctv_0005.parse 198 2 predicted send-v send.02 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1 5:1-ARG2
+cctv_0005.parse 198 11 predicted shoot-v shoot.02 ----- 11:0-rel  8:1-ARGM-TMP 12:1-ARG1
+cctv_0005.parse 199 2 predicted take-v take.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1 8:1-ARGM-TMP 10:1-ARGM-MNR
+cctv_0005.parse 200 8 predicted see-v see.01 ----- 8:0-rel  0:1-ARGM-DIS 2:1-ARGM-DIR 6:1-ARG0 7:0-ARGM-MOD 9:1-ARG1
+cctv_0005.parse 200 29 predicted lead-v lead.03 ----- 29:0-rel  25:2-ARG0 28:1-R-ARG0 30:1-ARG2
+cctv_0005.parse 200 37 predicted come-v come.01 ----- 37:0-rel  25:3-ARG1 38:1-ARG2
+cctv_0005.parse 200 51 predicted place-v place.01 ----- 51:0-rel  44:2-ARG1 49:1-ARGM-DIS 52:1-ARG2
+cctv_0005.parse 201 7 predicted fall-v fall.01 ----- 7:0-rel  1:2-ARG1 8:1-ARG4
+cctv_0005.parse 201 16 predicted deploy-v deploy.01 ----- 16:0-rel  0:1-ARGM-ADV 13:1-ARG0 17:1-ARG1
+cctv_0005.parse 201 29 predicted guide-v guide.01 ----- 29:0-rel  0:1-ARGM-ADV 13:1-ARG0 30:1-ARG1 31:1-ARG2
+cctv_0005.parse 201 32 predicted make-v make.01 ----- 32:0-rel  33:1-ARG1
+cctv_0005.parse 202 7 predicted carry-v carry.03 ----- 7:0-rel  3:2-ARG1 9:1-ARGM-LOC
+cctv_0005.parse 203 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG1 3:0-ARGM-MOD 7:1-ARGM-DIS
+cctv_0005.parse 203 18 predicted take-v take.01 ----- 18:0-rel  17:1-ARG0 19:1-ARG1
+cctv_0005.parse 203 22 predicted drive-v drive.02 ----- 22:0-rel  17:1-ARG0
+cctv_0005.parse 203 30 predicted be-v be.01 ----- 30:0-rel  31:1-ARG2
+cctv_0005.parse 206 11 predicted find-v find.03 ----- 11:0-rel  5:2-ARG1 10:1-ARG0 13:1-ARGM-DIR
+cctv_0005.parse 207 11 predicted happen-v happen.01 ----- 11:0-rel  0:1-ARGM-ADV 2:1-ARGM-TMP 5:1-ARG1 8:1-ARGM-DIS 10:1-ARGM-ADV 12:2-ARG1
+cctv_0005.parse 207 13 predicted tell-v tell.01 ----- 13:0-rel  5:1-ARG0 14:1-ARG2 15:1-ARG1 17:1-ARGM-MNR
+cctv_0005.parse 208 2 predicted know-v know.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cctv_0005.parse 208 7 predicted locate-v locate.01 ----- 7:0-rel  4:1-ARG1 8:1-ARGM-LOC
+cctv_0005.parse 208 15 predicted be-v be.02 ----- 15:0-rel  0:1-ARGM-CAU 13:1-ARGM-DIS 16:1-ARG1
+cctv_0005.parse 208 36 predicted get-v get.05 ----- 36:0-rel  34:1-ARG1 35:1-R-ARG1
+cctv_0005.parse 208 43 predicted go-v go.02 ----- 43:0-rel  44:2-ARG4
+cctv_0005.parse 209 3 predicted send-v send.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+cctv_0005.parse 209 5 predicted say-v say.01 ----- 5:0-rel  2:1-ARG0
+cctv_0005.parse 209 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARGM-DIS 11:1-ARG2
+cctv_0005.parse 209 19 predicted walk-v walk.01 ----- 19:0-rel  16:1-ARG0 20:1-ARG2
+cctv_0005.parse 209 28 predicted take-v take.01 ----- 28:0-rel  29:1-ARG1
+cctv_0005.parse 210 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 4:1-ARG2 5:1-ARG1
+cctv_0005.parse 210 8 predicted enjoy-v enjoy.01 ----- 8:0-rel  6:1-ARG0 9:1-ARG1
+cctv_0005.parse 211 2 predicted remind-v remind.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:2-ARG1
+cctv_0005.parse 211 5 predicted wear-v wear.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG1
+cctv_0005.parse 212 1 predicted show-v show.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cctv_0005.parse 212 5 predicted encounter-v encounter.01 ----- 5:0-rel  3:1-ARGM-TMP 4:1-ARG0 6:2-ARG1
+cctv_0005.parse 212 13 predicted start-v start.01 ----- 13:0-rel  3:2-ARGM-TMP 11:1-ARG0 14:2-ARG1
+cctv_0005.parse 212 15 predicted be-v be.01 ----- 15:0-rel  11:1-ARG1 16:1-ARG2
+cctv_0005.parse 212 18 predicted face-v face.01 ----- 18:0-rel  11:1-ARG0 19:1-ARG1 20:1-ARGM-MNR
+cctv_0005.parse 213 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cctv_0005.parse 213 6 predicted face-v face.01 ----- 6:0-rel  7:0-ARG0
+cctv_0005.parse 213 12 predicted show-v show.01 ----- 12:0-rel  3:2-ARG0
+cctv_0005.parse 213 22 predicted have-v have.03 ----- 22:0-rel  19:1-ARG0 21:1-ARGM-TMP
+cctv_0005.parse 213 24 predicted endure-v endure.01 ----- 24:0-rel  19:1-ARG0 25:1-ARG1 27:1-ARGM-TMP
+cctv_0005.parse 213 40 predicted experience-v experience.01 ----- 40:0-rel  41:1-ARG1
+cctv_0005.parse 214 6 predicted think-v think.01 ----- 6:0-rel  0:1-ARGM-DIS 5:1-ARG0 7:4-ARG1
+cctv_0005.parse 214 11 predicted show-v show.01 ----- 11:0-rel  7:1-ARG0 8:0-ARGM-MOD 9:1-ARGM-ADV 10:1-ARGM-EXT 12:2-ARG1
+cctv_0005.parse 214 16 predicted be-v be.01 ----- 16:0-rel  7:2-ARG1
+cctv_0005.parse 214 29 predicted handle-v handle.01 ----- 29:0-rel  30:1-ARG1
+cctv_0005.parse 215 4 predicted think-v think.01 ----- 4:0-rel  0:1-ARGM-DIS 3:1-ARG0 5:1-ARG1
+cctv_0005.parse 215 9 predicted try-v try.01 ----- 9:0-rel  6:1-ARG0 10:1-ARG1
+cctv_0005.parse 216 10 predicted contribute-v contribute.01 ----- 10:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 6:2-ARG0 8:0-ARGM-MOD 9:1-ARGM-DIS 11:1-ARG1
+cctv_0005.parse 218 8 predicted think-v think.01 ----- 8:0-rel  0:1-ARGM-DIS 3:1-ARGM-LOC 7:1-ARG0 9:4-ARG1
+cctv_0005.parse 220 15 predicted achieve-v achieve.01 ----- 15:0-rel  10:1-ARG1 16:1-ARGM-TMP
+cctv_0005.parse 220 19 predicted disclose-v disclose.01 ----- 19:0-rel  17:1-ARG1
+cctv_0005.parse 223 7 predicted see-v see.01 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARG1 5:0-ARGM-MOD 8:1-ARGM-DIR
+cctv_0005.parse 224 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cctv_0005.parse 224 7 predicted handle-v handle.01 ----- 7:0-rel  3:1-ARGM-TMP 4:1-ARG0 8:2-ARG1
+cctv_0005.parse 224 17 predicted go-v go.02 ----- 17:0-rel  0:2-ARG1 14:1-ARGM-DIS 16:1-ARG1
+cctv_0005.parse 224 35 predicted delay-v delay.01 ----- 35:0-rel  30:1-R-ARGM-LOC 32:1-ARG1 34:0-ARGM-ADV
+cctv_0005.parse 225 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+cctv_0005.parse 225 13 predicted report-v report.01 ----- 13:0-rel  7:2-ARG1
+cctv_0005.parse 225 27 predicted give-v give.01 ----- 27:0-rel  23:1-ARG0 28:1-ARG1
+cctv_0005.parse 225 34 predicted disclose-v disclose.01 ----- 34:0-rel  31:1-ARG1 32:0-ARGM-MOD
+cctv_0005.parse 226 2 predicted lose-v lose.02 ----- 2:0-rel  0:1-ARG1
+cctv_0005.parse 227 11 predicted put-v put.03 ----- 11:0-rel  0:1-ARGM-DIS 4:1-ARG0 12:1-ARG2
+cctv_0005.parse 227 15 predicted concern-v concern.02 ----- 15:0-rel  13:1-ARG0 16:2-ARG1
+cctv_0005.parse 228 8 predicted publicize-v publicize.01 ----- 8:0-rel  3:1-ARG1 5:1-R-ARG1 6:0-ARGM-MOD
+cctv_0005.parse 228 11 predicted publicize-v publicize.01 ----- 11:0-rel  0:1-ARGM-DIS 3:2-ARG1 9:0-ARGM-MOD 12:1-ARGM-TMP 14:1-ARGM-PRP
+cctv_0005.parse 228 17 predicted guide-v guide.01 ----- 17:0-rel  18:1-ARG1 19:1-ARG2
+cctv_0005.parse 228 22 predicted do-v do.02 ----- 22:0-rel  20:1-ARG1
+cctv_0005.parse 229 4 predicted relate-v relate.01 ----- 4:0-rel  5:0-ARG1
+cctv_0005.parse 229 14 predicted form-v form.01 ----- 14:0-rel  0:1-ARGM-MNR 4:2-ARG1 12:0-ARGM-MOD
+cctv_0005.parse 230 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cctv_0005.parse 230 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:2-ARG2
+cctv_0005.parse 230 18 predicted be-v be.01 ----- 18:0-rel  12:1-ARG1 17:1-R-ARG1
+cctv_0005.parse 230 21 predicted shift-v shift.01 ----- 21:0-rel  22:1-ARG3
+cctv_0005.parse 231 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0
+cctv_0005.parse 231 7 predicted sum-v sum.01 ----- 7:0-rel  2:1-ARGM-DIS 5:1-ARG0 6:0-ARGM-MOD 9:1-ARG1 12:1-ARG2
+cctv_0005.parse 231 17 predicted extend-v extend.01 ----- 17:0-rel  0:1-ARG0 16:1-ARGM-ADV 18:1-ARG1 19:1-ARG2
+cctv_0005.parse 232 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:2-ARG2
+cctv_0005.parse 232 6 predicted look-v look.01 ----- 6:0-rel  4:1-ARGM-TMP 5:1-ARG0 7:1-ARG1 10:1-ARGM-DIR
+cctv_0005.parse 233 7 predicted impact-v impact.01 ----- 7:0-rel  2:1-ARG1 8:2-ARGM-TMP
+cctv_0005.parse 233 15 predicted occur-v occur.01 ----- 15:0-rel  8:1-ARGM-TMP 9:2-ARG1
+cctv_0005.parse 234 5 predicted involve-v involve.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG2 4:1-ARGM-ADV
+cctv_0005.parse 234 30 predicted affect-v affect.01 ----- 30:0-rel  29:1-R-ARG0 31:2-ARG1
+cctv_0005.parse 236 5 predicted know-v know.01 ----- 5:0-rel  0:1-ARGM-DIS 4:1-ARG0
+cctv_0005.parse 236 10 predicted be-v be.02 ----- 10:0-rel  6:2-ARG1 11:1-ARGM-LOC
+cctv_0005.parse 237 5 predicted be-v be.02 ----- 5:0-rel  0:1-ARGM-TMP 4:0-ARGM-MOD
+cctv_0005.parse 237 11 predicted bury-v bury.01 ----- 11:0-rel  10:1-ARG1 12:1-ARGM-LOC
+cctv_0005.parse 238 1 predicted include-v include.01 ----- 1:0-rel  0:1-ARG2 2:3-ARG1
+cctv_0005.parse 238 6 predicted mention-v mention.01 ----- 6:0-rel  4:1-ARG0 5:1-ARGM-TMP
+cctv_0005.parse 239 6 predicted link-v link.01 ----- 6:0-rel  0:1-ARGM-DIS 2:1-ARG1 5:1-ARGM-MNR 7:1-ARG1
+cctv_0005.parse 240 1 predicted link-v link.01 ----- 1:0-rel  0:0-ARGM-MNR
+cctv_0005.parse 241 14 predicted be-v be.01 ----- 14:0-rel  0:1-ARGM-DIS 13:1-ARG1 15:1-ARGM-ADV 16:1-ARG2
+cctv_0005.parse 241 31 predicted affect-v affect.01 ----- 31:0-rel  29:1-ARG0 32:2-ARG1
+cctv_0005.parse 242 2 predicted take-v take.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1 5:1-ARGM-TMP
+cctv_0005.parse 242 13 predicted deal-v deal.01 ----- 13:0-rel  14:1-ARG1
+cctv_0005.parse 243 32 predicted have-v have.03 ----- 32:0-rel  25:2-ARG0 33:2-ARG1
+cctv_0005.parse 243 36 predicted participate-v participate.01 ----- 36:0-rel  37:1-ARG1
+cctv_0005.parse 244 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cctv_0005.parse 244 6 predicted adopt-v adopt.01 ----- 6:0-rel  4:1-ARG0 5:0-ARGM-MOD
+cctv_0005.parse 244 13 predicted minimize-v minimize.01 ----- 13:0-rel  14:2-ARG1
+cctv_0005.parse 244 29 predicted ensure-v ensure.01 ----- 29:0-rel  30:1-ARG1 32:1-ARGM-LOC
+cctv_0005.parse 245 2 predicted look-v look.01 ----- 2:0-rel  3:1-ARG1
+cctv_0005.parse 245 19 predicted say-v say.01 ----- 19:0-rel  0:1-ARGM-DIS 15:1-ARGM-DIS 17:1-ARG0 18:0-ARGM-MOD 20:3-ARG1
+cctv_0005.parse 245 35 predicted involve-v involve.01 ----- 35:0-rel  34:1-ARG2 36:2-ARG1
+cctv_0005.parse 246 10 predicted involve-v involve.01 ----- 10:0-rel  8:1-ARG2 11:1-ARG1
+cctv_0005.parse 246 15 predicted take-v take.14 ----- 15:0-rel  14:1-ARG1 16:1-ARG2
+cctv_0005.parse 246 21 predicted think-v think.01 ----- 21:0-rel  18:1-ARGM-MNR 20:1-ARG0 22:3-ARG1
+cctv_0005.parse 246 26 predicted coordinate-v coordinate.01 ----- 26:0-rel  22:1-ARG0 25:0-ARGM-MOD 27:1-ARG1
+cctv_0005.parse 248 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV
+cctv_0005.parse 249 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+cctv_0005.parse 249 9 predicted be-v be.01 ----- 9:0-rel  6:1-ARG1 8:0-ARGM-MOD
+cctv_0005.parse 249 11 predicted solve-v solve.01 ----- 11:0-rel  6:1-ARG1 8:0-ARGM-MOD 10:1-ARGM-EXT 12:2-ARGM-TMP
+cctv_0005.parse 249 15 predicted show-v show.01 ----- 15:0-rel  12:1-ARGM-TMP 13:1-ARG0
+cctv_0005.parse 250 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+cctv_0005.parse 250 6 predicted build-v build.01 ----- 6:0-rel  5:1-ARG0 7:2-ARG1
+cctv_0005.parse 250 27 predicted be-v be.01 ----- 27:0-rel  28:1-ARG2
+cctv_0005.parse 250 40 predicted be-v be.01 ----- 40:0-rel  35:1-ARG1 38:1-R-ARG1 41:2-ARG2
+cctv_0005.parse 250 45 predicted resolve-v resolve.01 ----- 45:0-rel  41:1-ARG1 46:1-ARGM-LOC
+cctv_0005.parse 251 7 predicted send-v send.01 ----- 7:0-rel  0:3-ARG1 5:0-ARGM-MOD
+cctv_0005.parse 253 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:1-ARG2
+cctv_0005.parse 253 7 predicted require-v require.01 ----- 7:0-rel  5:1-ARG0 8:2-ARG1 11:1-ARGM-LOC
+cctv_0005.parse 254 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+cctv_0005.parse 254 8 predicted involve-v involve.01 ----- 8:0-rel  3:1-ARG2 7:1-R-ARG2 9:1-ARG1
+cctv_0005.parse 254 23 predicted model-v model.01 ----- 23:0-rel  16:2-ARG0 24:2-ARG1
+cctv_0005.parse 254 25 predicted be-v be.01 ----- 25:0-rel  24:1-ARG1 26:1-ARG2
+cctv_0005.parse 256 4 predicted form-v form.01 ----- 4:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:1-ARG1
+cctv_0005.parse 257 11 predicted feel-v feel.02 ----- 11:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARGM-LOC 7:1-ARGM-TMP 8:0-ARGM-DIS 9:1-ARG0 10:1-ARGM-TMP 12:1-ARG1
+cctv_0005.parse 257 14 predicted be-v be.01 ----- 14:0-rel  13:1-ARG1
+cctv_0005.parse 257 20 predicted cooperate-v cooperate.01 ----- 20:0-rel  18:1-ARG0 21:1-ARG1
+cctv_0005.parse 258 4 predicted be-v be.02 ----- 4:0-rel  0:1-ARGM-DIS 5:3-ARG1
+cctv_0005.parse 258 27 predicted be-v be.01 ----- 27:0-rel  20:1-ARGM-TMP 22:1-ARGM-TMP 26:1-ARG1 28:1-ARG2
+cctv_0005.parse 258 30 predicted coordinate-v coordinate.01 ----- 30:0-rel  26:1-ARG0
+cctv_0005.parse 259 23 predicted say-v say.01 ----- 23:0-rel  0:1-ARGM-DIS 18:1-ARGM-DIS 20:1-ARG1 21:0-ARGM-MOD 24:1-ARG1
+cctv_0005.parse 259 44 predicted play-v play.02 ----- 44:0-rel  25:2-ARG0 45:1-ARG1
+cctv_0005.parse 260 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+cctv_0005.parse 263 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cctv_0005.parse 263 7 predicted sum-v sum.01 ----- 7:0-rel  2:1-ARG1 5:0-ARGM-MOD 9:1-ARG2
+cctv_0005.parse 265 3 predicted base-v base.02 ----- 3:0-rel  4:1-ARG2
+cctv_0005.parse 265 14 predicted affect-v affect.01 ----- 14:0-rel  11:1-ARG0 12:1-R-ARG0 13:1-ARGM-MNR
+cctv_0005.parse 265 21 predicted damage-v damage.01 ----- 21:0-rel  15:2-ARG1 22:1-ARGM-TMP
+cctv_0005.parse 265 26 predicted base-v base.02 ----- 26:0-rel  27:1-ARG2
+cctv_0005.parse 265 38 predicted carry-v carry.03 ----- 38:0-rel  34:1-ARGM-MNR 36:1-ARG1
+cctv_0005.parse 266 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 3:1-ARG1 5:1-ARG2 7:1-ARGM-TMP
+cctv_0005.parse 266 17 predicted drop-v drop.01 ----- 17:0-rel  13:1-ARG1 15:1-ARGM-TMP 18:1-ARG4 24:1-ARGM-TMP
+cctv_0005.parse 267 6 predicted damage-v damage.01 ----- 6:0-rel  0:1-ARGM-DIS 2:1-ARG1 5:1-ARGM-ADV
+cctv_0005.parse 268 7 predicted affect-v affect.01 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 6:1-ARG0
+cctv_0005.parse 268 9 predicted live-v live.01 ----- 9:0-rel  8:1-ARG0 10:1-ARGM-LOC
+cctv_0005.parse 269 11 predicted do-v do.02 ----- 11:0-rel  7:1-ARG0 12:1-ARG1
+cctv_0005.parse 270 5 predicted receive-v receive.01 ----- 5:0-rel  1:1-ARG0 3:1-ARGM-DIS 6:1-ARG1 8:1-ARG2
+cctv_0005.parse 270 15 predicted send-v send.01 ----- 15:0-rel  0:1-ARGM-TMP 13:1-ARG0 14:1-ARGM-TMP
+cctv_0005.parse 271 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD
+cctv_0005.parse 271 7 predicted spend-v spend.01 ----- 7:0-rel  5:1-ARG0 8:1-ARG1 12:1-ARGM-LOC 14:1-ARGM-TMP
+cctv_0005.parse 272 15 predicted say-v say.01 ----- 15:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 10:1-ARGM-DIS 12:1-ARG1 13:0-ARGM-MOD 16:1-C-ARG1
+cctv_0005.parse 272 21 predicted restore-v restore.01 ----- 21:0-rel  17:1-ARG1 22:1-ARGM-MNR
+cctv_0005.parse 273 6 predicted think-v think.01 ----- 6:0-rel  0:1-ARGM-DIS 5:1-ARG0 7:3-ARG1
+cctv_0005.parse 273 13 predicted include-v include.01 ----- 13:0-rel  7:1-ARG2 14:1-ARG1
+cctv_0005.parse 273 17 predicted make-v make.01 ----- 17:0-rel  7:1-ARG0 18:2-ARG1
+cctv_0005.parse 273 23 predicted take-v take.01 ----- 23:0-rel  24:2-ARG1
+cctv_0005.parse 274 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cctv_0005.parse 274 4 predicted do-v do.02 ----- 4:0-rel  2:1-ARG1 5:1-ARGM-MNR
+cctv_0005.parse 277 13 predicted have-v have.03 ----- 13:0-rel  12:1-R-ARG0 14:2-ARG1
+cctv_0005.parse 277 30 predicted occur-v occur.01 ----- 30:0-rel  29:0-ARGM-MNR 31:0-ARG1 32:0-C-ARG1
+cctv_0005.parse 277 37 predicted say-v say.01 ----- 37:0-rel  3:1-ARGM-ADV 35:0-ARGM-MOD 38:2-ARG1
+cctv_0005.parse 277 39 predicted be-v be.01 ----- 39:0-rel  40:1-ARG2
+cctv_0005.parse 279 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cctv_0005.parse 279 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 3:0-ARGM-MOD 5:1-ARG2
+cctv_0005.parse 280 4 predicted see-v see.01 ----- 4:0-rel  0:1-ARGM-DIS 3:1-ARG0 5:1-ARG1
+cctv_0005.parse 280 15 predicted experience-v experience.01 ----- 15:0-rel  6:1-ARG0 16:1-ARG1
+cctv_0005.parse 281 5 predicted have-v have.03 ----- 5:0-rel  0:1-ARGM-ADV 1:1-ARG0 6:2-ARG1 10:1-ARGM-TMP
+cctv_0005.parse 282 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 282 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 6:2-ARG2
+cctv_0005.parse 283 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 284 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 6:1-ARG2 7:1-ARG1
+cctv_0005.parse 284 12 predicted occur-v occur.01 ----- 12:0-rel  8:1-ARG1
+cctv_0005.parse 285 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1
+cctv_0005.parse 286 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:2-ARG2
+cctv_0005.parse 286 9 predicted activate-v activate.01 ----- 9:0-rel  5:1-ARGM-MNR 6:1-ARG1 10:1-ARGM-TMP
+cctv_0005.parse 286 23 predicted be-v be.01 ----- 23:0-rel  18:1-ARGM-ADV 22:1-ARG1 24:2-ARG2
+cctv_0005.parse 289 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+cctv_0005.parse 289 9 predicted happen-v happen.01 ----- 9:0-rel  5:2-ARG1 8:1-R-ARG1 10:1-ARGM-LOC 13:1-ARGM-TMP
+cctv_0005.parse 289 50 predicted think-v think.01 ----- 50:0-rel  49:1-ARG0 51:3-ARG1
+cctv_0005.parse 289 54 predicted see-v see.01 ----- 54:0-rel  51:1-ARG1 52:0-ARGM-MOD
+cctv_0005.parse 289 61 predicted continue-v continue.01 ----- 61:0-rel  56:2-ARG0 62:2-ARG1
+cctv_0005.parse 289 63 predicted improve-v improve.01 ----- 63:0-rel  56:2-ARG0 64:1-ARG1
+cctv_0005.parse 291 3 predicted say-v say.01 ----- 3:0-rel  1:0-ARGM-MOD 4:1-ARG1
+cctv_0005.parse 291 10 predicted do-v do.02 ----- 10:0-rel  5:1-ARGM-TMP 8:1-ARG1
+cctv_0005.parse 291 12 predicted receive-v receive.01 ----- 12:0-rel  5:2-ARG0 13:1-ARG1 15:1-ARG2
+cctv_0005.parse 292 5 predicted think-v think.01 ----- 5:0-rel  4:1-ARG0 7:1-ARG1
+cctv_0005.parse 292 12 predicted have-v have.03 ----- 12:0-rel  10:1-ARGM-ADV 11:1-ARG0
+cctv_0005.parse 294 3 predicted have-v have.03 ----- 3:0-rel  1:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+cctv_0005.parse 295 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 296 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARGM-DIS 2:2-ARG1
+cctv_0005.parse 296 9 predicted activate-v activate.01 ----- 9:0-rel  2:2-ARG1
+cctv_0005.parse 296 17 predicted be-v be.01 ----- 17:0-rel  14:1-ARG1 16:1-R-ARG1
+cctv_0005.parse 297 9 predicted remember-v remember.01 ----- 9:0-rel  6:1-ARG0 7:1-ARGM-TMP 8:1-ARGM-MNR
+cctv_0005.parse 297 18 predicted mention-v mention.01 ----- 18:0-rel  15:1-ARG1 17:1-ARGM-TMP 19:1-ARG0
+cctv_0005.parse 297 26 predicted remember-v remember.01 ----- 26:0-rel  23:1-ARG0 24:1-ARGM-TMP 25:1-ARGM-MNR
+cctv_0005.parse 297 29 predicted be-v be.02 ----- 29:0-rel  0:1-ARGM-DIS 30:1-ARG1
+cctv_0005.parse 298 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-TMP 4:1-ARG1
+cctv_0005.parse 299 7 predicted happen-v happen.01 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 6:1-ARG1
+cctv_0005.parse 299 11 predicted host-v host.01 ----- 11:0-rel  9:1-ARG0
+cctv_0005.parse 303 1 predicted sit-v sit.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 303 7 predicted know-v know.01 ----- 7:0-rel  0:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+cctv_0005.parse 304 2 predicted find-v find.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1
+cctv_0005.parse 305 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARG1 6:1-ARG2
+cctv_0005.parse 306 6 predicted experience-v experience.01 ----- 6:0-rel  4:1-ARGM-TMP 5:1-ARG0 7:1-ARG1 9:1-ARGM-LOC
+cctv_0005.parse 306 34 predicted activate-v activate.01 ----- 34:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 4:2-ARGM-TMP 12:3-ARG1 35:1-ARGM-MNR
+cctv_0005.parse 307 7 predicted think-v think.01 ----- 7:0-rel  0:1-ARGM-ADV 6:1-ARG0 8:3-ARG1
+cctv_0005.parse 307 12 predicted go-v go.12 ----- 12:0-rel  13:1-ARG1
+cctv_0005.parse 307 15 predicted break-v break.01 ----- 15:0-rel  19:0-ARG1
+cctv_0005.parse 307 23 predicted be-v be.01 ----- 23:0-rel  21:1-ARG1 22:0-ARGM-MOD
+cctv_0005.parse 307 27 predicted handle-v handle.01 ----- 27:0-rel  21:1-ARG0 28:1-ARG1
+cctv_0005.parse 307 36 predicted give-v give.01 ----- 36:0-rel  21:1-ARG0 22:0-ARGM-MOD 37:1-ARG2 38:2-ARG1
+cctv_0005.parse 308 20 predicted be-v be.02 ----- 20:0-rel  18:1-ARGM-TMP 21:2-ARG1
+cctv_0005.parse 310 2 predicted play-v play.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cctv_0005.parse 310 10 predicted resolve-v resolve.01 ----- 10:0-rel  11:1-ARG1
+cctv_0005.parse 311 12 predicted think-v think.01 ----- 12:0-rel  9:1-ARG1 11:1-ARG0
+cctv_0005.parse 311 28 predicted handle-v handle.01 ----- 28:0-rel  27:1-ARGM-TMP 29:2-ARG1
+cctv_0005.parse 312 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+cctv_0005.parse 312 5 predicted give-v give.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG2 7:1-ARG1 10:1-ARGM-DIS
+cctv_0005.parse 313 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-ADV 2:1-ARG0 4:4-ARG1
+cctv_0005.parse 313 7 predicted be-v be.01 ----- 7:0-rel  4:1-ARG1 5:1-R-ARG1 6:0-ARGM-MOD 8:1-ARG2
+cctv_0005.parse 313 10 predicted be-v be.01 ----- 10:0-rel  4:2-ARG1 11:1-ARG2
+cctv_0005.parse 314 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 314 6 predicted be-v be.02 ----- 6:0-rel  3:1-ARGM-TMP
+cctv_0005.parse 314 15 predicted lurk-v lurk.- ----- 15:0-rel  14:1-ARG0 16:1-ARGM-LOC
+cctv_0005.parse 318 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG
+cctv_0005.parse 318 17 predicted include-v include.01 ----- 17:0-rel  15:1-ARG2 16:1-ARGM-DIS
+cctv_0005.parse 318 40 predicted include-v include.01 ----- 40:0-rel  41:2-ARG1
+cctv_0005.parse 320 14 predicted set-v set.03 ----- 14:0-rel  0:1-ARGM-DIS 3:2-ARG1 12:0-ARGM-MOD
+cctv_0005.parse 322 6 predicted manage-v manage.01 ----- 6:0-rel  0:1-ARGM-MNR 4:1-ARG0 5:0-ARGM-MOD
+cctv_0005.parse 322 8 predicted resolve-v resolve.01 ----- 8:0-rel  0:1-ARGM-MNR 4:1-ARG0 5:0-ARGM-MOD 9:1-ARG1 12:1-ARGM-MNR
+cctv_0005.parse 322 13 predicted turn-v turn.02 ----- 13:0-rel  14:1-ARG1 15:1-ARG2
+cctv_0005.parse 322 21 predicted evolve-v evolve.01 ----- 21:0-rel  22:1-ARG2
+cctv_0005.parse 324 3 predicted want-v want.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+cctv_0005.parse 324 5 predicted say-v say.01 ----- 5:0-rel  2:1-ARG0
+cctv_0005.parse 324 6 predicted be-v be.01 ----- 6:0-rel  7:1-ARG2
+cctv_0005.parse 324 20 predicted think-v think.01 ----- 20:0-rel  19:1-ARG0 21:3-ARG1
+cctv_0005.parse 324 22 predicted correspond-v correspond.02 ----- 22:0-rel  23:0-ARG1
+cctv_0005.parse 324 26 predicted make-v make.04 ----- 26:0-rel  21:1-ARG1 24:0-ARGM-MOD 27:1-ARG2
+cctv_0005.parse 325 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1
+cctv_0005.parse 325 9 predicted say-v say.01 ----- 9:0-rel  7:1-ARG0 8:0-ARGM-MOD 10:1-ARG1
+cctv_0005.parse 325 14 predicted have-v have.03 ----- 14:0-rel  11:1-ARG0 13:1-ARGM-TMP
+cctv_0005.parse 326 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARGM-DIS 3:1-ARG0 5:2-ARG1
+cctv_0005.parse 327 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+cctv_0005.parse 328 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cctv_0005.parse 328 6 predicted have-v have.03 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+cctv_0005.parse 328 8 predicted correspond-v correspond.02 ----- 8:0-rel  9:0-ARG1
+cctv_0005.parse 329 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG1 5:2-ARG2
+cctv_0005.parse 329 11 predicted handle-v handle.01 ----- 11:0-rel  5:1-ARGM-MNR 6:1-ARG0 9:1-ARGM-DIS 10:0-ARGM-DIS 12:2-ARG1
+cctv_0005.parse 330 3 predicted enter-v enter.01 ----- 3:0-rel  1:1-ARG0 4:2-ARG1
+cctv_0005.parse 330 12 predicted contain-v contain.01 ----- 12:0-rel  10:1-ARG0 11:1-R-ARG0 13:1-ARG1
+cctv_0005.parse 330 16 predicted have-v have.03 ----- 16:0-rel  10:1-ARG0 11:1-R-ARG0 17:1-ARG1
+cctv_0005.parse 330 26 predicted think-v think.01 ----- 26:0-rel  0:1-ARGM-CAU 23:1-ARGM-DIS 25:1-ARG0 27:3-ARG1
+cctv_0005.parse 330 31 predicted make-v make.04 ----- 31:0-rel  27:1-ARG1 29:0-ARGM-MOD
+cctv_0005.parse 330 41 predicted include-v include.01 ----- 41:0-rel  39:1-ARG2 40:1-R-ARG2 42:2-ARG1
+cctv_0005.parse 331 4 predicted base-v base.02 ----- 4:0-rel  5:1-ARG2
+cctv_0005.parse 331 19 predicted be-v be.01 ----- 19:0-rel  18:1-ARG2 20:3-ARG1
+cctv_0005.parse 331 27 predicted be-v be.01 ----- 27:0-rel  20:2-ARG1 26:1-R-ARG1 28:1-ARG2
+cctv_0005.parse 331 32 predicted learn-v learn.01 ----- 32:0-rel  30:1-ARG0
+cctv_0005.parse 332 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0
+cctv_0005.parse 332 10 predicted say-v say.01 ----- 10:0-rel  8:1-ARG0 9:0-ARGM-MOD 11:1-ARG1
+cctv_0005.parse 332 16 predicted develop-v develop.02 ----- 16:0-rel  12:2-ARG1 17:1-ARGM-TMP
+cctv_0005.parse 332 19 predicted be-v be.01 ----- 19:0-rel  12:2-ARG1 20:1-ARG2
+cctv_0005.parse 333 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:2-ARG2
+cctv_0005.parse 334 8 predicted expand-v expand.01 ----- 8:0-rel  1:2-ARG1 7:1-ARGM-TMP 9:1-ARG2
+cctv_0005.parse 334 19 predicted think-v think.01 ----- 19:0-rel  18:1-ARG0
+cctv_0005.parse 334 25 predicted be-v be.01 ----- 25:0-rel  22:1-ARG1 26:1-ARG2
+cctv_0005.parse 334 32 predicted have-v have.03 ----- 32:0-rel  0:1-ARGM-ADV 29:1-ARG0 30:1-ARGM-ADV 31:1-ARGM-TMP
+cctv_0005.parse 334 39 predicted learn-v learn.01 ----- 39:0-rel  33:2-ARG1 40:1-ARG2
+cctv_0005.parse 335 7 predicted involve-v involve.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+cctv_0005.parse 335 11 predicted be-v be.01 ----- 11:0-rel  0:1-ARGM-DIS 3:2-ARG1 12:1-ARG2
+cctv_0005.parse 336 15 predicted strengthen-v strengthen.01 ----- 15:0-rel  11:1-ARGM-MNR 12:0-ARGM-MOD 13:1-ARG0 16:2-ARG1
+cctv_0005.parse 337 8 predicted establish-v establish.01 ----- 8:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:1-ARG1
+cctv_0005.parse 338 3 predicted need-v need.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+cctv_0005.parse 338 5 predicted learn-v learn.01 ----- 5:0-rel  2:1-ARG0 8:1-ARG1
+cctv_0005.parse 338 7 predicted manage-v manage.01 ----- 7:0-rel  2:1-ARG0 8:1-ARG1
+cctv_0005.parse 340 3 predicted regard-v regard.01 ----- 3:0-rel  4:1-ARG1
+cctv_0005.parse 341 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP
+cctv_0005.parse 341 10 predicted do-v do.02 ----- 10:0-rel  11:1-ARG1
+cctv_0005.parse 341 12 predicted make-v make.02 ----- 12:0-rel  13:1-ARG1
+cctv_0005.parse 341 28 predicted implement-v implement.01 ----- 28:0-rel  27:1-ARGM-ADV 29:2-ARG1
+cctv_0005.parse 342 4 predicted need-v need.01 ----- 4:0-rel  0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+cctv_0005.parse 342 6 predicted explore-v explore.01 ----- 6:0-rel  2:1-ARG0
+cctv_0005.parse 342 12 predicted execute-v execute.01 ----- 12:0-rel  7:1-ARGM-MNR 8:2-ARG0 13:1-ARG1 14:1-ARG2
+cctv_0005.parse 342 24 predicted cooperate-v cooperate.01 ----- 24:0-rel  21:1-ARGM-MNR 22:1-ARG0 23:0-ARGM-MOD 25:1-ARG1 28:1-ARG2
+cctv_0005.parse 343 20 predicted withstand-v withstand.01 ----- 20:0-rel  14:1-ARGM-MNR 15:0-ARGM-MOD 16:1-ARG0 21:1-ARG1
+cctv_0005.parse 344 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cctv_0005.parse 344 31 predicted set-v set.03 ----- 31:0-rel  16:1-ARGM-LOC
+cctv_0005.parse 344 47 predicted put-v put.01 ----- 47:0-rel  3:1-ARGM-TMP 5:3-ARG1 45:0-ARGM-NEG 48:1-ARG2
+cctv_0005.parse 345 5 predicted undergo-v undergo.01 ----- 5:0-rel  2:1-ARGM-MNR 3:0-ARGM-MOD 4:1-ARG0 6:1-ARG1
+cctv_0005.parse 346 2 predicted include-v include.01 ----- 2:0-rel  0:1-ARG2 1:1-ARGM-DIS 3:2-ARG1
+cctv_0005.parse 346 10 predicted make-v make.01 ----- 10:0-rel  8:0-ARG1 11:0-ARG0
+cctv_0005.parse 347 20 predicted think-v think.01 ----- 20:0-rel  0:1-ARGM-DIS 17:1-ARGM-DIS 19:1-ARG0 21:3-ARG1
+cctv_0005.parse 347 23 predicted be-v be.02 ----- 23:0-rel  22:0-ARGM-MOD 24:3-ARG1
+cctv_0005.parse 348 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-DIS 3:2-ARG1 8:2-ARG2
+cctv_0005.parse 349 3 predicted institutionalize-v institutionalize.- ----- 3:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:1-ARG0 4:1-ARG1
+cctv_0005.parse 349 8 predicted make-v make.02 ----- 8:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:1-ARG0 9:1-ARG1 10:1-ARG2
+cctv_0005.parse 349 16 predicted ensure-v ensure.01 ----- 16:0-rel  17:2-ARG1
+cctv_0005.parse 349 22 predicted live-v live.01 ----- 22:0-rel  20:1-ARG0 21:1-R-ARG0 23:1-ARGM-LOC
+cctv_0005.parse 350 4 predicted propose-v propose.01 ----- 4:0-rel  0:1-ARG0
+cctv_0005.parse 350 11 predicted call-v call.01 ----- 11:0-rel  5:1-ARG1
+cctv_0005.parse 352 4 predicted refer-v refer.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG1
+cctv_0005.parse 352 15 predicted refer-v refer.01 ----- 15:0-rel  11:1-ARG0 16:1-ARG1
+cctv_0005.parse 353 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+cctv_0005.parse 353 6 predicted have-v have.03 ----- 6:0-rel  4:1-ARG0 5:1-ARGM-TMP 7:2-ARG1
+cctv_0005.parse 353 12 predicted do-v do.02 ----- 12:0-rel  13:1-ARGM-LOC
+cctv_0005.parse 355 4 predicted let-v let.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP
+cctv_0005.parse 355 6 predicted turn-v turn.01 ----- 6:0-rel  5:1-ARG0 7:1-ARG1 9:1-ARGM-DIR
+cctv_0005.parse 356 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARG1 4:0-ARGM-MOD 7:2-C-ARG1
+cctv_0005.parse 356 13 predicted be-v be.01 ----- 13:0-rel  0:1-ARG1 14:1-ARGM-ADV 15:1-ARG2 17:1-ARGM-TMP
+cctv_0005.parse 357 2 predicted follow-v follow.05 ----- 2:0-rel  3:1-ARG2
+cctv_0005.parse 357 9 predicted make-v make.01 ----- 9:0-rel  5:1-ARG1
+cctv_0005.parse 357 17 predicted occur-v occur.01 ----- 17:0-rel  14:1-ARGM-LOC 15:1-ARG1
+cctv_0005.parse 357 19 predicted include-v include.01 ----- 19:0-rel  20:1-ARG2
+cctv_0005.parse 358 5 predicted base-v base.02 ----- 5:0-rel  2:1-ARG1 6:1-ARG2
+cctv_0005.parse 358 14 predicted take-v take.01 ----- 14:0-rel  10:1-ARG1 12:0-ARGM-MOD 13:1-ARG0
+cctv_0005.parse 359 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cctv_0005.parse 359 6 predicted depend-v depend.01 ----- 6:0-rel  3:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+cctv_0005.parse 359 12 predicted go-v go.01 ----- 12:0-rel  8:1-ARGM-MNR 9:1-ARG1
+cctv_0005.parse 360 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 360 10 predicted carry-v carry.03 ----- 10:0-rel  3:1-ARG1 12:1-ARGM-MNR
+cctv_0005.parse 361 2 predicted regard-v regard.01 ----- 2:0-rel  3:1-ARG1
+cctv_0005.parse 361 8 predicted repair-v repair.01 ----- 8:0-rel  9:1-ARG1 12:1-ARGM-TMP
+cctv_0005.parse 361 21 predicted depend-v depend.01 ----- 21:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 17:1-ARGM-DIS 19:1-ARG0 20:0-ARGM-MOD 22:1-ARG1
+cctv_0005.parse 363 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 363 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARGM-ADV 6:0-ARGM-NEG
+cctv_0005.parse 363 10 predicted repair-v repair.01 ----- 10:0-rel  11:1-ARG1
+cctv_0005.parse 364 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARGM-ADV 3:2-ARG1
+cctv_0005.parse 366 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+cctv_0005.parse 366 8 predicted know-v know.01 ----- 8:0-rel  2:1-ARGM-ADV 7:1-ARG0 9:2-ARG1
+cctv_0005.parse 366 10 predicted carry-v carry.03 ----- 10:0-rel  12:1-ARG1 13:1-ARGM-TMP
+cctv_0005.parse 366 20 predicted pour-v pour.01 ----- 20:0-rel  21:2-ARG1
+cctv_0005.parse 367 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1
+cctv_0005.parse 367 9 predicted set-v set.01 ----- 9:0-rel  7:1-ARG1 10:1-ARGM-TMP
+cctv_0005.parse 368 5 predicted make-v make.02 ----- 5:0-rel  6:2-ARG1
+cctv_0005.parse 368 7 predicted dry-v dry.02 ----- 7:0-rel  6:1-ARG1 8:1-ARGM-MNR
+cctv_0005.parse 368 13 predicted add-v add.01 ----- 13:0-rel  0:1-ARGM-DIS 11:1-ARGM-TMP
+cctv_0005.parse 369 6 predicted require-v require.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 5:1-ARG0 7:1-ARG1
+cctv_0005.parse 370 3 predicted depend-v depend.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARGM-EXT 6:1-ARG1
+cctv_0005.parse 371 4 predicted mention-v mention.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1
+cctv_0005.parse 371 7 predicted be-v be.02 ----- 7:0-rel  8:1-ARG1
+cctv_0005.parse 371 17 predicted be-v be.02 ----- 17:0-rel  0:1-ARGM-TMP 13:1-ARGM-DIS 18:1-ARG1
+cctv_0005.parse 372 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cctv_0005.parse 372 5 predicted ensure-v ensure.01 ----- 5:0-rel  6:1-ARG1
+cctv_0005.parse 372 9 predicted connect-v connect.01 ----- 9:0-rel  7:1-ARG1 10:1-ARGM-TMP
+cctv_0005.parse 374 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-DIS 3:1-ARG1 6:1-ARGM-ADV 7:1-ARG2
+cctv_0005.parse 375 1 predicted discharge-v discharge.01 ----- 1:0-rel  0:1-ARG1
+cctv_0005.parse 375 4 predicted block-v block.01 ----- 4:0-rel  0:2-ARG0 3:1-ARGM-TMP 5:1-ARG1
+cctv_0005.parse 377 9 predicted break-v break.01 ----- 9:0-rel  6:1-ARG1
+cctv_0005.parse 377 17 predicted be-v be.01 ----- 17:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 5:1-ARGM-ADV 11:2-ARG1 15:0-ARGM-MOD 16:0-ARGM-NEG 18:1-ARG2
+cctv_0005.parse 377 20 predicted watch-v watch.01 ----- 20:0-rel  11:2-ARG0 21:1-ARG1
+cctv_0005.parse 379 6 predicted have-v have.03 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG 7:2-ARG1
+cctv_0005.parse 379 10 predicted watch-v watch.01 ----- 10:0-rel  11:1-ARG1
+cctv_0005.parse 380 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+cctv_0005.parse 381 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cctv_0005.parse 381 12 predicted repair-v repair.01 ----- 12:0-rel  6:1-ARG1
+cctv_0005.parse 381 20 predicted rearrange-v rearrange.01 ----- 20:0-rel  14:1-ARG1
+cctv_0005.parse 381 27 predicted seem-v seem.01 ----- 27:0-rel  22:2-ARG1 26:1-ARG0
+cctv_0005.parse 382 5 predicted seem-v seem.01 ----- 5:0-rel  6:1-ARG1
+cctv_0005.parse 382 13 predicted add-v add.02 ----- 13:0-rel  7:2-ARG1 14:1-ARGM-MNR 15:2-ARGM-PRP
+cctv_0005.parse 382 16 predicted make-v make.02 ----- 16:0-rel  7:2-ARG0
+cctv_0005.parse 382 20 predicted walk-v walk.01 ----- 20:0-rel  21:1-ARGM-DIR
+cctv_0005.parse 383 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARGM-DIS
+cctv_0005.parse 383 4 predicted take-v take.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1 7:1-ARG2
+cctv_0005.parse 384 3 predicted expose-v expose.01 ----- 3:0-rel  1:1-ARG1
+cctv_0005.parse 384 8 predicted be-v be.01 ----- 8:0-rel  5:1-ARG1 9:0-ARGM-NEG
+cctv_0005.parse 385 8 predicted damage-v damage.01 ----- 8:0-rel  0:1-ARGM-TMP 3:1-ARGM-DIS 5:1-ARG1 7:0-ARGM-NEG
+cctv_0005.parse 386 3 predicted damage-v damage.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-NEG
+cctv_0005.parse 386 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1 7:1-ARG2
+cctv_0005.parse 387 3 predicted be-v be.02 ----- 3:0-rel  0:1-ARGM-DIS 4:2-ARG1
+cctv_0005.parse 388 9 predicted come-v come.01 ----- 9:0-rel  5:2-ARG1 10:1-ARG4
+cctv_0005.parse 388 14 predicted give-v give.01 ----- 14:0-rel  5:2-ARG0 15:1-ARG2 16:2-ARG1
+cctv_0005.parse 388 21 predicted concern-v concern.02 ----- 21:0-rel  22:2-ARG1
+cctv_0005.parse 389 8 predicted analyse-v analyse.- ----- 8:0-rel  0:1-ARGM-TMP 5:1-ARG0 7:1-ARGM-DIS 9:0-ARG1 10:1-ARG2
+cctv_0005.parse 389 19 predicted reinforce-v reinforce.01 ----- 19:0-rel  15:1-ARGM-MNR 16:1-ARG0 20:2-ARG1
+cctv_0005.parse 389 24 predicted handle-v handle.01 ----- 24:0-rel  16:1-ARG0 20:2-ARG0 25:1-ARG1
+cctv_0005.parse 390 2 predicted thank-v thank.01 ----- 2:0-rel  0:1-ARGM-DIS 3:1-ARG1 4:1-ARGM-ADV
+cctv_0005.parse 390 14 predicted come-v come.01 ----- 14:0-rel  3:1-ARG1 15:1-ARG4 18:2-ARGM-PRP
+cctv_0005.parse 390 19 predicted participate-v participate.01 ----- 19:0-rel  20:1-ARG1
+cctv_0005.parse 392 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1
+cctv_0005.parse 396 2 predicted turn-v turn.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1 5:1-ARGM-DIR
+cctv_0005.parse 397 4 predicted use-v use.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1 7:2-ARG2
+cctv_0005.parse 398 4 predicted be-v be.02 ----- 4:0-rel  3:0-ARGM-MOD 5:2-ARG1
+cctv_0005.parse 398 18 predicted be-v be.02 ----- 18:0-rel  14:1-ARGM-TMP 17:0-ARGM-MOD 26:1-ARGM-ADV
+cctv_0005.parse 399 1 predicted see-v see.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cctv_0005.parse 399 23 predicted experience-v experience.01 ----- 23:0-rel  3:1-ARGM-ADV 18:1-ARG0 21:0-ARGM-MOD 24:1-ARG1
+cctv_0005.parse 400 5 predicted be-v be.02 ----- 5:0-rel  0:1-ARGM-DIS 4:0-ARGM-MOD
+cctv_0005.parse 401 24 predicted experience-v experience.01 ----- 24:0-rel  0:3-ARG0 23:0-ARGM-MOD 25:1-ARG1
+cctv_0005.parse 402 12 predicted bid-v bid.01 ----- 12:0-rel  0:1-ARGM-DIS 2:1-ARG0 11:0-ARGM-MOD 13:1-ARG1
+cctv_0005.parse 403 13 predicted stop-v stop.01 ----- 13:0-rel  1:1-ARGM-TMP 5:2-ARG1 12:0-ARGM-MOD
+cctv_0005.parse 403 19 predicted be-v be.02 ----- 19:0-rel  17:0-ARGM-MOD 18:1-ARGM-ADV 20:1-ARG2
+cctv_0005.parse 404 5 predicted be-v be.02 ----- 5:0-rel  0:1-ARGM-DIS 4:0-ARGM-MOD 6:2-ARG1
+cctv_0005.parse 405 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 4:1-ARG1
+cctv_0005.parse 405 7 predicted be-v be.02 ----- 7:0-rel  6:0-ARGM-MOD
+cctv_0005.parse 406 13 predicted fall-v fall.01 ----- 13:0-rel  0:1-ARGM-DIS 2:2-ARG1 12:0-ARGM-MOD 14:1-ARG2
+cctv_0005.parse 407 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARGM-DIS 3:2-ARG1
+cctv_0005.parse 407 4 predicted check-v check.05 ----- 4:0-rel  3:1-ARG0 6:1-ARG1
+cctv_0005.parse 408 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 410 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 411 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 412 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 413 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 415 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 417 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 421 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2
+cctv_0005.parse 423 3 predicted change-v change.01 ----- 3:0-rel  2:1-ARG3 4:1-ARG2

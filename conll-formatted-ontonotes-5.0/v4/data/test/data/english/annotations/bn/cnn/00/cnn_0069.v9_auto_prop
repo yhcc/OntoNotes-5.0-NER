@@ -1,0 +1,25 @@
+cnn_0069.parse 1 17 predicted say-v say.01 ----- 17:0-rel  0:2-ARG0 7:2-ARG0 18:3-ARG1
+cnn_0069.parse 1 36 predicted rip-v rip.01 ----- 36:0-rel  34:1-ARG1 37:1-ARGM-DIR 43:1-ARGM-LOC 44:1-ARGM-TMP
+cnn_0069.parse 2 13 predicted testify-v testify.01 ----- 13:0-rel  0:3-ARG0 12:1-ARGM-TMP 14:1-ARGM-LOC
+cnn_0069.parse 2 21 predicted answer-v answer.01 ----- 21:0-rel  22:2-ARG1
+cnn_0069.parse 3 1 predicted tell-v tell.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 3:3-ARG1
+cnn_0069.parse 3 6 predicted trigger-v trigger.01 ----- 6:0-rel  3:1-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG
+cnn_0069.parse 3 18 predicted remain-v remain.01 ----- 18:0-rel  17:1-ARG1 19:1-ARG3
+cnn_0069.parse 4 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1
+cnn_0069.parse 4 7 predicted injure-v injure.01 ----- 7:0-rel  5:1-ARG1 8:2-ARGM-TMP
+cnn_0069.parse 4 11 predicted blow-v blow.01 ----- 11:0-rel  8:1-ARGM-TMP 9:1-ARG0 12:1-ARG1
+cnn_0069.parse 4 25 predicted refuel-v refuel.- ----- 25:0-rel  23:1-ARG1 26:1-ARGM-LOC
+cnn_0069.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0069.parse 5 6 predicted make-v make.04 ----- 6:0-rel  2:1-ARG0 13:1-ARGM-TMP
+cnn_0069.parse 6 1 predicted add-v add.02 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0069.parse 6 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:1-ARGM-TMP 6:2-ARG2
+cnn_0069.parse 7 4 predicted get-v get.05 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+cnn_0069.parse 8 2 predicted put-v put.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+cnn_0069.parse 8 6 predicted lead-v lead.03 ----- 6:0-rel  3:1-ARG0 5:1-R-ARG0 7:1-ARG1
+cnn_0069.parse 8 23 predicted begin-v begin.01 ----- 23:0-rel  18:1-ARGM-DIS 21:1-ARG0 24:1-ARG1
+cnn_0069.parse 9 2 predicted find-v find.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+cnn_0069.parse 9 6 predicted need-v need.01 ----- 6:0-rel  5:1-ARG0 7:2-ARG1
+cnn_0069.parse 9 8 predicted find-v find.01 ----- 8:0-rel  5:1-ARG0
+cnn_0069.parse 9 13 predicted use-v use.01 ----- 13:0-rel  11:1-ARG0 12:0-ARGM-MOD 14:2-ARG1
+cnn_0069.parse 9 18 predicted learn-v learn.01 ----- 18:0-rel  14:1-ARG1 16:1-R-ARG1 17:1-ARG0
+cnn_0069.parse 9 24 predicted provide-v provide.01 ----- 24:0-rel  25:1-ARG1

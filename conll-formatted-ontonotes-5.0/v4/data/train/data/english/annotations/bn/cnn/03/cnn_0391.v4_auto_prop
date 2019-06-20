@@ -1,0 +1,5 @@
+cnn_0391.parse 0 10 predicted sentence-v sentence.01 ----- 10:0-rel  11:1-ARG1
+cnn_0391.parse 1 5 predicted rank-v rank.01 ----- 5:0-rel  4:0-ARG2 6:0-ARG1
+cnn_0391.parse 1 8 predicted go-v go.02 ----- 8:0-rel  3:1-ARG1 9:1-ARG4 11:1-ARGM-LOC
+cnn_0391.parse 2 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+cnn_0391.parse 2 13 predicted be-v be.01 ----- 13:0-rel  8:1-ARGM-LOC 11:1-R-ARGM-LOC 12:1-ARG1 14:1-ARG2

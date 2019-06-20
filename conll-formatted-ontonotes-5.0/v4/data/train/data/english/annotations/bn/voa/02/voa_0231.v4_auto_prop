@@ -1,0 +1,49 @@
+voa_0231.parse 0 7 predicted arrest-v arrest.01 ----- 7:0-rel  0:3-ARG0 8:2-ARG1
+voa_0231.parse 0 9 predicted suspect-v suspect.01 ----- 9:0-rel  10:0-ARG1
+voa_0231.parse 0 21 predicted prepare-v prepare.01 ----- 21:0-rel  19:1-ARG0 22:2-ARG1
+voa_0231.parse 0 25 predicted be-v be.01 ----- 25:0-rel  22:1-ARG1 23:0-ARGM-MOD 26:1-ARG2
+voa_0231.parse 1 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+voa_0231.parse 2 1 predicted arrest-v arrest.01 ----- 1:0-rel  0:1-ARG0
+voa_0231.parse 2 7 predicted suspect-v suspect.01 ----- 7:0-rel  5:1-ARG2
+voa_0231.parse 3 2 predicted drive-v drive.01 ----- 2:0-rel  0:1-ARG0
+voa_0231.parse 3 8 predicted steal-v steal.01 ----- 8:0-rel  3:1-ARG1 5:1-R-ARG1 13:1-ARGM-TMP
+voa_0231.parse 4 3 predicted attract-v attract.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+voa_0231.parse 4 10 predicted drive-v drive.01 ----- 10:0-rel  9:1-ARG0 11:1-ARG1
+voa_0231.parse 4 21 predicted dangle-v dangle.01 ----- 21:0-rel  15:2-ARG1
+voa_0231.parse 5 2 predicted stop-v stop.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+voa_0231.parse 5 6 predicted found-v found.01 ----- 6:0-rel  3:1-ARG0 7:2-ARG1
+voa_0231.parse 5 16 predicted contain-v contain.01 ----- 16:0-rel  14:1-ARG0 17:3-ARG1
+voa_0231.parse 6 2 predicted found-v found.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:2-ARG1
+voa_0231.parse 6 8 predicted used-v used.- ----- 8:0-rel  6:1-ARG1
+voa_0231.parse 6 12 predicted blame-v blame.01 ----- 12:0-rel  10:1-ARG1 17:1-ARGM-TMP
+voa_0231.parse 7 11 predicted suspect-v suspect.01 ----- 11:0-rel  12:0-ARG2 13:0-ARG1
+voa_0231.parse 7 17 predicted try-v try.01 ----- 17:0-rel  11:1-ARG0 14:1-R-ARG0 16:1-ARGM-MNR 18:2-ARG1
+voa_0231.parse 7 19 predicted place-v place.01 ----- 19:0-rel  14:1-ARG0 20:1-ARG1
+voa_0231.parse 7 24 predicted kill-v kill.01 ----- 24:0-rel  0:1-ARGM-LOC 11:2-ARG0 25:1-ARG1
+voa_0231.parse 7 30 predicted got-v got.- ----- 30:0-rel  0:1-ARGM-LOC 11:2-ARG1 29:1-ARGM-TMP
+voa_0231.parse 8 4 predicted identify-v identify.01 ----- 4:0-rel  0:2-ARG0 3:1-ARGM-MNR 5:1-ARG1 6:1-ARG2 11:1-ARGM-ADV
+voa_0231.parse 8 13 predicted give-v give.01 ----- 13:0-rel  12:1-ARG0 14:1-ARG1
+voa_0231.parse 9 5 predicted identify-v identify.01 ----- 5:0-rel  0:1-ARG1 4:1-ARGM-MNR 6:1-ARG2
+voa_0231.parse 9 15 predicted identify-v identify.01 ----- 15:0-rel  11:1-ARG0 12:0-ARGM-MOD 13:0-ARGM-NEG 14:1-ARGM-TMP 16:1-ARG1
+voa_0231.parse 10 3 predicted search-v search.01 ----- 3:0-rel  0:1-ARG0
+voa_0231.parse 10 17 predicted kill-v kill.01 ----- 17:0-rel  11:1-ARG0 15:1-R-ARG0 18:1-ARG1
+voa_0231.parse 11 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1
+voa_0231.parse 12 3 predicted deactivate-v deactivate.- ----- 3:0-rel  0:1-ARGM-TMP 2:1-ARG0 4:2-ARG1
+voa_0231.parse 12 5 predicted place-v place.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+voa_0231.parse 12 24 predicted deactivate-v deactivate.- ----- 24:0-rel  19:1-ARGM-TMP 22:1-ARG0
+voa_0231.parse 12 27 predicted place-v place.01 ----- 27:0-rel  25:1-ARG1 28:1-ARG2
+voa_0231.parse 12 43 predicted rule-v rule.03 ----- 43:0-rel  44:0-ARG0 45:0-C-ARG0
+voa_0231.parse 12 47 predicted gather-v gather.01 ----- 47:0-rel  34:1-ARGM-LOC 35:2-ARG1 48:1-ARGM-PRP
+voa_0231.parse 12 63 predicted kill-v kill.01 ----- 63:0-rel  57:1-ARG1 60:1-R-ARG1 64:2-ARGM-TMP
+voa_0231.parse 13 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1
+voa_0231.parse 13 17 predicted occur-v occur.01 ----- 17:0-rel  13:1-ARG1 16:0-ARGM-NEG
+voa_0231.parse 14 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+voa_0231.parse 14 5 predicted kill-v kill.01 ----- 5:0-rel  0:1-ARG0
+voa_0231.parse 14 19 predicted carve-v carve.03 ----- 19:0-rel  21:1-ARG1
+voa_0231.parse 15 9 predicted control-v control.01 ----- 9:0-rel  1:1-ARG1 7:1-R-ARG1 10:1-ARG0
+voa_0231.parse 15 19 predicted say-v say.01 ----- 19:0-rel  0:1-ARGM-TMP 1:2-ARG0 20:3-ARG1
+voa_0231.parse 15 22 predicted call-v call.03 ----- 22:0-rel  20:1-ARG0 21:0-ARGM-MOD 23:1-ARG1
+voa_0231.parse 16 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1
+voa_0231.parse 16 18 predicted call-v call.03 ----- 18:0-rel  19:1-ARG1
+voa_0231.parse 17 3 predicted rule-v rule.03 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-MNR
+voa_0231.parse 17 13 predicted break-v break.01 ----- 13:0-rel  9:2-ARG0 20:1-ARGM-TMP

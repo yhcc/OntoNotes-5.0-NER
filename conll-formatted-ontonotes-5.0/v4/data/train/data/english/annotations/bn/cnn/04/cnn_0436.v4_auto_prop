@@ -1,0 +1,6 @@
+cnn_0436.parse 0 5 predicted name-v name.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-MOD 4:1-ARGM-ADV
+cnn_0436.parse 0 11 predicted trouble-v trouble.01 ----- 11:0-rel  12:0-ARG1 13:0-C-ARG1
+cnn_0436.parse 1 13 predicted expect-v expect.01 ----- 13:0-rel  14:2-ARG1
+cnn_0436.parse 1 15 predicted replace-v replace.01 ----- 15:0-rel  0:2-ARG2 16:1-ARG1
+cnn_0436.parse 2 1 predicted be-v be.03 ----- 1:0-rel  0:1-ARG1
+cnn_0436.parse 3 1 predicted step-v step.04 ----- 1:0-rel  0:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-ADV

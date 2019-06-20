@@ -1,0 +1,11 @@
+pri_0033.parse 0 3 predicted change-v change.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+pri_0033.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:3-ARG1
+pri_0033.parse 1 6 predicted hit-v hit.01 ----- 6:0-rel  3:1-ARG1
+pri_0033.parse 1 13 predicted dock-v dock.- ----- 13:0-rel  11:1-ARG1
+pri_0033.parse 2 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 4:3-ARG1
+pri_0033.parse 2 6 predicted occur-v occur.01 ----- 6:0-rel  4:1-ARG1 7:1-ARGM-TMP
+pri_0033.parse 2 11 predicted help-v help.01 ----- 11:0-rel  8:1-ARG0
+pri_0033.parse 2 15 predicted tie-v tie.04 ----- 15:0-rel  8:1-ARG0 12:1-ARG1
+pri_0033.parse 3 2 predicted raise-v raise.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+pri_0033.parse 3 9 predicted be-v be.01 ----- 9:0-rel  6:1-ARGM-MNR 7:1-ARG1 10:1-ARG2
+pri_0033.parse 3 12 predicted get-v get.05 ----- 12:0-rel  7:1-ARG1 13:1-ARG2

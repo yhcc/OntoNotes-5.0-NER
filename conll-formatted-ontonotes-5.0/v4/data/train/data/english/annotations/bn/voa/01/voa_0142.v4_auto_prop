@@ -1,0 +1,27 @@
+voa_0142.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+voa_0142.parse 1 4 predicted attack-v attack.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-TMP 5:1-ARG1
+voa_0142.parse 1 8 predicted kill-v kill.01 ----- 8:0-rel  0:1-ARG0 3:1-ARGM-TMP 10:1-ARG4
+voa_0142.parse 1 15 predicted infect-v infect.01 ----- 15:0-rel  14:1-ARG1
+voa_0142.parse 2 6 predicted lead-v lead.02 ----- 6:0-rel  5:1-ARG1 7:1-ARG0
+voa_0142.parse 2 20 predicted develop-v develop.02 ----- 20:0-rel  0:1-ARGM-TMP 2:2-ARG0 21:2-ARG1
+voa_0142.parse 2 24 predicted prevent-v prevent.01 ----- 24:0-rel  21:1-ARG0 23:1-R-ARG0 25:1-ARG1
+voa_0142.parse 3 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:0-ARG1
+voa_0142.parse 3 13 predicted involve-v involve.01 ----- 13:0-rel  7:2-ARG2 14:2-ARG1
+voa_0142.parse 3 14 predicted give-v give.01 ----- 14:0-rel  15:1-ARG2 17:1-ARG1
+voa_0142.parse 3 22 predicted inject-v inject.01 ----- 22:0-rel  21:1-ARGM-TMP 23:1-ARG2 24:1-ARG1
+voa_0142.parse 3 30 predicted have-v have.04 ----- 30:0-rel  25:1-ARG0 29:1-R-ARG0 31:1-ARG1
+voa_0142.parse 4 4 predicted infect-v infect.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+voa_0142.parse 4 13 predicted inject-v inject.01 ----- 13:0-rel  11:1-ARGM-TMP 14:1-ARG2
+voa_0142.parse 4 17 predicted call-v call.01 ----- 17:0-rel  15:1-ARG1
+voa_0142.parse 5 4 predicted receive-v receive.01 ----- 4:0-rel  1:1-ARG0 3:1-R-ARG0
+voa_0142.parse 5 16 predicted express-v express.01 ----- 16:0-rel  3:1-ARG0 17:1-ARG1
+voa_0142.parse 5 26 predicted die-v die.01 ----- 26:0-rel  0:1-ARGM-LOC 21:2-ARG1 27:1-ARGM-TMP
+voa_0142.parse 6 6 predicted receive-v receive.01 ----- 6:0-rel  3:1-ARG0 5:1-R-ARG0
+voa_0142.parse 6 15 predicted make-v make.01 ----- 15:0-rel  7:2-ARG0 14:1-R-ARG0 16:1-ARG1
+voa_0142.parse 6 22 predicted survive-v survive.01 ----- 22:0-rel  14:1-R-ARG0 23:1-ARG1
+voa_0142.parse 6 28 predicted continue-v continue.01 ----- 28:0-rel  27:1-ARG0 29:2-ARG1
+voa_0142.parse 6 30 predicted be-v be.01 ----- 30:0-rel  27:1-ARG1
+voa_0142.parse 6 41 predicted point-v point.01 ----- 41:0-rel  3:3-ARG0 42:1-ARG1
+voa_0142.parse 6 45 predicted follow-v follow.02 ----- 45:0-rel  43:1-ARG1
+voa_0142.parse 7 2 predicted do-v do.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:3-ARG1
+voa_0142.parse 7 16 predicted used-v used.- ----- 16:0-rel  10:2-ARG1 14:0-ARGM-MOD

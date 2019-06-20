@@ -1,0 +1,73 @@
+wsj_1312.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+wsj_1312.parse 0 24 predicted compile-v compile.01 ----- 24:0-rel  25:1-ARG0
+wsj_1312.parse 1 9 predicted subordinate-v subordinate.01 ----- 9:0-rel  10:0-ARG1
+wsj_1312.parse 1 14 predicted price-v price.01 ----- 14:0-rel  15:1-ARG2 17:2-ARGM-PNC
+wsj_1312.parse 1 18 predicted yield-v yield.01 ----- 18:0-rel  19:1-ARG1
+wsj_1312.parse 2 4 predicted sell-v sell.01 ----- 4:0-rel  0:1-ARG1 2:0-ARGM-MOD 5:1-ARGM-MNR
+wsj_1312.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+wsj_1312.parse 4 25 predicted price-v price.01 ----- 25:0-rel  24:1-ARGM-MNR 26:1-ARG0
+wsj_1312.parse 5 2 predicted include-v include.01 ----- 2:0-rel  0:1-ARG2 3:3-ARG1
+wsj_1312.parse 6 6 predicted price-v price.01 ----- 6:0-rel  0:1-ARG1 7:2-ARGM-PNC
+wsj_1312.parse 6 8 predicted yield-v yield.01 ----- 8:0-rel  0:1-ARG0
+wsj_1312.parse 7 1 predicted be-v be.02 ----- 1:0-rel  2:3-ARG1
+wsj_1312.parse 7 14 predicted price-v price.01 ----- 14:0-rel  15:2-ARGM-PNC
+wsj_1312.parse 7 21 predicted be-v be.01 ----- 21:0-rel  20:1-R-ARG1 22:2-ARG2
+wsj_1312.parse 8 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARGM-ADV
+wsj_1312.parse 8 12 predicted price-v price.01 ----- 12:0-rel  8:3-ARG1 13:2-ARGM-PRP
+wsj_1312.parse 8 14 predicted yield-v yield.01 ----- 14:0-rel  15:1-ARG1 17:1-ARGM-TMP
+wsj_1312.parse 8 28 predicted price-v price.01 ----- 28:0-rel  25:2-ARG1 29:2-ARGM-PRP
+wsj_1312.parse 8 30 predicted yield-v yield.01 ----- 30:0-rel  31:1-ARG1 33:1-ARGM-TMP
+wsj_1312.parse 8 45 predicted price-v price.01 ----- 45:0-rel  42:2-ARG1 46:2-ARGM-PRP
+wsj_1312.parse 8 47 predicted yield-v yield.01 ----- 47:0-rel  48:1-ARG1 50:1-ARGM-TMP
+wsj_1312.parse 9 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:3-ARG2
+wsj_1312.parse 10 6 predicted price-v price.01 ----- 6:0-rel  0:1-ARG1 5:1-ARGM-MNR 7:2-ARGM-PNC
+wsj_1312.parse 10 8 predicted yield-v yield.01 ----- 8:0-rel  0:1-ARG0 9:1-ARGM-PRD
+wsj_1312.parse 11 3 predicted rate-v rate.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+wsj_1312.parse 12 30 predicted price-v price.01 ----- 30:0-rel  23:1-ARG1 29:1-ARGM-MNR 31:1-ARG2
+wsj_1312.parse 13 3 predicted price-v price.01 ----- 3:0-rel  0:1-ARG1 4:2-ARGM-PNC
+wsj_1312.parse 13 5 predicted yield-v yield.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+wsj_1312.parse 14 1 predicted be-v be.02 ----- 1:0-rel  2:3-ARG1
+wsj_1312.parse 14 9 predicted price-v price.01 ----- 9:0-rel  5:3-ARG1 10:2-ARG2
+wsj_1312.parse 14 23 predicted price-v price.01 ----- 23:0-rel  19:3-ARG1 24:2-ARG2
+wsj_1312.parse 14 38 predicted price-v price.01 ----- 38:0-rel  35:2-ARG1 39:2-ARG2
+wsj_1312.parse 15 3 predicted rate-v rate.01 ----- 3:0-rel  0:1-ARG1
+wsj_1312.parse 16 6 predicted treat-v treat.01 ----- 6:0-rel  0:2-ARG1 4:0-ARGM-MOD 7:1-ARG2
+wsj_1312.parse 16 12 predicted calculate-v calculate.01 ----- 12:0-rel  13:1-ARG1
+wsj_1312.parse 16 21 predicted impose-v impose.01 ----- 21:0-rel  18:1-R-ARG1 19:0-ARGM-MOD 22:1-ARG2
+wsj_1312.parse 17 14 predicted offer-v offer.01 ----- 14:0-rel  10:1-ARG1 15:1-ARGM-MNR 18:1-ARG0
+wsj_1312.parse 18 7 predicted back-v back.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG0
+wsj_1312.parse 18 20 predicted bring-v bring.01 ----- 20:0-rel  0:2-ARG0 21:4-ARG1 39:1-ARGM-TMP
+wsj_1312.parse 18 42 predicted begin-v begin.01 ----- 42:0-rel  40:1-ARG1 43:1-ARGM-TMP
+wsj_1312.parse 19 2 predicted used-v used.- ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_1312.parse 20 13 predicted offer-v offer.01 ----- 13:0-rel  9:1-ARG1 14:1-ARGM-MNR 17:1-ARG0
+wsj_1312.parse 21 9 predicted back-v back.01 ----- 9:0-rel  0:2-ARG1 10:1-ARG0
+wsj_1312.parse 22 15 predicted offer-v offer.01 ----- 15:0-rel  0:1-ARGM-ADV 2:2-ARG1 16:1-ARGM-MNR 19:1-ARG0
+wsj_1312.parse 23 9 predicted back-v back.01 ----- 9:0-rel  0:2-ARG1 10:1-ARG0
+wsj_1312.parse 24 15 predicted offer-v offer.01 ----- 15:0-rel  0:1-ARGM-DIS 2:2-ARG1 16:1-ARGM-MNR 19:1-ARG0
+wsj_1312.parse 25 9 predicted back-v back.01 ----- 9:0-rel  0:2-ARG1 10:1-ARG0
+wsj_1312.parse 26 4 predicted bring-v bring.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+wsj_1312.parse 26 27 predicted begin-v begin.01 ----- 27:0-rel  25:1-ARG1 28:1-ARGM-TMP
+wsj_1312.parse 27 23 predicted price-v price.01 ----- 23:0-rel  24:1-ARG2
+wsj_1312.parse 27 27 predicted yield-v yield.01 ----- 27:0-rel  28:1-ARG1
+wsj_1312.parse 29 23 predicted price-v price.01 ----- 23:0-rel  24:1-ARG2
+wsj_1312.parse 29 28 predicted yield-v yield.01 ----- 28:0-rel  29:1-ARG1
+wsj_1312.parse 31 21 predicted price-v price.01 ----- 21:0-rel  22:1-ARG2
+wsj_1312.parse 31 26 predicted yield-v yield.01 ----- 26:0-rel  27:1-ARG1
+wsj_1312.parse 33 28 predicted price-v price.01 ----- 28:0-rel  29:1-ARG2
+wsj_1312.parse 33 33 predicted yield-v yield.01 ----- 33:0-rel  34:1-ARG1
+wsj_1312.parse 35 19 predicted price-v price.01 ----- 19:0-rel  20:1-ARG2 22:2-ARGM-PRP
+wsj_1312.parse 35 23 predicted yield-v yield.01 ----- 23:0-rel  24:1-ARG1
+wsj_1312.parse 37 9 predicted back-v back.01 ----- 9:0-rel  8:1-ARG1 10:1-ARG0 13:1-ARGM-MNR
+wsj_1312.parse 37 21 predicted price-v price.01 ----- 21:0-rel  22:1-ARG2
+wsj_1312.parse 37 26 predicted yield-v yield.01 ----- 26:0-rel  27:1-ARG1
+wsj_1312.parse 37 33 predicted head-v head.01 ----- 33:0-rel  30:1-ARG1 34:1-ARG0
+wsj_1312.parse 38 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+wsj_1312.parse 38 34 predicted back-v back.01 ----- 34:0-rel  32:0-ARG0 35:0-ARG1
+wsj_1312.parse 40 14 predicted price-v price.01 ----- 14:0-rel  0:1-ARG1 4:1-ARGM-MNR 9:1-ARG1
+wsj_1312.parse 41 3 predicted rate-v rate.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+wsj_1312.parse 41 17 predicted base-v base.02 ----- 17:0-rel  18:1-ARG2
+wsj_1312.parse 41 29 predicted cover-v cover.01 ----- 29:0-rel  27:1-ARG0 30:2-ARG1
+wsj_1312.parse 42 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0
+wsj_1312.parse 42 4 predicted estimate-v estimate.01 ----- 4:0-rel  5:0-ARG1 6:0-C-ARG1
+wsj_1312.parse 42 11 predicted assume-v assume.02 ----- 11:0-rel  12:1-ARG1
+wsj_1312.parse 43 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2

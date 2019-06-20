@@ -1,0 +1,413 @@
+tc/ch/00/ch_0020@0020@ch@tc@en@on 0 2 gold say-v say.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 0 4 gold let-v let.01 ----- 4:0-rel 5:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 0 7 gold do-v do.02 ----- 7:0-rel 5:1-ARG0 8:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 0 10 gold know-v know.01 ----- 10:0-rel 9:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 2 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 2 4 gold know-v know.01 ----- 4:0-rel 3:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 2 8 gold go-v go.04 ----- 8:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 3 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 3 10 gold be-v be.01 ----- 10:0-rel 9:1-ARG1 11:1-ARG2 6:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 4 4 gold complain-v complain.01 ----- 4:0-rel 0:1-ARGM-DIS 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 5 4 gold complain-v complain.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 6 4 gold ask-v ask.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG2 6:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 6 7 gold come-v come.01 ----- 7:0-rel 8:2-ARGM-PRP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 6 8 gold help-v help.01 ----- 8:0-rel 9:1-ARG2 10:1-ARGM-TMP 16:2-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 6 18 gold forget-v forget.01 ----- 18:0-rel 17:1-ARG0 19:2-ARG1 10:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 6 20 gold take-v take.11 ----- 20:0,21:1-rel 22:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 6 24 gold put-v put.01 ----- 24:0-rel 23:1-ARG0 25:1-ARG2 22:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 7 3 gold see-v see.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 7 6 gold go-v go.06 ----- 6:0-rel 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 9 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 9 3 gold promise-v promise.01 ----- 3:0-rel 2:2,7:1-ARG0 4:1-ARG1 8:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 9 6 gold know-v know.01 ----- 6:0-rel 5:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 9 11 gold go-v go.04 ----- 11:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 9 13 gold help-v help.01 ----- 13:0-rel 14:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 9 19 gold say-v say.01 ----- 19:0-rel 18:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 10 2 gold know-v know.01 ----- 2:0-rel 1:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 10 4 gold give-v give.01 ----- 4:0-rel 0:0-ARGM-DIS 3:1-ARG0 5:1-ARG2 6:1-ARGM-DIS 7:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 12 2 gold have-v have.01 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 12 4 gold start-v start.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 13 2 gold have-v have.01 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 13 3 gold start-v start.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 13 4 gold work-v work.01 ----- 4:0-rel 5:1-ARG3
+tc/ch/00/ch_0020@0020@ch@tc@en@on 14 4 gold cook-v cook.01 ----- 4:0-rel 0:1-ARGM-DIS 3:0-ARGM-NEG 5:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 15 3 gold work-v work.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARGM-LOC 7:1-ARGM-TMP 10:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 16 1 gold have-v have.01 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 16 4 gold do-v do.02 ----- 4:0-rel 0:1-ARG0 3:1-ARGM-ADV 5:1-ARG4
+tc/ch/00/ch_0020@0020@ch@tc@en@on 16 7 gold learn-v learn.01 ----- 7:0-rel 0:1-ARG0 3:1-ARGM-ADV 8:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 16 14 gold meet-v meet.03 ----- 14:0-rel 0:1-ARG0 3:1-ARGM-ADV 15:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 17 3 gold have-v have.01 ----- 3:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 17 4 gold learn-v learn.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 17 7 gold work-v work.09 ----- 7:0-rel 8:1-ARG1 10:2-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 17 11 gold be-v be.01 ----- 11:0-rel 12:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 18 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 18 5 gold know-v know.01 ----- 5:0-rel 2:1-ARG0 4:0-ARGM-NEG 6:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 18 8 gold turn-v turn.13 ----- 8:0,10:1-rel 9:1-ARG1 11:1-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 20 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG
+tc/ch/00/ch_0020@0020@ch@tc@en@on 21 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 21 7 gold do-v do.02 ----- 7:0-rel 5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1 9:1-ARGM-TMP 10:1-ARGM-MNR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 22 2 gold be-v be.03 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 22 3 gold show-v show.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 22 5 gold teach-v teach.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG0 6:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 23 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 23 11 gold be-v be.01 ----- 11:0-rel 3:1-ARGM-DIS 4:2-ARGM-TMP 9:1-ARG1 10:0-ARGM-MOD 12:1-ARG2 13:2-ARGM-TMP 16:1-ARGM-COM
+tc/ch/00/ch_0020@0020@ch@tc@en@on 27 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-ADV 4:1-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 28 1 gold be-v be.03 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 28 3 gold go-v go.04 ----- 3:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 28 5 gold do-v do.02 ----- 5:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 29 1 gold be-v be.03 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 29 2 gold go-v go.04 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 29 4 gold be-v be.01 ----- 4:0-rel 5:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 32 2 gold be-v be.03 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 32 4 gold teach-v teach.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 5:2-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 33 3 gold say-v say.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-TMP 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 33 11 gold need-v need.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 33 15 gold come-v come.01 ----- 15:0-rel 5:1-ARGM-TMP 9:1-ARGM-ADV 13:1-ARG1 14:0-ARGM-MOD 16:1-ARGM-DIR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 34 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:3-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 34 4 gold have-v have.01 ----- 4:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 34 6 gold teach-v teach.01 ----- 6:0-rel 3:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 35 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 2:1-ARGM-DIS 4:1-ARG2 5:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 35 8 gold write-v write.03 ----- 8:0,9:1-rel 6:1-ARG0 10:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 36 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 36 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 36 7 gold get-v get.05 ----- 7:0-rel 8:1-ARGM-DIR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 37 3 gold tell-v tell.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:1-ARG1 7:1-ARGM-DIS
+tc/ch/00/ch_0020@0020@ch@tc@en@on 38 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 38 5 gold work-v work.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG3 8:2-ARGM-MNR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 38 13 gold do-v do.02 ----- 13:0-rel 2:1-ARGM-TMP 11:1-ARG0 14:1-ARG1 15:1-ARGM-MNR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 39 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 39 3 gold have-v have.03 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 40 2 gold know-v know.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 40 5 gold want-v want.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 40 8 gold be-v be.01 ----- 8:0-rel 6:1-ARG1 9:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 40 12 gold be-v be.01 ----- 12:0-rel 6:1-ARG1 13:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 41 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 42 4 gold like-v like.02 ----- 4:0-rel 0:0-ARGM-DIS 3:0-ARGM-NEG 5:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 42 6 gold listen-v listen.01 ----- 6:0-rel 7:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 43 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 43 7 gold be-v be.01 ----- 7:0-rel 5:1-ARGM-MNR 6:1-ARG1 8:1-ARGM-ADV 9:1-ARG2 13:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 43 15 gold be-v be.01 ----- 15:0-rel 14:1-ARG1 16:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 45 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 46 2 gold tell-v tell.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 47 1 gold work-v work.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG3 4:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 48 3 gold eat-v eat.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1 6:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 50 4 gold eat-v eat.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG
+tc/ch/00/ch_0020@0020@ch@tc@en@on 51 3 gold drink-v drink.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 52 3 gold see-v see.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 52 5 gold drink-v drink.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 53 3 gold say-v say.01 ----- 3:0-rel 0:1-ARGM-TMP 2:1-ARG0 4:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 53 6 gold drink-v drink.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 53 9 gold have-v have.03 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 53 14 gold be-v be.02 ----- 14:0-rel 15:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 54 2 gold mean-v mean.01 ----- 2:0-rel 1:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 54 4 gold know-v know.01 ----- 4:0-rel 3:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 54 8 gold eat-v eat.01 ----- 8:0-rel 0:0-ARGM-DIS 5:1-ARG0 7:0-ARGM-NEG 9:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 55 7 gold go-v go.04 ----- 7:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 55 9 gold go-v go.05 ----- 9:0-rel 10:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 55 10 gold get-v get.01 ----- 10:0-rel 11:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 55 13 gold eat-v eat.01 ----- 13:0-rel 11:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 55 16 gold eat-v eat.01 ----- 16:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARGM-PRD 4:2-ARGM-TMP 14:1-ARGM-ADV 15:1-ARG0 17:1-ARGM-DIS 18:2-ARG1 26:1-ARGM-PRD
+tc/ch/00/ch_0020@0020@ch@tc@en@on 55 23 gold eat-v eat.01 ----- 23:0-rel 21:1-ARG0 22:0-ARGM-MOD
+tc/ch/00/ch_0020@0020@ch@tc@en@on 56 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 57 3 gold understand-v understand.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARGM-TMP 5:2-ARG1 9:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 57 7 gold think-v think.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 57 13 gold have-v have.03 ----- 13:0-rel 10:1-ARG0 12:0-ARGM-NEG 14:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 57 17 gold know-v know.01 ----- 17:0-rel 16:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 59 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 62 3 gold agree-v agree.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 62 5 gold do-v do.02 ----- 5:0-rel 6:1-ARG1 7:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 63 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 65 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 67 3 gold tell-v tell.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 68 6 gold be-v be.01 ----- 6:0-rel 0:1-ARGM-TMP 5:1-ARG1 7:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 69 1 gold miss-v miss.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 70 1 gold miss-v miss.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 71 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 6 gold make-v make.01 ----- 6:0-rel 5:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 11 gold know-v know.01 ----- 11:0-rel 10:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 13 gold keep-v keep.02 ----- 13:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 3:2-ARGM-TMP 12:1-ARG0 14:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 14 gold call-v call.02 ----- 14:0-rel 15:1-ARG1 16:2-ARGM-PRP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 17 gold taste-v taste.01 ----- 17:0-rel 18:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 20 gold make-v make.02 ----- 20:0-rel 21:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 24 gold be-v be.01 ----- 24:0-rel 23:1-ARG1 25:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 75 29 gold do-v do.02 ----- 29:0-rel 28:1-ARG0 30:1-ARG1 25:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 76 3 gold say-v say.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG2 6:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 76 10 gold make-v make.01 ----- 10:0-rel 6:1-ARGM-DIS 7:1-ARG0 9:0-ARGM-NEG 11:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 77 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 77 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 77 6 gold know-v know.01 ----- 6:0-rel 5:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 78 3 gold do-v do.02 ----- 3:0-rel 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 80 3 gold go-v go.04 ----- 3:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 80 5 gold notice-v notice.01 ----- 5:0-rel 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 80 9 gold be-v be.01 ----- 9:0-rel 7:1-ARG1 10:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 81 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 81 6 gold say-v say.01 ----- 6:0-rel 4:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 81 8 gold know-v know.01 ----- 8:0-rel 7:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 82 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 82 5 gold be-v be.01 ----- 5:0-rel 3:1-ARG1 6:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 83 2 gold be-v be.02 ----- 2:0-rel 0:0-ARGM-DIS 3:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 83 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2 6:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 83 12 gold run-v run.01 ----- 12:0-rel 13:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 84 3 gold see-v see.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD
+tc/ch/00/ch_0020@0020@ch@tc@en@on 86 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 86 4 gold get-v get.03 ----- 4:0-rel 2:1*3:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 86 5 gold marry-v marry.01 ----- 5:0-rel 2:1,3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 87 1 gold marry-v marry.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 88 12 gold kid-v kid.01 ----- 12:0-rel 10:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 91 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2 4:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 91 7 gold have-v have.03 ----- 7:0-rel 0:2-ARGM-TMP 6:1-ARG0 8:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 94 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 4:1-ARG2 5:1-ARGM-TMP 6:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 95 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-TMP 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 96 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2 5:1-ARGM-LOC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 97 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 97 4 gold be-v be.01 ----- 4:0-rel 2:1-ARG1 5:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 100 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 101 2 gold get-v get.03 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 101 3 gold marry-v marry.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 102 2 gold be-v be.01 ----- 2:0-rel 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 103 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 104 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2 4:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 106 1 gold do-v do.01 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 106 3 gold allow-v allow.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 107 2 gold guess-v guess.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 107 6 gold have-v have.03 ----- 6:0-rel 3:1-ARG0 5:0-ARGM-NEG 7:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 5:3-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 8 gold come-v come.01 ----- 8:0-rel 7:1-ARG1 9:1-ARG4
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 15 gold go-v go.04 ----- 15:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 17 gold get-v get.03 ----- 17:0-rel 18:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 18 gold marry-v marry.01 ----- 18:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 21 gold go-v go.04 ----- 21:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 23 gold get-v get.03 ----- 23:0-rel 24:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 108 24 gold marry-v marry.01 ----- 24:0-rel 25:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 109 2 gold get-v get.03 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 109 3 gold engage-v engage.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARGM-DIS 5:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 110 1 gold go-v go.04 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 110 3 gold get-v get.03 ----- 3:0-rel 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 110 4 gold marry-v marry.01 ----- 4:0-rel 5:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 111 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 112 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 3:1-ARGM-DIS 4:1-ARG1 6:1-ARGM-DIS
+tc/ch/00/ch_0020@0020@ch@tc@en@on 113 7 gold come-v come.01 ----- 7:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARGM-TMP 6:1-ARG1 8:1-ARGM-DIR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 113 10 gold say-v say.01 ----- 10:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARGM-TMP 6:1-ARG0 11:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 113 13 gold want-v want.01 ----- 13:0-rel 11:1-ARGM-DIS 12:1-ARG0 14:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 113 15 gold get-v get.03 ----- 15:0-rel 16:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 113 16 gold marry-v marry.01 ----- 16:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 114 1 gold get-v get.03 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 114 2 gold marry-v marry.01 ----- 2:0-rel 0:1-ARG1 3:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 114 5 gold think-v think.01 ----- 5:0-rel 4:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 117 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 118 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 4:3-ARGM-MNR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 119 4 gold rent-v rent.01 ----- 4:0-rel 0:1-ARGM-TMP 3:1-ARG0 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 121 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARGM-DIS
+tc/ch/00/ch_0020@0020@ch@tc@en@on 122 2 gold do-v do.02 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARGM-LOC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 123 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 124 1 gold read-v read.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 126 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARGM-DIS 4:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 126 8 gold get-v get.03 ----- 8:0-rel 9:1-ARG2 4:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 126 9 gold marry-v marry.01 ----- 9:0-rel 4:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 128 2 gold rent-v rent.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 131 2 gold admit-v admit.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 131 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 132 2 gold serve-v serve.02 ----- 2:0-rel 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 132 5 gold use-v use.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:2-ARGM-ADV 4:1-ARG0 6:1-ARGM-DIS 7:1-ARGM-DIS 12:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 135 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 3:1-ARG2 4:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 135 7 gold have-v have.04 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARGM-DIS 9:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 135 11 gold set-v set.03 ----- 11:0,12:1-rel 9:1-LINK-PCR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 136 2 gold have-v have.03 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 137 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 138 3 gold have-v have.03 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 139 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 140 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 141 0 gold do-v do.01 ----- 0:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 141 3 gold have-v have.02 ----- 3:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 141 5 gold do-v do.02 ----- 5:0-rel 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 143 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 144 3 gold have-v have.02 ----- 3:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 144 5 gold do-v do.02 ----- 5:0-rel 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 146 2 gold be-v be.03 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 146 3 gold work-v work.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-LOC 11:1-ARGM-EXT
+tc/ch/00/ch_0020@0020@ch@tc@en@on 147 2 gold be-v be.03 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 147 3 gold go-v go.04 ----- 3:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 147 5 gold study-v study.01 ----- 5:0-rel 6:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 148 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 149 0 gold do-v do.01 ----- 0:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 149 2 gold cover-v cover.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 151 2 gold keep-v keep.02 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 152 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 153 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 155 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG1 5:1-ARGM-DIS 6:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 155 10 gold be-v be.01 ----- 10:0-rel 11:2-ARGM-NEG 7:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 158 1 gold go-v go.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG4 4:1-ARGM-TMP 7:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 159 2 gold send-v send.03 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:1-ARGM-DIS 7:2-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 159 10 gold be-v be.01 ----- 10:0-rel 9:1-ARG1 11:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 160 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 161 1 gold come-v come.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-PRP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 162 3 gold tell-v tell.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 163 1 gold wait-v wait.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 163 3 gold tell-v tell.01 ----- 3:0-rel 4:1-ARG2 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 163 7 gold get-v get.03 ----- 7:0-rel 6:1-ARG1 8:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 163 8 gold engage-v engage.01 ----- 8:0-rel 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 164 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 165 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2 5:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 165 11 gold come-v come.01 ----- 11:0-rel 9:0-ARGM-MOD 10:1-ARG1 12:1-ARGM-DIR 13:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 166 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 168 5 gold understand-v understand.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 4:1-ARG0 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 169 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 171 5 gold call-v call.02 ----- 5:0-rel 1:1-ARGM-ADV 2:1-ARG0 3:0-ARGM-MOD 6:1-ARG1 7:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 172 3 gold have-v have.01 ----- 3:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 172 4 gold change-v change.01 ----- 4:0-rel 0:1-ARGM-ADV 1:1-ARG0 2:0-ARGM-MOD 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 174 0 gold wait-v wait.01 ----- 0:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 176 3 gold be-v be.01 ----- 3:0-rel 0:2-ARG1 4:1-ARG2 5:1-ARGM-DIS
+tc/ch/00/ch_0020@0020@ch@tc@en@on 177 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 177 10 gold come-v come.01 ----- 10:0-rel 6:1-ARG1 9:0-ARGM-NEG 11:1-ARGM-DIR 12:1-ARGM-PRP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 178 4 gold know-v know.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG
+tc/ch/00/ch_0020@0020@ch@tc@en@on 179 1 gold have-v have.02 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 179 3 gold look-v look.01 ----- 3:0-rel 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 179 6 gold know-v know.01 ----- 6:0-rel 5:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 181 3 gold believe-v believe.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 181 5 gold get-v get.03 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 181 6 gold marry-v marry.01 ----- 6:0-rel 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 183 1 gold get-v get.03 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 183 2 gold marry-v marry.01 ----- 2:0-rel 0:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 184 7 gold get-v get.03 ----- 7:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:2-ARGM-TMP 5:1-ARG1 8:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 184 8 gold marry-v marry.01 ----- 8:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:2-ARGM-TMP 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 185 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 185 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 188 1 gold be-v be.03 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 188 3 gold live-v live.01 ----- 3:0-rel 2:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 189 4 gold look-v look.02 ----- 4:0-rel 3:1-ARG0 5:0-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 189 12 gold be-v be.01 ----- 12:0-rel 11:1-ARG1 13:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 190 2 gold look-v look.02 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 191 3 gold finish-v finish.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-TMP 5:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 192 2 gold meet-v meet.02 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 193 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 196 4 gold live-v live.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0 5:1-ARGM-LOC 8:1-ARGM-DIS 9:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 196 11 gold allow-v allow.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 196 15 gold live-v live.01 ----- 15:0-rel 12:1-ARGM-DIS 13:1-ARG0 16:1-ARGM-LOC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 4 gold know-v know.01 ----- 4:0-rel 1:1-ARG0 3:0-ARGM-NEG
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 7 gold work-v work.01 ----- 7:0-rel 0:0-ARGM-DIS 5:1-ARG0 6:0-ARGM-MOD 8:1-ARGM-LOC 14:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 10 gold do-v do.02 ----- 10:0-rel 0:0-ARGM-DIS 5:1-ARG0 6:0-ARGM-MOD 9:1-ARGM-DIS 11:2-ARG1 14:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 13 gold want-v want.01 ----- 13:0-rel 12:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 16 gold decide-v decide.01 ----- 16:0-rel 15:1-ARG0 17:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 19 gold want-v want.01 ----- 19:0-rel 18:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 21 gold do-v do.02 ----- 21:0-rel 15:1-ARG0 22:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 197 24 gold want-v want.01 ----- 24:0-rel 23:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 198 0 gold do-v do.02 ----- 0:0-rel 1:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 198 3 gold want-v want.01 ----- 3:0-rel 2:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 199 0 gold study-v study.01 ----- 0:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 200 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 200 7 gold do-v do.02 ----- 7:0-rel 5:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 201 5 gold live-v live.01 ----- 5:0-rel 0:1-ARG0 3:0-ARGM-NEG 4:1-ARGM-ADV 6:1-ARGM-LOC 9:1-ARGM-TMP 10:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 201 12 gold be-v be.01 ----- 12:0-rel 13:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 201 23 gold know-v know.01 ----- 23:0-rel 20:1-ARG0 22:0-ARGM-NEG
+tc/ch/00/ch_0020@0020@ch@tc@en@on 203 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 204 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 205 3 gold get-v get.03 ----- 3:0-rel 2:1-ARG1 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 205 4 gold engage-v engage.01 ----- 4:0-rel 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 205 6 gold be-v be.01 ----- 6:0-rel 0:1-ARGM-DIS 1:2-ARGM-TMP 5:1-ARG1 7:2-ARG2 12:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 205 14 gold be-v be.01 ----- 14:0-rel 13:1-ARG1 15:0-ARGM-NEG 16:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 205 19 gold be-v be.01 ----- 19:0-rel 18:1-ARG1 20:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 206 3 gold think-v think.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:4-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 206 10 gold get-v get.01 ----- 10:0-rel 4:2-ARGM-LOC 8:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 206 13 gold want-v want.01 ----- 13:0-rel 12:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 210 3 gold leave-v leave.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-ADV 4:1-ARG1 6:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 211 5 gold be-v be.03 ----- 5:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 211 6 gold come-v come.01 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARGM-TMP 4:1-ARG1 7:1-ARGM-DIR 8:1-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 211 11 gold know-v know.01 ----- 11:0-rel 10:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 212 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1 8:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 213 2 gold make-v make.02 ----- 2:0-rel 3:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 213 8 gold have-v have.03 ----- 8:0-rel 0:1-ARGM-DIS 1:2-ARGM-ADV 7:1-ARG0 9:1-ARG1 11:1-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 214 3 gold do-v do.02 ----- 3:0-rel 0:0-ARGM-DIS 2:1-ARG0 4:1-ARGM-MNR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 215 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2 7:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 215 9 gold do-v do.01 ----- 9:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 215 12 gold do-v do.02 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-TMP 13:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 216 2 gold rent-v rent.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1 7:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 217 2 gold rent-v rent.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 219 2 gold set-v set.03 ----- 2:0,3:1-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 220 1 gold buy-v buy.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 221 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 221 4 gold be-v be.01 ----- 4:0-rel 2:1-ARGM-DIS 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 222 2 gold save-v save.03 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 222 7 gold wash-v wash.01 ----- 7:0-rel 5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 223 2 gold make-v make.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 224 2 gold look-v look.02 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 227 2 gold buy-v buy.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 228 2 gold put-v put.10 ----- 2:0,3:1-rel 0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 229 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-DIS 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 230 2 gold have-v have.03 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 231 2 gold have-v have.03 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 232 3 gold make-v make.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1 11:2-ARGM-ADV
+tc/ch/00/ch_0020@0020@ch@tc@en@on 232 10 gold know-v know.01 ----- 10:0-rel 9:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 232 12 gold fall-v fall.01 ----- 12:0-rel 11:1-ARG1 13:1-ARGM-DIR 14:1-ARG4
+tc/ch/00/ch_0020@0020@ch@tc@en@on 233 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 237 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 238 2 gold come-v come.09 ----- 2:0,3:1-rel 0:1-ARG1 1:1-ARGM-DIS 4:1-ARGM-MNR
+tc/ch/00/ch_0020@0020@ch@tc@en@on 240 3 gold feel-v feel.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 240 9 gold marry-v marry.01 ----- 9:0-rel 10:0-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 242 2 gold feel-v feel.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 243 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 244 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2 4:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 244 6 gold have-v have.03 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 244 12 gold be-v be.01 ----- 12:0-rel 11:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 245 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 245 8 gold be-v be.02 ----- 8:0-rel 2:1-ARGM-DIS 3:1-ARGM-TMP 4:1-ARGM-LOC 9:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 245 12 gold dance-v dance.01 ----- 12:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 246 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG1 6:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 247 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 5:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 247 7 gold sit-v sit.01 ----- 7:0-rel 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARGM-DIS 4:1-ARG2 14:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 8 gold have-v have.01 ----- 8:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 9 gold see-v see.01 ----- 9:0-rel 6:1-ARG0 7:0-ARGM-MOD 12:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 11 gold know-v know.01 ----- 11:0-rel 10:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 16 gold be-v be.01 ----- 16:0-rel 17:1-ARGM-DIS 18:3-ARG1 36:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 38 gold be-v be.02 ----- 38:0-rel 39:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 43 gold have-v have.03 ----- 43:0-rel 41:1-ARG0 44:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 250 49 gold have-v have.03 ----- 49:0-rel 47:1-ARG0 48:0-ARGM-MOD 50:1-ARGM-DIS 51:2-ARG1 55:2-ARGM-LOC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 252 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 254 1 gold happen-v happen.01 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 255 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 255 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 255 11 gold dance-v dance.01 ----- 11:0-rel 8:1-ARG0 9:0-ARGM-MOD 10:0-ARGM-NEG 12:1-ARGM-GOL
+tc/ch/00/ch_0020@0020@ch@tc@en@on 255 14 gold be-v be.01 ----- 14:0-rel 8:1-ARG1 9:0-ARGM-MOD 10:0-ARGM-NEG 15:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 256 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 257 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 3:1-ARGM-CAU
+tc/ch/00/ch_0020@0020@ch@tc@en@on 257 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 258 4 gold get-v get.03 ----- 4:0-rel 0:0-ARGM-DIS 1:1,3:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 261 3 gold come-v come.01 ----- 3:0-rel 0:1-ARG1 2:0-ARGM-NEG
+tc/ch/00/ch_0020@0020@ch@tc@en@on 262 2 gold have-v have.02 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 262 4 gold get-v get.01 ----- 4:0-rel 5:1-ARG2 7:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 263 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 265 3 gold hear-v hear.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 266 4 gold get-v get.03 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 266 7 gold know-v know.01 ----- 7:0-rel 6:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 267 4 gold dance-v dance.01 ----- 4:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:0-ARGM-NEG
+tc/ch/00/ch_0020@0020@ch@tc@en@on 268 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 269 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 269 4 gold do-v do.01 ----- 4:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 269 7 gold bother-v bother.02 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 269 8 gold pay-v pay.01 ----- 8:0-rel 9:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 270 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 271 0 gold get-v get.01 ----- 0:0-rel 1:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 272 5 gold have-v have.01 ----- 5:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 272 6 gold know-v know.01 ----- 6:0-rel 3:1-ARG0 4:0-ARGM-MOD 7:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 272 8 gold be-v be.01 ----- 8:0-rel 7:1-ARG1 9:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 272 11 gold call-v call.02 ----- 11:0-rel 0:0-ARGM-DIS 10:1-ARGM-ADV 12:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 273 2 gold have-v have.01 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 273 3 gold send-v send.02 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1 6:2-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 273 7 gold go-v go.05 ----- 7:0-rel 8:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 273 8 gold get-v get.01 ----- 8:0-rel 9:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 276 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 278 3 gold engage-v engage.01 ----- 3:0-rel 0:1-ARGM-ADV 1:1-ARG0
+tc/ch/00/ch_0020@0020@ch@tc@en@on 280 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 283 2 gold be-v be.02 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 285 5 gold finish-v finish.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARGM-TMP 6:1-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 286 6 gold go-v go.02 ----- 6:0-rel 0:1-ARGM-DIS 1:2-ARG0 7:1-ARG4 10:2-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 288 1 gold do-v do.01 ----- 1:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 288 4 gold have-v have.03 ----- 4:0-rel 0:0-ARGM-DIS 2:0-ARGM-NEG 3:1-ARG0 5:2-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 288 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2 5:1-LINK-SLC
+tc/ch/00/ch_0020@0020@ch@tc@en@on 290 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARGM-TMP 4:1-ARG2
+tc/ch/00/ch_0020@0020@ch@tc@en@on 293 2 gold be-v be.03 ----- 2:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 293 4 gold engage-v engage.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 5:1-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 294 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+tc/ch/00/ch_0020@0020@ch@tc@en@on 294 3 gold wait-v wait.01 ----- 3:0-rel 2:1-ARG1 4:2-ARGM-TMP
+tc/ch/00/ch_0020@0020@ch@tc@en@on 297 0 gold be-v be.03 ----- 0:0-rel
+tc/ch/00/ch_0020@0020@ch@tc@en@on 297 3 gold go-v go.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-TMP 4:1-ARGM-COM

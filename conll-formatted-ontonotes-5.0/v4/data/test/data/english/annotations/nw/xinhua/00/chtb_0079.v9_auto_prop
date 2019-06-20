@@ -1,0 +1,61 @@
+chtb_0079.parse 1 1 predicted plan-v plan.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+chtb_0079.parse 1 3 predicted formulate-v formulate.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+chtb_0079.parse 1 9 predicted ensure-v ensure.01 ----- 9:0-rel  0:1-ARG0 10:1-ARGM-MNR
+chtb_0079.parse 1 15 predicted utilize-v utilize.- ----- 15:0-rel  12:1-ARGM-MNR 16:1-ARG1
+chtb_0079.parse 1 20 predicted improve-v improve.01 ----- 20:0-rel  21:2-ARG1
+chtb_0079.parse 2 8 predicted present-v present.01 ----- 8:0-rel  0:2-ARG0
+chtb_0079.parse 2 14 predicted expand-v expand.01 ----- 14:0-rel  15:2-ARG1
+chtb_0079.parse 2 17 predicted utilize-v utilize.- ----- 17:0-rel  18:1-ARG1
+chtb_0079.parse 2 24 predicted experiment-v experiment.01 ----- 24:0-rel  11:1-ARGM-PRP 21:1-ARG0 22:0-ARGM-MOD 23:1-ARGM-MNR 25:1-ARG1
+chtb_0079.parse 2 28 predicted develop-v develop.02 ----- 28:0-rel  11:1-ARGM-PRP 21:1-ARG0 22:0-ARGM-MOD 27:1-ARGM-MNR 29:2-ARG1
+chtb_0079.parse 3 2 predicted expand-v expand.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+chtb_0079.parse 3 5 predicted develop-v develop.02 ----- 5:0-rel  6:0-ARG1 11:0-C-ARG1
+chtb_0079.parse 3 10 predicted develop-v develop.01 ----- 10:0-rel  9:0-ARGM-MNR 11:0-ARG1
+chtb_0079.parse 3 13 predicted expand-v expand.01 ----- 13:0-rel  0:1-ARG0 1:0-ARGM-MOD
+chtb_0079.parse 3 24 predicted continue-v continue.01 ----- 24:0-rel  0:1-ARG0 1:0-ARGM-MOD 25:2-ARG1
+chtb_0079.parse 3 26 predicted utilize-v utilize.- ----- 26:0-rel  25:1-ARG0 27:1-ARG1
+chtb_0079.parse 4 14 predicted utilize-v utilize.- ----- 14:0-rel  15:1-ARG1
+chtb_0079.parse 4 19 predicted promote-v promote.02 ----- 19:0-rel  0:1-ARGM-LOC 11:2-ARG1 17:0-ARGM-MOD
+chtb_0079.parse 5 1 predicted provide-v provide.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG0
+chtb_0079.parse 5 7 predicted show-v show.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+chtb_0079.parse 5 10 predicted start-v start.01 ----- 10:0-rel  11:1-ARGM-TMP
+chtb_0079.parse 5 20 predicted continue-v continue.01 ----- 20:0-rel  10:2-ARGM-TMP 14:2-ARG1 19:0-ARGM-MOD 21:2-C-ARG1
+chtb_0079.parse 5 22 predicted enjoy-v enjoy.01 ----- 22:0-rel  14:2-ARG0 23:1-ARG1
+chtb_0079.parse 5 34 predicted include-v include.01 ----- 34:0-rel  27:2-ARG2 33:0-ARGM-MOD 35:3-ARG1
+chtb_0079.parse 5 40 predicted engage-v engage.01 ----- 40:0-rel  35:2-ARG1 41:1-ARG2
+chtb_0079.parse 6 8 predicted express-v express.01 ----- 8:0-rel  0:1-ARG0 9:1-ARG1
+chtb_0079.parse 6 14 predicted encourage-v encourage.01 ----- 14:0-rel  15:1-ARG1
+chtb_0079.parse 6 18 predicted carry-v carry.03 ----- 18:0-rel  15:1-ARG0 20:2-ARG1
+chtb_0079.parse 6 32 predicted allow-v allow.01 ----- 32:0-rel  11:1-ARGM-PRP 28:1-ARG1 30:0-ARGM-MOD
+chtb_0079.parse 6 50 predicted restrict-v restrict.01 ----- 50:0-rel  44:1-R-ARGM-LOC 46:2-ARG0 51:1-ARG1
+chtb_0079.parse 6 57 predicted make-v make.01 ----- 57:0-rel  55:1-R-ARG0 56:0-ARGM-MOD
+chtb_0079.parse 7 4 predicted encourage-v encourage.02 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:2-ARG1 10:2-ARG2
+chtb_0079.parse 7 11 predicted construct-v construct.01 ----- 11:0-rel  2:1-ARG0 5:2-ARG1 14:1-ARG1
+chtb_0079.parse 7 13 predicted operate-v operate.01 ----- 13:0-rel  2:1-ARG0 14:1-ARG1
+chtb_0079.parse 7 21 predicted allow-v allow.01 ----- 21:0-rel  0:1-ARGM-DIS 2:1-ARG0 20:0-ARGM-MOD 22:3-ARG1
+chtb_0079.parse 7 24 predicted invest-v invest.01 ----- 24:0-rel  22:1-ARG0 25:1-ARGM-MNR
+chtb_0079.parse 7 27 predicted construct-v construct.01 ----- 27:0-rel  22:2-ARG0
+chtb_0079.parse 8 6 predicted establish-v establish.01 ----- 6:0-rel  3:1-ARG0 5:0-ARGM-MOD 7:2-ARG1
+chtb_0079.parse 8 21 predicted invest-v invest.01 ----- 21:0-rel  18:1-ARG0 22:1-ARGM-MNR
+chtb_0079.parse 8 24 predicted establish-v establish.01 ----- 24:0-rel  18:2-ARG0 23:0-ARGM-MOD
+chtb_0079.parse 8 25 predicted ship-v ship.01 ----- 25:0-rel  18:2-ARG0 26:1-ARG1
+chtb_0079.parse 8 29 predicted follow-v follow.01 ----- 29:0-rel  30:2-ARG1
+chtb_0079.parse 9 11 predicted approve-v approve.01 ----- 11:0-rel  0:1-ARGM-ADV 4:1-ARGM-TMP 8:1-ARG0 10:1-ARGM-EXT 12:1-ARG1
+chtb_0079.parse 9 16 predicted invest-v invest.01 ----- 16:0-rel  14:0-ARGM-MNR 17:0-ARG1
+chtb_0079.parse 9 22 predicted utilize-v utilize.- ----- 22:0-rel  21:0-ARGM-ADV 23:0-ARG1 24:0-C-ARG1
+chtb_0079.parse 10 1 predicted utilize-v utilize.- ----- 1:0-rel  2:0-ARG1 3:0-C-ARG1
+chtb_0079.parse 10 5 predicted account-v account.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+chtb_0079.parse 10 12 predicted fix-v fix.03 ----- 12:0-rel  13:0-ARG1
+chtb_0079.parse 11 18 predicted grow-v grow.01 ----- 18:0-rel  0:1-ARGM-ADV 11:3-ARG1 17:0-ARGM-MOD 19:1-ARG2
+chtb_0079.parse 11 23 predicted invest-v invest.01 ----- 23:0-rel  22:1-ARG1 24:1-ARG2 25:1-ARG0
+chtb_0079.parse 11 30 predicted expand-v expand.01 ----- 30:0-rel  22:2-ARG1 28:0-ARGM-MOD 29:1-ARGM-DIS 31:1-ARGM-TMP
+chtb_0079.parse 12 4 predicted issue-v issue.01 ----- 4:0-rel  0:1-ARG1 3:1-ARGM-MNR
+chtb_0079.parse 12 5 predicted show-v show.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+chtb_0079.parse 12 10 predicted lead-v lead.02 ----- 10:0-rel  7:1-ARG0 8:0-ARGM-MOD 9:1-ARGM-MNR 11:2-ARG1
+chtb_0079.parse 12 17 predicted reach-v reach.01 ----- 17:0-rel  7:1-ARG0 18:2-ARG1
+chtb_0079.parse 12 22 predicted utilize-v utilize.- ----- 22:0-rel  21:0-ARGM-MNR 23:1-ARG1
+chtb_0079.parse 13 9 predicted encourage-v encourage.01 ----- 9:0-rel  0:1-ARGM-TMP 7:1-ARG0 8:0-ARGM-MOD 10:1-ARG1 12:2-ARG2
+chtb_0079.parse 13 13 predicted invest-v invest.01 ----- 13:0-rel  10:1-ARG0 14:1-ARG2
+chtb_0079.parse 13 53 predicted encourage-v encourage.01 ----- 53:0-rel  0:1-ARGM-TMP 7:1-ARG0 52:0-ARGM-MOD 54:1-ARG1 56:2-ARG2
+chtb_0079.parse 13 57 predicted employ-v employ.01 ----- 57:0-rel  54:1-ARG0 58:1-ARG1 62:2-ARGM-PRP
+chtb_0079.parse 13 63 predicted participate-v participate.01 ----- 63:0-rel  64:1-ARG1

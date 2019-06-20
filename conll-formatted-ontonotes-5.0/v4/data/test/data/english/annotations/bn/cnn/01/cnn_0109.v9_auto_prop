@@ -1,0 +1,11 @@
+cnn_0109.parse 0 15 predicted charge-v charge.05 ----- 15:0-rel  0:2-ARG1 13:0-ARGM-MOD
+cnn_0109.parse 1 4 predicted quoting-v quoting.- ----- 4:0-rel  0:1-ARG0
+cnn_0109.parse 1 9 predicted say-v say.01 ----- 9:0-rel  5:1-ARG0 8:1-R-ARG0 10:3-ARG1
+cnn_0109.parse 1 13 predicted wrapped-v wrapped.- ----- 13:0-rel  10:1-ARG0 15:1-ARG1
+cnn_0109.parse 1 19 predicted hand-v hand.02 ----- 19:0-rel  10:1-ARG0 18:0-ARGM-MOD 20:1-ARG1 23:1-ARG2
+cnn_0109.parse 2 4 predicted execute-v execute.01 ----- 4:0-rel  0:1-ARG1 2:0-ARGM-MOD 5:1-ARGM-ADV
+cnn_0109.parse 2 8 predicted convict-v convict.01 ----- 8:0-rel  6:1-ARG1 9:1-ARG2
+cnn_0109.parse 3 5 predicted kill-v kill.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+cnn_0109.parse 3 10 predicted injure-v injure.01 ----- 10:0-rel  0:2-ARG0 11:1-ARG1 13:1-ARGM-TMP
+cnn_0109.parse 4 2 predicted suspect-v suspect.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0109.parse 4 6 predicted be-v be.01 ----- 6:0-rel  3:1-ARG1 7:2-ARG2

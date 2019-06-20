@@ -1,0 +1,13 @@
+pri_0008.parse 0 7 predicted concede-v concede.01 ----- 7:0-rel  6:1-ARG0 8:1-ARG1
+pri_0008.parse 0 15 predicted send-v send.01 ----- 15:0-rel  0:2-ARG0 16:2-ARG1
+pri_0008.parse 0 17 predicted rejoice-v rejoice.- ----- 17:0-rel  16:1-ARG1 18:1-ARG2
+pri_0008.parse 1 7 predicted signal-v signal.01 ----- 7:0-rel  0:2-ARG0
+pri_0008.parse 1 10 predicted abandon-v abandon.01 ----- 10:0-rel  8:1-ARG0 11:1-ARG1
+pri_0008.parse 1 13 predicted block-v block.01 ----- 13:0-rel  14:1-ARG1 16:1-ARG2
+pri_0008.parse 1 17 predicted assume-v assume.01 ----- 17:0-rel  18:1-ARG1
+pri_0008.parse 2 4 predicted congratulate-v congratulate.01 ----- 4:0-rel  0:1-ARGM-LOC 3:1-ARG0
+pri_0008.parse 2 12 predicted rule-v rule.01 ----- 12:0-rel  5:2-ARG2 9:1-R-ARG2 13:1-ARG1
+pri_0008.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+pri_0008.parse 3 4 predicted plan-v plan.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+pri_0008.parse 3 6 predicted help-v help.01 ----- 6:0-rel  3:1-ARG0 7:2-ARG1
+pri_0008.parse 3 10 predicted gain-v gain.02 ----- 10:0-rel  7:1-ARG0 11:1-ARG1

@@ -1,0 +1,6 @@
+abc_0006.parse 0 6 predicted sign-v sign.01 ----- 6:0-rel  0:2-R-ARG0 4:1-ARG0 7:1-ARG1 9:1-ARGM-TMP 10:2-C-ARG1
+abc_0006.parse 0 10 predicted grant-v grant.01 ----- 10:0-rel  4:1-ARG0 11:1-ARG2 12:1-ARG1
+abc_0006.parse 1 2 predicted end-v end.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+abc_0006.parse 1 12 predicted lower-v lower.01 ----- 12:0-rel  0:1-ARG0 1:0-ARGM-MOD 13:2-ARG1
+abc_0006.parse 2 6 predicted agree-v agree.01 ----- 6:0-rel  0:1-ARG0 2:1-ARGM-ADV 7:2-ARG1
+abc_0006.parse 2 8 predicted open-v open.01 ----- 8:0-rel  0:1-ARG0 9:1-ARG1

@@ -1,0 +1,90 @@
+nt_6613.parse 0 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+nt_6613.parse 0 5 predicted come-v come.11 ----- 5:0-rel  3:1-ARG1 7:1-ARG2
+nt_6613.parse 1 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+nt_6613.parse 3 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+nt_6613.parse 3 5 predicted write-v write.01 ----- 5:0-rel  2:1-ARG1 6:1-ARGM-LOC
+nt_6613.parse 4 2 predicted look-v look.02 ----- 2:0-rel  0:1-ARG0
+nt_6613.parse 5 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+nt_6613.parse 6 2 predicted give-v give.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2 5:2-ARG1
+nt_6613.parse 7 7 predicted look-v look.02 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+nt_6613.parse 7 13 predicted wounded-v wounded.- ----- 13:0-rel  10:1-ARG1
+nt_6613.parse 7 15 predicted kill-v kill.01 ----- 15:0-rel  10:1-ARG1
+nt_6613.parse 7 22 predicted heal-v heal.01 ----- 22:0-rel  18:1-ARG1
+nt_6613.parse 8 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+nt_6613.parse 8 12 predicted follow-v follow.02 ----- 12:0-rel  10:2-ARG0 13:1-ARG1
+nt_6613.parse 9 1 predicted worship-v worship.- ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARGM-CAU
+nt_6613.parse 9 7 predicted give-v give.01 ----- 7:0-rel  5:1-ARG0 8:1-ARG1 10:1-ARG2
+nt_6613.parse 9 17 predicted worship-v worship.- ----- 17:0-rel  15:1-ARG0 16:1-ARGM-ADV 18:1-ARG1
+nt_6613.parse 10 1 predicted ask-v ask.01 ----- 1:0-rel  0:1-ARG0 2:0-ARG2
+nt_6613.parse 10 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1
+nt_6613.parse 11 2 predicted make-v make.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD
+nt_6613.parse 12 3 predicted allow-v allow.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG1
+nt_6613.parse 12 5 predicted boast-v boast.01 ----- 5:0-rel  0:1-ARG0
+nt_6613.parse 12 7 predicted speak-v speak.01 ----- 7:0-rel  0:1-ARG0 8:2-ARG1
+nt_6613.parse 13 2 predicted allow-v allow.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG1
+nt_6613.parse 13 4 predicted use-v use.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 7:1-ARGM-TMP
+nt_6613.parse 14 2 predicted open-v open.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nt_6613.parse 14 18 predicted live-v live.01 ----- 18:0-rel  14:1-ARGM-LOC 16:1-R-ARGM-LOC 17:1-ARG0
+nt_6613.parse 14 24 predicted live-v live.01 ----- 24:0-rel  21:1-ARG0 23:1-R-ARG0 25:1-ARGM-LOC
+nt_6613.parse 15 2 predicted give-v give.01 ----- 2:0-rel  3:1-ARG1
+nt_6613.parse 15 5 predicted make-v make.04 ----- 5:0-rel  6:2-ARG1
+nt_6613.parse 15 14 predicted defeat-v defeat.01 ----- 14:0-rel  15:1-ARG1
+nt_6613.parse 16 2 predicted give-v give.01 ----- 2:0-rel  0:1-ARG2
+nt_6613.parse 17 1 predicted live-v live.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-LOC
+nt_6613.parse 17 5 predicted worship-v worship.- ----- 5:0-rel  0:2-ARG0 4:0-ARGM-MOD 6:1-ARG1
+nt_6613.parse 18 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+nt_6613.parse 18 15 predicted write-v write.01 ----- 15:0-rel  11:1-ARG1 14:0-ARGM-NEG 16:1-ARGM-LOC
+nt_6613.parse 19 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+nt_6613.parse 19 7 predicted kill-v kill.01 ----- 7:0-rel  3:1-ARG1 5:1-R-ARG1
+nt_6613.parse 20 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARG0 1:1-R-ARG0 3:3-ARG1
+nt_6613.parse 20 6 predicted listen-v listen.01 ----- 6:0-rel  3:1-ARG1 5:0-ARGM-MOD 7:1-ARG2
+nt_6613.parse 20 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:2-ARG2
+nt_6613.parse 20 13 predicted be-v be.01 ----- 13:0-rel  10:1-ARG1 14:1-ARG2
+nt_6613.parse 20 18 predicted be-v be.01 ----- 18:0-rel  0:2-ARG1 17:0-ARGM-MOD 19:1-ARG2
+nt_6613.parse 21 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nt_6613.parse 21 4 predicted kill-v kill.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-MNR
+nt_6613.parse 21 11 predicted kill-v kill.01 ----- 11:0-rel  0:2-ARG1 9:0-ARGM-MOD 12:1-ARG2
+nt_6613.parse 22 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+nt_6613.parse 22 8 predicted have-v have.03 ----- 8:0-rel  3:2-ARG0 7:0-ARGM-MOD 9:1-ARG1
+nt_6613.parse 23 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+nt_6613.parse 23 5 predicted come-v come.11 ----- 5:0-rel  3:1-ARG1 7:1-ARG2
+nt_6613.parse 24 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+nt_6613.parse 24 10 predicted talk-v talk.01 ----- 10:0-rel  9:1-ARG0 11:1-ARG2
+nt_6613.parse 25 2 predicted stand-v stand.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+nt_6613.parse 25 8 predicted used-v used.- ----- 8:0-rel  0:1-ARG0
+nt_6613.parse 25 15 predicted have-v have.03 ----- 15:0-rel  12:1-ARG0
+nt_6613.parse 26 1 predicted used-v used.- ----- 1:0-rel  0:1-ARG0
+nt_6613.parse 26 7 predicted live-v live.01 ----- 7:0-rel  6:1-ARG0 8:1-ARGM-LOC
+nt_6613.parse 26 11 predicted worship-v worship.- ----- 11:0-rel  6:2-ARG0 12:1-ARG1
+nt_6613.parse 27 7 predicted have-v have.03 ----- 7:0-rel  4:1-ARG0 6:1-R-ARG0 8:2-ARG1
+nt_6613.parse 27 13 predicted heal-v heal.01 ----- 13:0-rel  8:1-ARG1 11:1-R-ARG1
+nt_6613.parse 28 3 predicted do-v do.02 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+nt_6613.parse 29 2 predicted make-v make.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+nt_6613.parse 29 4 predicted come-v come.01 ----- 4:0-rel  5:1-ARGM-DIR 8:1-ARG4
+nt_6613.parse 29 13 predicted watch-v watch.01 ----- 13:0-rel  11:1-ARG0
+nt_6613.parse 30 3 predicted fool-v fool.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+nt_6613.parse 30 6 predicted live-v live.01 ----- 6:0-rel  4:1-ARG0 7:1-ARGM-LOC
+nt_6613.parse 30 10 predicted use-v use.01 ----- 10:0-rel  11:2-ARG1
+nt_6613.parse 30 17 predicted give-v give.01 ----- 17:0-rel  11:1-ARG1 13:1-R-ARG1 14:1-ARG0 18:1-ARG2
+nt_6613.parse 30 21 predicted do-v do.02 ----- 21:0-rel  22:1-ARG2
+nt_6613.parse 31 1 predicted order-v order.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:2-ARG2
+nt_6613.parse 31 4 predicted make-v make.04 ----- 4:0-rel  2:1-ARG0
+nt_6613.parse 31 8 predicted honor-v honor.01 ----- 8:0-rel  9:1-ARG1
+nt_6613.parse 31 17 predicted wounded-v wounded.- ----- 17:0-rel  13:1-ARG1 15:1-R-ARG1 18:1-ARG0
+nt_6613.parse 31 24 predicted die-v die.01 ----- 24:0-rel  13:1-ARG1 15:1-R-ARG1 23:0-ARGM-NEG
+nt_6613.parse 32 4 predicted give-v give.01 ----- 4:0-rel  0:1-ARG2 5:1-ARG1
+nt_6613.parse 32 7 predicted give-v give.01 ----- 7:0-rel  5:1-ARG0 8:1-ARG1 9:1-ARG2
+nt_6613.parse 33 4 predicted speak-v speak.01 ----- 4:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:0-ARGM-MOD
+nt_6613.parse 33 6 predicted order-v order.01 ----- 6:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:0-ARGM-MOD
+nt_6613.parse 33 12 predicted worship-v worship.- ----- 12:0-rel  7:1-ARG0 9:1-R-ARG0 11:0-ARGM-NEG 13:2-ARG1
+nt_6613.parse 33 16 predicted kill-v kill.01 ----- 16:0-rel  13:1-ARG1
+nt_6613.parse 34 4 predicted force-v force.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-DIS
+nt_6613.parse 34 24 predicted put-v put.01 ----- 24:0-rel  22:1-ARG1
+nt_6613.parse 35 3 predicted buy-v buy.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 6:1-ARGM-MNR
+nt_6613.parse 35 5 predicted sell-v sell.01 ----- 5:0-rel  0:1-ARG0 2:0-ARGM-MOD 6:1-ARGM-MNR
+nt_6613.parse 36 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 4:3-ARG2
+nt_6613.parse 37 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:1-R-ARG0 3:1-ARG1
+nt_6613.parse 37 5 predicted find-v find.01 ----- 5:0-rel  0:2-ARG0 4:0-ARGM-MOD 6:2-ARG1
+nt_6613.parse 38 1 predicted require-v require.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+nt_6613.parse 39 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+nt_6613.parse 40 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2

@@ -1,0 +1,19 @@
+cnn_0002.parse 0 5 predicted warn-v warn.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+cnn_0002.parse 1 2 predicted televise-v televise.01 ----- 2:0-rel  3:0-ARG1
+cnn_0002.parse 1 7 predicted predict-v predict.01 ----- 7:0-rel  0:1-ARGM-LOC 6:1-ARG0 8:3-ARG1
+cnn_0002.parse 1 12 predicted bring-v bring.05 ----- 12:0-rel  8:1-ARG0 11:0-ARGM-MOD 14:2-ARG1
+cnn_0002.parse 2 3 predicted come-v come.01 ----- 3:0-rel  0:2-ARG1 4:1-ARGM-TMP
+cnn_0002.parse 2 8 predicted organize-v organize.01 ----- 8:0-rel  5:1-ARG0
+cnn_0002.parse 2 11 predicted aim-v aim.02 ----- 11:0-rel  9:1-ARG1
+cnn_0002.parse 2 13 predicted force-v force.01 ----- 13:0-rel  14:1-ARG1 15:2-ARG2
+cnn_0002.parse 2 16 predicted step-v step.04 ----- 16:0-rel  14:1-ARG0
+cnn_0002.parse 3 8 predicted line-v line.02 ----- 8:0-rel  0:2-ARG1 10:1-ARGM-LOC
+cnn_0002.parse 3 19 predicted refuse-v refuse.01 ----- 19:0-rel  15:1-ARG0 20:2-ARG1
+cnn_0002.parse 3 21 predicted work-v work.01 ----- 21:0-rel  15:1-ARG0
+cnn_0002.parse 4 2 predicted claim-v claim.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0002.parse 4 4 predicted rig-v rig.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+cnn_0002.parse 5 5 predicted abandon-v abandon.01 ----- 5:0-rel  0:1-ARGM-TMP 2:2-ARG0 6:1-ARG1 8:1-ARGM-LOC
+cnn_0002.parse 5 21 predicted lead-v lead.03 ----- 21:0-rel  19:1-ARG0 20:0-ARGM-MOD 22:1-ARG2
+cnn_0002.parse 6 4 predicted schedule-v schedule.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0002.parse 6 10 predicted say-v say.01 ----- 10:0-rel  0:1-ARG0 11:5-ARG1
+cnn_0002.parse 6 20 predicted achieve-v achieve.01 ----- 20:0-rel  11:3-ARG0 19:0-ARGM-NEG 21:2-ARG1

@@ -1,0 +1,9 @@
+cnn_0100.parse 0 3 predicted spend-v spend.02 ----- 3:0-rel  0:1-ARG0 4:2-ARG3 9:1-ARG1
+cnn_0100.parse 1 9 predicted make-v make.02 ----- 9:0-rel  0:1-ARGM-TMP 2:2-ARG0
+cnn_0100.parse 2 3 predicted joke-v joke.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0100.parse 2 8 predicted recount-v recount.01 ----- 8:0-rel  5:1-ARG0 9:2-ARG1
+cnn_0100.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+cnn_0100.parse 3 5 predicted focus-v focus.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG2
+cnn_0100.parse 3 7 predicted build-v build.01 ----- 7:0-rel  3:1-ARG0
+cnn_0100.parse 3 15 predicted think-v think.01 ----- 15:0-rel  12:1-ARG1 14:1-ARG0 16:3-ARG2
+cnn_0100.parse 3 20 predicted make-v make.01 ----- 20:0-rel  16:1-ARG0 19:0-ARGM-MOD 21:1-ARGM-ADV

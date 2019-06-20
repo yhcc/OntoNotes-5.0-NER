@@ -1,0 +1,22 @@
+cnn_0380.parse 0 10 predicted delay-v delay.01 ----- 10:0-rel  0:1-ARGM-LOC 7:1-ARG0 11:2-ARG1
+cnn_0380.parse 0 16 predicted condemn-v condemn.01 ----- 16:0-rel  14:1-ARG1 17:1-ARG2 19:1-ARGM-MNR
+cnn_0380.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0380.parse 1 6 predicted hear-v hear.01 ----- 6:0-rel  3:1-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG 7:1-ARG1 9:1-ARGM-TMP
+cnn_0380.parse 2 10 predicted convict-v convict.01 ----- 10:0-rel  0:2-ARG1 11:1-ARGM-TMP 13:1-ARG2
+cnn_0380.parse 2 14 predicted have-v have.03 ----- 14:0-rel  15:1-ARG1 16:1-ARGM-LOC
+cnn_0380.parse 3 4 predicted face-v face.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+cnn_0380.parse 4 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1 8:0-ARGM-NEG
+cnn_0380.parse 4 15 predicted think-v think.01 ----- 15:0-rel  13:1-ARG0 14:0-ARGM-MOD
+cnn_0380.parse 5 5 predicted face-v face.01 ----- 5:0-rel  0:1-ARG0 3:1-ARGM-TMP
+cnn_0380.parse 7 2 predicted write-v write.01 ----- 2:0-rel  0:1-ARG0
+cnn_0380.parse 7 12 predicted travel-v travel.01 ----- 12:0-rel  10:1-ARG0 13:2-ARG1
+cnn_0380.parse 8 1 predicted travel-v travel.01 ----- 1:0-rel  2:0-ARG0
+cnn_0380.parse 8 5 predicted leave-v leave.01 ----- 5:0-rel  0:2-ARG0 8:1-ARG1
+cnn_0380.parse 8 7 predicted join-v join.04 ----- 7:0-rel  0:2-ARG0 8:1-ARG1 9:2-ARGM-PRP
+cnn_0380.parse 8 10 predicted tell-v tell.01 ----- 10:0-rel  8:1-ARG0 11:1-ARG1
+cnn_0380.parse 9 3 predicted come-v come.01 ----- 3:0-rel  1:1-ARG1 4:1-ARGM-DIR 5:2-ARGM-PRP
+cnn_0380.parse 9 6 predicted share-v share.01 ----- 6:0-rel  1:1-ARG0 7:1-ARG1 8:1-ARG2
+cnn_0380.parse 10 2 predicted understand-v understand.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cnn_0380.parse 10 6 predicted say-v say.01 ----- 6:0-rel  5:1-ARG0 7:3-ARG1
+cnn_0380.parse 10 9 predicted face-v face.01 ----- 9:0-rel  7:1-ARG0 10:2-ARG1
+cnn_0380.parse 10 20 predicted sentence-v sentence.01 ----- 20:0-rel  0:1-ARGM-ADV 17:0-ARGM-NEG 18:1-ARGM-TMP 21:1-ARG1

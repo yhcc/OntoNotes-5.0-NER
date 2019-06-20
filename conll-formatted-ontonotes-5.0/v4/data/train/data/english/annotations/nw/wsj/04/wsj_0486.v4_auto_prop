@@ -1,0 +1,11 @@
+wsj_0486.parse 0 8 predicted say-v say.01 ----- 8:0-rel  0:2-ARG0 9:3-ARG1
+wsj_0486.parse 0 10 predicted acquire-v acquire.01 ----- 10:0-rel  9:1-ARG0 11:2-ARG1 22:1-ARG3
+wsj_0486.parse 1 4 predicted know-v know.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+wsj_0486.parse 1 9 predicted be-v be.01 ----- 9:0-rel  0:2-ARG1
+wsj_0486.parse 1 11 predicted lead-v lead.01 ----- 11:0-rel  12:0-ARG0
+wsj_0486.parse 2 5 predicted include-v include.01 ----- 5:0-rel  0:1-ARGM-DIS 3:1-ARG2 6:2-ARG1
+wsj_0486.parse 3 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+wsj_0486.parse 4 14 predicted have-v have.03 ----- 14:0-rel  0:2-ARG0 13:1-ARGM-TMP
+wsj_0486.parse 5 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_0486.parse 5 4 predicted plan-v plan.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+wsj_0486.parse 5 6 predicted form-v form.01 ----- 6:0-rel  3:1-ARG0 7:2-ARG1

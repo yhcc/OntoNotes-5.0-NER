@@ -1,0 +1,10 @@
+cnn_0230.parse 0 6 predicted greet-v greet.01 ----- 6:0-rel  0:3-ARG0
+cnn_0230.parse 1 8 predicted beatify-v beatify.- ----- 8:0-rel  0:1-ARGM-LOC 7:1-ARG0 9:2-ARG1
+cnn_0230.parse 1 12 predicted dedicate-v dedicate.01 ----- 12:0-rel  9:1-ARG0 11:1-R-ARG0 13:1-ARG1 15:1-ARG2
+cnn_0230.parse 1 16 predicted serve-v serve.01 ----- 16:0-rel  17:1-ARG2
+cnn_0230.parse 3 2 predicted found-v found.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0230.parse 3 12 predicted care-v care.01 ----- 12:0-rel  9:1-ARG0 11:1-R-ARG0 13:1-ARG1
+cnn_0230.parse 4 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0230.parse 4 8 predicted beatify-v beatify.- ----- 8:0-rel  2:1-ARG1
+cnn_0230.parse 4 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:2-ARG2
+cnn_0230.parse 5 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:1-ARG1 5:1-ARGM-TMP

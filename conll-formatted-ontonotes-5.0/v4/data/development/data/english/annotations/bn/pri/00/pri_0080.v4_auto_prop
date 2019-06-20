@@ -1,0 +1,12 @@
+pri_0080.parse 0 8 predicted approve-v approve.01 ----- 8:0-rel  0:3-ARG0 7:1-ARGM-MNR 9:2-ARG1
+pri_0080.parse 0 9 predicted restore-v restore.01 ----- 9:0-rel  0:3-ARG0 10:1-ARG1 14:1-ARG2
+pri_0080.parse 1 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0
+pri_0080.parse 1 12 predicted say-v say.01 ----- 12:0-rel  11:1-R-ARG0 13:4-ARG1
+pri_0080.parse 1 18 predicted represent-v represent.01 ----- 18:0-rel  13:2-ARG0 19:2-ARG1
+pri_0080.parse 2 1 predicted argue-v argue.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+pri_0080.parse 2 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 6:2-ARG2
+pri_0080.parse 3 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+pri_0080.parse 3 7 predicted eliminate-v eliminate.01 ----- 7:0-rel  8:2-ARG1
+pri_0080.parse 3 10 predicted praise-v praise.01 ----- 10:0-rel  8:1-ARG0 9:1-R-ARG0 11:1-ARG1
+pri_0080.parse 4 6 predicted give-v give.01 ----- 6:0-rel  0:2-ARG0 5:1-ARGM-DIS 7:1-ARG1 9:1-ARG2
+pri_0080.parse 4 19 predicted reinstate-v reinstate.01 ----- 19:0-rel  0:2-ARG0 20:1-ARG1 27:1-ARG2

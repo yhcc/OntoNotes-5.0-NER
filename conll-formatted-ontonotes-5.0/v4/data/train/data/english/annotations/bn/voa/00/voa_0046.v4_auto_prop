@@ -1,0 +1,9 @@
+voa_0046.parse 1 5 predicted hold-v hold.04 ----- 5:0-rel  0:2-ARG0
+voa_0046.parse 1 20 predicted fail-v fail.01 ----- 20:0-rel  18:1-ARG1 21:2-ARG2
+voa_0046.parse 1 22 predicted agree-v agree.01 ----- 22:0-rel  18:1-ARG0 23:1-ARG1
+voa_0046.parse 1 24 predicted form-v form.01 ----- 24:0-rel  18:1-ARG0 25:1-ARG1
+voa_0046.parse 2 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+voa_0046.parse 2 6 predicted meet-v meet.03 ----- 6:0-rel  4:1-ARG0 5:0-ARGM-MOD 7:0-ARGM-ADV 8:0-ARGM-TMP
+voa_0046.parse 3 9 predicted begin-v begin.01 ----- 9:0-rel  0:2-ARG1 10:3-ARGM-TMP
+voa_0046.parse 3 19 predicted visit-v visit.01 ----- 19:0-rel  17:1-ARG0 20:1-ARG1
+voa_0046.parse 4 2 predicted continue-v continue.01 ----- 2:0-rel  0:1-ARG1 4:1-ARGM-TMP 5:1-ARGM-LOC

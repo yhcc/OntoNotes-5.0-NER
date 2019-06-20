@@ -1,0 +1,26 @@
+wsj_1460.parse 0 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+wsj_1460.parse 0 8 predicted investigate-v investigate.01 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+wsj_1460.parse 0 11 predicted surround-v surround.01 ----- 11:0-rel  9:1-ARG1 12:2-ARG2
+wsj_1460.parse 1 6 predicted coordinate-v coordinate.01 ----- 6:0-rel  0:1-ARG1 3:1-R-ARG1 4:0-ARGM-MOD 7:1-ARG2
+wsj_1460.parse 1 16 predicted follow-v follow.01 ----- 16:0-rel  0:2-ARG1 17:2-ARG2
+wsj_1460.parse 1 23 predicted call-v call.01 ----- 23:0-rel  20:1-ARG1 21:1-ARG0 24:3-ARG2
+wsj_1460.parse 1 29 predicted involve-v involve.01 ----- 29:0-rel  24:1-ARG2 30:1-ARG1
+wsj_1460.parse 2 16 predicted buy-v buy.01 ----- 16:0-rel  0:3-ARG1 17:1-ARG0 19:1-ARGM-TMP 21:1-ARG3
+wsj_1460.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_1460.parse 3 7 predicted force-v force.01 ----- 7:0-rel  4:1-ARG1 5:0-ARGM-MOD 8:2-ARG2
+wsj_1460.parse 3 9 predicted write-v write.02 ----- 9:0-rel  4:1-ARG0 11:2-ARG1
+wsj_1460.parse 3 19 predicted reduce-v reduce.01 ----- 19:0-rel  20:1-ARG1
+wsj_1460.parse 4 14 predicted investigate-v investigate.01 ----- 14:0-rel  15:1-ARG1
+wsj_1460.parse 4 18 predicted say-v say.01 ----- 18:0-rel  0:2-ARG0 19:3-ARG1
+wsj_1460.parse 4 22 predicted take-v take.06 ----- 22:0-rel  19:1-ARG0 21:0-ARGM-MOD 23:1-ARG2 28:1-ARGM-TMP
+wsj_1460.parse 4 31 predicted surround-v surround.01 ----- 31:0-rel  34:1-ARG1
+wsj_1460.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+wsj_1460.parse 5 4 predicted welcome-v welcome.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1
+wsj_1460.parse 5 12 predicted cooperate-v cooperate.01 ----- 12:0-rel  9:1-ARG0 10:0-ARGM-MOD 13:1-ARGM-MNR
+wsj_1460.parse 6 10 predicted say-v say.01 ----- 10:0-rel  0:2-ARG0 11:3-ARG1
+wsj_1460.parse 6 12 predicted hope-v hope.01 ----- 12:0-rel  11:1-ARG0 13:2-ARG1
+wsj_1460.parse 6 14 predicted pursue-v pursue.01 ----- 14:0-rel  11:1-ARG0 15:2-ARG1
+wsj_1460.parse 7 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARG0 7:3-ARG1
+wsj_1460.parse 7 9 predicted sell-v sell.01 ----- 9:0-rel  7:1-ARG0 8:0-ARGM-MOD 10:2-ARG1
+wsj_1460.parse 7 17 predicted seek-v seek.01 ----- 17:0-rel  7:1-ARG0 16:0-ARGM-MOD 18:1-ARG1
+wsj_1460.parse 7 21 predicted strengthen-v strengthen.01 ----- 21:0-rel  7:1-ARG0 22:1-ARG1 23:1-ARGM-TMP

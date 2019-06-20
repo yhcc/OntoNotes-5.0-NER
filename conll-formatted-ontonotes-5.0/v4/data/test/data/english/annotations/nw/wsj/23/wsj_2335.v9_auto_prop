@@ -1,0 +1,11 @@
+wsj_2335.parse 0 8 predicted name-v name.01 ----- 8:0-rel  0:2-ARG1
+wsj_2335.parse 0 26 predicted resign-v resign.- ----- 26:0-rel  25:1-R-ARG0 27:1-ARGM-TMP
+wsj_2335.parse 1 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 2:1-ARGM-DIS 5:2-ARG2
+wsj_2335.parse 1 10 predicted resign-v resign.- ----- 10:0-rel  0:1-ARG0 11:1-ARG1
+wsj_2335.parse 2 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:3-ARG2
+wsj_2335.parse 2 14 predicted continue-v continue.01 ----- 14:0-rel  0:1-ARG1 13:0-ARGM-MOD 15:1-ARGM-MNR
+wsj_2335.parse 3 2 predicted name-v name.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1 15:1-ARG2 19:2-ARGM-ADV
+wsj_2335.parse 3 19 predicted fill-v fill.01 ----- 19:0-rel  20:2-ARG1
+wsj_2335.parse 3 22 predicted vacate-v vacate.01 ----- 22:0-rel  20:1-ARG1 23:1-ARG0
+wsj_2335.parse 4 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:2-ARG2
+wsj_2335.parse 4 10 predicted have-v have.03 ----- 10:0-rel  9:1-R-ARG0 11:2-ARG1

@@ -1,0 +1,19 @@
+cnn_0319.parse 1 2 predicted stand-v stand.05 ----- 2:0-rel  0:1-ARG1 3:1-ARG2 4:1-ARGM-PRP
+cnn_0319.parse 2 2 predicted expect-v expect.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0319.parse 2 4 predicted come-v come.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG4
+cnn_0319.parse 2 12 predicted brief-v brief.01 ----- 12:0-rel  13:1-ARG1 14:1-ARG2
+cnn_0319.parse 3 3 predicted get-v get.01 ----- 3:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0319.parse 3 19 predicted expect-v expect.01 ----- 19:0-rel  20:2-ARG1
+cnn_0319.parse 3 22 predicted deliver-v deliver.01 ----- 22:0-rel  12:1-ARG0 23:1-ARG1
+cnn_0319.parse 4 2 predicted expect-v expect.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0319.parse 4 9 predicted announce-v announce.01 ----- 9:0-rel  4:1-ARG0 8:0-ARGM-MOD
+cnn_0319.parse 4 17 predicted provide-v provide.01 ----- 17:0-rel  12:1-ARG0 16:1-R-ARG0 18:1-ARG1 20:1-ARG2
+cnn_0319.parse 4 27 predicted grant-v grant.01 ----- 27:0-rel  12:2-ARG0 28:1-ARG1 29:1-ARGM-LOC
+cnn_0319.parse 6 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0319.parse 8 1 predicted get-v get.01 ----- 1:0-rel  0:0-ARGM-MOD 2:1-ARG1
+cnn_0319.parse 8 10 predicted deliver-v deliver.01 ----- 10:0-rel  8:1-ARGM-TMP 9:1-ARG0 11:1-ARG1
+cnn_0319.parse 9 3 predicted monitor-v monitor.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1 5:1-ARGM-ADV
+cnn_0319.parse 10 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV
+cnn_0319.parse 10 34 predicted demonstrate-v demonstrate.01 ----- 34:0-rel  30:1-ARG0 31:1-R-ARG0 35:1-ARGM-LOC
+cnn_0319.parse 11 3 predicted join-v join.04 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 5:1-ARGM-MNR
+cnn_0319.parse 12 10 predicted kill-v kill.01 ----- 10:0-rel  6:1-ARGM-MNR 7:1-ARG1 11:1-ARGM-LOC

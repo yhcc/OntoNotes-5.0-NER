@@ -1,0 +1,10 @@
+pri_0099.parse 0 3 predicted pardon-v pardon.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+pri_0099.parse 0 6 predicted lead-v lead.01 ----- 6:0-rel  7:0-ARG0
+pri_0099.parse 0 13 predicted convict-v convict.01 ----- 13:0-rel  12:1-ARG1 14:1-ARG2
+pri_0099.parse 1 14 predicted convict-v convict.01 ----- 14:0-rel  15:0-ARG1
+pri_0099.parse 1 16 predicted pardon-v pardon.01 ----- 16:0-rel  13:1-ARG1 17:1-ARG0
+pri_0099.parse 2 2 predicted sentence-v sentence.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+pri_0099.parse 2 9 predicted fine-v fine.01 ----- 9:0-rel  0:1-ARG0 10:1-ARG1 12:1-ARGM-TMP
+pri_0099.parse 3 3 predicted consider-v consider.02 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+pri_0099.parse 3 8 predicted convict-v convict.01 ----- 8:0-rel  9:0-ARG1
+pri_0099.parse 5 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-LOC 3:1-ARG1 5:1-ARG2

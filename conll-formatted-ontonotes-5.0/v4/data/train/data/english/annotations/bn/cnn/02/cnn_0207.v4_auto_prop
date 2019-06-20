@@ -1,0 +1,14 @@
+cnn_0207.parse 0 4 predicted enjoy-v enjoy.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+cnn_0207.parse 1 4 predicted got-v got.- ----- 4:0-rel  0:2-ARG1 3:1-ARGM-ADV 5:1-ARG2
+cnn_0207.parse 2 1 predicted spit-v spit.- ----- 1:0-rel  0:1-ARG0 2:1-ARG2
+cnn_0207.parse 2 5 predicted call-v call.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+cnn_0207.parse 3 3 predicted say-v say.01 ----- 3:0-rel  0:2-ARG0 4:3-ARG1
+cnn_0207.parse 3 10 predicted assault-v assault.- ----- 10:0-rel  4:1-ARG1 9:1-ARGM-MNR
+cnn_0207.parse 3 12 predicted treat-v treat.03 ----- 12:0-rel  4:1-ARG1 9:1-ARGM-MNR 13:1-ARGM-LOC
+cnn_0207.parse 4 4 predicted begin-v begin.01 ----- 4:0-rel  0:2-ARG1 5:2-ARGM-TMP
+cnn_0207.parse 4 9 predicted say-v say.01 ----- 9:0-rel  7:1-ARGM-TMP 8:1-ARG0 10:3-ARG1
+cnn_0207.parse 4 11 predicted attend-v attend.01 ----- 11:0-rel  10:1-ARG0
+cnn_0207.parse 4 23 predicted win-v win.01 ----- 23:0-rel  10:1-ARG0 22:1-ARGM-TMP 24:1-ARG1
+cnn_0207.parse 5 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0207.parse 5 8 predicted file-v file.01 ----- 8:0-rel  5:1-ARG1
+cnn_0207.parse 5 12 predicted be-v be.01 ----- 12:0-rel  4:1-ARGM-ADV 10:1-ARG1 11:0-ARGM-MOD

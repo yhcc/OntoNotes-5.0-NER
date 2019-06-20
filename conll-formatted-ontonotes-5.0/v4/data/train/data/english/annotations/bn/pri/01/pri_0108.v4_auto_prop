@@ -1,0 +1,35 @@
+pri_0108.parse 0 3 predicted begin-v begin.01 ----- 3:0-rel  0:1-ARG1 4:2-ARGM-TMP 7:1-ARGM-TMP
+pri_0108.parse 0 9 predicted end-v end.02 ----- 9:0-rel  0:1-ARG1 10:2-ARGM-TMP 13:1-ARG2
+pri_0108.parse 0 24 predicted change-v change.01 ----- 24:0-rel  22:1-ARG1 25:1-ARGM-TMP
+pri_0108.parse 1 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-TMP 5:1-ARG2
+pri_0108.parse 2 3 predicted continue-v continue.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+pri_0108.parse 2 5 predicted insist-v insist.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+pri_0108.parse 2 9 predicted remain-v remain.01 ----- 9:0-rel  7:1-ARG1 10:1-ARG3 12:1-ARGM-TMP
+pri_0108.parse 2 15 predicted dismantle-v dismantle.01 ----- 15:0-rel  13:1-ARG0 14:1-ARGM-MNR 16:2-ARG1
+pri_0108.parse 3 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1 8:2-ARG2
+pri_0108.parse 3 20 predicted accept-v accept.01 ----- 20:0-rel  15:1-R-ARG1 16:1-ARG0 19:1-ARGM-MNR 21:2-ARGM-TMP
+pri_0108.parse 4 3 predicted help-v help.01 ----- 3:0-rel  0:1-ARG0
+pri_0108.parse 4 4 predicted provide-v provide.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG2 6:1-ARG1
+pri_0108.parse 4 10 predicted stabilize-v stabilize.01 ----- 10:0-rel  0:1-ARG0 11:1-ARG1 13:1-ARGM-EXT
+pri_0108.parse 4 17 predicted complain-v complain.01 ----- 17:0-rel  16:1-ARG0 18:1-ARG1
+pri_0108.parse 4 21 predicted be-v be.01 ----- 21:0-rel  19:1-ARG1 22:1-ARG2
+pri_0108.parse 5 4 predicted sell-v sell.01 ----- 4:0-rel  0:1-ARGM-LOC 2:1-ARG0 5:3-ARG1
+pri_0108.parse 5 13 predicted receive-v receive.01 ----- 13:0-rel  0:1-ARGM-MNR 2:1-ARG0 14:3-ARG1
+pri_0108.parse 6 11 predicted go-v go.10 ----- 11:0-rel  0:3-ARG1 12:2-ARG2
+pri_0108.parse 6 13 predicted pay-v pay.01 ----- 13:0-rel  0:3-ARG0 14:1-ARG3
+pri_0108.parse 6 17 predicted assist-v assist.01 ----- 17:0-rel  18:1-ARG1 20:1-ARG2
+pri_0108.parse 6 24 predicted pay-v pay.01 ----- 24:0-rel  0:3-ARG0 25:1-ARG3
+pri_0108.parse 7 9 predicted call-v call.03 ----- 9:0-rel  0:3-ARG0 10:1-ARG1
+pri_0108.parse 8 3 predicted run-v run.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG
+pri_0108.parse 9 1 predicted run-v run.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-LOC
+pri_0108.parse 10 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+pri_0108.parse 11 2 predicted imagine-v imagine.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 3:1-ARGM-MNR
+pri_0108.parse 12 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+pri_0108.parse 12 3 predicted be-v be.02 ----- 3:0-rel  4:1-ARGM-ADV 5:2-ARG1
+pri_0108.parse 13 9 predicted have-v have.03 ----- 9:0-rel  6:2-ARG0 10:2-ARG1
+pri_0108.parse 13 16 predicted precipitate-v precipitate.01 ----- 16:0-rel  13:1-ARG0 15:1-R-ARG0 17:1-ARG1
+pri_0108.parse 14 5 predicted defend-v defend.01 ----- 5:0-rel  0:2-ARG0 6:2-ARG1
+pri_0108.parse 14 12 predicted claim-v claim.01 ----- 12:0-rel  0:2-ARG0 13:1-ARG1
+pri_0108.parse 14 32 predicted be-v be.01 ----- 32:0-rel  31:1-R-ARG1 33:2-ARG2
+pri_0108.parse 14 39 predicted propose-v propose.01 ----- 39:0-rel  24:4-ARG0 40:1-ARG1
+pri_0108.parse 14 44 predicted include-v include.01 ----- 44:0-rel  41:1-ARG1 42:0-ARGM-MOD 45:1-ARG2

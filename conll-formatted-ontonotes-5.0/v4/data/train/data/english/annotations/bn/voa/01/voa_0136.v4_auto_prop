@@ -1,0 +1,30 @@
+voa_0136.parse 0 6 predicted propose-v propose.01 ----- 6:0-rel  0:2-ARG0
+voa_0136.parse 0 8 predicted transfer-v transfer.01 ----- 8:0-rel  0:2-ARG0 9:1-ARG2 12:2-ARG1
+voa_0136.parse 0 21 predicted recognize-v recognize.01 ----- 21:0-rel  0:2-ARG0 22:1-ARG1 25:1-ARGM-MNR
+voa_0136.parse 1 3 predicted reject-v reject.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+voa_0136.parse 1 6 predicted say-v say.01 ----- 6:0-rel  4:1-ARG0 7:3-ARG1
+voa_0136.parse 1 10 predicted meet-v meet.01 ----- 10:0-rel  7:1-ARG0 9:0-ARGM-NEG 11:2-ARG1
+voa_0136.parse 2 5 predicted report-v report.01 ----- 5:0-rel  0:2-ARG0 6:4-ARG1
+voa_0136.parse 2 12 predicted continue-v continue.01 ----- 12:0-rel  6:2-ARG1 13:1-ARGM-TMP
+voa_0136.parse 2 19 predicted begin-v begin.01 ----- 19:0-rel  14:2-ARG0
+voa_0136.parse 2 20 predicted prepare-v prepare.02 ----- 20:0-rel  14:2-ARG0 21:1-ARG2
+voa_0136.parse 3 4 predicted offer-v offer.01 ----- 4:0-rel  0:2-ARG0 5:2-ARG1
+voa_0136.parse 3 14 predicted say-v say.01 ----- 14:0-rel  0:3-ARG0 15:1-ARGM-TMP 16:3-ARG1
+voa_0136.parse 3 18 predicted recognize-v recognize.01 ----- 18:0-rel  16:1-ARG0 17:0-ARGM-MOD 19:1-ARG1
+voa_0136.parse 3 26 predicted postpone-v postpone.01 ----- 26:0-rel  16:1-ARG0 25:0-ARGM-MOD
+voa_0136.parse 3 27 predicted negotiate-v negotiate.01 ----- 27:0-rel  16:1-ARG0 25:0-ARGM-MOD 28:2-ARG2
+voa_0136.parse 4 3 predicted hope-v hope.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+voa_0136.parse 4 5 predicted hammer-v hammer.04 ----- 5:0-rel  0:1-ARG0
+voa_0136.parse 4 14 predicted face-v face.01 ----- 14:0-rel  15:0-ARGM-TMP 16:0-ARG1
+voa_0136.parse 4 23 predicted be-v be.01 ----- 23:0-rel  20:1-ARG1 21:0-ARGM-MOD 24:1-ARG2
+voa_0136.parse 5 1 predicted suggest-v suggest.01 ----- 1:0-rel  0:1-ARG0
+voa_0136.parse 5 7 predicted reach-v reach.01 ----- 7:0-rel  4:1-ARG1 8:1-ARGM-ADV
+voa_0136.parse 5 14 predicted grant-v grant.01 ----- 14:0-rel  3:1-ARGM-ADV 11:1-ARG1 12:0-ARGM-MOD 15:2-ARG2 21:1-ARGM-MNR
+voa_0136.parse 5 30 predicted seek-v seek.01 ----- 30:0-rel  27:1-ARG0 31:2-ARG1
+voa_0136.parse 5 37 predicted grant-v grant.01 ----- 37:0-rel  31:1-ARG0 35:1-R-ARG0 36:0-ARGM-MOD 38:1-ARG2 39:1-ARG1
+voa_0136.parse 6 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2 6:4-ARG1
+voa_0136.parse 6 9 predicted try-v try.01 ----- 9:0-rel  6:1-ARG0 8:0-ARGM-NEG 10:2-ARG1
+voa_0136.parse 6 11 predicted speed-v speed.02 ----- 11:0-rel  6:1-ARG0
+voa_0136.parse 6 18 predicted win-v win.01 ----- 18:0-rel  19:1-ARG1
+voa_0136.parse 6 26 predicted delay-v delay.01 ----- 26:0-rel  23:1-ARG0 24:0-ARGM-MOD 25:0-ARGM-NEG 27:1-ARG1
+voa_0136.parse 6 29 predicted end-v end.01 ----- 29:0-rel  30:1-ARG1

@@ -1,0 +1,13 @@
+chtb_0313.parse 1 5 predicted defeat-v defeat.01 ----- 5:0-rel  0:1-ARG0 6:2-ARG1 9:1-ARGM-LOC
+chtb_0313.parse 2 7 predicted rank-v rank.01 ----- 7:0-rel  0:1-ARGM-MNR 6:1-ARG1 8:1-ARG2 9:1-ARGM-LOC
+chtb_0313.parse 2 10 predicted participate-v participate.01 ----- 10:0-rel  11:0-ARG0 12:0-C-ARG0
+chtb_0313.parse 3 10 predicted challenge-v challenge.01 ----- 10:0-rel  0:1-ARGM-ADV 5:2-ARG0
+chtb_0313.parse 4 2 predicted begin-v begin.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-MNR 4:1-ARG2
+chtb_0313.parse 4 5 predicted push-v push.01 ----- 5:0-rel  0:1-ARG0 6:1-ARGM-DIR 7:1-ARG1 9:1-ARG2
+chtb_0313.parse 4 17 predicted lay-v lay.01 ----- 17:0-rel  15:1-ARG0 19:1-ARG1
+chtb_0313.parse 5 11 predicted win-v win.01 ----- 11:0-rel  0:1-ARGM-TMP 9:1-ARG0
+chtb_0313.parse 6 3 predicted tie-v tie.03 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+chtb_0313.parse 6 11 predicted tie-v tie.03 ----- 11:0-rel  8:1-ARG0 10:1-ARGM-ADV 12:1-ARG1
+chtb_0313.parse 6 18 predicted beat-v beat.03 ----- 18:0-rel  16:1-ARG0 19:1-ARG1
+chtb_0313.parse 6 25 predicted beat-v beat.03 ----- 25:0-rel  23:1-ARG0 26:1-ARG1
+chtb_0313.parse 7 3 predicted lose-v lose.03 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-TMP

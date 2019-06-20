@@ -1,0 +1,8 @@
+cnn_0202.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0202.parse 0 5 predicted investigate-v investigate.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG1
+cnn_0202.parse 0 11 predicted be-v be.01 ----- 11:0-rel  9:1-ARG1
+cnn_0202.parse 0 13 predicted blame-v blame.01 ----- 13:0-rel  9:1-ARG1 14:1-ARG2
+cnn_0202.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+cnn_0202.parse 2 9 predicted visit-v visit.01 ----- 9:0-rel  0:2-ARG0
+cnn_0202.parse 2 17 predicted say-v say.01 ----- 17:0-rel  16:1-ARG0 18:3-ARG1
+cnn_0202.parse 2 19 predicted be-v be.01 ----- 19:0-rel  18:1-ARG1 20:1-ARG2

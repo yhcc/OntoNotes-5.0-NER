@@ -1,0 +1,23 @@
+cnn_0361.parse 0 1 predicted open-v open.02 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-LOC
+cnn_0361.parse 1 5 predicted fly-v fly.01 ----- 5:0-rel  1:1-ARG1 3:1-ARG0 4:1-ARGM-ADV 6:1-ARGM-TMP
+cnn_0361.parse 1 13 predicted be-v be.01 ----- 13:0-rel  9:2-ARG1 14:1-ARG2
+cnn_0361.parse 1 19 predicted sleep-v sleep.01 ----- 19:0-rel  17:1-ARG0 20:1-ARGM-TMP
+cnn_0361.parse 1 23 predicted work-v work.01 ----- 23:0-rel  0:1-ARGM-LOC 17:1-ARG0 24:1-ARGM-TMP
+cnn_0361.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0361.parse 3 14 predicted fly-v fly.01 ----- 14:0-rel  0:1-ARGM-TMP 9:2-ARG0 13:0-ARGM-MOD 15:2-ARGM-DIR
+cnn_0361.parse 4 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+cnn_0361.parse 4 10 predicted punctuated-v punctuated.- ----- 10:0-rel  8:1-ARG1 11:1-ARG0
+cnn_0361.parse 5 1 predicted adjust-v adjust.01 ----- 1:0-rel  2:1-ARG1 4:1-ARG4
+cnn_0361.parse 5 10 predicted make-v make.01 ----- 10:0-rel  0:2-R-ARG0 8:1-ARG0 11:1-ARG1
+cnn_0361.parse 5 15 predicted glow-v glow.- ----- 15:0-rel  14:1-ARG0 16:1-ARGM-LOC
+cnn_0361.parse 6 11 predicted light-v light.01 ----- 11:0-rel  0:1-ARGM-LOC 5:2-ARG1
+cnn_0361.parse 7 7 predicted blow-v blow.01 ----- 7:0-rel  0:2-ARG1 8:1-ARGM-DIR
+cnn_0361.parse 7 12 predicted slice-v slice.01 ----- 12:0-rel  10:1-ARG1
+cnn_0361.parse 7 19 predicted be-v be.01 ----- 19:0-rel  16:1-ARG1 18:1-R-ARG1
+cnn_0361.parse 7 23 predicted avoid-v avoid.01 ----- 23:0-rel  18:1-ARG1
+cnn_0361.parse 7 26 predicted be-v be.01 ----- 26:0-rel  27:2-ARG2
+cnn_0361.parse 8 7 predicted play-v play.03 ----- 7:0-rel  0:2-ARG1 9:1-ARGM-MNR
+cnn_0361.parse 9 7 predicted describe-v describe.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG2
+cnn_0361.parse 9 14 predicted be-v be.01 ----- 14:0-rel  13:1-ARG1 15:1-ARG2
+cnn_0361.parse 9 24 predicted be-v be.01 ----- 24:0-rel  12:1-ARGM-ADV 18:2-ARG1
+cnn_0361.parse 10 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2

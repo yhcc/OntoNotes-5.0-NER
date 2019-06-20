@@ -1,0 +1,42 @@
+wsj_1291.parse 0 6 predicted operate-v operate.01 ----- 6:0-rel  0:2-ARG1 4:1-R-ARG1 7:1-ARGM-MNR
+wsj_1291.parse 0 16 predicted say-v say.01 ----- 16:0-rel  0:3-ARG0 17:3-ARG1
+wsj_1291.parse 0 18 predicted reach-v reach.01 ----- 18:0-rel  17:1-ARG0
+wsj_1291.parse 1 24 predicted resign-v resign.- ----- 24:0-rel  0:1-ARGM-LOC 4:3-ARG0 23:0-ARGM-MOD 25:1-ARG1
+wsj_1291.parse 2 5 predicted be-v be.01 ----- 5:0-rel  3:1-R-ARG1 6:1-ARG2
+wsj_1291.parse 2 14 predicted succeed-v succeed.02 ----- 14:0-rel  0:2-ARG1 12:0-ARGM-MOD 15:1-ARG0
+wsj_1291.parse 2 25 predicted be-v be.01 ----- 25:0-rel  24:1-R-ARG1 26:2-ARG2
+wsj_1291.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP 4:1-ARG2
+wsj_1291.parse 4 3 predicted act-v act.01 ----- 3:0-rel  4:0-ARG1 5:0-C-ARG1
+wsj_1291.parse 4 8 predicted continue-v continue.01 ----- 8:0-rel  0:2-ARG1 7:0-ARGM-MOD 9:1-ARGM-MNR
+wsj_1291.parse 5 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+wsj_1291.parse 5 4 predicted receive-v receive.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1
+wsj_1291.parse 6 12 predicted purchase-v purchase.01 ----- 12:0-rel  0:1-ARGM-DIS 3:2-ARG0 11:0-ARGM-MOD 13:2-ARG1
+wsj_1291.parse 6 24 predicted total-v total.01 ----- 24:0-rel  18:2-ARG1 23:1-R-ARG1 25:2-ARG2
+wsj_1291.parse 6 30 predicted guarantee-v guarantee.01 ----- 30:0-rel  0:1-ARGM-DIS 3:2-ARG0 11:0-ARGM-MOD 31:3-ARG1
+wsj_1291.parse 7 2 predicted represent-v represent.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_1291.parse 7 6 predicted agree-v agree.01 ----- 6:0-rel  0:2-ARG0 7:2-ARG1
+wsj_1291.parse 7 8 predicted accept-v accept.01 ----- 8:0-rel  0:2-ARG0 9:2-ARG1
+wsj_1291.parse 7 16 predicted say-v say.01 ----- 16:0-rel  0:3-ARG1 15:1-ARG0 17:0-ARGM-DIS
+wsj_1291.parse 8 3 predicted extend-v extend.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:2-ARG1
+wsj_1291.parse 8 9 predicted have-v have.03 ----- 9:0-rel  6:1-R-ARGM-MNR 8:1-ARG0 10:1-ARG1
+wsj_1291.parse 8 14 predicted file-v file.01 ----- 14:0-rel  15:1-ARG1
+wsj_1291.parse 9 2 predicted extinguish-v extinguish.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+wsj_1291.parse 9 7 predicted exist-v exist.01 ----- 7:0-rel  8:0-ARG1 9:0-C-ARG1
+wsj_1291.parse 9 11 predicted issue-v issue.01 ----- 11:0-rel  0:1-ARG0 1:0-ARGM-MOD 12:1-ARG1 14:1-ARG2 16:1-ARGM-PRD
+wsj_1291.parse 10 5 predicted set-v set.01 ----- 5:0-rel  0:1-ARG1 6:1-ARGM-TMP 9:1-ARG2
+wsj_1291.parse 11 7 predicted file-v file.01 ----- 7:0-rel  1:1-ARG1 8:1-ARG2
+wsj_1291.parse 11 16 predicted say-v say.01 ----- 16:0-rel  0:1-ARGM-LOC 15:1-ARG0 17:3-ARG1
+wsj_1291.parse 11 19 predicted begin-v begin.01 ----- 19:0-rel  17:1-ARG1 20:1-ARGM-TMP
+wsj_1291.parse 11 36 predicted reduce-v reduce.01 ----- 36:0-rel  25:1-ARGM-TMP 26:2-ARG0 37:1-ARG1
+wsj_1291.parse 12 5 predicted acquire-v acquire.01 ----- 5:0-rel  0:1-ARGM-TMP 4:1-ARG0
+wsj_1291.parse 12 12 predicted hold-v hold.01 ----- 12:0-rel  11:0-ARGM-MNR 15:0-ARG1
+wsj_1291.parse 12 16 predicted operate-v operate.01 ----- 16:0-rel  6:2-ARG1 17:1-ARGM-MNR
+wsj_1291.parse 13 3 predicted retire-v retire.01 ----- 3:0-rel  0:2-ARG0
+wsj_1291.parse 13 8 predicted take-v take.12 ----- 8:0-rel  5:2-ARG0 9:2-ARG1
+wsj_1291.parse 14 5 predicted reach-v reach.01 ----- 5:0-rel  0:1-ARGM-TMP 4:1-ARG0
+wsj_1291.parse 14 30 predicted subordinate-v subordinate.01 ----- 30:0-rel  31:0-ARG1 32:0-C-ARG1
+wsj_1291.parse 15 2 predicted say-v say.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:4-ARG1
+wsj_1291.parse 15 14 predicted sag-v sag.01 ----- 14:0-rel  8:2-ARG1
+wsj_1291.parse 16 6 predicted operate-v operate.01 ----- 6:0-rel  0:1-ARGM-MNR 4:1-ARG1 7:1-ARGM-MNR 13:1-ARGM-TMP
+wsj_1291.parse 16 15 predicted work-v work.02 ----- 15:0-rel  14:1-ARG0 17:1-ARG1
+wsj_1291.parse 16 20 predicted pay-v pay.01 ----- 20:0-rel  21:1-ARG1

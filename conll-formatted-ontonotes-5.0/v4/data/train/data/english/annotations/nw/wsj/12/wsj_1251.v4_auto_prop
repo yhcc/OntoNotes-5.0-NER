@@ -1,0 +1,19 @@
+wsj_1251.parse 0 4 predicted rise-v rise.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2 7:1-ARGM-TMP
+wsj_1251.parse 0 19 predicted say-v say.01 ----- 19:0-rel  0:3-ARG1 13:1-ARG0 20:1-ARGM-LOC
+wsj_1251.parse 1 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+wsj_1251.parse 1 7 predicted rise-v rise.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG2 15:1-ARGM-TMP 17:1-ARGM-LOC
+wsj_1251.parse 2 4 predicted permit-v permit.01 ----- 4:0-rel  0:1-ARG0
+wsj_1251.parse 2 5 predicted state-v state.01 ----- 5:0-rel  0:2-ARG0 6:2-ARG1
+wsj_1251.parse 2 7 predicted raise-v raise.01 ----- 7:0-rel  0:2-ARG0 8:2-ARG1
+wsj_1251.parse 2 23 predicted define-v define.01 ----- 23:0-rel  21:1-R-ARG1 24:1-ARG2
+wsj_1251.parse 2 27 predicted pass-v pass.02 ----- 27:0-rel  25:1-ARG1 26:1-R-ARG1 28:1-ARGM-DIR
+wsj_1251.parse 3 6 predicted increase-v increase.01 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG0 7:2-ARG1
+wsj_1251.parse 4 10 predicted attribute-v attribute.01 ----- 10:0-rel  2:2-ARG1 11:1-ARG2
+wsj_1251.parse 4 21 predicted attribute-v attribute.01 ----- 21:0-rel  22:1-ARG2
+wsj_1251.parse 5 2 predicted show-v show.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_1251.parse 5 9 predicted rise-v rise.01 ----- 9:0-rel  4:2-ARG1 10:1-ARG2 12:1-ARGM-TMP 18:1-ARGM-ADV
+wsj_1251.parse 5 23 predicted be-v be.01 ----- 23:0-rel  19:2-ARG1
+wsj_1251.parse 6 3 predicted raise-v raise.01 ----- 3:0-rel  1:1-ARG0 2:1-R-ARG0 4:2-ARG1
+wsj_1251.parse 6 14 predicted rise-v rise.01 ----- 14:0-rel  0:1-ARGM-LOC 11:1-ARG1 15:2-ARG2 18:1-ARG4
+wsj_1251.parse 6 25 predicted travel-v travel.01 ----- 25:0-rel  26:1-ARGM-TMP
+wsj_1251.parse 7 10 predicted retain-v retain.01 ----- 10:0-rel  7:1-ARG0 9:1-R-ARG0 11:1-ARG1

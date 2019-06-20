@@ -1,0 +1,24 @@
+wsj_0289.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:4-ARG1
+wsj_0289.parse 0 13 predicted reach-v reach.01 ----- 13:0-rel  5:2-ARG0 12:0-ARGM-MOD
+wsj_0289.parse 1 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:1-ARG1
+wsj_0289.parse 1 8 predicted take-v take.09 ----- 8:0-rel  4:1-ARG0
+wsj_0289.parse 1 12 predicted top-v top.02 ----- 12:0-rel  10:1-ARG0 13:2-ARG1 16:1-ARGM-MNR
+wsj_0289.parse 1 20 predicted base-v base.02 ----- 20:0-rel  18:0-ARGM-LOC 21:0-ARG1
+wsj_0289.parse 2 2 predicted own-v own.01 ----- 2:0-rel  0:0-ARG0 3:0-ARG1
+wsj_0289.parse 2 11 predicted file-v file.01 ----- 11:0-rel  0:3-ARG0
+wsj_0289.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1
+wsj_0289.parse 3 7 predicted approve-v approve.01 ----- 7:0-rel  4:1-ARG0
+wsj_0289.parse 3 29 predicted own-v own.01 ----- 29:0-rel  27:0-ARG0 30:0-ARG1
+wsj_0289.parse 3 32 predicted take-v take.01 ----- 32:0-rel  25:1-ARG1 26:1-ARG0
+wsj_0289.parse 3 34 predicted plan-v plan.01 ----- 34:0-rel  26:1-ARG0 35:2-ARG1
+wsj_0289.parse 3 36 predicted take-v take.01 ----- 36:0-rel  26:1-ARG0 37:2-ARGM-PNC
+wsj_0289.parse 3 38 predicted improve-v improve.01 ----- 38:0-rel  39:2-ARG1
+wsj_0289.parse 4 4 predicted order-v order.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 6:2-ARG2
+wsj_0289.parse 4 7 predicted come-v come.11 ----- 7:0-rel  5:1-ARG0
+wsj_0289.parse 5 5 predicted order-v order.01 ----- 5:0-rel  0:2-ARG0 4:1-ARGM-DIS 6:1-ARG1 7:2-ARG2
+wsj_0289.parse 5 8 predicted shore-v shore.01 ----- 8:0-rel  0:2-ARG0 6:1-ARG0 10:1-ARG1
+wsj_0289.parse 5 14 predicted account-v account.01 ----- 14:0-rel  0:2-ARG0 15:1-ARG1
+wsj_0289.parse 5 26 predicted outline-v outline.01 ----- 26:0-rel  22:1-ARG0 27:2-ARG1 31:2-ARG2
+wsj_0289.parse 5 33 predicted raise-v raise.01 ----- 33:0-rel  31:0-ARG1 34:0-ARG0
+wsj_0289.parse 6 4 predicted elaborate-v elaborate.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+wsj_0289.parse 6 9 predicted plan-v plan.01 ----- 9:0-rel  6:1-ARG1 10:1-ARG0 13:2-ARGM-PNC

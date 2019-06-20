@@ -1,0 +1,5 @@
+wsj_1104.parse 0 1 predicted export-v export.01 ----- 1:0-rel  0:1-ARG0 20:1-ARGM-TMP
+wsj_1104.parse 0 37 predicted say-v say.01 ----- 37:0-rel  0:2-ARG1 34:2-ARG0 38:0-C-ARG1
+wsj_1104.parse 1 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:4-ARG1
+wsj_1104.parse 1 9 predicted gain-v gain.01 ----- 9:0-rel  5:2-ARG1 10:1-ARG2
+wsj_1104.parse 1 20 predicted project-v project.02 ----- 20:0-rel  19:1-ARGM-TMP

@@ -1,0 +1,7 @@
+cnn_0020.parse 0 6 predicted pass-v pass.01 ----- 6:0-rel  0:1-ARG0
+cnn_0020.parse 0 9 predicted condemn-v condemn.01 ----- 9:0-rel  7:1-ARG0 10:2-ARG1
+cnn_0020.parse 0 12 predicted call-v call.01 ----- 12:0-rel  10:1-ARG1 11:1-ARG0
+cnn_0020.parse 1 3 predicted oppose-v oppose.01 ----- 3:0-rel  0:1-ARG0
+cnn_0020.parse 1 7 predicted blame-v blame.01 ----- 7:0-rel  4:1-ARG0 5:1-R-ARG0 6:1-ARGM-ADV 8:2-ARG1
+cnn_0020.parse 1 23 predicted venerate-v venerate.- ----- 23:0-rel  21:1-ARG1 24:1-ARG0
+cnn_0020.parse 2 11 predicted abstain-v abstain.01 ----- 11:0-rel  8:1-ARG0

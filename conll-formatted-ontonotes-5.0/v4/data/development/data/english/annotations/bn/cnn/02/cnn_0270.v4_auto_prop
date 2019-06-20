@@ -1,0 +1,33 @@
+cnn_0270.parse 0 1 predicted turn-v turn.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP
+cnn_0270.parse 1 6 predicted tell-v tell.01 ----- 6:0-rel  5:1-ARG0 7:1-ARG2 8:1-ARG1
+cnn_0270.parse 1 18 predicted be-v be.01 ----- 18:0-rel  17:1-ARG1 19:2-ARG2
+cnn_0270.parse 2 2 predicted be-v be.02 ----- 2:0-rel  3:2-ARG1
+cnn_0270.parse 3 6 predicted look-v look.01 ----- 6:0-rel  4:1-ARG0 7:1-ARG1
+cnn_0270.parse 3 11 predicted fire-v fire.01 ----- 11:0-rel  9:1-ARG0 12:1-ARG1
+cnn_0270.parse 3 15 predicted sense-v sense.01 ----- 15:0-rel  13:1-ARG1 14:1-ARG0
+cnn_0270.parse 3 16 predicted be-v be.01 ----- 16:0-rel  17:2-ARG2
+cnn_0270.parse 3 21 predicted come-v come.03 ----- 21:0-rel  20:1-ARG1 22:1-ARG2
+cnn_0270.parse 4 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0270.parse 5 21 predicted be-v be.02 ----- 21:0-rel  22:1-ARG1
+cnn_0270.parse 6 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1 4:1-ARGM-LOC 5:1-ARGM-TMP
+cnn_0270.parse 7 3 predicted report-v report.01 ----- 3:0-rel  0:1-ARG0
+cnn_0270.parse 7 8 predicted begin-v begin.01 ----- 8:0-rel  5:1-ARG1 9:2-C-ARG1
+cnn_0270.parse 7 10 predicted see-v see.01 ----- 10:0-rel  5:1-ARG0 11:2-ARG1
+cnn_0270.parse 7 13 predicted turn-v turn.01 ----- 13:0-rel  11:1-ARG1
+cnn_0270.parse 8 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+cnn_0270.parse 8 8 predicted be-v be.01 ----- 8:0-rel  5:2-ARG1 9:1-ARG2
+cnn_0270.parse 8 17 predicted be-v be.01 ----- 17:0-rel  12:4-ARG1
+cnn_0270.parse 9 2 predicted know-v know.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1
+cnn_0270.parse 9 13 predicted remain-v remain.01 ----- 13:0-rel  4:2-ARGM-ADV 11:1-ARG1 14:1-ARGM-ADV
+cnn_0270.parse 9 27 predicted rename-v rename.01 ----- 27:0-rel  21:2-ARG1 26:1-ARGM-TMP 28:1-ARG0 31:1-ARG1
+cnn_0270.parse 9 38 predicted be-v be.01 ----- 38:0-rel  36:1-ARG1
+cnn_0270.parse 9 41 predicted point-v point.02 ----- 41:0-rel  36:1-ARG0
+cnn_0270.parse 9 47 predicted have-v have.03 ----- 47:0-rel  44:1-ARG0 46:0-ARGM-NEG 48:2-ARG1
+cnn_0270.parse 9 53 predicted surround-v surround.01 ----- 53:0-rel  50:1-ARG1 52:1-ARGM-TMP 54:1-ARG2
+cnn_0270.parse 10 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:2-ARG2
+cnn_0270.parse 10 11 predicted be-v be.01 ----- 11:0-rel  9:1-ARGM-LOC 10:1-ARG1
+cnn_0270.parse 11 8 predicted keep-v keep.02 ----- 8:0-rel  9:2-ARG1
+cnn_0270.parse 11 9 predicted monitor-v monitor.01 ----- 9:0-rel  10:2-ARG1
+cnn_0270.parse 11 14 predicted bring-v bring.01 ----- 14:0-rel  0:1-ARG0 15:1-ARG1
+cnn_0270.parse 11 18 predicted speed-v speed.01 ----- 18:0-rel  15:1-ARG0
+cnn_0270.parse 11 22 predicted learn-v learn.01 ----- 22:0-rel  21:1-ARG0

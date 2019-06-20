@@ -1,0 +1,12 @@
+cnn_0083.parse 0 1 predicted hit-v hit.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARG2
+cnn_0083.parse 2 9 predicted cut-v cut.02 ----- 9:0-rel  0:2-ARG0 10:1-ARG1
+cnn_0083.parse 3 1 predicted blame-v blame.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0083.parse 3 5 predicted increase-v increase.01 ----- 5:0-rel  6:0-ARG1
+cnn_0083.parse 4 2 predicted confirm-v confirm.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:2-ARG1
+cnn_0083.parse 4 9 predicted create-v create.01 ----- 9:0-rel  10:1-ARG1
+cnn_0083.parse 5 1 predicted call-v call.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0083.parse 5 4 predicted follow-v follow.02 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD 5:2-ARG2
+cnn_0083.parse 6 3 predicted call-v call.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cnn_0083.parse 6 7 predicted track-v track.01 ----- 7:0-rel  0:2-ARG0 6:0-ARGM-MOD 8:2-ARG1
+cnn_0083.parse 7 6 predicted announce-v announce.01 ----- 6:0-rel  0:3-ARG0 7:1-ARG1 11:1-ARGM-TMP
+cnn_0083.parse 7 9 predicted restructure-v restructure.01 ----- 9:0-rel  10:0-ARG0

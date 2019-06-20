@@ -1,0 +1,7 @@
+cnn_0399.parse 0 2 predicted get-v get.05 ----- 2:0-rel  3:1-ARG2
+cnn_0399.parse 0 14 predicted target-v target.01 ----- 14:0-rel  6:1-ARGM-LOC 9:1-R-ARGM-LOC 11:1-ARG0 15:1-ARG1
+cnn_0399.parse 1 4 predicted link-v link.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-MNR 5:2-ARG1
+cnn_0399.parse 3 2 predicted believe-v believe.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS
+cnn_0399.parse 3 6 predicted attack-v attack.01 ----- 6:0-rel  5:1-ARG1 7:1-ARGM-LOC
+cnn_0399.parse 3 10 predicted be-v be.01 ----- 10:0-rel  3:2-ARG1 11:1-ARG2 13:1-ARGM-ADV
+cnn_0399.parse 4 1 predicted talk-v talk.01 ----- 1:0-rel  0:1-ARG0 5:1-ARGM-LOC

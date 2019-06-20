@@ -1,0 +1,7 @@
+pri_0024.parse 0 8 predicted acknowledge-v acknowledge.- ----- 8:0-rel  0:2-ARG0 9:2-ARG1
+pri_0024.parse 0 12 predicted kill-v kill.01 ----- 12:0-rel  9:1-ARG0 11:1-R-ARG0 13:1-ARG1 17:1-ARGM-LOC
+pri_0024.parse 1 2 predicted insist-v insist.01 ----- 2:0-rel  0:1-ARG0
+pri_0024.parse 1 13 predicted call-v call.01 ----- 13:0-rel  10:1-ARG0 12:1-ARGM-TMP 14:1-ARG1 15:2-ARG2
+pri_0024.parse 2 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-TMP 4:3-ARG1
+pri_0024.parse 2 7 predicted have-v have.03 ----- 7:0-rel  4:1-ARG0 8:2-ARG1
+pri_0024.parse 2 11 predicted show-v show.01 ----- 11:0-rel  8:1-ARG0 10:1-R-ARG0 12:3-ARG1

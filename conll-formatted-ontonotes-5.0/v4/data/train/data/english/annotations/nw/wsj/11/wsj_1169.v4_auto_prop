@@ -1,0 +1,16 @@
+wsj_1169.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1169.parse 0 6 predicted establish-v establish.01 ----- 6:0-rel  4:1-ARG0
+wsj_1169.parse 0 12 predicted produce-v produce.01 ----- 12:0-rel  4:1-ARG0 13:2-ARG1
+wsj_1169.parse 0 16 predicted include-v include.01 ----- 16:0-rel  13:1-ARG2 17:1-ARG1
+wsj_1169.parse 1 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:3-ARG1
+wsj_1169.parse 1 8 predicted purchase-v purchase.01 ----- 8:0-rel  7:1-ARG0 9:2-ARG1
+wsj_1169.parse 2 4 predicted disclose-v disclose.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG 5:2-ARG1
+wsj_1169.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 3:1-ARGM-DIS
+wsj_1169.parse 3 7 predicted invest-v invest.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:3-ARG1 17:1-ARG2
+wsj_1169.parse 4 2 predicted slate-v slate.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+wsj_1169.parse 4 4 predicted begin-v begin.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-TMP
+wsj_1169.parse 5 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARG0 3:1-R-ARG0 5:3-ARG1
+wsj_1169.parse 5 18 predicted say-v say.01 ----- 18:0-rel  0:2-ARG0 19:3-ARG1
+wsj_1169.parse 5 23 predicted design-v design.01 ----- 23:0-rel  19:1-ARG1 24:2-ARG3
+wsj_1169.parse 5 25 predicted meet-v meet.01 ----- 25:0-rel  19:1-ARG0
+wsj_1169.parse 6 1 predicted expect-v expect.01 ----- 1:0-rel  0:1-ARG0

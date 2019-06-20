@@ -1,0 +1,16 @@
+cnn_0066.parse 0 2 predicted join-v join.04 ----- 2:0-rel  3:1-ARG1 4:1-ARGM-TMP
+cnn_0066.parse 1 14 predicted take-v take.01 ----- 14:0-rel  0:1-ARGM-ADV 7:2-ARG0
+cnn_0066.parse 2 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:4-ARG1
+cnn_0066.parse 2 13 predicted remain-v remain.01 ----- 13:0-rel  4:2-ARG1 12:0-ARGM-MOD 14:1-ARG3 16:1-ARGM-TMP
+cnn_0066.parse 2 21 predicted reduce-v reduce.01 ----- 21:0-rel  4:2-ARG0 22:1-ARG1
+cnn_0066.parse 3 7 predicted close-v close.01 ----- 7:0-rel  0:2-ARG1
+cnn_0066.parse 4 8 predicted place-v place.01 ----- 8:0-rel  0:2-ARG1 9:1-ARG2
+cnn_0066.parse 5 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0066.parse 5 4 predicted receive-v receive.01 ----- 4:0-rel  3:1-ARG0
+cnn_0066.parse 6 3 predicted lead-v lead.03 ----- 3:0-rel  0:1-ARG0 4:1-ARG2
+cnn_0066.parse 7 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+cnn_0066.parse 7 9 predicted increase-v increase.01 ----- 9:0-rel  2:2-ARG1 10:1-ARG4
+cnn_0066.parse 8 3 predicted coincide-v coincide.- ----- 3:0-rel  0:1-ARG1 2:1-ARGM-ADV 4:2-ARG1
+cnn_0066.parse 9 5 predicted kill-v kill.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+cnn_0066.parse 9 9 predicted wounded-v wounded.- ----- 9:0-rel  0:1-ARG0 10:1-ARG1
+cnn_0066.parse 10 5 predicted continue-v continue.01 ----- 5:0-rel  0:1-ARG0

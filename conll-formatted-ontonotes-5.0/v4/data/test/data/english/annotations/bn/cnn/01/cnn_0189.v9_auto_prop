@@ -1,0 +1,8 @@
+cnn_0189.parse 0 7 predicted arrive-v arrive.01 ----- 7:0-rel  0:1-ARG1 8:1-ARG4 10:2-ARGM-PRP
+cnn_0189.parse 0 11 predicted demand-v demand.01 ----- 11:0-rel  0:1-ARG0 12:2-ARG1
+cnn_0189.parse 1 3 predicted expect-v expect.01 ----- 3:0-rel  0:1-ARG1 4:2-C-ARG1
+cnn_0189.parse 1 5 predicted meet-v meet.03 ----- 5:0-rel  0:1-ARG0 6:1-ARGM-TMP
+cnn_0189.parse 2 2 predicted suggest-v suggest.01 ----- 2:0-rel  0:1-ARG0
+cnn_0189.parse 2 6 predicted stand-v stand.04 ----- 6:0-rel  3:1-ARG1 7:1-ARG2 8:1-ARGM-LOC
+cnn_0189.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+cnn_0189.parse 3 7 predicted try-v try.01 ----- 7:0-rel  2:2-ARG1 5:0-ARGM-MOD 8:1-ARGM-LOC

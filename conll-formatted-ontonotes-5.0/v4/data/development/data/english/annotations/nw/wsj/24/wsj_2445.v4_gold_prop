@@ -1,0 +1,16 @@
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 0 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 0 5 gold expect-v expect.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 0 13 gold be-v be.01 ----- 13:0-rel 6:1-ARG1 14:4-ARG2
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 1 3 gold project-v project.02 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 1 10 gold be-v be.01 ----- 10:0-rel 5:2-ARG1 11:3-ARG2 9:0-ARGM-MOD
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 2 8 gold amount-v amount.01 ----- 8:0-rel 0:1-ARG1 9:1-ARG2
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 3 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:4-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 3 4 gold drop-n drop.01 ----- 4:0-rel 5:1-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 3 11 gold reduce-v reduce.01 ----- 11:0-rel 3:2-ARG0 12:2-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 4 4 gold say-v say.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 5:3-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 4 9 gold fail-v fail.01 ----- 9:0-rel 5:1-ARG1 10:2-ARG2
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 4 11 gold meet-v meet.01 ----- 11:0-rel 12:1-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 5 14 gold say-v say.01 ----- 14:0-rel 0:2-ARG0 15:3-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 5 16 gold expect-v expect.01 ----- 16:0-rel 15:1-ARG0 17:2-ARG1
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 5 23 gold be-v be.01 ----- 23:0-rel 17:1-ARG1 24:2-ARG2
+nw/wsj/24/wsj_2445@2445@wsj@nw@en@on 5 33 gold be-v be.01 ----- 33:0-rel 34:3-ARG2 29:1-LINK-SLC

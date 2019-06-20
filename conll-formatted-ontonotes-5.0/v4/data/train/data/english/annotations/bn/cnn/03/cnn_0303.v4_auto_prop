@@ -1,0 +1,24 @@
+cnn_0303.parse 1 10 predicted plan-v plan.01 ----- 10:0-rel  0:2-ARG0 11:2-ARG1
+cnn_0303.parse 1 19 predicted cut-v cut.02 ----- 19:0-rel  18:0-ARG1 20:0-ARG0
+cnn_0303.parse 2 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0303.parse 2 14 predicted be-v be.01 ----- 14:0-rel  13:0-ARGM-NEG
+cnn_0303.parse 2 16 predicted disclose-v disclose.01 ----- 16:0-rel  9:1-ARG1 11:1-R-ARG1 13:0-ARGM-NEG 15:1-ARGM-EXT 17:1-ARGM-TMP
+cnn_0303.parse 2 20 predicted vote-v vote.01 ----- 20:0-rel  18:1-ARG0 21:2-ARG1
+cnn_0303.parse 2 22 predicted take-v take.01 ----- 22:0-rel  18:1-ARG0 23:1-ARG1
+cnn_0303.parse 3 4 predicted make-v make.04 ----- 4:0-rel  0:1-ARG0
+cnn_0303.parse 3 14 predicted apologize-v apologize.01 ----- 14:0-rel  7:1-ARGM-TMP 9:3-ARGM-MNR 15:1-ARG2
+cnn_0303.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0303.parse 4 3 predicted think-v think.01 ----- 3:0-rel  2:1-ARG0 4:3-ARG1
+cnn_0303.parse 4 7 predicted like-v like.01 ----- 7:0-rel  4:1-ARG0 6:0-ARGM-MOD 8:2-ARG1
+cnn_0303.parse 4 11 predicted mean-v mean.01 ----- 11:0-rel  8:1-ARG0 10:1-R-ARG0 12:2-ARG1
+cnn_0303.parse 4 13 predicted keep-v keep.01 ----- 13:0-rel  10:1-ARG0 14:1-ARG1
+cnn_0303.parse 4 21 predicted conceal-v conceal.01 ----- 21:0-rel  20:1-ARG0 22:1-ARG1 24:2-ARGM-CAU
+cnn_0303.parse 4 24 predicted fear-v fear.01 ----- 24:0-rel  20:1-ARG0 25:3-ARG1
+cnn_0303.parse 4 28 predicted cause-v cause.01 ----- 28:0-rel  25:1-ARG0 27:0-ARGM-MOD 29:1-ARG1 30:2-ARGM-TMP
+cnn_0303.parse 4 33 predicted ask-v ask.02 ----- 33:0-rel  30:1-ARGM-TMP 31:1-ARG0 34:1-ARG2 35:1-ARG1
+cnn_0303.parse 5 5 predicted fall-v fall.01 ----- 5:0-rel  0:2-ARG1 6:1-ARGM-MNR 7:1-ARGM-TMP
+cnn_0303.parse 5 20 predicted force-v force.01 ----- 20:0-rel  16:1-ARG1 18:0-ARGM-MOD 21:2-ARG2
+cnn_0303.parse 5 22 predicted file-v file.01 ----- 22:0-rel  16:1-ARG0 23:1-ARG4
+cnn_0303.parse 6 4 predicted bounce-v bounce.02 ----- 4:0-rel  0:1-ARG1
+cnn_0303.parse 7 14 predicted sprinkle-v sprinkle.01 ----- 14:0-rel  8:2-ARG1 17:1-ARGM-DIS
+cnn_0303.parse 8 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARG1

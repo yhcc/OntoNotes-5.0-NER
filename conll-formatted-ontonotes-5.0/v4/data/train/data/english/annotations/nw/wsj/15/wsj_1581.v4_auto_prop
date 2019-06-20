@@ -1,0 +1,23 @@
+wsj_1581.parse 0 2 predicted reject-v reject.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_1581.parse 0 9 predicted seek-v seek.01 ----- 9:0-rel  7:1-ARG0 10:2-ARGM-PNC
+wsj_1581.parse 0 11 predicted protect-v protect.01 ----- 11:0-rel  7:1-ARG0 12:1-ARG1 15:1-ARG2
+wsj_1581.parse 1 6 predicted fall-v fall.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG2
+wsj_1581.parse 1 15 predicted need-v need.01 ----- 15:0-rel  10:1-ARG1 16:2-ARGM-PNC
+wsj_1581.parse 1 17 predicted approve-v approve.01 ----- 17:0-rel  18:2-ARG1
+wsj_1581.parse 2 8 predicted vote-v vote.03 ----- 8:0-rel  0:1-ARG1 3:1-R-ARG1 5:1-ARG0 9:1-ARG1
+wsj_1581.parse 2 23 predicted oppose-v oppose.01 ----- 23:0-rel  19:1-ARG0 22:1-R-ARG0 24:1-ARG1 26:1-ARGM-MNR
+wsj_1581.parse 3 3 predicted support-v support.01 ----- 3:0-rel  1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1 7:1-ARGM-MNR
+wsj_1581.parse 3 8 predicted change-v change.01 ----- 8:0-rel  9:1-ARG1
+wsj_1581.parse 3 14 predicted say-v say.01 ----- 14:0-rel  1:2-ARG1 15:3-ARG0
+wsj_1581.parse 4 23 predicted arrange-v arrange.01 ----- 23:0-rel  0:1-ARGM-PNC 9:3-ARG0
+wsj_1581.parse 4 27 predicted pass-v pass.01 ----- 27:0-rel  25:1-ARG0 28:2-ARG1 33:1-ARGM-TMP
+wsj_1581.parse 4 30 predicted bar-v bar.01 ----- 30:0-rel  28:1-ARG0 31:1-ARG1
+wsj_1581.parse 4 34 predicted vote-v vote.01 ----- 34:0-rel  35:1-ARG1
+wsj_1581.parse 5 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1581.parse 5 5 predicted allow-v allow.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD
+wsj_1581.parse 5 17 predicted say-v say.01 ----- 17:0-rel  16:1-ARG0 18:3-ARG1
+wsj_1581.parse 5 23 predicted protect-v protect.01 ----- 23:0-rel  18:1-ARG3 22:0-ARGM-MOD 24:1-ARG1 26:1-ARGM-MNR
+wsj_1581.parse 6 6 predicted throw-v throw.01 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG0
+wsj_1581.parse 6 15 predicted set-v set.01 ----- 15:0-rel  11:1-ARG0 14:1-R-ARG0 19:1-ARGM-TMP
+wsj_1581.parse 6 24 predicted say-v say.01 ----- 24:0-rel  25:3-ARG1
+wsj_1581.parse 6 35 predicted protect-v protect.01 ----- 35:0-rel  33:1-ARG1 36:1-ARG0

@@ -1,0 +1,27 @@
+cnn_0293.parse 0 5 predicted appear-v appear.02 ----- 5:0-rel  4:1-R-ARG1 6:2-R-ARG1
+cnn_0293.parse 0 8 predicted run-v run.01 ----- 8:0-rel  9:1-ARG0
+cnn_0293.parse 0 14 predicted begin-v begin.01 ----- 14:0-rel  0:1-ARGM-MNR 15:1-ARGM-LOC 17:2-ARGM-TMP
+cnn_0293.parse 1 4 predicted continue-v continue.01 ----- 4:0-rel  3:1-ARG1 5:1-ARGM-LOC
+cnn_0293.parse 1 8 predicted continue-v continue.01 ----- 8:0-rel  0:1-ARG1 9:2-C-ARG1
+cnn_0293.parse 1 10 predicted be-v be.01 ----- 10:0-rel  11:2-ARG2
+cnn_0293.parse 2 4 predicted describe-v describe.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+cnn_0293.parse 3 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+cnn_0293.parse 3 8 predicted used-v used.- ----- 8:0-rel  5:1-R-ARG1 6:1-ARG0 9:2-ARGM-TMP
+cnn_0293.parse 4 2 predicted continue-v continue.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0293.parse 4 6 predicted follow-v follow.01 ----- 6:0-rel  5:1-ARG1
+cnn_0293.parse 4 11 predicted talk-v talk.01 ----- 11:0-rel  8:1-ARG1 10:1-ARG0
+cnn_0293.parse 4 21 predicted kill-v kill.01 ----- 21:0-rel  13:1-ARGM-TMP 14:1-R-ARGM-LOC 16:3-ARG1 22:1-ARG2 25:1-ARGM-TMP
+cnn_0293.parse 4 28 predicted come-v come.04 ----- 28:0-rel  26:1-ARG1 27:1-ARGM-ADV 29:1-ARG2 31:2-ARGM-ADV
+cnn_0293.parse 4 31 predicted try-v try.01 ----- 31:0-rel  32:2-ARG1
+cnn_0293.parse 4 33 predicted secure-v secure.01 ----- 33:0-rel  34:2-ARG1
+cnn_0293.parse 5 13 predicted apprehend-v apprehend.- ----- 13:0-rel  0:1-ARGM-DIS 2:2-ARG0 11:1-ARGM-ADV 12:1-ARGM-TMP 14:1-ARGM-TMP 15:1-ARGM-LOC 17:1-ARGM-MNR
+cnn_0293.parse 7 2 predicted remember-v remember.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARGM-TMP
+cnn_0293.parse 7 14 predicted pick-v pick.04 ----- 14:0-rel  5:1-ARGM-TMP 6:2-ARG1 16:2-ARGM-PRP
+cnn_0293.parse 7 16 predicted try-v try.01 ----- 16:0-rel  6:2-ARG0 17:2-ARG1
+cnn_0293.parse 7 18 predicted cross-v cross.02 ----- 18:0-rel  19:1-ARGM-DIR
+cnn_0293.parse 7 28 predicted tell-v tell.01 ----- 28:0-rel  25:1-ARG2
+cnn_0293.parse 7 31 predicted close-v close.01 ----- 31:0-rel  29:1-ARG0 32:2-ARG1 36:2-ARGM-PNC
+cnn_0293.parse 7 37 predicted prevent-v prevent.01 ----- 37:0-rel  29:1-ARG0 38:2-ARG1
+cnn_0293.parse 8 2 predicted go-v go.06 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0293.parse 9 9 predicted pick-v pick.04 ----- 9:0-rel  6:1-ARG0 11:2-ARG1
+cnn_0293.parse 9 13 predicted happen-v happen.01 ----- 13:0-rel  11:1-ARG1

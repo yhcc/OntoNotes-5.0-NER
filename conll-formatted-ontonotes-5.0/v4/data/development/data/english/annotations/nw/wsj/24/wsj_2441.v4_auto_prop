@@ -1,0 +1,25 @@
+wsj_2441.parse 0 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:3-ARG1
+wsj_2441.parse 0 9 predicted ask-v ask.02 ----- 9:0-rel  7:1-ARG0 8:0-ARGM-MOD 10:1-ARG2
+wsj_2441.parse 0 15 predicted allow-v allow.01 ----- 15:0-rel  10:1-ARG0 16:2-ARG1
+wsj_2441.parse 0 18 predicted hire-v hire.01 ----- 18:0-rel  16:1-ARG0 19:1-ARG1 23:2-ARG2
+wsj_2441.parse 0 24 predicted help-v help.01 ----- 24:0-rel  19:1-ARG0 25:2-ARG1
+wsj_2441.parse 0 26 predicted sell-v sell.01 ----- 26:0-rel  25:1-ARG0 27:1-ARG1
+wsj_2441.parse 1 2 predicted assist-v assist.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG0
+wsj_2441.parse 1 11 predicted try-v try.01 ----- 11:0-rel  0:2-ARG0
+wsj_2441.parse 1 13 predicted sell-v sell.01 ----- 13:0-rel  0:2-ARG0 14:1-ARG1 19:1-ARGM-TMP
+wsj_2441.parse 2 8 predicted hope-v hope.01 ----- 8:0-rel  0:1-ARG0 9:2-ARG1
+wsj_2441.parse 2 10 predicted use-v use.01 ----- 10:0-rel  0:1-ARG0 11:2-ARG1 15:2-ARG2
+wsj_2441.parse 2 16 predicted reduce-v reduce.01 ----- 16:0-rel  0:1-ARG0 17:1-ARG1
+wsj_2441.parse 3 8 predicted reach-v reach.01 ----- 8:0-rel  9:1-ARG1
+wsj_2441.parse 3 17 predicted default-v default.01 ----- 17:0-rel  16:1-ARG0
+wsj_2441.parse 4 1 predicted file-v file.01 ----- 1:0-rel  0:1-ARG0
+wsj_2441.parse 4 17 predicted give-v give.01 ----- 17:0-rel  14:1-ARG0 18:1-ARG2 19:2-ARG1
+wsj_2441.parse 4 22 predicted work-v work.01 ----- 22:0-rel  19:1-ARGM-TMP 23:1-ARG1
+wsj_2441.parse 4 27 predicted restructure-v restructure.01 ----- 27:0-rel  28:2-ARG1
+wsj_2441.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+wsj_2441.parse 5 6 predicted own-v own.01 ----- 6:0-rel  5:1-R-ARG0 7:2-ARG1
+wsj_2441.parse 5 15 predicted continue-v continue.01 ----- 15:0-rel  2:2-ARG1 13:0-ARGM-MOD 14:0-ARGM-NEG 16:1-ARG1 21:1-ARGM-CAU
+wsj_2441.parse 5 23 predicted be-v be.01 ----- 23:0-rel  22:1-ARG1 24:1-ARGM-ADV 25:1-ARG2
+wsj_2441.parse 6 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_2441.parse 6 3 predicted choose-v choose.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1 5:1-ARGM-ADV 7:1-ARGM-CAU
+wsj_2441.parse 6 20 predicted be-v be.01 ----- 20:0-rel  17:1-ARGM-LOC 18:1-ARG1 19:0-ARGM-MOD 21:1-ARG2

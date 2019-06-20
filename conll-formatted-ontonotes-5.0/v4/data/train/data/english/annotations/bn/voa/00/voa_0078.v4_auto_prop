@@ -1,0 +1,13 @@
+voa_0078.parse 0 4 predicted vote-v vote.01 ----- 4:0-rel  0:1-ARG0 5:1-ARGM-TMP 7:1-ARG1
+voa_0078.parse 1 4 predicted announce-v announce.01 ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+voa_0078.parse 2 2 predicted declare-v declare.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+voa_0078.parse 2 8 predicted admit-v admit.02 ----- 8:0-rel  3:2-ARG1 9:1-ARG2
+voa_0078.parse 3 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:4-ARG1
+voa_0078.parse 3 13 predicted prove-v prove.01 ----- 13:0-rel  5:2-ARG0
+voa_0078.parse 3 18 predicted rejoin-v rejoin.- ----- 18:0-rel  14:1-ARG0 19:2-ARG1
+voa_0078.parse 4 1 predicted congratulate-v congratulate.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARG2
+voa_0078.parse 4 8 predicted bring-v bring.01 ----- 8:0-rel  9:3-ARG1
+voa_0078.parse 5 1 predicted congratulate-v congratulate.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+voa_0078.parse 5 10 predicted bring-v bring.01 ----- 10:0-rel  5:1-ARG0 9:1-R-ARG0 11:2-ARG1
+voa_0078.parse 6 4 predicted declare-v declare.01 ----- 4:0-rel  0:1-ARG0 3:1-ARG0 5:2-ARG1 9:3-ARGM-TMP 13:1-ARGM-TMP
+voa_0078.parse 6 18 predicted come-v come.01 ----- 18:0-rel  14:2-ARG1 19:1-ARG2

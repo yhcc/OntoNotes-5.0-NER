@@ -1,0 +1,26 @@
+cnn_0266.parse 1 4 predicted long-v long.01 ----- 4:0-rel  0:3-ARG0 5:1-ARGM-LOC
+cnn_0266.parse 2 1 predicted mention-v mention.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:2-ARGM-TMP
+cnn_0266.parse 3 2 predicted move-v move.04 ----- 2:0-rel  0:1-ARG1
+cnn_0266.parse 4 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0
+cnn_0266.parse 4 6 predicted come-v come.01 ----- 6:0-rel  3:1-ARG1 5:0-ARGM-MOD 7:1-ARGM-TMP
+cnn_0266.parse 4 17 predicted finish-v finish.02 ----- 17:0-rel  9:1-ARGM-TMP 13:1-ARG1 15:0-ARGM-MOD
+cnn_0266.parse 6 11 predicted play-v play.02 ----- 11:0-rel  5:1-ARG1 7:1-ARG0 10:0-ARGM-MOD 12:1-ARGM-PRP
+cnn_0266.parse 6 13 predicted rebuild-v rebuild.01 ----- 13:0-rel  14:1-ARG1
+cnn_0266.parse 7 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0266.parse 7 6 predicted have-v have.03 ----- 6:0-rel  3:1-ARG0
+cnn_0266.parse 7 10 predicted play-v play.02 ----- 10:0-rel  7:1-ARG1
+cnn_0266.parse 7 15 predicted be-v be.01 ----- 15:0-rel  14:1-ARG1
+cnn_0266.parse 7 16 predicted remain-v remain.01 ----- 16:0-rel  17:2-ARG3
+cnn_0266.parse 8 9 predicted hear-v hear.01 ----- 9:0-rel  7:1-ARGM-TMP 8:1-ARG0
+cnn_0266.parse 8 12 predicted ask-v ask.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG1 19:1-ARGM-TMP
+cnn_0266.parse 9 4 predicted believe-v believe.01 ----- 4:0-rel  3:1-ARG0
+cnn_0266.parse 9 13 predicted disappear-v disappear.01 ----- 13:0-rel  10:1-ARG1 12:1-R-ARG1 14:1-ARGM-LOC 16:3-ARGM-TMP
+cnn_0266.parse 10 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARG0
+cnn_0266.parse 10 8 predicted hold-v hold.01 ----- 8:0-rel  4:1-ARGM-ADV 5:1-ARG1 9:1-ARGM-LOC
+cnn_0266.parse 10 19 predicted be-v be.02 ----- 19:0-rel  20:2-ARG1
+cnn_0266.parse 10 25 predicted confirm-v confirm.01 ----- 25:0-rel  23:1-ARG0 26:1-ARG1
+cnn_0266.parse 12 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2 4:1-ARGM-ADV
+cnn_0266.parse 13 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+cnn_0266.parse 14 2 predicted happen-v happen.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0266.parse 14 11 predicted continue-v continue.01 ----- 11:0-rel  10:1-ARG0 12:2-ARG1
+cnn_0266.parse 14 13 predicted watch-v watch.01 ----- 13:0-rel  10:1-ARG0 14:1-ARG1 16:1-ARGM-MNR

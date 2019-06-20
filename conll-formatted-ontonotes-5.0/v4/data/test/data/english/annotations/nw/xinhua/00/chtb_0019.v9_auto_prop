@@ -1,0 +1,37 @@
+chtb_0019.parse 1 6 predicted occupy-v occupy.01 ----- 6:0-rel  0:1-ARG0 5:1-R-ARG0 7:2-ARG1
+chtb_0019.parse 1 16 predicted make-v make.01 ----- 16:0-rel  0:2-ARG0 17:1-ARG1 19:1-ARGM-TMP
+chtb_0019.parse 2 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:2-ARG2
+chtb_0019.parse 2 9 predicted bond-v bond.02 ----- 9:0-rel  10:0-ARG1
+chtb_0019.parse 2 15 predicted establish-v establish.01 ----- 15:0-rel  0:1-ARG1 22:1-ARGM-TMP
+chtb_0019.parse 3 8 predicted bond-v bond.02 ----- 8:0-rel  9:0-ARG1
+chtb_0019.parse 3 12 predicted take-v take.01 ----- 12:0-rel  11:1-ARGM-MNR
+chtb_0019.parse 3 13 predicted shape-v shape.01 ----- 13:0-rel  3:2-ARG1 11:1-ARGM-MNR
+chtb_0019.parse 3 19 predicted be-v be.01 ----- 19:0-rel  16:1-ARG1 20:1-ARG2 21:1-ARGM-LOC
+chtb_0019.parse 3 24 predicted bond-v bond.02 ----- 24:0-rel  25:0-ARG1
+chtb_0019.parse 4 20 predicted add-v add.02 ----- 20:0-rel  0:1-ARGM-ADV 4:1-ARGM-TMP 11:3-ARG1 21:2-ARG2
+chtb_0019.parse 5 11 predicted go-v go.12 ----- 11:0-rel  6:2-ARG1 12:1-ARG2
+chtb_0019.parse 5 16 predicted bond-v bond.02 ----- 16:0-rel  17:0-ARG1
+chtb_0019.parse 5 18 predicted reach-v reach.01 ----- 18:0-rel  0:1-ARGM-TMP 6:3-ARG0 19:2-ARG1
+chtb_0019.parse 6 4 predicted be-v be.02 ----- 4:0-rel  0:1-ARGM-TMP 5:3-ARG1
+chtb_0019.parse 6 6 predicted bond-v bond.02 ----- 6:0-rel  7:0-ARG1
+chtb_0019.parse 6 17 predicted be-v be.01 ----- 17:0-rel  16:1-ARG1 18:2-ARG2
+chtb_0019.parse 7 10 predicted store-v store.01 ----- 10:0-rel  9:1-ARG1 11:1-ARGM-LOC
+chtb_0019.parse 7 14 predicted reach-v reach.01 ----- 14:0-rel  0:1-ARGM-TMP 6:2-ARG0 15:2-ARG1
+chtb_0019.parse 8 9 predicted bond-v bond.02 ----- 9:0-rel  10:0-ARG1
+chtb_0019.parse 8 13 predicted start-v start.01 ----- 13:0-rel  1:2-ARG1 14:1-ARGM-TMP
+chtb_0019.parse 8 37 predicted bond-v bond.02 ----- 37:0-rel  33:0-ARGM-MNR 38:0-ARG1
+chtb_0019.parse 8 40 predicted become-v become.01 ----- 40:0-rel  0:1-ARGM-ADV 20:2-ARG1 41:1-ARG2
+chtb_0019.parse 9 7 predicted come-v come.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG4 11:1-ARGM-MNR
+chtb_0019.parse 10 14 predicted bond-v bond.02 ----- 14:0-rel  15:0-ARG1
+chtb_0019.parse 10 22 predicted be-v be.01 ----- 22:0-rel  21:1-ARG1 23:2-ARG2
+chtb_0019.parse 10 25 predicted invest-v invest.01 ----- 25:0-rel  23:0-ARGM-MNR 26:0-ARG1
+chtb_0019.parse 10 31 predicted reach-v reach.01 ----- 31:0-rel  28:1-ARG0 32:2-ARG1
+chtb_0019.parse 10 40 predicted utilize-v utilize.- ----- 40:0-rel  41:0-ARG1 42:0-C-ARG1
+chtb_0019.parse 11 8 predicted couple-v couple.- ----- 8:0-rel  0:1-ARGM-DIS 2:2-ARG0 9:1-ARG1 10:1-ARG2 14:1-ARGM-LOC
+chtb_0019.parse 11 16 predicted bond-v bond.02 ----- 16:0-rel  17:0-ARG1
+chtb_0019.parse 12 1 predicted complement-v complement.01 ----- 1:0-rel  2:2-ARG1
+chtb_0019.parse 12 3 predicted bond-v bond.02 ----- 3:0-rel  4:0-ARG1
+chtb_0019.parse 12 13 predicted take-v take.01 ----- 13:0-rel  0:2-ARGM-PRP 8:1-ARG0 16:1-ARGM-LOC 18:1-ARGM-ADV
+chtb_0019.parse 13 6 predicted bond-v bond.02 ----- 6:0-rel  7:0-ARG1
+chtb_0019.parse 13 9 predicted take-v take.01 ----- 9:0-rel  0:1-ARGM-TMP 5:1-ARG0
+chtb_0019.parse 13 30 predicted create-v create.01 ----- 30:0-rel  31:2-ARG1

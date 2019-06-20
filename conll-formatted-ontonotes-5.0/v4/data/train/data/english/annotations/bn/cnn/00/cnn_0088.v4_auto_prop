@@ -1,0 +1,14 @@
+cnn_0088.parse 0 5 predicted bomb-v bomb.- ----- 5:0-rel  6:0-ARG1
+cnn_0088.parse 0 11 predicted got-v got.- ----- 11:0-rel  0:2-ARG0 12:2-ARG1
+cnn_0088.parse 0 18 predicted return-v return.01 ----- 18:0-rel  17:1-ARG1 19:1-ARG4 22:1-ARGM-TMP
+cnn_0088.parse 1 4 predicted give-v give.01 ----- 4:0-rel  0:1-ARG2 2:0-ARGM-MOD
+cnn_0088.parse 1 11 predicted spend-v spend.02 ----- 11:0-rel  12:1-ARG1 13:1-ARG2
+cnn_0088.parse 2 4 predicted kill-v kill.01 ----- 4:0-rel  0:1-ARG1
+cnn_0088.parse 2 7 predicted injure-v injure.01 ----- 7:0-rel  6:1-ARG1
+cnn_0088.parse 3 2 predicted damage-v damage.01 ----- 2:0-rel  3:0-ARG1
+cnn_0088.parse 3 4 predicted remain-v remain.01 ----- 4:0-rel  0:1-ARGM-TMP 1:1-ARG1 5:1-ARGM-LOC
+cnn_0088.parse 3 10 predicted load-v load.01 ----- 10:0-rel  11:1-ARG1
+cnn_0088.parse 4 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0088.parse 4 4 predicted piggybacked-v piggybacked.- ----- 4:0-rel  5:0-ARG1
+cnn_0088.parse 4 7 predicted depart-v depart.01 ----- 7:0-rel  3:1-ARG0 6:0-ARGM-MOD 8:1-ARGM-TMP
+cnn_0088.parse 5 10 predicted arrive-v arrive.01 ----- 10:0-rel  0:1-ARG1 1:0-ARGM-MOD 11:1-ARG4 13:1-ARGM-TMP

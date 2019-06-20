@@ -1,0 +1,16 @@
+pri_0031.parse 0 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-LOC 6:1-ARG1 8:2-ARG2
+pri_0031.parse 1 8 predicted accuse-v accuse.01 ----- 8:0-rel  0:2-ARG0 9:1-ARG1 10:1-ARG2
+pri_0031.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+pri_0031.parse 2 6 predicted set-v set.03 ----- 6:0-rel  2:1-ARG0 8:2-ARG1
+pri_0031.parse 2 22 predicted want-v want.01 ----- 22:0-rel  2:1-ARG0 23:3-ARG1
+pri_0031.parse 2 31 predicted visit-v visit.01 ----- 31:0-rel  23:2-ARG0 32:1-ARG1
+pri_0031.parse 3 4 predicted report-v report.01 ----- 4:0-rel  0:1-ARGM-DIR 2:1-ARG0
+pri_0031.parse 4 10 predicted condemn-v condemn.01 ----- 10:0-rel  0:2-ARG0 11:1-ARG1 12:1-ARG2
+pri_0031.parse 5 3 predicted accuse-v accuse.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:1-ARG1
+pri_0031.parse 6 11 predicted kill-v kill.01 ----- 11:0-rel  0:3-ARG1 12:1-ARG2
+pri_0031.parse 7 4 predicted call-v call.03 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-DIS 5:1-ARG1
+pri_0031.parse 7 12 predicted call-v call.01 ----- 12:0-rel  10:1-ARG1 11:1-ARG0 13:2-ARG2
+pri_0031.parse 8 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+pri_0031.parse 8 5 predicted establish-v establish.01 ----- 5:0-rel  0:1-ARG1
+pri_0031.parse 8 21 predicted call-v call.05 ----- 21:0-rel  18:1-ARG1 20:1-ARGM-ADV 23:2-ARG2
+pri_0031.parse 8 24 predicted visit-v visit.01 ----- 24:0-rel  18:1-ARG0 25:1-ARG1

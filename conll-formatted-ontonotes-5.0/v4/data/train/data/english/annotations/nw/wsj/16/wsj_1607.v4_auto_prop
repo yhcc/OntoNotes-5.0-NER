@@ -1,0 +1,29 @@
+wsj_1607.parse 0 4 predicted own-v own.01 ----- 4:0-rel  2:0-ARG0 5:0-ARG1
+wsj_1607.parse 0 9 predicted approve-v approve.01 ----- 9:0-rel  0:2-ARG0 10:2-ARG1
+wsj_1607.parse 0 16 predicted boost-v boost.01 ----- 16:0-rel  14:0-ARG1 17:0-ARG0
+wsj_1607.parse 0 28 predicted help-v help.01 ----- 28:0-rel  22:2-ARG0 26:1-R-ARG0 27:0-ARGM-MOD 29:2-ARG1
+wsj_1607.parse 0 30 predicted operate-v operate.01 ----- 30:0-rel  29:1-ARG1 31:2-ARGM-MNR
+wsj_1607.parse 1 12 predicted appoint-v appoint.01 ----- 12:0-rel  0:1-ARGM-TMP 3:3-ARG2 13:1-ARG0
+wsj_1607.parse 2 5 predicted propose-v propose.01 ----- 5:0-rel  6:0-ARG1
+wsj_1607.parse 2 13 predicted approve-v approve.01 ----- 13:0-rel  0:0-ARGM-DIS 1:1-ARGM-LOC 8:2-ARG0 12:0-ARGM-MOD 14:1-ARG1
+wsj_1607.parse 3 10 predicted sit-v sit.01 ----- 10:0-rel  0:3-ARG1 8:1-R-ARG1 9:1-ARGM-DIS 11:1-ARG2
+wsj_1607.parse 3 18 predicted appoint-v appoint.01 ----- 18:0-rel  0:4-ARG1 15:1-ARGM-DIS 16:0-ARGM-MOD 19:1-ARG0
+wsj_1607.parse 4 4 predicted control-v control.01 ----- 4:0-rel  0:1-ARG1 2:1-R-ARG1 5:1-ARG0
+wsj_1607.parse 4 11 predicted rock-v rock.01 ----- 11:0-rel  0:2-ARG1 12:1-ARG0 15:1-ARGM-TMP
+wsj_1607.parse 4 21 predicted extend-v extend.02 ----- 21:0-rel  18:1-ARG0 22:3-ARG1 30:1-ARG2
+wsj_1607.parse 5 1 predicted ensue-v ensue.01 ----- 1:0-rel  2:0-ARG1
+wsj_1607.parse 5 10 predicted resign-v resign.- ----- 10:0-rel  4:1-ARGM-LOC 6:2-ARG0
+wsj_1607.parse 5 13 predicted help-v help.01 ----- 13:0-rel  0:2-ARG0 14:2-ARG1
+wsj_1607.parse 5 32 predicted be-v be.01 ----- 32:0-rel  31:1-ARG1 33:1-ARG2
+wsj_1607.parse 5 38 predicted control-v control.01 ----- 38:0-rel  36:0-ARG0
+wsj_1607.parse 6 2 predicted relate-v relate.01 ----- 2:0-rel  3:0-ARG1
+wsj_1607.parse 6 8 predicted propose-v propose.01 ----- 8:0-rel  0:1-ARGM-LOC 5:1-ARG0 7:1-ARGM-DIS
+wsj_1607.parse 6 13 predicted link-v link.01 ----- 13:0-rel  10:1-ARG1 14:1-ARGM-MNR 16:1-ARG1
+wsj_1607.parse 7 1 predicted call-v call.03 ----- 1:0-rel  0:1-ARG0 9:2-ARGM-PNC
+wsj_1607.parse 7 10 predicted vote-v vote.01 ----- 10:0-rel  11:1-ARG1
+wsj_1607.parse 8 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1607.parse 8 8 predicted list-v list.01 ----- 8:0-rel  2:2-ARG1 6:1-R-ARG1 9:1-ARG2
+wsj_1607.parse 9 3 predicted suspend-v suspend.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+wsj_1607.parse 9 6 predicted follow-v follow.01 ----- 6:0-rel  5:1-ARG1 7:2-ARG2
+wsj_1607.parse 9 23 predicted decide-v decide.01 ----- 23:0-rel  13:2-ARG0 21:1-ARGM-ADV 22:0-ARGM-MOD 24:1-ARGM-TMP 25:1-ARG1
+wsj_1607.parse 9 27 predicted end-v end.01 ----- 27:0-rel  28:1-ARG1

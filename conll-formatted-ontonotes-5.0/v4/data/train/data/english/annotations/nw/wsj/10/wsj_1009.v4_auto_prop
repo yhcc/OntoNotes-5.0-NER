@@ -1,0 +1,9 @@
+wsj_1009.parse 0 7 predicted hold-v hold.01 ----- 7:0-rel  6:0-ARGM-MNR 8:0-ARG1
+wsj_1009.parse 0 15 predicted say-v say.01 ----- 15:0-rel  0:2-ARG0 16:3-ARG1
+wsj_1009.parse 0 22 predicted jump-v jump.01 ----- 22:0-rel  16:1-ARG1 23:1-ARG4
+wsj_1009.parse 1 2 predicted hold-v hold.01 ----- 2:0-rel  1:0-ARG1 3:0-ARG0
+wsj_1009.parse 1 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARG0
+wsj_1009.parse 1 9 predicted end-v end.01 ----- 9:0-rel  7:1-ARG1 10:1-ARGM-TMP
+wsj_1009.parse 2 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1009.parse 2 8 predicted be-v be.01 ----- 8:0-rel  3:1-ARG1 7:1-ARGM-TMP
+wsj_1009.parse 2 10 predicted file-v file.01 ----- 10:0-rel  3:1-ARG1 7:1-ARGM-TMP 9:1-ARGM-MNR

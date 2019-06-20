@@ -1,0 +1,6 @@
+wsj_1290.parse 0 12 predicted assume-v assume.01 ----- 12:0-rel  0:2-ARG0 11:0-ARGM-MOD 13:2-ARG1
+wsj_1290.parse 1 1 predicted succeed-v succeed.02 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1290.parse 1 10 predicted remain-v remain.01 ----- 10:0-rel  8:1-ARG1 9:0-ARGM-MOD 11:1-ARG3
+wsj_1290.parse 2 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:3-ARG1
+wsj_1290.parse 2 6 predicted move-v move.01 ----- 6:0-rel  4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1 9:1-ARGM-DIR 11:1-ARG2
+wsj_1290.parse 3 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG2

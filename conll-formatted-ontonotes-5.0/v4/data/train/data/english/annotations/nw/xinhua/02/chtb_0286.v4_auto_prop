@@ -1,0 +1,19 @@
+chtb_0286.parse 1 5 predicted accelerate-v accelerate.01 ----- 5:0-rel  0:2-ARG0 6:2-ARG1
+chtb_0286.parse 1 9 predicted open-v open.03 ----- 9:0-rel  11:1-ARG1
+chtb_0286.parse 1 17 predicted stride-v stride.01 ----- 17:0-rel  18:1-ARGM-DIR
+chtb_0286.parse 2 15 predicted be-v be.01 ----- 15:0-rel  8:2-ARG1 16:2-ARG2 22:1-ARGM-TMP
+chtb_0286.parse 2 25 predicted reach-v reach.01 ----- 25:0-rel  26:2-ARG1 30:1-ARGM-TMP
+chtb_0286.parse 2 35 predicted be-v be.02 ----- 35:0-rel  36:3-ARG1
+chtb_0286.parse 2 41 predicted export-v export.01 ----- 41:0-rel  36:2-ARG0 40:1-R-ARG0 42:1-ARG1
+chtb_0286.parse 2 44 predicted surpass-v surpass.01 ----- 44:0-rel  45:2-ARG1
+chtb_0286.parse 3 2 predicted set-v set.01 ----- 2:0-rel  0:1-ARG0
+chtb_0286.parse 3 9 predicted make-v make.04 ----- 9:0-rel  3:2-ARG0 10:1-ARG1
+chtb_0286.parse 3 17 predicted set-v set.02 ----- 17:0-rel  18:0-ARG1
+chtb_0286.parse 3 35 predicted export-v export.01 ----- 35:0-rel  15:3-ARG1 34:1-ARGM-TMP 36:1-ARG2
+chtb_0286.parse 3 55 predicted export-v export.01 ----- 55:0-rel  39:2-ARG1 56:1-ARG2
+chtb_0286.parse 4 3 predicted make-v make.04 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+chtb_0286.parse 5 7 predicted provide-v provide.01 ----- 7:0-rel  2:1-ARG1 4:1-R-ARG1 5:1-ARG0 6:0-ARGM-MOD
+chtb_0286.parse 5 8 predicted reach-v reach.01 ----- 8:0-rel  0:1-ARGM-TMP 2:2-ARG0 9:1-ARG1
+chtb_0286.parse 6 12 predicted export-v export.01 ----- 12:0-rel  0:1-ARGM-ADV 5:1-ARGM-TMP 11:1-ARG0 13:3-ARG1
+chtb_0286.parse 7 15 predicted sign-v sign.02 ----- 15:0-rel  0:1-ARGM-TMP 9:3-ARG0 16:1-ARG1
+chtb_0286.parse 8 15 predicted reach-v reach.01 ----- 15:0-rel  8:1-R-ARG0 9:2-ARG0 13:1-ARGM-ADV 16:2-ARG1

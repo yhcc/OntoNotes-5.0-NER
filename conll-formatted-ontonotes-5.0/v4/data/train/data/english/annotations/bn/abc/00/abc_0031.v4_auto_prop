@@ -1,0 +1,7 @@
+abc_0031.parse 0 9 predicted kill-v kill.01 ----- 9:0-rel  0:2-ARG1 5:1-ARG0 10:1-ARG0
+abc_0031.parse 1 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+abc_0031.parse 1 8 predicted fire-v fire.01 ----- 8:0-rel  7:1-ARG0 9:1-ARGM-DIR
+abc_0031.parse 1 16 predicted kill-v kill.01 ----- 16:0-rel  13:1-ARG1 17:2-ARGM-TMP
+abc_0031.parse 1 21 predicted fire-v fire.01 ----- 21:0-rel  17:1-ARGM-TMP 18:1-ARG1 22:1-ARGM-DIR
+abc_0031.parse 2 3 predicted warn-v warn.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+abc_0031.parse 2 6 predicted retaliate-v retaliate.01 ----- 6:0-rel  4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1

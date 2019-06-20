@@ -1,0 +1,36 @@
+chtb_0014.parse 1 12 predicted increase-v increase.01 ----- 12:0-rel  1:2-ARG1 11:1-ARGM-EXT
+chtb_0014.parse 1 26 predicted schedule-v schedule.01 ----- 26:0-rel  0:1-ARGM-TMP 14:1-ARG1 27:2-ARG3
+chtb_0014.parse 1 29 predicted hold-v hold.04 ----- 29:0-rel  14:1-ARG1 30:1-ARGM-LOC 32:1-ARGM-TMP 34:1-ARGM-TMP
+chtb_0014.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+chtb_0014.parse 2 8 predicted hold-v hold.04 ----- 8:0-rel  2:1-ARG1 9:1-ARG0
+chtb_0014.parse 2 13 predicted mean-v mean.01 ----- 13:0-rel  14:2-ARG1
+chtb_0014.parse 3 1 predicted feel-v feel.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+chtb_0014.parse 3 5 predicted provide-v provide.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD 6:1-ARG1
+chtb_0014.parse 3 21 predicted extend-v extend.02 ----- 21:0-rel  10:2-ARG0 22:1-ARG1
+chtb_0014.parse 4 19 predicted develop-v develop.01 ----- 19:0-rel  0:1-ARGM-TMP 4:2-ARG1 20:1-ARGM-MNR
+chtb_0014.parse 5 12 predicted invest-v invest.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG2
+chtb_0014.parse 5 15 predicted total-v total.01 ----- 15:0-rel  0:1-ARGM-TMP 6:2-ARG1 16:1-ARG2
+chtb_0014.parse 7 14 predicted reach-v reach.01 ----- 14:0-rel  0:1-ARGM-ADV 6:1-ARGM-TMP 9:2-ARG0 15:2-ARG1 20:2-ARGM-ADV
+chtb_0014.parse 7 20 predicted increase-v increase.01 ----- 20:0-rel  21:1-ARG2 23:1-ARGM-ADV
+chtb_0014.parse 7 23 predicted compare-v compare.01 ----- 23:0-rel  21:1-ARG1 24:1-ARG2
+chtb_0014.parse 8 2 predicted estimate-v estimate.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0014.parse 8 17 predicted increase-v increase.01 ----- 17:0-rel  4:2-ARG1 16:0-ARGM-MOD 18:1-ARG4
+chtb_0014.parse 9 2 predicted report-v report.01 ----- 2:0-rel  3:1-ARG1
+chtb_0014.parse 9 18 predicted hold-v hold.04 ----- 18:0-rel  5:1-ARG1 17:1-ARGM-ADV 19:1-ARGM-PRP
+chtb_0014.parse 9 20 predicted discuss-v discuss.01 ----- 20:0-rel  21:3-ARG1
+chtb_0014.parse 9 41 predicted focus-v focus.01 ----- 41:0-rel  4:1-ARGM-LOC 40:0-ARGM-MOD 42:1-ARG2
+chtb_0014.parse 9 54 predicted be-v be.01 ----- 54:0-rel  53:1-R-ARG1
+chtb_0014.parse 9 57 predicted announce-v announce.01 ----- 57:0-rel  53:1-ARG1
+chtb_0014.parse 9 59 predicted deal-v deal.01 ----- 59:0-rel  60:1-ARG1
+chtb_0014.parse 9 62 predicted capture-v capture.01 ----- 62:0-rel  63:2-ARG1
+chtb_0014.parse 9 76 predicted import-v import.01 ----- 76:0-rel  77:0-ARG1 78:0-C-ARG1
+chtb_0014.parse 9 84 predicted export-v export.01 ----- 84:0-rel  85:1-ARG0
+chtb_0014.parse 9 87 predicted invest-v invest.01 ----- 87:0-rel  86:0-ARG0 88:0-ARG2
+chtb_0014.parse 9 101 predicted invest-v invest.01 ----- 101:0-rel  100:0-ARG0 102:0-ARG2
+chtb_0014.parse 10 31 predicted control-v control.01 ----- 31:0-rel  32:0-ARG1
+chtb_0014.parse 10 45 predicted concern-v concern.01 ----- 45:0-rel  36:2-ARG1
+chtb_0014.parse 10 49 predicted be-v be.01 ----- 49:0-rel  0:1-ARGM-DIS 2:2-ARG1 47:0-ARGM-MOD 48:1-ARGM-ADV 50:2-ARG2
+chtb_0014.parse 11 11 predicted hold-v hold.04 ----- 11:0-rel  0:1-ARG1 8:0-ARGM-MOD 10:1-ARGM-MNR 12:1-ARG0
+chtb_0014.parse 12 2 predicted say-v say.01 ----- 2:0-rel  3:1-ARG1
+chtb_0014.parse 12 10 predicted open-v open.03 ----- 10:0-rel  12:3-ARG1
+chtb_0014.parse 12 39 predicted introduce-v introduce.02 ----- 39:0-rel  4:1-ARGM-LOC 7:3-ARG1 36:0-ARGM-MOD 37:1-ARGM-ADV

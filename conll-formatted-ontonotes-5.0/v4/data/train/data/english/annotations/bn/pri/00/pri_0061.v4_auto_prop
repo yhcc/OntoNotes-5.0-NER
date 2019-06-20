@@ -1,0 +1,8 @@
+pri_0061.parse 0 3 predicted head-v head.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG0
+pri_0061.parse 0 7 predicted say-v say.01 ----- 7:0-rel  0:2-ARG0 8:1-ARGM-TMP 9:1-ARG1
+pri_0061.parse 0 13 predicted avenge-v avenge.01 ----- 13:0-rel  11:1-ARG0 12:0-ARGM-MOD 14:2-ARG1
+pri_0061.parse 0 23 predicted kill-v kill.01 ----- 23:0-rel  19:1-ARG1 21:1-R-ARG1 24:1-ARGM-TMP 25:1-ARG0
+pri_0061.parse 1 16 predicted kill-v kill.01 ----- 16:0-rel  0:1-ARGM-TMP 5:2-ARG0 17:1-ARG1
+pri_0061.parse 1 20 predicted injure-v injure.01 ----- 20:0-rel  0:1-ARGM-TMP 5:2-ARG0 21:3-ARG1
+pri_0061.parse 2 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+pri_0061.parse 2 8 predicted retaliate-v retaliate.01 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD

@@ -1,0 +1,18 @@
+cnn_0084.parse 0 2 predicted damage-v damage.01 ----- 2:0-rel  4:0-ARG1 5:0-C-ARG1
+cnn_0084.parse 0 9 predicted return-v return.01 ----- 9:0-rel  1:1-ARG1 10:1-ARG4
+cnn_0084.parse 0 18 predicted learn-v learn.01 ----- 18:0-rel  0:1-ARGM-TMP 16:1-ARG0
+cnn_0084.parse 0 22 predicted used-v used.- ----- 22:0-rel  19:1-ARG1
+cnn_0084.parse 0 24 predicted bomb-v bomb.- ----- 24:0-rel  25:1-ARG1
+cnn_0084.parse 1 2 predicted manufacture-v manufacture.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0084.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+cnn_0084.parse 2 7 predicted allow-v allow.01 ----- 7:0-rel  2:2-ARG0 6:0-ARGM-MOD 8:2-ARG1
+cnn_0084.parse 2 10 predicted focus-v focus.01 ----- 10:0-rel  8:1-ARG0 11:1-ARG2
+cnn_0084.parse 2 15 predicted have-v have.03 ----- 15:0-rel  12:1-ARG0 14:1-R-ARG0
+cnn_0084.parse 3 2 predicted obtain-v obtain.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0084.parse 3 5 predicted show-v show.01 ----- 5:0-rel  3:1-ARG0 4:1-R-ARG0 6:2-ARG1
+cnn_0084.parse 4 3 predicted estimate-v estimate.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-TMP 4:4-ARG1
+cnn_0084.parse 4 14 predicted be-v be.01 ----- 14:0-rel  4:2-ARG1 15:3-ARG2
+cnn_0084.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+cnn_0084.parse 5 7 predicted report-v report.01 ----- 7:0-rel  6:1-ARGM-TMP
+cnn_0084.parse 6 2 predicted run-v run.04 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:2-ARG2
+cnn_0084.parse 7 2 predicted die-v die.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC

@@ -1,0 +1,18 @@
+chtb_0023.parse 1 10 predicted account-v account.01 ----- 10:0-rel  9:1-ARG0 11:1-ARG1
+chtb_0023.parse 1 29 predicted continue-v continue.01 ----- 29:0-rel  25:1-ARG1 30:2-C-ARG1
+chtb_0023.parse 1 31 predicted play-v play.02 ----- 31:0-rel  25:1-ARG0 32:2-ARG1
+chtb_0023.parse 2 30 predicted account-v account.01 ----- 30:0-rel  0:1-ARGM-TMP 3:2-ARG0 31:1-ARG1
+chtb_0023.parse 3 29 predicted reach-v reach.01 ----- 29:0-rel  0:1-ARGM-ADV 12:1-ARGM-TMP 15:2-ARG0 30:2-ARG1
+chtb_0023.parse 3 46 predicted create-v create.01 ----- 46:0-rel  47:1-ARG1
+chtb_0023.parse 4 2 predicted create-v create.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG0
+chtb_0023.parse 4 10 predicted account-v account.01 ----- 10:0-rel  0:2-ARG0 11:1-ARG1
+chtb_0023.parse 5 24 predicted turn-v turn.12 ----- 24:0-rel  0:1-ARGM-TMP 16:2-ARG0
+chtb_0023.parse 5 37 predicted complete-v complete.01 ----- 37:0-rel  38:0-ARG1 39:0-C-ARG1 40:0-C-ARG1
+chtb_0023.parse 6 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARGM-TMP
+chtb_0023.parse 6 16 predicted ascend-v ascend.- ----- 16:0-rel  3:2-ARG0 14:1-R-ARG0 17:1-ARG1
+chtb_0023.parse 7 21 predicted possess-v possess.01 ----- 21:0-rel  6:3-ARG0 20:1-R-ARG0 22:1-ARG1
+chtb_0023.parse 7 25 predicted have-v have.03 ----- 25:0-rel  20:1-R-ARG0 26:2-ARG1
+chtb_0023.parse 7 31 predicted emerge-v emerge.01 ----- 31:0-rel  0:1-ARGM-TMP 3:2-ARG0 32:1-ARGM-LOC
+chtb_0023.parse 8 14 predicted found-v found.01 ----- 14:0-rel  5:1-ARG1 15:1-ARGM-LOC
+chtb_0023.parse 8 23 predicted achieve-v achieve.01 ----- 23:0-rel  0:1-ARGM-ADV 4:1-ARGM-LOC 20:1-ARG0 24:2-ARG1
+chtb_0023.parse 9 3 predicted reach-v reach.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-ADV 4:2-ARG1

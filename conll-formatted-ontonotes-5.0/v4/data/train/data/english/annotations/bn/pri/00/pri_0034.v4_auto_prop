@@ -1,0 +1,21 @@
+pri_0034.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+pri_0034.parse 2 3 predicted take-v take.14 ----- 3:0-rel  0:1-ARG1 4:1-ARG2 5:1-ARGM-LOC
+pri_0034.parse 3 3 predicted accuse-v accuse.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 6:1-ARG2
+pri_0034.parse 3 7 predicted embark-v embark.01 ----- 7:0-rel  8:1-ARG1
+pri_0034.parse 4 5 predicted accuse-v accuse.01 ----- 5:0-rel  0:1-ARG0 2:1-ARGM-ADV 6:1-ARG1
+pri_0034.parse 4 12 predicted meet-v meet.01 ----- 12:0-rel  13:3-ARG1
+pri_0034.parse 4 17 predicted end-v end.01 ----- 17:0-rel  18:1-ARG1
+pri_0034.parse 5 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+pri_0034.parse 6 7 predicted suppose-v suppose.02 ----- 7:0-rel  2:1-ARG1 8:2-ARG2
+pri_0034.parse 6 10 predicted take-v take.01 ----- 10:0-rel  2:1-ARG0 11:1-ARG1
+pri_0034.parse 6 19 predicted erupt-v erupt.01 ----- 19:0-rel  0:2-ARGM-TMP 13:2-ARG1
+pri_0034.parse 7 11 predicted involve-v involve.01 ----- 11:0-rel  0:1-ARGM-LOC 8:1-ARG1 12:1-ARG2
+pri_0034.parse 8 2 predicted break-v break.06 ----- 2:0-rel  0:1-ARGM-MNR 1:1-ARG1
+pri_0034.parse 9 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+pri_0034.parse 9 5 predicted start-v start.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+pri_0034.parse 10 3 predicted scatter-v scatter.01 ----- 3:0-rel  1:1-ARG1
+pri_0034.parse 10 18 predicted used-v used.- ----- 18:0-rel  11:1-ARGM-TMP 13:1-ARG0 19:1-ARG1 22:1-ARG2
+pri_0034.parse 11 10 predicted take-v take.01 ----- 10:0-rel  0:1-ARGM-LOC 4:2-ARG0 9:1-ARGM-ADV 11:1-ARG1 14:1-ARG2 18:1-ARGM-LOC
+pri_0034.parse 12 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+pri_0034.parse 12 5 predicted open-v open.01 ----- 5:0-rel  3:1-ARG0
+pri_0034.parse 12 7 predicted cause-v cause.01 ----- 7:0-rel  6:1-ARG0 8:2-ARG1

@@ -1,0 +1,12 @@
+wsj_1357.parse 0 3 predicted grant-v grant.01 ----- 3:0-rel  0:1-ARG0
+wsj_1357.parse 0 17 predicted stop-v stop.01 ----- 17:0-rel  18:2-ARG1
+wsj_1357.parse 0 18 predicted guarantee-v guarantee.01 ----- 18:0-rel  19:2-ARG1
+wsj_1357.parse 1 5 predicted take-v take.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1 8:1-ARGM-TMP
+wsj_1357.parse 1 14 predicted cite-v cite.01 ----- 14:0-rel  11:1-ARG0 15:1-ARG1
+wsj_1357.parse 1 32 predicted have-v have.03 ----- 32:0-rel  33:1-ARG1
+wsj_1357.parse 1 35 predicted drop-v drop.01 ----- 35:0-rel  34:0-ARG1 38:0-C-ARG1
+wsj_1357.parse 1 48 predicted allege-v allege.01 ----- 48:0-rel  47:1-ARG0 49:2-ARG1
+wsj_1357.parse 2 12 predicted call-v call.01 ----- 12:0-rel  0:2-ARG0 13:2-ARG1
+wsj_1357.parse 3 2 predicted set-v set.01 ----- 2:0-rel  0:1-ARG0
+wsj_1357.parse 4 4 predicted post-v post.01 ----- 4:0-rel  0:1-ARG0
+wsj_1357.parse 4 21 predicted guarantee-v guarantee.01 ----- 21:0-rel  22:2-ARG1

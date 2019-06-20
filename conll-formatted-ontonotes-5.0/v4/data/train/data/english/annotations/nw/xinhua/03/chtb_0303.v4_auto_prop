@@ -1,0 +1,6 @@
+chtb_0303.parse 1 8 predicted announce-v announce.01 ----- 8:0-rel  0:2-ARG0
+chtb_0303.parse 1 13 predicted hold-v hold.04 ----- 13:0-rel  10:1-ARG1
+chtb_0303.parse 1 26 predicted pay-v pay.01 ----- 26:0-rel  14:1-ARGM-TMP 16:1-R-ARGM-TMP 17:2-ARG0 25:0-ARGM-MOD 27:2-ARG1 32:1-ARGM-TMP 35:1-C-ARGM-TMP
+chtb_0303.parse 2 2 predicted announce-v announce.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1
+chtb_0303.parse 2 15 predicted pay-v pay.01 ----- 15:0-rel  4:2-ARG0 14:0-ARGM-MOD 23:1-ARGM-TMP 26:1-C-ARGM-TMP
+chtb_0303.parse 3 26 predicted pay-v pay.01 ----- 26:0-rel  0:1-ARGM-LOC 23:1-ARG0 25:0-ARGM-MOD 32:1-ARGM-TMP 35:1-C-ARGM-TMP

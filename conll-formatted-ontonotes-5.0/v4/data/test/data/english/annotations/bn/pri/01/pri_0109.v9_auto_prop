@@ -1,0 +1,22 @@
+pri_0109.parse 0 5 predicted give-v give.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+pri_0109.parse 0 10 predicted mark-v mark.01 ----- 10:0-rel  0:2-ARG0 11:2-ARG1
+pri_0109.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+pri_0109.parse 1 4 predicted triumph-v triumph.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+pri_0109.parse 2 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-DIR
+pri_0109.parse 3 2 predicted address-v address.02 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-LOC
+pri_0109.parse 3 8 predicted fill-v fill.01 ----- 8:0-rel  6:1-ARG1 9:1-ARG2
+pri_0109.parse 4 3 predicted triumph-v triumph.01 ----- 3:0-rel  1:1-ARG0 4:1-ARG1
+pri_0109.parse 4 10 predicted say-v say.01 ----- 10:0-rel  9:1-ARG0
+pri_0109.parse 4 19 predicted remain-v remain.01 ----- 19:0-rel  20:0-ARG1
+pri_0109.parse 5 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+pri_0109.parse 5 15 predicted continue-v continue.01 ----- 15:0-rel  11:1-ARG1 14:1-R-ARG1 16:1-ARGM-TMP
+pri_0109.parse 6 2 predicted refer-v refer.01 ----- 2:0-rel  0:1-ARG0
+pri_0109.parse 6 12 predicted support-v support.01 ----- 12:0-rel  10:1-R-ARG0 11:1-ARGM-MNR 13:2-ARG1
+pri_0109.parse 6 16 predicted mean-v mean.01 ----- 16:0-rel  13:1-ARG0 17:2-ARG1
+pri_0109.parse 6 18 predicted force-v force.01 ----- 18:0-rel  19:1-ARG1 20:2-ARG2
+pri_0109.parse 6 21 predicted disarm-v disarm.01 ----- 21:0-rel  19:1-ARG0
+pri_0109.parse 7 4 predicted gather-v gather.01 ----- 4:0-rel  0:1-ARGM-TMP 3:1-ARG1 5:1-ARGM-LOC
+pri_0109.parse 8 5 predicted grow-v grow.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2 7:1-ARGM-LOC
+pri_0109.parse 8 11 predicted rally-v rally.02 ----- 11:0-rel  9:1-ARG0 12:1-ARG1
+pri_0109.parse 8 15 predicted say-v say.01 ----- 15:0-rel  13:1-ARG1 14:1-ARG0
+pri_0109.parse 8 16 predicted be-v be.01 ----- 16:0-rel  17:2-ARG2

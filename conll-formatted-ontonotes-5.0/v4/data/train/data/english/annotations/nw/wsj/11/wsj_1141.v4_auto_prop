@@ -1,0 +1,18 @@
+wsj_1141.parse 1 1 predicted defeat-v defeat.01 ----- 1:0-rel  0:1-ARG0
+wsj_1141.parse 2 13 predicted be-v be.01 ----- 13:0-rel  12:1-ARG1 14:2-ARG2
+wsj_1141.parse 2 17 predicted be-v be.01 ----- 17:0-rel  14:1-ARG1 16:1-R-ARG1 18:1-ARG2
+wsj_1141.parse 3 9 predicted regard-v regard.01 ----- 9:0-rel  7:1-ARG1 10:1-ARG0 14:1-ARG2
+wsj_1141.parse 4 8 predicted lie-v lie.01 ----- 8:0-rel  0:2-ARG1 9:1-ARG2
+wsj_1141.parse 4 10 predicted reach-v reach.01 ----- 10:0-rel  11:2-ARG1
+wsj_1141.parse 6 10 predicted be-v be.01 ----- 10:0-rel  0:1-ARGM-LOC 3:3-ARG1 11:1-ARG2
+wsj_1141.parse 7 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG1 4:0-ARGM-MOD 5:1-ARGM-ADV 7:1-ARG2
+wsj_1141.parse 8 4 predicted share-v share.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 5:1-ARG1 6:1-ARG2
+wsj_1141.parse 8 12 predicted say-v say.01 ----- 12:0-rel  1:1-C-ARG1 13:1-ARG0
+wsj_1141.parse 8 18 predicted redraw-v redraw.- ----- 18:0-rel  1:1-ARG0 2:0-ARGM-MOD 19:1-ARG1
+wsj_1141.parse 9 2 predicted choose-v choose.01 ----- 2:0-rel  1:0-ARGM-NEG 3:2-ARG1
+wsj_1141.parse 9 10 predicted condemn-v condemn.01 ----- 10:0-rel  0:1-ARGM-MNR 8:1-ARG0 9:0-ARGM-MOD 11:1-ARG1
+wsj_1141.parse 9 16 predicted do-v do.02 ----- 16:0-rel  14:1-ARG0
+wsj_1141.parse 10 9 predicted let-v let.01 ----- 9:0-rel  0:1-ARGM-ADV 4:2-ARG0 7:0-ARGM-MOD 8:0-ARGM-NEG 10:2-ARG1
+wsj_1141.parse 10 28 predicted become-v become.01 ----- 28:0-rel  27:1-ARG1 29:1-ARG2
+wsj_1141.parse 11 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+wsj_1141.parse 11 9 predicted draw-v draw.02 ----- 9:0-rel  10:1-ARG2

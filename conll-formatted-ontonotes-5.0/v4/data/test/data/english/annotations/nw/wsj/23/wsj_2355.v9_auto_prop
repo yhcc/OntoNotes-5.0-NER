@@ -1,0 +1,9 @@
+wsj_2355.parse 0 6 predicted name-v name.01 ----- 6:0-rel  0:1-ARG1 4:1-R-ARG1 7:3-ARG2
+wsj_2355.parse 0 11 predicted hold-v hold.01 ----- 11:0-rel  10:0-ARG1 12:0-ARG0
+wsj_2355.parse 0 16 predicted resign-v resign.- ----- 16:0-rel  0:2-ARG0 18:2-ARGM-ADV
+wsj_2355.parse 0 18 predicted cite-v cite.01 ----- 18:0-rel  0:2-ARG0 19:1-ARG1
+wsj_2355.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_2355.parse 1 5 predicted plan-v plan.01 ----- 5:0-rel  3:1-ARG0 6:2-ARG1
+wsj_2355.parse 1 7 predicted travel-v travel.01 ----- 7:0-rel  3:1-ARG0 8:1-ARG1 17:1-ARGM-TMP
+wsj_2355.parse 1 21 predicted found-v found.01 ----- 21:0-rel  0:1-ARG0 22:2-ARG1
+wsj_2355.parse 2 5 predicted name-v name.01 ----- 5:0-rel  0:1-ARG1 4:0-ARGM-NEG

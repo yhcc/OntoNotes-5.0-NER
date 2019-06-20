@@ -1,0 +1,12 @@
+wsj_1497.parse 0 1 predicted welcome-v welcome.01 ----- 1:0-rel  2:3-ARG1
+wsj_1497.parse 0 8 predicted offer-v offer.01 ----- 8:0-rel  2:2-ARG0 9:1-ARG1 10:1-ARG3
+wsj_1497.parse 0 29 predicted be-v be.01 ----- 29:0-rel  0:1-ARGM-ADV 28:1-ARG1 30:1-ARG2
+wsj_1497.parse 0 33 predicted neglect-v neglect.01 ----- 33:0-rel  32:1-ARG0 34:2-ARG1
+wsj_1497.parse 0 43 predicted strike-v strike.01 ----- 43:0-rel  36:1-R-ARG0 38:1-ARGM-DIS
+wsj_1497.parse 1 9 predicted see-v see.01 ----- 9:0-rel  5:1-ARG0 10:2-ARG1
+wsj_1497.parse 1 12 predicted list-v list.01 ----- 12:0-rel  10:1-ARG1 13:1-ARG2
+wsj_1497.parse 2 14 predicted read-v read.01 ----- 14:0-rel  0:1-ARGM-ADV 11:1-ARG1 13:1-ARGM-MNR 15:1-ARG3
+wsj_1497.parse 3 5 predicted be-v be.01 ----- 5:0-rel  1:2-ARG1 6:1-ARGM-ADV 7:2-ARG2
+wsj_1497.parse 3 15 predicted be-v be.01 ----- 15:0-rel  0:1-ARG1 16:2-ARG2
+wsj_1497.parse 3 32 predicted continue-v continue.01 ----- 32:0-rel  31:0-ARGM-MOD 33:2-ARG1
+wsj_1497.parse 3 34 predicted ponder-v ponder.01 ----- 34:0-rel  18:2-ARG0

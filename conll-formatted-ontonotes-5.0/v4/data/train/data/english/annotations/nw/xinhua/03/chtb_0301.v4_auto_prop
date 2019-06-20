@@ -1,0 +1,33 @@
+chtb_0301.parse 1 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:1-ARGM-TMP 13:1-ARG1
+chtb_0301.parse 1 16 predicted study-v study.01 ----- 16:0-rel  14:1-ARG0 17:1-ARG1
+chtb_0301.parse 1 19 predicted withdraw-v withdraw.01 ----- 19:0-rel  20:1-ARG1 21:1-ARG2
+chtb_0301.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:2-ARGM-TMP
+chtb_0301.parse 2 5 predicted deliver-v deliver.01 ----- 5:0-rel  4:1-ARGM-TMP 6:1-ARG1 8:1-ARG2 11:1-ARGM-LOC
+chtb_0301.parse 3 1 predicted point-v point.02 ----- 1:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0301.parse 3 7 predicted suggest-v suggest.01 ----- 7:0-rel  5:1-ARG0 8:2-ARG1
+chtb_0301.parse 3 8 predicted lift-v lift.01 ----- 8:0-rel  5:1-ARG0 9:2-ARG1
+chtb_0301.parse 3 16 predicted mean-v mean.01 ----- 16:0-rel  5:2-ARG0 17:1-ARG1
+chtb_0301.parse 3 23 predicted end-v end.01 ----- 23:0-rel  19:1-ARG1 21:0-ARGM-MOD 22:1-ARGM-ADV
+chtb_0301.parse 3 31 predicted break-v break.06 ----- 31:0-rel  27:1-ARG1 30:0-ARGM-MOD 33:1-ARGM-TMP
+chtb_0301.parse 3 38 predicted produce-v produce.01 ----- 38:0-rel  36:1-ARG0 37:0-ARGM-MOD
+chtb_0301.parse 3 43 predicted cause-v cause.01 ----- 43:0-rel  40:1-ARG0 42:1-R-ARG0 44:1-ARG1
+chtb_0301.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+chtb_0301.parse 4 17 predicted have-v have.03 ----- 17:0-rel  4:1-ARGM-ADV 8:2-ARG0 16:0-ARGM-MOD 18:1-ARG1
+chtb_0301.parse 4 25 predicted accept-v accept.01 ----- 25:0-rel  22:1-ARG0 23:0-ARGM-MOD 24:0-ARGM-NEG 26:2-ARG1
+chtb_0301.parse 4 26 predicted lift-v lift.01 ----- 26:0-rel  22:1-ARG0 27:2-ARG1
+chtb_0301.parse 5 10 predicted express-v express.01 ----- 10:0-rel  0:2-ARG0 9:1-ARGM-DIS 11:1-ARGM-MNR
+chtb_0301.parse 5 21 predicted lift-v lift.01 ----- 21:0-rel  22:1-ARG1
+chtb_0301.parse 5 25 predicted be-v be.01 ----- 25:0-rel  17:2-ARG1
+chtb_0301.parse 5 28 predicted withdraw-v withdraw.01 ----- 28:0-rel  27:1-ARG0 29:2-ARG1
+chtb_0301.parse 6 8 predicted break-v break.06 ----- 8:0-rel  1:2-ARG1 10:1-ARGM-TMP
+chtb_0301.parse 6 18 predicted station-v station.01 ----- 18:0-rel  0:1-ARGM-TMP 15:1-ARG0 17:1-ARGM-TMP 19:3-ARG1
+chtb_0301.parse 7 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+chtb_0301.parse 7 6 predicted station-v station.01 ----- 6:0-rel  2:1-ARG0 5:1-R-ARG0 7:1-ARG1 12:1-ARG2
+chtb_0301.parse 8 3 predicted declare-v declare.02 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-TMP 7:1-ARG1
+chtb_0301.parse 8 20 predicted accept-v accept.01 ----- 20:0-rel  10:2-ARG0 17:1-ARGM-TMP 19:0-ARGM-NEG 21:2-ARG1 27:1-ARGM-TMP
+chtb_0301.parse 8 33 predicted ask-v ask.02 ----- 33:0-rel  9:1-ARGM-ADV 31:1-ARG0 32:0-ARGM-MOD 34:1-ARG2 39:2-ARG1
+chtb_0301.parse 8 40 predicted pass-v pass.01 ----- 40:0-rel  34:1-ARG0 41:1-ARG1
+chtb_0301.parse 8 44 predicted lift-v lift.01 ----- 44:0-rel  45:2-ARG1
+chtb_0301.parse 9 6 predicted fail-v fail.01 ----- 6:0-rel  1:1-ARG1 7:2-ARG2
+chtb_0301.parse 9 8 predicted pass-v pass.01 ----- 8:0-rel  1:1-ARG0 9:1-ARG1
+chtb_0301.parse 9 15 predicted seek-v seek.01 ----- 15:0-rel  0:1-ARGM-ADV 13:1-ARG0 14:0-ARGM-MOD 16:2-ARG1

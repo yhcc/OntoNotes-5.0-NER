@@ -1,0 +1,71 @@
+wsj_1140.parse 0 10 predicted rise-v rise.01 ----- 10:0-rel  0:2-ARG1 11:1-ARG2 13:1-ARGM-TMP
+wsj_1140.parse 1 8 predicted compile-v compile.01 ----- 8:0-rel  0:1-ARG1 9:1-ARGM-TMP
+wsj_1140.parse 1 18 predicted slide-v slide.02 ----- 18:0-rel  12:1-ARGM-TMP 14:1-ARG1 19:1-ARG2
+wsj_1140.parse 1 27 predicted tumble-v tumble.01 ----- 27:0-rel  22:1-ARG1 28:1-ARG2
+wsj_1140.parse 2 3 predicted lead-v lead.03 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD
+wsj_1140.parse 2 11 predicted bet-v bet.01 ----- 11:0-rel  8:1-ARG0
+wsj_1140.parse 2 20 predicted decline-v decline.01 ----- 20:0-rel  17:1-ARG1 19:0-ARGM-MOD 21:1-ARGM-MNR
+wsj_1140.parse 3 2 predicted happen-v happen.02 ----- 2:0-rel  1:1-ARG1
+wsj_1140.parse 3 8 predicted continue-v continue.01 ----- 8:0-rel  0:1-ARGM-ADV 4:1-ARG1
+wsj_1140.parse 3 10 predicted fall-v fall.01 ----- 10:0-rel  4:1-ARG1
+wsj_1140.parse 4 6 predicted report-v report.01 ----- 6:0-rel  2:1-ARG1 7:1-ARG0 13:1-ARG2
+wsj_1140.parse 4 20 predicted include-v include.01 ----- 20:0-rel  0:1-ARGM-DIS 2:2-ARG2
+wsj_1140.parse 4 24 predicted complete-v complete.01 ----- 24:0-rel  21:1-ARG1
+wsj_1140.parse 4 27 predicted settle-v settle.02 ----- 27:0-rel  21:1-ARG1
+wsj_1140.parse 4 37 predicted occur-v occur.01 ----- 37:0-rel  35:1-ARG1 36:1-R-ARG1 38:1-ARGM-TMP
+wsj_1140.parse 5 3 predicted take-v take.02 ----- 3:0-rel  0:1-ARGM-ADV 4:1-ARG1 7:3-ARG0
+wsj_1140.parse 5 8 predicted transfer-v transfer.01 ----- 8:0-rel  9:1-ARG1
+wsj_1140.parse 5 12 predicted take-v take.02 ----- 12:0-rel  13:2-ARG1
+wsj_1140.parse 5 18 predicted settle-v settle.02 ----- 18:0-rel  19:1-ARG1
+wsj_1140.parse 6 31 predicted establish-v establish.01 ----- 31:0-rel  28:2-ARG1 32:1-ARGM-TMP
+wsj_1140.parse 7 7 predicted compare-v compare.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG2
+wsj_1140.parse 8 5 predicted expect-v expect.01 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+wsj_1140.parse 8 14 predicted aim-v aim.01 ----- 14:0-rel  2:1-ARG0 15:2-ARG1
+wsj_1140.parse 8 16 predicted profit-v profit.01 ----- 16:0-rel  17:1-ARG1
+wsj_1140.parse 8 19 predicted borrow-v borrow.01 ----- 19:0-rel  20:0-ARG1
+wsj_1140.parse 8 22 predicted be-v be.01 ----- 22:0-rel  21:1-R-ARG1
+wsj_1140.parse 8 25 predicted replace-v replace.01 ----- 25:0-rel  21:1-ARG1 26:1-ARGM-TMP
+wsj_1140.parse 8 31 predicted hope-v hope.01 ----- 31:0-rel  28:1-ARG0 32:4-ARG1
+wsj_1140.parse 8 35 predicted buy-v buy.01 ----- 35:0-rel  32:1-ARG1 36:1-ARGM-TMP
+wsj_1140.parse 8 38 predicted cost-v cost.01 ----- 38:0-rel  32:2-ARG1 37:0-ARGM-MOD 39:2-ARG2
+wsj_1140.parse 8 44 predicted sell-v sell.01 ----- 44:0-rel  41:1-ARG1 42:1-R-ARG1
+wsj_1140.parse 9 4 predicted represent-v represent.01 ----- 4:0-rel  3:1-R-ARG0 5:2-ARG1
+wsj_1140.parse 9 19 predicted be-v be.01 ----- 19:0-rel  0:2-ARG1 18:0-ARGM-MOD 20:2-ARG2
+wsj_1140.parse 10 10 predicted rise-v rise.01 ----- 10:0-rel  0:1-ARGM-LOC 8:1-ARG1 11:1-ARG4
+wsj_1140.parse 11 11 predicted include-v include.01 ----- 11:0-rel  0:2-ARG2 12:2-ARG1
+wsj_1140.parse 12 10 predicted rise-v rise.01 ----- 10:0-rel  0:2-ARG1 6:1-ARG1 11:1-ARG2 13:1-ARG4
+wsj_1140.parse 13 4 predicted jump-v jump.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2 8:1-ARGM-ADV
+wsj_1140.parse 13 11 predicted increase-v increase.01 ----- 11:0-rel  9:1-ARG1 12:1-ARG2
+wsj_1140.parse 14 1 predicted make-v make.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+wsj_1140.parse 14 5 predicted operate-v operate.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1
+wsj_1140.parse 14 11 predicted be-v be.01 ----- 11:0-rel  4:1-ARG1 12:1-ARG2
+wsj_1140.parse 15 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+wsj_1140.parse 15 8 predicted be-v be.01 ----- 8:0-rel  9:1-ARG2
+wsj_1140.parse 16 2 predicted head-v head.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-TMP
+wsj_1140.parse 17 9 predicted be-v be.01 ----- 9:0-rel  0:2-ARG1 10:1-ARGM-TMP 11:1-ARG2
+wsj_1140.parse 18 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:0-ARGM-NEG 4:1-ARGM-ADV
+wsj_1140.parse 19 5 predicted replace-v replace.01 ----- 5:0-rel  1:1-ARG1 2:0-ARGM-MOD 3:1-ARGM-TMP 6:1-ARGM-ADV
+wsj_1140.parse 20 12 predicted cause-v cause.01 ----- 12:0-rel  0:1-ARGM-DIS 3:2-ARG1 10:0-ARGM-MOD 13:1-ARG0
+wsj_1140.parse 21 6 predicted seek-v seek.01 ----- 6:0-rel  0:1-ARGM-DIS 3:1-ARG0 5:0-ARGM-MOD 7:2-ARG1
+wsj_1140.parse 21 8 predicted profit-v profit.01 ----- 8:0-rel  3:1-ARG0 9:1-ARGM-TMP
+wsj_1140.parse 21 14 predicted buy-v buy.01 ----- 14:0-rel  15:1-ARG1 16:1-ARGM-LOC
+wsj_1140.parse 21 19 predicted involve-v involve.01 ----- 19:0-rel  17:1-ARG1
+wsj_1140.parse 21 21 predicted short-v short.01 ----- 21:0-rel  22:2-ARG1
+wsj_1140.parse 22 3 predicted involve-v involve.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+wsj_1140.parse 22 7 predicted see-v see.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+wsj_1140.parse 23 22 predicted double-v double.01 ----- 22:0-rel  0:2-ARG1 20:1-ARGM-ADV
+wsj_1140.parse 24 3 predicted show-v show.01 ----- 3:0-rel  0:1-ARG0 2:1-R-ARG0 4:2-ARG1
+wsj_1140.parse 24 9 predicted include-v include.01 ----- 9:0-rel  0:2-ARG2 10:4-ARG1
+wsj_1140.parse 25 4 predicted operate-v operate.01 ----- 4:0-rel  0:1-ARG0 3:1-R-ARG0 5:2-ARG1
+wsj_1140.parse 25 14 predicted trade-v trade.01 ----- 14:0-rel  9:1-R-ARG1 11:1-ARG1
+wsj_1140.parse 25 16 predicted compile-v compile.01 ----- 16:0-rel  0:2-ARG0
+wsj_1140.parse 25 57 predicted be-v be.01 ----- 57:0-rel  45:1-ARG1 56:1-R-ARG1 58:0-ARGM-NEG 59:2-ARG2
+wsj_1140.parse 26 6 predicted total-v total.01 ----- 6:0-rel  0:2-ARG1 7:2-ARG2
+wsj_1140.parse 26 11 predicted compare-v compare.01 ----- 11:0-rel  12:1-ARG2
+wsj_1140.parse 27 4 predicted represent-v represent.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+wsj_1140.parse 27 24 predicted compare-v compare.01 ----- 24:0-rel  25:1-ARG2
+wsj_1140.parse 28 7 predicted represent-v represent.01 ----- 7:0-rel  0:1-ARGM-LOC 5:1-ARG0 8:2-ARG1
+wsj_1140.parse 28 15 predicted compare-v compare.01 ----- 15:0-rel  16:1-ARG2
+wsj_1140.parse 29 3 predicted show-v show.01 ----- 3:0-rel  0:1-ARG0
+wsj_1140.parse 29 17 predicted exist-v exist.01 ----- 17:0-rel  6:1-R-ARGM-LOC 8:2-ARG1 18:1-ARGM-TMP
+wsj_1140.parse 29 40 predicted see-v see.01 ----- 40:0-rel  41:2-ARG1

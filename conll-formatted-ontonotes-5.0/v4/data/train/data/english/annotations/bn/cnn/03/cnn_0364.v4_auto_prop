@@ -1,0 +1,28 @@
+cnn_0364.parse 1 1 predicted join-v join.04 ----- 1:0-rel  2:1-ARGM-LOC 5:1-ARG0
+cnn_0364.parse 2 2 predicted tell-v tell.01 ----- 2:0-rel  0:0-ARGM-MOD 1:1-ARG0 3:1-ARG2 4:1-ARGM-ADV
+cnn_0364.parse 2 12 predicted arrest-v arrest.01 ----- 12:0-rel  10:1-ARGM-MNR 11:1-ARG0 13:1-ARG1
+cnn_0364.parse 4 11 predicted look-v look.01 ----- 11:0-rel  4:2-ARG0 12:1-ARG1
+cnn_0364.parse 4 20 predicted base-v base.02 ----- 20:0-rel  18:1-ARG1
+cnn_0364.parse 4 24 predicted receive-v receive.01 ----- 24:0-rel  22:1-ARG1 23:1-ARG0
+cnn_0364.parse 5 12 predicted receive-v receive.01 ----- 12:0-rel  0:1-ARGM-TMP 7:2-ARG0 13:1-ARG1
+cnn_0364.parse 5 19 predicted say-v say.01 ----- 19:0-rel  7:2-ARG0 20:3-ARG1
+cnn_0364.parse 5 21 predicted think-v think.01 ----- 21:0-rel  20:1-ARG0 22:1-ARG1
+cnn_0364.parse 5 25 predicted observe-v observe.01 ----- 25:0-rel  23:1-ARG0
+cnn_0364.parse 6 2 predicted respond-v respond.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0364.parse 6 7 predicted notice-v notice.01 ----- 7:0-rel  0:1-ARG0 8:2-ARG1
+cnn_0364.parse 6 10 predicted fit-v fit.01 ----- 10:0-rel  8:1-ARG1 11:1-ARG1
+cnn_0364.parse 6 14 predicted approach-v approach.01 ----- 14:0-rel  0:1-ARG1 15:1-ARG2
+cnn_0364.parse 6 18 predicted ask-v ask.02 ----- 18:0-rel  0:1-ARG0 19:1-ARG1
+cnn_0364.parse 7 2 predicted produce-v produce.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0364.parse 8 2 predicted arrest-v arrest.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-MNR
+cnn_0364.parse 8 6 predicted take-v take.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG2
+cnn_0364.parse 8 18 predicted pend-v pend.- ----- 18:0-rel  10:1-ARG0 19:1-ARG1
+cnn_0364.parse 9 3 predicted be-v be.01 ----- 3:0-rel  4:1-ARG2
+cnn_0364.parse 9 15 predicted arrest-v arrest.01 ----- 15:0-rel  13:1-ARGM-TMP 14:1-ARG0 16:1-ARG1 17:1-ARG2
+cnn_0364.parse 11 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0364.parse 11 12 predicted hang-v hang.02 ----- 12:0-rel  10:1-ARG1 13:1-ARGM-LOC 18:1-ARG2
+cnn_0364.parse 11 25 predicted notice-v notice.01 ----- 25:0-rel  24:1-ARG0 26:1-ARG1
+cnn_0364.parse 11 28 predicted recognize-v recognize.01 ----- 28:0-rel  24:1-ARG0 29:1-ARG1
+cnn_0364.parse 11 31 predicted make-v make.04 ----- 31:0-rel  24:1-ARG0
+cnn_0364.parse 12 1 predicted go-v go.02 ----- 1:0-rel  0:1-ARG0 3:1-ARGM-TMP
+cnn_0364.parse 12 18 predicted look-v look.01 ----- 18:0-rel  14:1-ARG1 16:1-ARG0 19:1-ARGM-TMP

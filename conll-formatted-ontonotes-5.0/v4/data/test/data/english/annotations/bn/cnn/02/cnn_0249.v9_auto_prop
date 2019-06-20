@@ -1,0 +1,8 @@
+cnn_0249.parse 1 8 predicted die-v die.01 ----- 8:0-rel  0:2-ARG1 9:1-ARGM-CAU 12:1-ARGM-TMP
+cnn_0249.parse 1 14 predicted shoot-v shoot.02 ----- 14:0-rel  16:1-ARG1
+cnn_0249.parse 2 8 predicted greet-v greet.01 ----- 8:0-rel  9:1-ARG1
+cnn_0249.parse 3 2 predicted happen-v happen.01 ----- 2:0-rel  0:1-ARG1
+cnn_0249.parse 3 14 predicted get-v get.03 ----- 14:0-rel  9:1-ARG1 12:1-ARG0 15:1-ARG2
+cnn_0249.parse 4 12 predicted be-v be.01 ----- 12:0-rel  0:2-ARG1 13:1-ARG2
+cnn_0249.parse 5 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0249.parse 5 5 predicted shoot-v shoot.02 ----- 5:0-rel  3:1-ARG1 6:1-ARG3

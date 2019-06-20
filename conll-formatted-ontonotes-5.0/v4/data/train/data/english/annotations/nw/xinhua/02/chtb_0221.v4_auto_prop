@@ -1,0 +1,29 @@
+chtb_0221.parse 1 17 predicted make-v make.01 ----- 17:0-rel  0:1-ARGM-ADV 14:1-ARG0 18:1-ARG1
+chtb_0221.parse 1 21 predicted rush-v rush.01 ----- 21:0-rel  22:2-ARG2
+chtb_0221.parse 1 23 predicted repair-v repair.01 ----- 23:0-rel  24:2-ARG1
+chtb_0221.parse 1 27 predicted damage-v damage.01 ----- 27:0-rel  24:1-ARG1 28:1-ARG0
+chtb_0221.parse 2 8 predicted send-v send.01 ----- 8:0-rel  0:1-ARGM-TMP 5:1-ARG0 7:1-ARGM-TMP 9:1-ARG1 12:2-ARGM-ADV
+chtb_0221.parse 2 13 predicted send-v send.01 ----- 13:0-rel  12:1-ARGM-EXT 14:1-ARG1
+chtb_0221.parse 2 19 predicted complete-v complete.01 ----- 19:0-rel  12:1-ARGM-ADV 20:2-ARG1
+chtb_0221.parse 3 7 predicted damage-v damage.01 ----- 7:0-rel  0:2-ARG0
+chtb_0221.parse 3 25 predicted wash-v wash.01 ----- 25:0-rel  19:2-ARG1 24:1-ARGM-ADV
+chtb_0221.parse 4 14 predicted approach-v approach.01 ----- 14:0-rel  1:2-ARG1 15:1-ARGM-TMP 16:1-ARGM-LOC
+chtb_0221.parse 4 26 predicted come-v come.01 ----- 26:0-rel  0:1-ARGM-TMP 20:2-ARG1 25:0-ARGM-MOD 27:1-ARGM-TMP
+chtb_0221.parse 4 31 predicted make-v make.02 ----- 31:0-rel  32:2-ARG1
+chtb_0221.parse 4 33 predicted worry-v worry.02 ----- 33:0-rel  32:1-ARG0 34:1-ARG1
+chtb_0221.parse 5 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARGM-TMP
+chtb_0221.parse 5 7 predicted take-v take.01 ----- 7:0-rel  0:2-ARG0 5:1-ARGM-TMP 6:1-ARGM-MNR 8:1-ARG1
+chtb_0221.parse 5 10 predicted deal-v deal.01 ----- 10:0-rel  0:2-ARG0 11:1-ARG1
+chtb_0221.parse 5 15 predicted rebuild-v rebuild.01 ----- 15:0-rel  0:2-ARG0 16:1-ARG1
+chtb_0221.parse 5 19 predicted protect-v protect.01 ----- 19:0-rel  0:2-ARG0 20:1-ARG1
+chtb_0221.parse 6 10 predicted start-v start.01 ----- 10:0-rel  5:2-ARG0 8:1-R-ARG0 11:1-ARG1
+chtb_0221.parse 6 14 predicted reach-v reach.01 ----- 14:0-rel  11:1-ARG0 13:1-ARGM-TMP 15:2-ARG1
+chtb_0221.parse 6 29 predicted weave-v weave.01 ----- 29:0-rel  30:0-ARG1
+chtb_0221.parse 6 36 predicted transport-v transport.01 ----- 36:0-rel  0:1-ARGM-LOC 34:1-ARGM-DIS 37:1-ARGM-MNR 38:1-ARG3
+chtb_0221.parse 7 2 predicted estimate-v estimate.01 ----- 2:0-rel  3:1-ARG1
+chtb_0221.parse 7 24 predicted damage-v damage.01 ----- 24:0-rel  23:0-ARG0 25:0-ARG1
+chtb_0221.parse 7 29 predicted use-v use.01 ----- 29:0-rel  30:1-ARG1
+chtb_0221.parse 7 34 predicted receive-v receive.01 ----- 34:0-rel  16:2-ARG0 26:0-ARGM-MOD 35:1-ARG1
+chtb_0221.parse 8 2 predicted report-v report.01 ----- 2:0-rel  3:1-ARG1
+chtb_0221.parse 8 10 predicted draw-v draw.03 ----- 10:0-rel  4:1-ARG0 9:1-ARGM-TMP 12:1-ARG1
+chtb_0221.parse 8 26 predicted start-v start.01 ----- 26:0-rel  16:2-ARG0 25:0-ARGM-MOD 27:2-ARG1

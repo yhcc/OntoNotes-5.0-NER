@@ -1,0 +1,12 @@
+chtb_0304.parse 1 3 predicted decide-v decide.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+chtb_0304.parse 1 5 predicted open-v open.03 ----- 5:0-rel  0:1-ARG0 7:1-ARG1
+chtb_0304.parse 1 23 predicted become-v become.01 ----- 23:0-rel  24:2-ARG2
+chtb_0304.parse 2 4 predicted report-v report.01 ----- 4:0-rel  0:1-ARG0 5:1-ARGM-TMP 6:1-ARG1
+chtb_0304.parse 2 15 predicted examine-v examine.01 ----- 15:0-rel  7:2-ARG0 16:2-ARG1
+chtb_0304.parse 2 18 predicted situated-v situated.- ----- 18:0-rel  16:1-ARG1 19:1-ARG2
+chtb_0304.parse 3 7 predicted sign-v sign.01 ----- 7:0-rel  2:1-ARG1 8:1-ARG0 18:1-ARGM-TMP
+chtb_0304.parse 3 26 predicted open-v open.03 ----- 26:0-rel  0:1-ARGM-ADV 22:1-ARG0 25:0-ARGM-MOD 28:1-ARG1
+chtb_0304.parse 4 5 predicted situated-v situated.- ----- 5:0-rel  2:1-ARG1 6:1-ARG2
+chtb_0304.parse 4 17 predicted open-v open.01 ----- 17:0-rel  0:2-ARG1 16:1-ARGM-TMP 18:1-ARGM-TMP
+chtb_0304.parse 5 7 predicted allow-v allow.01 ----- 7:0-rel  0:1-ARGM-DIS 1:0-ARG0 2:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 8:3-ARG1
+chtb_0304.parse 5 13 predicted go-v go.02 ----- 13:0-rel  8:2-ARG0

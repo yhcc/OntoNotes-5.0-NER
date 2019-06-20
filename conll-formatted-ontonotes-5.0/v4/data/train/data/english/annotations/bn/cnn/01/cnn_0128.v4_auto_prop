@@ -1,0 +1,13 @@
+cnn_0128.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+cnn_0128.parse 0 6 predicted watch-v watch.01 ----- 6:0-rel  4:0-ARGM-ADV 7:0-ARG1
+cnn_0128.parse 0 18 predicted be-v be.01 ----- 18:0-rel  15:1-ARGM-TMP 16:1-ARG1 17:0-ARGM-MOD 19:1-ARG2
+cnn_0128.parse 1 5 predicted carry-v carry.01 ----- 5:0-rel  0:1-ARG0 4:1-R-ARG0 6:3-ARG1 11:1-ARGM-DIR
+cnn_0128.parse 1 13 predicted be-v be.01 ----- 13:0-rel  0:2-ARG1
+cnn_0128.parse 2 4 predicted own-v own.01 ----- 4:0-rel  0:1-ARG0 3:1-R-ARG0 5:1-ARG1
+cnn_0128.parse 2 7 predicted say-v say.01 ----- 7:0-rel  0:2-ARG0 8:3-ARG1
+cnn_0128.parse 2 9 predicted receive-v receive.01 ----- 9:0-rel  8:1-ARG0 10:1-ARG1
+cnn_0128.parse 2 14 predicted decide-v decide.01 ----- 14:0-rel  8:1-ARG0 15:2-ARG1
+cnn_0128.parse 2 16 predicted auction-v auction.02 ----- 16:0-rel  17:1-ARG1
+cnn_0128.parse 2 25 predicted go-v go.02 ----- 25:0-rel  22:1-ARG1
+cnn_0128.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+cnn_0128.parse 4 11 predicted be-v be.01 ----- 11:0-rel  0:1-ARG1 10:0-ARGM-MOD

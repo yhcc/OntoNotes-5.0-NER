@@ -1,0 +1,9 @@
+cnn_0122.parse 0 6 predicted reject-v reject.01 ----- 6:0-rel  0:2-ARG0
+cnn_0122.parse 0 15 predicted end-v end.01 ----- 15:0-rel  16:2-ARG1
+cnn_0122.parse 1 8 predicted criticize-v criticize.01 ----- 8:0-rel  0:1-ARGM-TMP 7:1-ARG0
+cnn_0122.parse 1 17 predicted urge-v urge.01 ----- 17:0-rel  9:2-ARG0 15:1-R-ARG0 18:1-ARG1 19:2-ARG2
+cnn_0122.parse 1 20 predicted finalize-v finalize.- ----- 20:0-rel  15:1-ARG0 18:1-ARG0
+cnn_0122.parse 1 26 predicted leave-v leave.01 ----- 26:0-rel  24:1-ARG0 27:1-ARG1 28:1-ARGM-TMP
+cnn_0122.parse 2 1 predicted declare-v declare.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0122.parse 2 7 predicted dictate-v dictate.01 ----- 7:0-rel  8:1-ARG1
+cnn_0122.parse 2 10 predicted be-v be.01 ----- 10:0-rel  3:1-ARG1

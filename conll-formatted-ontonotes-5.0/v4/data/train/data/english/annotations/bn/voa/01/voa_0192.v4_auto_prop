@@ -1,0 +1,16 @@
+voa_0192.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+voa_0192.parse 0 6 predicted plan-v plan.01 ----- 6:0-rel  4:1-ARG0 14:1-ARGM-TMP
+voa_0192.parse 1 10 predicted tell-v tell.01 ----- 10:0-rel  0:2-ARG0 11:1-ARG2 14:3-ARG1
+voa_0192.parse 1 16 predicted include-v include.01 ----- 16:0-rel  14:1-ARG2
+voa_0192.parse 2 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+voa_0192.parse 2 6 predicted mean-v mean.01 ----- 6:0-rel  3:1-ARG2
+voa_0192.parse 2 8 predicted take-v take.14 ----- 8:0-rel  3:1-ARG1 9:1-ARG2
+voa_0192.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+voa_0192.parse 3 5 predicted fail-v fail.01 ----- 5:0-rel  2:1-ARG1 4:1-ARGM-DIS
+voa_0192.parse 3 8 predicted thwart-v thwart.01 ----- 8:0-rel  2:1-ARG1 9:1-ARG0
+voa_0192.parse 3 14 predicted succeed-v succeed.01 ----- 14:0-rel  13:1-ARG0 15:1-ARG1
+voa_0192.parse 3 16 predicted bomb-v bomb.- ----- 16:0-rel  13:1-ARG0
+voa_0192.parse 4 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+voa_0192.parse 4 5 predicted learn-v learn.01 ----- 5:0-rel  3:1-ARG0 6:2-ARG1 11:1-ARGM-TMP
+voa_0192.parse 4 15 predicted suspect-v suspect.01 ----- 15:0-rel  16:0-ARG1
+voa_0192.parse 4 20 predicted exile-v exile.- ----- 20:0-rel  21:0-ARG1 22:0-C-ARG1

@@ -1,0 +1,25 @@
+cnn_0273.parse 0 7 predicted tune-v tune.02 ----- 7:0-rel  4:1-ARG1 6:1-ARGM-ADV 8:1-ARGM-DIR
+cnn_0273.parse 2 9 predicted go-v go.02 ----- 9:0-rel  0:2-ARG0 10:1-ARG4 13:1-ARGM-TMP 16:2-ARGM-ADV
+cnn_0273.parse 2 16 predicted find-v find.01 ----- 16:0-rel  0:2-ARG0 17:2-ARG1
+cnn_0273.parse 2 22 predicted bury-v bury.01 ----- 22:0-rel  20:1-ARG1 23:1-ARG2
+cnn_0273.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0273.parse 4 7 predicted say-v say.01 ----- 7:0-rel  0:2-ARG0 8:1-ARGM-TMP 9:3-ARG1
+cnn_0273.parse 4 13 predicted indicate-v indicate.01 ----- 13:0-rel  9:1-ARG0 14:2-ARG1
+cnn_0273.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0273.parse 5 8 predicted require-v require.01 ----- 8:0-rel  5:1-ARG1 6:1-R-ARG1
+cnn_0273.parse 5 10 predicted show-v show.01 ----- 10:0-rel  3:2-ARG0 9:1-ARGM-TMP
+cnn_0273.parse 5 19 predicted do-v do.02 ----- 19:0-rel  11:2-ARG1 17:0-ARGM-MOD 20:2-ARGM-PRP
+cnn_0273.parse 5 21 predicted determine-v determine.01 ----- 21:0-rel  22:1-ARG1
+cnn_0273.parse 5 27 predicted nonweaponized-v nonweaponized.- ----- 27:0-rel  23:1-ARG1 26:1-ARGM-ADV 28:2-ARG2
+cnn_0273.parse 6 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0273.parse 6 4 predicted be-v be.01 ----- 4:0-rel  5:0-ARG2 6:3-ARG1
+cnn_0273.parse 6 7 predicted believe-v believe.01 ----- 7:0-rel  8:3-ARG1
+cnn_0273.parse 6 12 predicted found-v found.01 ----- 12:0-rel  8:1-ARG0 10:0-ARGM-MOD
+cnn_0273.parse 6 15 predicted hide-v hide.01 ----- 15:0-rel  13:1-ARG1
+cnn_0273.parse 7 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD
+cnn_0273.parse 7 7 predicted develop-v develop.01 ----- 7:0-rel  8:0-ARG1
+cnn_0273.parse 7 9 predicted come-v come.11 ----- 9:0-rel  3:3-ARG1 11:1-ARGM-TMP
+cnn_0273.parse 8 16 predicted join-v join.04 ----- 16:0-rel  0:1-ARGM-PRP 4:1-ARGM-ADV 6:1-C-ARGM-PRP 11:2-ARG0 17:1-ARG1 18:1-ARGM-TMP
+cnn_0273.parse 9 2 predicted happen-v happen.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0273.parse 11 8 predicted continue-v continue.01 ----- 8:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG0
+cnn_0273.parse 12 3 predicted be-v be.02 ----- 3:0-rel  1:0-ARGM-MOD 2:1-ARGM-TMP 4:2-ARG1

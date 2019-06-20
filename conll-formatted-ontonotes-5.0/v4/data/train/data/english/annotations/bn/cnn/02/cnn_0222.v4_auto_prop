@@ -1,0 +1,11 @@
+cnn_0222.parse 0 8 predicted stand-v stand.04 ----- 8:0-rel  0:2-ARG1 7:0-ARGM-MOD 9:1-ARG2 10:1-ARGM-ADV 11:1-ARGM-ADV
+cnn_0222.parse 1 2 predicted serve-v serve.01 ----- 2:0-rel  0:1-ARG0
+cnn_0222.parse 1 13 predicted stem-v stem.01 ----- 13:0-rel  7:1-ARG1 14:1-ARG2
+cnn_0222.parse 2 5 predicted rule-v rule.01 ----- 5:0-rel  0:1-ARG0
+cnn_0222.parse 2 7 predicted present-v present.01 ----- 7:0-rel  6:1-ARG0 8:1-ARG1 10:1-ARGM-LOC
+cnn_0222.parse 2 15 predicted try-v try.02 ----- 15:0-rel  6:2-ARG0 16:1-ARG1 17:1-ARG2
+cnn_0222.parse 3 2 predicted seek-v seek.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0222.parse 4 3 predicted convict-v convict.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+cnn_0222.parse 4 5 predicted set-v set.01 ----- 5:0-rel  7:2-ARG1
+cnn_0222.parse 4 10 predicted destroy-v destroy.01 ----- 10:0-rel  7:1-ARG0 9:1-R-ARG0 11:1-ARG1
+cnn_0222.parse 4 19 predicted execute-v execute.01 ----- 19:0-rel  0:2-ARG1 20:3-ARGM-TMP

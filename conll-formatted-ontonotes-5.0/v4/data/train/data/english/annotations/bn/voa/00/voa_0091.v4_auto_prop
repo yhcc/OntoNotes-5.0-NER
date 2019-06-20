@@ -1,0 +1,49 @@
+voa_0091.parse 0 7 predicted rule-v rule.03 ----- 7:0-rel  8:0-ARG0
+voa_0091.parse 0 10 predicted claim-v claim.01 ----- 10:0-rel  0:1-ARGM-LOC 3:2-ARG0
+voa_0091.parse 0 30 predicted report-v report.01 ----- 30:0-rel  26:2-ARG0 31:1-ARGM-DIR
+voa_0091.parse 0 37 predicted make-v make.04 ----- 37:0-rel  25:1-ARGM-ADV 34:1-ARG0 36:1-ARGM-DIS 38:2-ARG1
+voa_0091.parse 0 40 predicted accompany-v accompany.01 ----- 40:0-rel  38:1-ARG1 41:1-ARG0
+voa_0091.parse 1 9 predicted give-v give.01 ----- 9:0-rel  0:2-ARG0
+voa_0091.parse 1 12 predicted rule-v rule.03 ----- 12:0-rel  13:0-ARG0 14:0-C-ARG0 15:0-C-ARG0
+voa_0091.parse 2 2 predicted gain-v gain.02 ----- 2:0-rel  0:1-ARG0 3:2-ARG1 7:1-ARGM-TMP 8:2-ARGM-TMP
+voa_0091.parse 2 11 predicted pledge-v pledge.01 ----- 11:0-rel  8:1-ARGM-TMP 9:1-ARG0 12:1-ARG2 13:1-ARGM-TMP
+voa_0091.parse 2 14 predicted win-v win.01 ----- 14:0-rel  9:1-ARG0 15:1-ARG1
+voa_0091.parse 3 3 predicted run-v run.02 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-PRD 6:1-ARGM-TMP
+voa_0091.parse 3 9 predicted pass-v pass.12 ----- 9:0-rel  7:1-ARG1 11:1-ARGM-LOC
+voa_0091.parse 4 5 predicted ban-v ban.01 ----- 5:0-rel  6:0-ARG1 7:0-C-ARG1
+voa_0091.parse 4 9 predicted win-v win.01 ----- 9:0-rel  0:1-ARGM-TMP 2:2-ARG0
+voa_0091.parse 5 2 predicted run-v run.02 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-PRD 5:1-ARGM-CAU
+voa_0091.parse 5 8 predicted prohibit-v prohibit.01 ----- 8:0-rel  6:1-ARG0 9:1-ARG1 11:1-ARG2
+voa_0091.parse 5 11 predicted base-v base.02 ----- 11:0-rel  9:1-ARG1 12:1-ARG2
+voa_0091.parse 6 3 predicted include-v include.01 ----- 3:0-rel  0:1-ARG2 4:2-ARG1
+voa_0091.parse 6 17 predicted win-v win.01 ----- 17:0-rel  0:2-ARG0 18:1-ARG1 20:1-ARGM-TMP 22:1-C-ARG1
+voa_0091.parse 7 8 predicted include-v include.01 ----- 8:0-rel  9:1-ARG1
+voa_0091.parse 7 14 predicted be-v be.03 ----- 14:0-rel  0:2-ARG1 15:2-ARG2
+voa_0091.parse 7 16 predicted begin-v begin.01 ----- 16:0-rel  17:1-ARGM-TMP
+voa_0091.parse 8 14 predicted lose-v lose.03 ----- 14:0-rel  13:1-R-ARG0 15:1-ARG1
+voa_0091.parse 8 21 predicted say-v say.01 ----- 21:0-rel  0:3-ARG0 22:4-ARG1
+voa_0091.parse 8 26 predicted be-v be.01 ----- 26:0-rel  22:2-ARG1
+voa_0091.parse 8 29 predicted win-v win.01 ----- 29:0-rel  27:0-ARGM-NEG
+voa_0091.parse 8 31 predicted lose-v lose.03 ----- 31:0-rel  27:0-ARGM-NEG
+voa_0091.parse 8 35 predicted allow-v allow.01 ----- 35:0-rel  36:2-ARG1
+voa_0091.parse 8 37 predicted participate-v participate.01 ----- 37:0-rel  38:1-ARG1
+voa_0091.parse 9 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+voa_0091.parse 9 5 predicted want-v want.01 ----- 5:0-rel  3:1-ARG0 6:2-ARG1
+voa_0091.parse 9 7 predicted prove-v prove.01 ----- 7:0-rel  3:1-ARG0 8:1-ARG2
+voa_0091.parse 9 12 predicted have-v have.03 ----- 12:0-rel  11:1-ARG0 13:2-ARG1
+voa_0091.parse 9 20 predicted be-v be.01 ----- 20:0-rel  21:1-ARG2 22:2-ARG1
+voa_0091.parse 9 23 predicted exclude-v exclude.01 ----- 23:0-rel  24:1-ARG1
+voa_0091.parse 10 11 predicted arrest-v arrest.01 ----- 11:0-rel  0:1-ARGM-TMP 9:1-ARG0 12:2-ARG1
+voa_0091.parse 10 26 predicted weaken-v weaken.01 ----- 26:0-rel  27:2-ARG1
+voa_0091.parse 10 32 predicted view-v view.02 ----- 32:0-rel  27:1-ARG1 30:1-R-ARG1 33:1-ARG2
+voa_0091.parse 11 4 predicted accuse-v accuse.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-DIS 5:1-ARG1 7:1-ARG2
+voa_0091.parse 11 8 predicted prevent-v prevent.01 ----- 8:0-rel  9:1-ARG1 10:1-ARG2
+voa_0091.parse 11 11 predicted enter-v enter.01 ----- 11:0-rel  9:1-ARG0
+voa_0091.parse 11 19 predicted be-v be.01 ----- 19:0-rel  16:1-ARGM-LOC 17:1-ARG1 20:1-ARG2
+voa_0091.parse 12 2 predicted die-v die.01 ----- 2:0-rel  0:1-ARG1
+voa_0091.parse 12 6 predicted injure-v injure.01 ----- 6:0-rel  4:1-ARG1 7:1-ARGM-LOC 9:1-ARGM-TMP
+voa_0091.parse 13 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+voa_0091.parse 14 8 predicted monitor-v monitor.01 ----- 8:0-rel  0:2-ARG1 9:1-ARG0
+voa_0091.parse 15 3 predicted order-v order.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 5:1-ARG2 8:1-ARGM-TMP
+voa_0091.parse 15 13 predicted rule-v rule.01 ----- 13:0-rel  0:2-ARG1 14:1-C-ARG1 15:1-ARGM-CAU
+voa_0091.parse 15 28 predicted kill-v kill.01 ----- 28:0-rel  21:1-ARGM-LOC 23:3-ARG1

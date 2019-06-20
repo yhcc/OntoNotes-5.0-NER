@@ -1,0 +1,7 @@
+wsj_1083.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1083.parse 0 5 predicted complete-v complete.01 ----- 5:0-rel  4:1-ARG0
+wsj_1083.parse 1 8 predicted say-v say.01 ----- 8:0-rel  0:2-ARG0 9:4-ARG1
+wsj_1083.parse 1 13 predicted receive-v receive.01 ----- 13:0-rel  9:2-ARG0
+wsj_1083.parse 2 1 predicted own-v own.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+wsj_1083.parse 2 10 predicted own-v own.01 ----- 10:0-rel  8:1-ARG0 11:1-ARG1
+wsj_1083.parse 3 2 predicted base-v base.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC

@@ -1,0 +1,26 @@
+wsj_1478.parse 0 5 predicted ban-v ban.01 ----- 5:0-rel  0:2-ARG0 6:2-ARG2
+wsj_1478.parse 0 14 predicted fail-v fail.01 ----- 14:0-rel  15:0-ARG1 16:0-C-ARG1
+wsj_1478.parse 0 25 predicted work-v work.01 ----- 25:0-rel  26:1-ARGM-LOC
+wsj_1478.parse 0 30 predicted ensure-v ensure.01 ----- 30:0-rel  27:1-ARG1 31:1-ARG0
+wsj_1478.parse 1 8 predicted be-v be.01 ----- 8:0-rel  3:1-ARG1 7:1-R-ARG1 9:2-ARG2
+wsj_1478.parse 1 19 predicted say-v say.01 ----- 19:0-rel  0:2-ARG0 20:3-ARG1
+wsj_1478.parse 1 37 predicted order-v order.01 ----- 37:0-rel  30:2-ARG0 38:1-ARG2
+wsj_1478.parse 1 47 predicted make-v make.01 ----- 47:0-rel  39:2-ARG0 48:2-ARG1
+wsj_1478.parse 2 5 predicted announce-v announce.01 ----- 5:0-rel  0:1-ARGM-ADV 2:1-ARG0 4:0-ARGM-NEG 6:1-ARG1 8:1-ARGM-TMP
+wsj_1478.parse 3 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 5:1-ARG1
+wsj_1478.parse 3 9 predicted take-v take.01 ----- 9:0-rel  7:1-ARG1 10:1-ARG2 11:1-ARGM-TMP
+wsj_1478.parse 3 15 predicted ban-v ban.01 ----- 15:0-rel  6:1-ARGM-TMP 14:1-ARG0 16:1-ARG2 23:1-ARG1
+wsj_1478.parse 4 4 predicted identify-v identify.01 ----- 4:0-rel  0:1-ARG1 3:0-ARGM-NEG
+wsj_1478.parse 5 3 predicted place-v place.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2 7:1-ARGM-TMP
+wsj_1478.parse 5 12 predicted operate-v operate.01 ----- 12:0-rel  11:1-ARG1 13:1-ARGM-MNR
+wsj_1478.parse 5 24 predicted create-v create.01 ----- 24:0-rel  22:1-ARG1 25:2-ARGM-PNC
+wsj_1478.parse 5 26 predicted sell-v sell.01 ----- 26:0-rel  29:1-ARG1
+wsj_1478.parse 5 28 predicted liquidate-v liquidate.01 ----- 28:0-rel  29:1-ARG1
+wsj_1478.parse 6 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG 5:1-ARGM-ADV 6:2-ARG1
+wsj_1478.parse 6 10 predicted take-v take.01 ----- 10:0-rel  6:1-ARGM-CAU 7:1-ARG1 11:1-ARGM-ADV
+wsj_1478.parse 7 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+wsj_1478.parse 7 5 predicted found-v found.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1
+wsj_1478.parse 7 21 predicted pay-v pay.01 ----- 21:0-rel  17:1-ARG1 22:1-ARG2
+wsj_1478.parse 7 25 predicted associate-v associate.01 ----- 25:0-rel  26:1-ARG2
+wsj_1478.parse 7 33 predicted divert-v divert.01 ----- 33:0-rel  32:1-ARG1 34:1-ARGM-MNR
+wsj_1478.parse 8 5 predicted reach-v reach.02 ----- 5:0-rel  0:1-ARG1 2:0-ARGM-MOD 3:0-ARGM-NEG 6:1-ARGM-PNC

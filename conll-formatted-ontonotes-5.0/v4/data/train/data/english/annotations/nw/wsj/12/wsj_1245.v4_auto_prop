@@ -1,0 +1,5 @@
+wsj_1245.parse 0 3 predicted file-v file.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG2
+wsj_1245.parse 0 13 predicted buy-v buy.01 ----- 13:0-rel  14:1-ARG1
+wsj_1245.parse 0 22 predicted propose-v propose.01 ----- 22:0-rel  25:0-ARG1
+wsj_1245.parse 1 8 predicted announce-v announce.01 ----- 8:0-rel  0:1-ARG0 6:1-ARGM-TMP 9:1-ARG1
+wsj_1245.parse 1 18 predicted own-v own.01 ----- 18:0-rel  14:1-ARG1 17:1-ARGM-TMP 19:1-ARGM-MNR

@@ -1,0 +1,10 @@
+chtb_0253.parse 1 10 predicted hold-v hold.04 ----- 10:0-rel  0:1-ARG0
+chtb_0253.parse 2 2 predicted continue-v continue.01 ----- 2:0-rel  0:1-ARG0
+chtb_0253.parse 2 4 predicted carry-v carry.03 ----- 4:0-rel  0:1-ARG0 6:1-ARG1
+chtb_0253.parse 2 8 predicted carry-v carry.03 ----- 8:0-rel  0:1-ARG0
+chtb_0253.parse 2 13 predicted reach-v reach.01 ----- 13:0-rel  12:1-ARG1 14:1-ARG0
+chtb_0253.parse 2 22 predicted maintain-v maintain.01 ----- 22:0-rel  21:1-R-ARG0 23:2-ARG1
+chtb_0253.parse 2 35 predicted sign-v sign.02 ----- 35:0-rel  0:1-ARG0 36:1-ARG1
+chtb_0253.parse 3 2 predicted agree-v agree.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-MNR 5:1-ARG1
+chtb_0253.parse 3 11 predicted hold-v hold.04 ----- 11:0-rel  6:1-ARG1 9:0-ARGM-MOD 12:1-ARGM-TMP 17:1-ARGM-LOC
+chtb_0253.parse 4 9 predicted meet-v meet.03 ----- 9:0-rel  0:1-ARGM-LOC 7:1-ARG0 10:3-ARG1

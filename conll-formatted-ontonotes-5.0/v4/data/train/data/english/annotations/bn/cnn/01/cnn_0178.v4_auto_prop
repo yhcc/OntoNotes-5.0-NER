@@ -1,0 +1,15 @@
+cnn_0178.parse 0 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0178.parse 0 3 predicted agree-v agree.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+cnn_0178.parse 0 5 predicted pay-v pay.01 ----- 5:0-rel  2:1-ARG0 6:2-ARG1
+cnn_0178.parse 0 10 predicted settle-v settle.02 ----- 10:0-rel  2:1-ARG0 11:2-ARG1
+cnn_0178.parse 0 19 predicted overcharge-v overcharge.- ----- 19:0-rel  18:1-ARG0 20:1-ARG2 21:1-ARG3
+cnn_0178.parse 1 2 predicted follow-v follow.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+cnn_0178.parse 1 6 predicted argue-v argue.01 ----- 6:0-rel  3:1-ARG0 7:1-ARG1
+cnn_0178.parse 1 10 predicted know-v know.01 ----- 10:0-rel  8:1-ARG1 9:1-ARGM-TMP 11:1-ARG2
+cnn_0178.parse 1 15 predicted shift-v shift.01 ----- 15:0-rel  8:2-ARG0 14:1-ARGM-MNR
+cnn_0178.parse 1 18 predicted be-v be.01 ----- 18:0-rel  16:1-ARG1 17:1-R-ARG1
+cnn_0178.parse 1 21 predicted pay-v pay.01 ----- 21:0-rel  22:1-ARG2 24:1-ARG1
+cnn_0178.parse 2 3 predicted merge-v merge.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-TMP 7:1-ARGM-TMP
+cnn_0178.parse 2 8 predicted split-v split.01 ----- 8:0-rel  9:1-ARGM-ADV
+cnn_0178.parse 3 3 predicted admit-v admit.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1 6:1-ARGM-ADV
+cnn_0178.parse 3 7 predicted settle-v settle.02 ----- 7:0-rel  8:1-ARG1

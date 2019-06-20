@@ -1,0 +1,9 @@
+cnn_0392.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0392.parse 2 15 predicted threaten-v threaten.01 ----- 15:0-rel  16:1-ARG2
+cnn_0392.parse 3 3 predicted vow-v vow.01 ----- 3:0-rel  0:1-ARGM-TMP 2:1-ARG0
+cnn_0392.parse 4 4 predicted fire-v fire.01 ----- 4:0-rel  0:1-ARG0 5:1-ARGM-DIR
+cnn_0392.parse 5 2 predicted target-v target.01 ----- 2:0-rel  0:1-ARG2 3:1-ARG1
+cnn_0392.parse 5 12 predicted kill-v kill.01 ----- 12:0-rel  8:1-R-ARG1
+cnn_0392.parse 5 13 predicted include-v include.01 ----- 13:0-rel  14:1-ARG1
+cnn_0392.parse 6 3 predicted track-v track.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0392.parse 7 1 predicted join-v join.04 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-MNR 4:1-ARG2

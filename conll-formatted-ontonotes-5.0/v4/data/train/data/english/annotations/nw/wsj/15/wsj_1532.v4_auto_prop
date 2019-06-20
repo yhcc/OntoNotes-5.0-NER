@@ -1,0 +1,9 @@
+wsj_1532.parse 0 10 predicted launch-v launch.01 ----- 10:0-rel  0:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+wsj_1532.parse 0 15 predicted target-v target.01 ----- 15:0-rel  11:1-ARG0 16:1-ARG1
+wsj_1532.parse 1 20 predicted combine-v combine.01 ----- 20:0-rel  0:1-ARG0 19:0-ARGM-MOD 21:1-ARG1
+wsj_1532.parse 2 8 predicted include-v include.01 ----- 8:0-rel  0:2-ARG2 9:2-ARG1
+wsj_1532.parse 2 40 predicted 80%-owned-v 80%-owned.- ----- 40:0-rel  38:1-ARG1 41:1-ARG0
+wsj_1532.parse 3 3 predicted focus-v focus.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG2
+wsj_1532.parse 3 20 predicted carry-v carry.01 ----- 20:0-rel  0:1-ARG0 19:0-ARGM-MOD 21:2-ARG1
+wsj_1532.parse 4 6 predicted support-v support.01 ----- 6:0-rel  4:0-ARG0
+wsj_1532.parse 4 10 predicted distribute-v distribute.01 ----- 10:0-rel  0:1-ARG1 8:0-ARGM-MOD 11:1-ARG2

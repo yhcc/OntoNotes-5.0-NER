@@ -1,0 +1,11 @@
+voa_0209.parse 1 5 predicted expect-v expect.01 ----- 5:0-rel  0:2-ARG1 6:2-C-ARG1
+voa_0209.parse 1 7 predicted return-v return.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG4 12:1-ARGM-TMP
+voa_0209.parse 2 2 predicted make-v make.04 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+voa_0209.parse 2 14 predicted move-v move.01 ----- 14:0-rel  6:3-ARG1 15:1-ARGM-MNR 16:1-ARGM-DIR 18:1-ARG2
+voa_0209.parse 2 20 predicted wait-v wait.01 ----- 20:0-rel  21:0-ARG1
+voa_0209.parse 3 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+voa_0209.parse 3 8 predicted aim-v aim.02 ----- 8:0-rel  5:1-ARG1 9:1-ARG2
+voa_0209.parse 3 10 predicted establish-v establish.01 ----- 10:0-rel  5:1-ARG0 11:2-ARG1
+voa_0209.parse 3 14 predicted resume-v resume.01 ----- 14:0-rel  15:2-ARG1
+voa_0209.parse 4 2 predicted demand-v demand.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+voa_0209.parse 4 8 predicted achieve-v achieve.01 ----- 8:0-rel  9:1-ARG1

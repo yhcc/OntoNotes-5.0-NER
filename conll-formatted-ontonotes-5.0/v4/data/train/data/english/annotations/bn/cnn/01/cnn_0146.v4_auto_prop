@@ -1,0 +1,10 @@
+cnn_0146.parse 0 5 predicted wait-v wait.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+cnn_0146.parse 1 2 predicted meet-v meet.03 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1 9:1-ARGM-TMP 10:1-ARGM-TMP
+cnn_0146.parse 2 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARG1
+cnn_0146.parse 2 3 predicted hope-v hope.01 ----- 3:0-rel  0:2-ARG0 4:3-ARG1
+cnn_0146.parse 2 7 predicted do-v do.02 ----- 7:0-rel  4:1-ARG0 6:0-ARGM-MOD
+cnn_0146.parse 2 10 predicted stop-v stop.01 ----- 10:0-rel  8:1-ARG0 11:1-ARG1
+cnn_0146.parse 3 2 predicted mean-v mean.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+cnn_0146.parse 3 5 predicted slash-v slash.02 ----- 5:0-rel  3:1-ARG1
+cnn_0146.parse 4 5 predicted suggest-v suggest.01 ----- 5:0-rel  0:2-ARGM-TMP 4:1-ARG0 6:3-ARG1
+cnn_0146.parse 4 8 predicted be-v be.01 ----- 8:0-rel  6:1-ARG1 7:0-ARGM-MOD 9:1-ARG2

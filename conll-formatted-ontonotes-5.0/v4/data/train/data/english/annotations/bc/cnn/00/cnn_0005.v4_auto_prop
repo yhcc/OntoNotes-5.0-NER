@@ -1,0 +1,980 @@
+cnn_0005.parse 1 2 predicted ask-v ask.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:3-ARG2 8:1-ARG1
+cnn_0005.parse 2 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:2-ARG2
+cnn_0005.parse 3 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0005.parse 4 3 predicted watch-v watch.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 4:1-ARGM-DIR 5:1-ARGM-LOC
+cnn_0005.parse 4 12 predicted join-v join.04 ----- 12:0-rel  13:1-ARG1 14:1-ARG2
+cnn_0005.parse 5 2 predicted get-v get.05 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2 9:1-ARGM-TMP
+cnn_0005.parse 6 5 predicted get-v get.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0 3:0-ARGM-MOD 4:1-ARGM-DIS 6:2-ARG1
+cnn_0005.parse 7 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG2 11:1-ARGM-TMP
+cnn_0005.parse 10 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 11 7 predicted climb-v climb.02 ----- 7:0-rel  0:2-ARG1
+cnn_0005.parse 12 4 predicted kill-v kill.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-TMP 6:1-ARGM-LOC
+cnn_0005.parse 13 3 predicted wounded-v wounded.- ----- 3:0-rel  0:1-ARG1
+cnn_0005.parse 14 8 predicted stand-v stand.04 ----- 8:0-rel  0:2-ARG1 7:1-ARGM-TMP 9:1-ARG2
+cnn_0005.parse 16 8 predicted report-v report.01 ----- 8:0-rel  0:4-ARG1 9:1-ARGM-LOC
+cnn_0005.parse 17 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+cnn_0005.parse 19 5 predicted click-v click.- ----- 5:0-rel  6:1-ARGM-LOC
+cnn_0005.parse 19 11 predicted browse-v browse.- ----- 11:0-rel  12:1-ARG1
+cnn_0005.parse 19 16 predicted want-v want.01 ----- 16:0-rel  15:1-ARG0 17:2-ARG1
+cnn_0005.parse 19 18 predicted see-v see.01 ----- 18:0-rel  15:1-ARG0
+cnn_0005.parse 20 3 predicted want-v want.01 ----- 3:0-rel  1:1-ARG1 2:1-ARG0
+cnn_0005.parse 20 6 predicted want-v want.01 ----- 6:0-rel  4:1-ARGM-TMP 5:1-ARG0
+cnn_0005.parse 21 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+cnn_0005.parse 25 4 predicted set-v set.08 ----- 4:0-rel  0:1-ARG0 5:2-ARG2
+cnn_0005.parse 25 6 predicted deliver-v deliver.01 ----- 6:0-rel  0:1-ARG0 7:1-ARG1
+cnn_0005.parse 25 10 predicted televise-v televise.01 ----- 10:0-rel  11:0-ARG1
+cnn_0005.parse 25 16 predicted try-v try.01 ----- 16:0-rel  17:2-ARG1
+cnn_0005.parse 25 18 predicted explain-v explain.01 ----- 18:0-rel  19:2-ARG1
+cnn_0005.parse 26 1 predicted show-v show.01 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 27 6 predicted speak-v speak.01 ----- 6:0-rel  0:2-ARGM-TMP 5:1-ARG0 7:1-ARG2
+cnn_0005.parse 28 4 predicted join-v join.04 ----- 4:0-rel  5:1-ARG1
+cnn_0005.parse 30 2 predicted be-v be.01 ----- 2:0-rel  3:1-ARG2
+cnn_0005.parse 32 3 predicted watch-v watch.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+cnn_0005.parse 32 6 predicted go-v go.15 ----- 6:0-rel  4:1-ARG1 8:1-ARGM-LOC
+cnn_0005.parse 32 12 predicted ask-v ask.01 ----- 12:0-rel  2:2-ARG0
+cnn_0005.parse 32 13 predicted be-v be.02 ----- 13:0-rel  14:1-ARG2 15:2-ARG1
+cnn_0005.parse 33 2 predicted be-v be.02 ----- 2:0-rel  0:1-ARGM-ADV 3:2-ARG1
+cnn_0005.parse 34 2 predicted come-v come.04 ----- 2:0-rel  0:1-ARG1 3:2-ARGM-TMP
+cnn_0005.parse 34 10 predicted come-v come.01 ----- 10:0-rel  3:1-ARGM-TMP 4:2-ARG1 11:1-ARGM-DIR
+cnn_0005.parse 34 21 predicted dominate-v dominate.01 ----- 21:0-rel  17:1-ARG0 22:1-ARG1
+cnn_0005.parse 35 2 predicted come-v come.04 ----- 2:0-rel  0:1-ARG1 3:2-ARGM-TMP
+cnn_0005.parse 35 7 predicted understand-v understand.01 ----- 7:0-rel  3:1-ARGM-TMP 4:1-ARG0 6:1-ARGM-MNR
+cnn_0005.parse 35 9 predicted recognize-v recognize.01 ----- 9:0-rel  3:1-ARGM-TMP 4:1-ARG0 6:1-ARGM-MNR
+cnn_0005.parse 35 14 predicted achieve-v achieve.01 ----- 14:0-rel  11:1-ARG0 12:0-ARGM-MOD 13:0-ARGM-NEG 15:1-ARG1
+cnn_0005.parse 35 23 predicted achieve-v achieve.01 ----- 23:0-rel  18:1-ARG1 21:1-ARG0 22:0-ARGM-MOD
+cnn_0005.parse 35 25 predicted kill-v kill.01 ----- 25:0-rel  18:2-ARG0 26:1-ARG1
+cnn_0005.parse 36 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1
+cnn_0005.parse 36 13 predicted move-v move.01 ----- 13:0-rel  11:1-ARG1 14:1-ARGM-DIR
+cnn_0005.parse 36 22 predicted move-v move.01 ----- 22:0-rel  21:1-ARG1 23:1-ARGM-DIR
+cnn_0005.parse 36 28 predicted move-v move.01 ----- 28:0-rel  25:1-ARG1 29:1-ARGM-DIR
+cnn_0005.parse 37 7 predicted understand-v understand.01 ----- 7:0-rel  1:1-ARG0 8:1-ARG1
+cnn_0005.parse 37 19 predicted move-v move.01 ----- 19:0-rel  18:1-ARG1 20:1-ARGM-DIR
+cnn_0005.parse 37 28 predicted try-v try.01 ----- 28:0-rel  25:1-ARG0 27:0-ARGM-MOD 29:2-ARG1
+cnn_0005.parse 37 30 predicted challenge-v challenge.01 ----- 30:0-rel  25:1-ARG0 31:2-ARG1 41:1-ARGM-PRP
+cnn_0005.parse 37 45 predicted break-v break.01 ----- 45:0-rel  46:1-ARG1
+cnn_0005.parse 37 50 predicted do-v do.02 ----- 50:0-rel  49:1-ARG0 51:1-ARG1
+cnn_0005.parse 37 53 predicted grab-v grab.01 ----- 53:0-rel  54:1-ARG1
+cnn_0005.parse 38 3 predicted hear-v hear.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+cnn_0005.parse 38 5 predicted say-v say.01 ----- 5:0-rel  1:1-ARG1 4:1-ARG0
+cnn_0005.parse 38 6 predicted be-v be.01 ----- 6:0-rel  0:0-ARGM-DIS 1:2-ARG1 7:1-ARG2
+cnn_0005.parse 38 15 predicted crush-v crush.01 ----- 15:0-rel  8:2-ARG0 13:0-ARGM-MOD 14:0-ARGM-NEG 16:1-ARG1
+cnn_0005.parse 39 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:4-ARG1
+cnn_0005.parse 39 11 predicted crush-v crush.01 ----- 11:0-rel  4:2-ARG0 9:0-ARGM-MOD 10:0-ARGM-NEG 12:1-ARG1
+cnn_0005.parse 40 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 40 3 predicted make-v make.04 ----- 3:0-rel  0:1-ARG0
+cnn_0005.parse 40 6 predicted crush-v crush.01 ----- 6:0-rel  7:1-ARG1
+cnn_0005.parse 40 11 predicted do-v do.04 ----- 11:0-rel  12:1-ARG1
+cnn_0005.parse 41 2 predicted make-v make.04 ----- 2:0-rel  0:0-ARGM-MOD 1:1-ARG0
+cnn_0005.parse 41 6 predicted let-v let.01 ----- 6:0-rel  7:2-ARG1
+cnn_0005.parse 41 8 predicted rephrase-v rephrase.- ----- 8:0-rel  7:1-ARG0 9:1-ARG1
+cnn_0005.parse 41 14 predicted have-v have.03 ----- 14:0-rel  12:1-ARG0 15:3-ARG1
+cnn_0005.parse 42 4 predicted do-v do.02 ----- 4:0-rel  0:1-ARG1 1:1-ARG0
+cnn_0005.parse 42 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1
+cnn_0005.parse 42 6 predicted have-v have.03 ----- 6:0-rel  7:2-ARG1
+cnn_0005.parse 43 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 44 3 predicted build-v build.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0005.parse 44 9 predicted be-v be.01 ----- 9:0-rel  8:1-ARG1 10:1-ARG2
+cnn_0005.parse 44 12 predicted take-v take.01 ----- 12:0-rel  8:1-ARG0
+cnn_0005.parse 45 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-ADV 4:1-ARG2
+cnn_0005.parse 46 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+cnn_0005.parse 47 4 predicted do-v do.02 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 5:2-ARG1
+cnn_0005.parse 47 9 predicted develop-v develop.02 ----- 9:0-rel  10:1-ARG1
+cnn_0005.parse 48 1 predicted develop-v develop.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 49 1 predicted continue-v continue.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 49 3 predicted give-v give.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG2 5:1-ARG1
+cnn_0005.parse 50 1 predicted connect-v connect.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 51 1 predicted build-v build.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 52 4 predicted take-v take.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 5:1-ARG1
+cnn_0005.parse 53 4 predicted beat-v beat.03 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+cnn_0005.parse 54 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2 4:1-ARGM-MNR
+cnn_0005.parse 55 1 predicted seem-v seem.01 ----- 1:0-rel  2:2-ARG1
+cnn_0005.parse 55 3 predicted be-v be.02 ----- 3:0-rel  4:2-ARG1
+cnn_0005.parse 55 14 predicted push-v push.01 ----- 14:0-rel  9:1-ARG1 15:1-ARG2
+cnn_0005.parse 56 3 predicted go-v go.04 ----- 3:0-rel  2:0-ARGM-NEG
+cnn_0005.parse 56 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARG1 6:2-ARG2
+cnn_0005.parse 56 13 predicted see-v see.01 ----- 13:0-rel  10:1-ARG1 11:1-ARG0 12:0-ARGM-MOD
+cnn_0005.parse 57 2 predicted assume-v assume.02 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0
+cnn_0005.parse 57 4 predicted think-v think.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1
+cnn_0005.parse 57 8 predicted keep-v keep.01 ----- 8:0-rel  7:1-ARG0 9:2-ARG1
+cnn_0005.parse 57 11 predicted beat-v beat.01 ----- 11:0-rel  9:1-ARG0 12:3-ARG1
+cnn_0005.parse 57 19 predicted improvise-v improvise.- ----- 19:0-rel  20:0-ARG1 21:0-C-ARG1
+cnn_0005.parse 57 26 predicted keep-v keep.02 ----- 26:0-rel  24:1-ARG0 25:1-ARGM-ADV 27:2-ARG1
+cnn_0005.parse 57 27 predicted kill-v kill.01 ----- 27:0-rel  24:1-ARG0 28:2-ARG1
+cnn_0005.parse 57 41 predicted get-v get.03 ----- 41:0-rel  37:1-ARG1 40:0-ARGM-MOD 42:1-ARG2
+cnn_0005.parse 57 42 predicted feed-v feed.03 ----- 42:0-rel  23:1-ARGM-ADV 36:1-ARGM-TMP 37:1-ARG1 40:0-ARGM-MOD
+cnn_0005.parse 57 48 predicted pull-v pull.02 ----- 48:0-rel  45:1-ARG1 47:0-ARGM-MOD
+cnn_0005.parse 59 1 predicted be-v be.02 ----- 1:0-rel  2:3-ARG1
+cnn_0005.parse 59 9 predicted win-v win.01 ----- 9:0-rel  6:1-ARG0
+cnn_0005.parse 60 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 60 3 predicted drive-v drive.02 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 5:1-ARG2 6:1-ARGM-TMP
+cnn_0005.parse 60 9 predicted be-v be.01 ----- 9:0-rel  7:1-ARG1 10:1-ARG2
+cnn_0005.parse 60 12 predicted assume-v assume.01 ----- 12:0-rel  7:1-ARG0 13:1-ARG1
+cnn_0005.parse 61 2 predicted be-v be.01 ----- 2:0-rel  1:1-ARG1 3:2-ARG2
+cnn_0005.parse 61 4 predicted happen-v happen.01 ----- 4:0-rel  3:1-ARG1
+cnn_0005.parse 61 7 predicted win-v win.01 ----- 7:0-rel  0:1-ARGM-ADV 5:1-ARG0 6:0-ARGM-MOD
+cnn_0005.parse 62 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+cnn_0005.parse 62 13 predicted stay-v stay.01 ----- 13:0-rel  9:1-ARG1 14:1-ARG3
+cnn_0005.parse 62 22 predicted build-v build.02 ----- 22:0-rel  18:1-ARG0 23:1-ARG1
+cnn_0005.parse 62 30 predicted be-v be.01 ----- 30:0-rel  28:1-ARG1 31:1-ARG2
+cnn_0005.parse 62 44 predicted take-v take.12 ----- 44:0-rel  39:1-ARG0 46:1-ARG1
+cnn_0005.parse 63 4 predicted win-v win.01 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG
+cnn_0005.parse 64 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 5:1-ARGM-TMP 7:1-ARG1
+cnn_0005.parse 64 10 predicted be-v be.01 ----- 10:0-rel  8:1-ARG1 11:1-ARGM-TMP 12:1-ARG2
+cnn_0005.parse 65 1 predicted press-v press.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-ADV 6:2-ARGM-TMP
+cnn_0005.parse 65 8 predicted interview-v interview.01 ----- 8:0-rel  6:1-ARGM-TMP 7:1-ARG0 9:1-ARG1 10:2-ARGM-TMP
+cnn_0005.parse 67 2 predicted look-v look.01 ----- 2:0-rel  1:1-ARG0
+cnn_0005.parse 67 7 predicted say-v say.01 ----- 7:0-rel  4:1-ARG1 5:1-ARG0
+cnn_0005.parse 67 13 predicted be-v be.01 ----- 13:0-rel  0:1-ARGM-ADV 10:1-ARG1 11:0-ARGM-MOD 12:1-ARGM-TMP 14:2-ARG2
+cnn_0005.parse 69 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0005.parse 70 3 predicted cause-v cause.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+cnn_0005.parse 71 2 predicted grab-v grab.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0005.parse 72 6 predicted move-v move.01 ----- 6:0-rel  4:1-ARG1 7:1-ARGM-DIR
+cnn_0005.parse 72 14 predicted consider-v consider.02 ----- 14:0-rel  9:1-ARG1 12:1-R-ARG1
+cnn_0005.parse 72 16 predicted be-v be.01 ----- 16:0-rel  12:1-ARG1
+cnn_0005.parse 72 32 predicted continue-v continue.01 ----- 32:0-rel  29:1-ARG0
+cnn_0005.parse 72 34 predicted develop-v develop.01 ----- 34:0-rel  29:1-ARG1
+cnn_0005.parse 72 41 predicted develop-v develop.01 ----- 41:0-rel  36:1-ARGM-ADV 38:1-ARG1 39:1-ARG0
+cnn_0005.parse 72 48 predicted continue-v continue.01 ----- 48:0-rel  46:1-ARG0 49:2-ARG1
+cnn_0005.parse 72 50 predicted stay-v stay.01 ----- 50:0-rel  46:1-ARG1 51:1-ARG3
+cnn_0005.parse 72 53 predicted provide-v provide.01 ----- 53:0-rel  39:1-ARG0 54:1-ARG1
+cnn_0005.parse 72 62 predicted develop-v develop.01 ----- 62:0-rel  61:1-ARG1
+cnn_0005.parse 72 64 predicted be-v be.01 ----- 64:0-rel  63:1-ARG1
+cnn_0005.parse 72 72 predicted take-v take.14 ----- 72:0-rel  69:1-R-ARGM-LOC 71:1-ARG1 73:1-ARG2
+cnn_0005.parse 72 78 predicted make-v make.14 ----- 78:0-rel  74:1-ARG0 76:0-ARGM-MOD 77:0-ARGM-NEG 79:1-ARG1
+cnn_0005.parse 73 2 predicted be-v be.02 ----- 2:0-rel  3:1-ARG1
+cnn_0005.parse 73 8 predicted know-v know.01 ----- 8:0-rel  6:1-ARG0 7:1-ARGM-EXT
+cnn_0005.parse 73 12 predicted emerge-v emerge.01 ----- 12:0-rel  10:1-ARG0 13:1-ARGM-LOC
+cnn_0005.parse 74 2 predicted suggest-v suggest.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0005.parse 75 5 predicted insist-v insist.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+cnn_0005.parse 75 7 predicted be-v be.02 ----- 7:0-rel  8:1-ARG1
+cnn_0005.parse 76 6 predicted have-v have.03 ----- 6:0-rel  5:1-ARG0
+cnn_0005.parse 77 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0005.parse 78 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1
+cnn_0005.parse 78 8 predicted mismanage-v mismanage.- ----- 8:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:2-ARGM-MNR
+cnn_0005.parse 79 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-TMP 4:1-ARG2
+cnn_0005.parse 80 3 predicted die-v die.01 ----- 3:0-rel  0:1-ARG1
+cnn_0005.parse 81 3 predicted be-v be.02 ----- 3:0-rel  0:0-ARGM-DIS 2:1-ARGM-ADV 4:2-ARG1
+cnn_0005.parse 82 1 predicted be-v be.02 ----- 1:0-rel  2:0-ARGM-NEG
+cnn_0005.parse 82 9 predicted agree-v agree.01 ----- 9:0-rel  3:2-ARG0 8:1-R-ARG0 10:1-ARG2
+cnn_0005.parse 82 21 predicted be-v be.02 ----- 21:0-rel  22:2-ARG1
+cnn_0005.parse 84 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 84 6 predicted testify-v testify.01 ----- 6:0-rel  5:1-ARG0 7:1-ARGM-LOC 10:1-ARGM-TMP
+cnn_0005.parse 84 16 predicted take-v take.11 ----- 16:0-rel  15:1-ARG0 17:1-ARG1
+cnn_0005.parse 84 26 predicted get-v get.01 ----- 26:0-rel  23:1-ARG0 27:1-ARG1
+cnn_0005.parse 86 2 predicted make-v make.04 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0005.parse 87 4 predicted win-v win.01 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG
+cnn_0005.parse 88 9 predicted develop-v develop.02 ----- 9:0-rel  6:1-ARG1
+cnn_0005.parse 88 15 predicted take-v take.14 ----- 15:0-rel  11:1-ARG0 14:0-ARGM-MOD 16:1-ARG2
+cnn_0005.parse 88 19 predicted be-v be.01 ----- 19:0-rel  11:1-ARG1 14:0-ARGM-MOD 18:1-ARGM-ADV
+cnn_0005.parse 89 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0005.parse 89 6 predicted fight-v fight.01 ----- 6:0-rel  4:1-ARG0 7:1-ARG1
+cnn_0005.parse 90 2 predicted be-v be.02 ----- 2:0-rel  0:1-ARGM-DIS 3:2-ARG1
+cnn_0005.parse 90 11 predicted fight-v fight.01 ----- 11:0-rel  9:1-ARG0 12:1-ARG1
+cnn_0005.parse 91 3 predicted fight-v fight.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0
+cnn_0005.parse 92 3 predicted give-v give.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 6:1-ARGM-PRP
+cnn_0005.parse 93 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+cnn_0005.parse 94 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 96 3 predicted need-v need.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+cnn_0005.parse 96 6 predicted hit-v hit.01 ----- 6:0-rel  1:1-ARG0 5:0-ARGM-NEG 7:1-ARG1
+cnn_0005.parse 97 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 97 3 predicted get-v get.05 ----- 3:0-rel  0:1-ARG1 5:1-ARGM-TMP
+cnn_0005.parse 98 3 predicted be-v be.02 ----- 3:0-rel  0:2-ARG1
+cnn_0005.parse 99 4 predicted hear-v hear.01 ----- 4:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:1-ARG1
+cnn_0005.parse 100 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0005.parse 101 2 predicted got-v got.- ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+cnn_0005.parse 101 4 predicted understand-v understand.01 ----- 4:0-rel  1:1-ARG0 5:3-ARG1
+cnn_0005.parse 101 7 predicted commit-v commit.01 ----- 7:0-rel  8:1-ARG1
+cnn_0005.parse 102 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+cnn_0005.parse 102 4 predicted support-v support.01 ----- 4:0-rel  2:1-ARG0 3:1-R-ARG0 5:1-ARG1
+cnn_0005.parse 103 2 predicted move-v move.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG1 3:1-ARGM-DIR
+cnn_0005.parse 103 8 predicted go-v go.01 ----- 8:0-rel  0:2-ARGM-TMP 6:1-ARG1 9:1-ARGM-DIR
+cnn_0005.parse 104 1 predicted go-v go.01 ----- 1:0-rel  0:1-ARG1
+cnn_0005.parse 105 3 predicted be-v be.02 ----- 3:0-rel  0:1-ARGM-DIS 4:1-ARGM-ADV
+cnn_0005.parse 105 25 predicted be-v be.01 ----- 25:0-rel  22:1-R-ARG1 26:1-ARG2
+cnn_0005.parse 106 3 predicted beat-v beat.03 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1
+cnn_0005.parse 107 2 predicted cause-v cause.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0005.parse 108 4 predicted go-v go.02 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-NEG 3:1-ARGM-ADV 5:1-ARG1
+cnn_0005.parse 109 1 predicted go-v go.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 110 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 110 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+cnn_0005.parse 110 11 predicted see-v see.01 ----- 11:0-rel  8:1-ARG0 10:1-ARGM-TMP
+cnn_0005.parse 111 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG2
+cnn_0005.parse 112 3 predicted win-v win.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG
+cnn_0005.parse 113 2 predicted rank-v rank.01 ----- 2:0-rel  3:0-ARG1
+cnn_0005.parse 114 1 predicted come-v come.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-DIR
+cnn_0005.parse 114 3 predicted give-v give.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIR 4:1-ARG1 6:1-ARGM-LOC 8:1-ARGM-TMP
+cnn_0005.parse 115 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG3
+cnn_0005.parse 115 12 predicted train-v train.01 ----- 12:0-rel  10:1-ARG0
+cnn_0005.parse 115 19 predicted be-v be.01 ----- 19:0-rel  13:3-ARG1 17:1-ARGM-TMP 20:1-ARG2
+cnn_0005.parse 115 23 predicted go-v go.17 ----- 23:0-rel  24:1-ARGM-DIR
+cnn_0005.parse 115 26 predicted be-v be.01 ----- 26:0-rel  27:2-ARG2
+cnn_0005.parse 115 28 predicted test-v test.01 ----- 28:0-rel  27:0-ARG1
+cnn_0005.parse 117 3 predicted show-v show.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG2 4:1-ARG1
+cnn_0005.parse 118 4 predicted look-v look.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:1-ARGM-TMP 5:1-ARG1 8:1-ARGM-MNR
+cnn_0005.parse 119 3 predicted say-v say.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+cnn_0005.parse 119 7 predicted be-v be.01 ----- 7:0-rel  5:1-ARG1
+cnn_0005.parse 120 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARGM-ADV
+cnn_0005.parse 120 14 predicted do-v do.02 ----- 14:0-rel  8:1-ARG1 9:1-ARG0
+cnn_0005.parse 121 5 predicted be-v be.02 ----- 5:0-rel  0:1-ARGM-LOC 6:2-ARG1
+cnn_0005.parse 121 10 predicted fight-v fight.01 ----- 10:0-rel  6:1-ARG0 8:1-R-ARG0 11:1-ARGM-LOC
+cnn_0005.parse 122 1 predicted be-v be.01 ----- 1:0-rel  2:2-ARG1
+cnn_0005.parse 122 6 predicted fight-v fight.01 ----- 6:0-rel  2:1-ARG0 4:1-R-ARG0 8:1-ARGM-LOC
+cnn_0005.parse 123 3 predicted grow-v grow.01 ----- 3:0-rel  4:0-ARG1
+cnn_0005.parse 124 4 predicted underestimate-v underestimate.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+cnn_0005.parse 125 9 predicted stand-v stand.04 ----- 9:0-rel  4:1-ARG1 10:1-ARG2 11:1-ARGM-TMP
+cnn_0005.parse 126 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD
+cnn_0005.parse 127 9 predicted include-v include.01 ----- 9:0-rel  10:2-ARG1
+cnn_0005.parse 128 3 predicted hear-v hear.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 2:0-ARGM-MOD
+cnn_0005.parse 128 11 predicted question-v question.01 ----- 11:0-rel  5:1-ARG0 9:1-R-ARG0
+cnn_0005.parse 129 5 predicted talk-v talk.01 ----- 5:0-rel  0:0-ARGM-DIS 1:2-ARG0 6:1-ARG1
+cnn_0005.parse 129 17 predicted mean-v mean.01 ----- 17:0-rel  14:1-ARG1 15:1-ARG0 16:0-ARGM-MOD
+cnn_0005.parse 130 2 predicted continue-v continue.01 ----- 2:0-rel  0:1-ARG1 3:2-ARGM-TMP
+cnn_0005.parse 131 6 predicted ask-v ask.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1
+cnn_0005.parse 131 11 predicted set-v set.02 ----- 11:0-rel  8:0-ARGM-MOD 9:1-ARG0 12:2-ARG1
+cnn_0005.parse 131 15 predicted withdraw-v withdraw.01 ----- 15:0-rel  16:1-ARG1 17:1-ARG2
+cnn_0005.parse 132 2 predicted cast-v cast.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0005.parse 134 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0005.parse 136 2 predicted talk-v talk.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0005.parse 136 4 predicted train-v train.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG2
+cnn_0005.parse 137 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-TMP 1:0-ARGM-MOD 2:1-ARG1 4:1-ARG2
+cnn_0005.parse 137 6 predicted move-v move.01 ----- 6:0-rel  2:1-ARG1 7:1-ARGM-DIR 8:1-ARGM-MNR
+cnn_0005.parse 138 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARG0
+cnn_0005.parse 140 1 predicted return-v return.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP 3:1-ARG4
+cnn_0005.parse 141 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 141 6 predicted write-v write.01 ----- 6:0-rel  2:1-ARG1 3:1-ARG0 7:1-ARGM-ADV
+cnn_0005.parse 142 2 predicted train-v train.01 ----- 2:0-rel  0:1-ARGM-ADV 1:1-ARGM-MNR
+cnn_0005.parse 142 4 predicted equip-v equip.01 ----- 4:0-rel  0:1-ARG1 1:1-ARGM-MNR
+cnn_0005.parse 142 7 predicted lead-v lead.02 ----- 7:0-rel  0:2-ARG0 5:1-ARGM-TMP 6:0-ARGM-MNR
+cnn_0005.parse 143 5 predicted operate-v operate.01 ----- 5:0-rel  0:1-ARG1 3:0-ARGM-MOD 4:0-ARGM-NEG 6:1-ARGM-MNR
+cnn_0005.parse 144 5 predicted be-v be.02 ----- 5:0-rel  0:1-ARGM-LOC 6:1-ARG1
+cnn_0005.parse 145 2 predicted billet-v billet.- ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0005.parse 145 8 predicted fence-v fence.- ----- 8:0-rel  0:2-ARG1 10:1-ARG2 13:1-ARGM-PRP
+cnn_0005.parse 146 3 predicted exist-v exist.01 ----- 3:0-rel  0:1-ARG1 2:1-R-ARG1 4:1-ARGM-LOC
+cnn_0005.parse 146 10 predicted be-v be.01 ----- 10:0-rel  0:2-ARG1 11:1-ARGM-ADV
+cnn_0005.parse 146 23 predicted indicate-v indicate.01 ----- 23:0-rel  19:1-ARG0 21:1-ARGM-DIS 22:0-ARGM-MOD
+cnn_0005.parse 147 3 predicted agree-v agree.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+cnn_0005.parse 147 7 predicted say-v say.01 ----- 7:0-rel  5:1-ARG1 6:1-ARG0
+cnn_0005.parse 148 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 148 3 predicted be-v be.02 ----- 3:0-rel  4:1-ARG1
+cnn_0005.parse 149 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+cnn_0005.parse 150 4 predicted die-v die.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:1-ARGM-CAU
+cnn_0005.parse 150 9 predicted fight-v fight.01 ----- 9:0-rel  6:1-ARG0 10:1-ARG2
+cnn_0005.parse 151 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 151 6 predicted got-v got.- ----- 6:0-rel  4:1-ARG0 7:2-ARG1
+cnn_0005.parse 151 8 predicted understand-v understand.01 ----- 8:0-rel  4:1-ARG0
+cnn_0005.parse 152 3 predicted respect-v respect.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 5:1-ARG2
+cnn_0005.parse 152 6 predicted fight-v fight.01 ----- 6:0-rel  7:2-ARGM-MNR
+cnn_0005.parse 152 12 predicted fight-v fight.01 ----- 12:0-rel  7:1-ARGM-MNR 9:1-R-ARGM-MNR 10:1-ARG0
+cnn_0005.parse 153 1 predicted look-v look.01 ----- 1:0-rel  0:1-ARGM-ADV
+cnn_0005.parse 153 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG2 4:1-ARG1 6:1-ARG2
+cnn_0005.parse 153 19 predicted think-v think.01 ----- 19:0-rel  18:1-ARG0 20:1-ARG1
+cnn_0005.parse 154 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 154 5 predicted get-v get.05 ----- 5:0-rel  6:1-ARG1 8:1-ARG2
+cnn_0005.parse 154 10 predicted win-v win.01 ----- 10:0-rel  11:1-ARG3
+cnn_0005.parse 155 3 predicted do-v do.01 ----- 3:0-rel  1:1-ARGM-ADV 2:1-ARG0
+cnn_0005.parse 156 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+cnn_0005.parse 156 7 predicted happen-v happen.01 ----- 7:0-rel  3:1-ARG1 8:1-ARG2
+cnn_0005.parse 157 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 158 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 159 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 159 5 predicted give-v give.01 ----- 5:0-rel  2:1-ARG1 3:1-ARG0 6:1-ARG2
+cnn_0005.parse 160 5 predicted have-v have.03 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+cnn_0005.parse 160 9 predicted suggest-v suggest.01 ----- 9:0-rel  10:1-ARG1
+cnn_0005.parse 160 13 predicted emerge-v emerge.01 ----- 13:0-rel  14:2-ARG0
+cnn_0005.parse 162 7 predicted characterize-v characterize.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1 9:1-ARG2
+cnn_0005.parse 163 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0005.parse 163 10 predicted look-v look.01 ----- 10:0-rel  4:2-ARG0 11:1-ARG1
+cnn_0005.parse 163 20 predicted talk-v talk.01 ----- 20:0-rel  4:2-ARG0 14:2-ARG0
+cnn_0005.parse 163 25 predicted ensure-v ensure.01 ----- 25:0-rel  26:1-ARG1
+cnn_0005.parse 163 31 predicted become-v become.01 ----- 31:0-rel  27:1-ARG1 32:2-ARG2
+cnn_0005.parse 164 3 predicted know-v know.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 4:1-ARG1
+cnn_0005.parse 164 11 predicted be-v be.01 ----- 11:0-rel  5:2-ARG1 12:1-ARG2
+cnn_0005.parse 165 1 predicted make-v make.04 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:2-ARG2
+cnn_0005.parse 165 4 predicted talk-v talk.01 ----- 4:0-rel  5:1-ARG2
+cnn_0005.parse 166 3 predicted go-v go.04 ----- 3:0-rel  2:0-ARGM-NEG
+cnn_0005.parse 166 5 predicted compromise-v compromise.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG2
+cnn_0005.parse 167 3 predicted look-v look.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD
+cnn_0005.parse 167 11 predicted bring-v bring.01 ----- 11:0-rel  9:1-ARGM-MNR 12:1-ARG1 16:1-ARG2
+cnn_0005.parse 168 3 predicted do-v do.02 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+cnn_0005.parse 168 7 predicted participate-v participate.01 ----- 7:0-rel  6:1-ARG0 8:1-ARGM-MNR
+cnn_0005.parse 168 13 predicted think-v think.01 ----- 13:0-rel  0:0-ARGM-DIS 1:2-ARGM-TMP 12:1-ARG0 14:3-ARG1
+cnn_0005.parse 168 17 predicted start-v start.01 ----- 17:0-rel  14:1-ARG1 15:0-ARGM-MOD 16:1-ARGM-ADV
+cnn_0005.parse 168 18 predicted move-v move.01 ----- 18:0-rel  14:1-ARG1 19:1-ARGM-DIR
+cnn_0005.parse 169 1 predicted sense-v sense.01 ----- 1:0-rel  0:1-ARG0 13:1-ARGM-TMP 17:1-ARGM-TMP
+cnn_0005.parse 171 2 predicted have-v have.03 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+cnn_0005.parse 171 7 predicted be-v be.01 ----- 7:0-rel  5:1-ARG2 6:1-ARG1
+cnn_0005.parse 172 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+cnn_0005.parse 172 7 predicted operate-v operate.01 ----- 7:0-rel  3:1-ARGM-LOC 5:1-R-ARGM-LOC 6:1-ARG0
+cnn_0005.parse 173 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 173 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARG2 3:1-ARG1
+cnn_0005.parse 174 1 predicted put-v put.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1 6:1-ARG2
+cnn_0005.parse 175 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0005.parse 175 11 predicted work-v work.01 ----- 11:0-rel  0:1-ARG0 12:1-ARG1
+cnn_0005.parse 176 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0005.parse 177 2 predicted give-v give.01 ----- 2:0-rel  0:0-ARGM-MOD 1:1-ARG0 3:1-ARG2 4:2-ARG1
+cnn_0005.parse 177 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARG2 8:1-ARG1 9:0-ARGM-MOD 11:2-ARG2
+cnn_0005.parse 178 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+cnn_0005.parse 178 6 predicted serve-v serve.02 ----- 6:0-rel  4:1-ARG1 5:1-ARGM-TMP
+cnn_0005.parse 178 13 predicted tell-v tell.01 ----- 13:0-rel  9:1-ARGM-TMP 10:1-ARG0 14:1-ARG2
+cnn_0005.parse 178 25 predicted be-v be.01 ----- 25:0-rel  20:1-ARG2 21:1-ARG1 24:0-ARGM-MOD
+cnn_0005.parse 179 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 179 4 predicted have-v have.03 ----- 4:0-rel  2:1-ARGM-DIS 3:1-ARG0 5:1-ARG1
+cnn_0005.parse 180 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 180 5 predicted do-v do.02 ----- 5:0-rel  2:1-ARG1 3:1-ARG0 6:1-ARGM-ADV
+cnn_0005.parse 180 12 predicted get-v get.01 ----- 12:0-rel  10:1-ARGM-MNR 13:1-ARG1
+cnn_0005.parse 181 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 181 4 predicted stress-v stress.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-ADV 5:1-ARG1
+cnn_0005.parse 181 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:0-ARGM-NEG 9:2-ARG2
+cnn_0005.parse 181 14 predicted be-v be.01 ----- 14:0-rel  13:1-ARG1 15:1-ARG2
+cnn_0005.parse 182 2 predicted exist-v exist.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0005.parse 183 2 predicted connect-v connect.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG1
+cnn_0005.parse 184 2 predicted got-v got.- ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0005.parse 185 1 predicted bring-v bring.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 186 2 predicted connect-v connect.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG1
+cnn_0005.parse 186 6 predicted happen-v happen.01 ----- 6:0-rel  4:1-ARG1 7:1-ARGM-LOC
+cnn_0005.parse 186 12 predicted happen-v happen.01 ----- 12:0-rel  10:1-ARG1 13:1-ARGM-LOC
+cnn_0005.parse 187 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 187 7 predicted face-v face.01 ----- 7:0-rel  5:0-R-ARG1 6:1-ARG0
+cnn_0005.parse 188 6 predicted need-v need.01 ----- 6:0-rel  0:2-ARG0 7:2-ARG1
+cnn_0005.parse 188 9 predicted take-v take.22 ----- 9:0-rel  0:2-ARG1
+cnn_0005.parse 189 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 189 4 predicted capture-v capture.01 ----- 4:0-rel  0:1-ARG1
+cnn_0005.parse 189 6 predicted kill-v kill.01 ----- 6:0-rel  0:1-ARG1
+cnn_0005.parse 190 3 predicted understand-v understand.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:3-ARG1
+cnn_0005.parse 190 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:2-ARG2
+cnn_0005.parse 191 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0005.parse 191 8 predicted have-v have.02 ----- 8:0-rel  7:0-ARGM-MOD
+cnn_0005.parse 191 10 predicted fight-v fight.01 ----- 10:0-rel  6:1-ARG0 11:1-ARGM-TMP 13:1-ARGM-LOC
+cnn_0005.parse 192 2 predicted agree-v agree.01 ----- 2:0-rel  1:1-ARG0
+cnn_0005.parse 193 4 predicted agree-v agree.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+cnn_0005.parse 194 5 predicted train-v train.01 ----- 5:0-rel  0:1-ARG0
+cnn_0005.parse 194 6 predicted organize-v organize.01 ----- 6:0-rel  0:1-ARG0
+cnn_0005.parse 194 7 predicted operate-v operate.01 ----- 7:0-rel  0:1-ARG0
+cnn_0005.parse 194 9 predicted strike-v strike.01 ----- 9:0-rel  0:1-ARG0
+cnn_0005.parse 194 13 predicted find-v find.01 ----- 13:0-rel  10:1-ARGM-LOC 11:1-ARG0 12:0-ARGM-MOD 14:1-ARG1
+cnn_0005.parse 195 3 predicted fight-v fight.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-LOC
+cnn_0005.parse 196 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG2 4:1-ARG1
+cnn_0005.parse 196 11 predicted decide-v decide.01 ----- 11:0-rel  7:1-ARG0 10:1-R-ARG0 12:2-ARG1
+cnn_0005.parse 196 13 predicted volunteer-v volunteer.01 ----- 13:0-rel  7:1-ARG0 10:1-R-ARG0 14:1-ARG1
+cnn_0005.parse 196 19 predicted come-v come.01 ----- 19:0-rel  18:1-ARG1 20:1-ARG4
+cnn_0005.parse 196 24 predicted be-v be.01 ----- 24:0-rel  22:1-ARG1 25:2-ARG2
+cnn_0005.parse 196 31 predicted come-v come.01 ----- 31:0-rel  28:1-ARG1 29:0-ARGM-MOD 30:1-ARGM-NEG 32:1-ARG4
+cnn_0005.parse 197 8 predicted be-v be.01 ----- 8:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 2:2-ARG1 9:1-ARG2
+cnn_0005.parse 198 6 predicted get-v get.03 ----- 6:0-rel  4:1-ARGM-ADV 5:0-ARGM-MOD 7:1-ARG2
+cnn_0005.parse 198 7 predicted establish-v establish.01 ----- 7:0-rel  0:1-ARGM-LOC 2:1-R-ARGM-LOC 3:1-ARG1 4:1-ARGM-ADV 5:0-ARGM-MOD
+cnn_0005.parse 198 8 predicted be-v be.01 ----- 8:0-rel  0:2-ARG1 9:1-ARG2
+cnn_0005.parse 198 13 predicted ungoverned-v ungoverned.- ----- 13:0-rel  10:1-ARG1 11:1-R-ARG1
+cnn_0005.parse 198 16 predicted be-v be.01 ----- 16:0-rel  14:1-ARG1 15:1-R-ARG1
+cnn_0005.parse 199 12 predicted make-v make.04 ----- 12:0-rel  7:1-ARG0 8:1-ARGM-MNR 13:1-ARG1
+cnn_0005.parse 200 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 201 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 202 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:0-ARGM-NEG 5:1-ARG2
+cnn_0005.parse 203 4 predicted reconsider-v reconsider.01 ----- 4:0-rel  2:1-ARGM-TMP
+cnn_0005.parse 203 15 predicted happen-v happen.01 ----- 15:0-rel  14:1-ARG1 16:1-ARGM-TMP
+cnn_0005.parse 204 3 predicted die-v die.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+cnn_0005.parse 204 7 predicted injure-v injure.01 ----- 7:0-rel  0:2-ARG1
+cnn_0005.parse 204 9 predicted believe-v believe.01 ----- 9:0-rel  8:1-ARG0 10:1-ARG1
+cnn_0005.parse 205 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:2-ARG2
+cnn_0005.parse 205 6 predicted reconsider-v reconsider.01 ----- 6:0-rel  4:1-ARGM-TMP
+cnn_0005.parse 206 7 predicted exist-v exist.01 ----- 7:0-rel  4:1-ARG1 6:1-R-ARG1 8:1-ARGM-TMP
+cnn_0005.parse 206 15 predicted concern-v concern.02 ----- 15:0-rel  13:1-ARG1
+cnn_0005.parse 207 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cnn_0005.parse 207 9 predicted be-v be.01 ----- 9:0-rel  6:1-ARG1 8:1-ARGM-TMP
+cnn_0005.parse 208 2 predicted make-v make.07 ----- 2:0-rel  0:1-ARG1
+cnn_0005.parse 208 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1
+cnn_0005.parse 209 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 209 4 predicted fight-v fight.01 ----- 4:0-rel  2:1-ARGM-MNR 3:1-ARG0
+cnn_0005.parse 210 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 210 4 predicted do-v do.02 ----- 4:0-rel  2:1-ARGM-MNR 3:1-ARG0 5:1-ARG1
+cnn_0005.parse 211 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 211 3 predicted keep-v keep.02 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0005.parse 211 8 predicted be-v be.01 ----- 8:0-rel  5:1-ARG2 7:1-ARG1
+cnn_0005.parse 212 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+cnn_0005.parse 213 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARG0 5:1-ARGM-TMP 7:3-ARG1
+cnn_0005.parse 213 8 predicted have-v have.03 ----- 8:0-rel  7:1-ARG0 9:2-ARG1
+cnn_0005.parse 213 16 predicted be-v be.01 ----- 16:0-rel  12:1-ARG2 13:1-ARG1
+cnn_0005.parse 215 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 215 13 predicted operate-v operate.01 ----- 13:0-rel  6:1-ARGM-LOC 7:1-ARG0 14:1-ARGM-LOC
+cnn_0005.parse 216 3 predicted say-v say.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:3-ARG1
+cnn_0005.parse 216 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:2-ARG2
+cnn_0005.parse 216 11 predicted be-v be.01 ----- 11:0-rel  9:1-ARG1 10:0-ARGM-MOD 12:1-ARG2
+cnn_0005.parse 216 14 predicted do-v do.02 ----- 14:0-rel  9:1-ARG0 15:1-ARG1
+cnn_0005.parse 216 16 predicted answer-v answer.01 ----- 16:0-rel  17:1-ARG1
+cnn_0005.parse 217 1 predicted hear-v hear.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 218 5 predicted play-v play.01 ----- 5:0-rel  1:1-ARG0 6:1-ARGM-ADV
+cnn_0005.parse 218 10 predicted think-v think.01 ----- 10:0-rel  9:1-ARG0
+cnn_0005.parse 218 13 predicted be-v be.01 ----- 13:0-rel  11:0-ARGM-MOD 14:2-ARG1
+cnn_0005.parse 218 19 predicted hear-v hear.01 ----- 19:0-rel  14:1-ARG1 18:1-ARG0 20:1-ARG2
+cnn_0005.parse 220 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 4:1-ARG2
+cnn_0005.parse 220 7 predicted ask-v ask.01 ----- 7:0-rel  0:2-ARGM-TMP 8:1-ARG2 9:1-ARG1
+cnn_0005.parse 220 16 predicted got-v got.- ----- 16:0-rel  14:1-ARG0 17:2-ARG1
+cnn_0005.parse 220 25 predicted worry-v worry.01 ----- 25:0-rel  24:1-ARG0 26:1-ARG1
+cnn_0005.parse 221 3 predicted start-v start.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+cnn_0005.parse 221 5 predicted do-v do.02 ----- 5:0-rel  1:1-ARG0 6:1-ARG1
+cnn_0005.parse 222 3 predicted mean-v mean.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0 4:1-ARGM-ADV
+cnn_0005.parse 223 3 predicted need-v need.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+cnn_0005.parse 223 5 predicted fight-v fight.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+cnn_0005.parse 223 8 predicted look-v look.01 ----- 8:0-rel  9:1-ARGM-DIR
+cnn_0005.parse 224 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 224 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG0
+cnn_0005.parse 224 6 predicted got-v got.- ----- 6:0-rel  4:1-ARG0 7:2-ARG1
+cnn_0005.parse 225 2 predicted fight-v fight.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-MNR 4:2-ARGM-TMP
+cnn_0005.parse 225 6 predicted know-v know.01 ----- 6:0-rel  4:1-ARGM-TMP 5:1-ARG0
+cnn_0005.parse 225 11 predicted be-v be.01 ----- 11:0-rel  7:2-ARG1 12:1-ARG2
+cnn_0005.parse 226 2 predicted fight-v fight.01 ----- 2:0-rel  0:1-ARG0
+cnn_0005.parse 226 21 predicted face-v face.01 ----- 21:0-rel  11:1-ARG1 17:1-ARG0 20:1-ARGM-TMP
+cnn_0005.parse 227 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 227 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0005.parse 227 7 predicted be-v be.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+cnn_0005.parse 228 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 228 6 predicted support-v support.01 ----- 6:0-rel  2:1-ARG0 5:1-ARGM-MNR 7:1-ARG1
+cnn_0005.parse 229 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+cnn_0005.parse 230 9 predicted show-v show.01 ----- 9:0-rel  0:1-ARG0 8:1-ARGM-DIS 10:1-ARG1
+cnn_0005.parse 230 14 predicted go-v go.01 ----- 14:0-rel  11:1-ARG1
+cnn_0005.parse 230 25 predicted compare-v compare.01 ----- 25:0-rel  21:2-ARG1 26:1-ARG2
+cnn_0005.parse 230 35 predicted be-v be.01 ----- 35:0-rel  32:1-ARG1 36:1-ARG2
+cnn_0005.parse 231 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 231 6 predicted assume-v assume.02 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+cnn_0005.parse 232 5 predicted tell-v tell.01 ----- 5:0-rel  0:1-ARG1 3:1-ARG0 4:0-ARGM-MOD 6:1-ARG2 7:1-ARGM-DIS
+cnn_0005.parse 232 8 predicted be-v be.01 ----- 8:0-rel  0:2-ARG1 9:2-ARG2
+cnn_0005.parse 232 11 predicted go-v go.02 ----- 11:0-rel  9:1-ARGM-TMP 10:1-ARG0 12:1-ARG1
+cnn_0005.parse 232 17 predicted be-v be.01 ----- 17:0-rel  15:1-ARG1 18:1-ARG2
+cnn_0005.parse 232 27 predicted make-v make.18 ----- 27:0-rel  25:1-ARG0 28:1-ARG1
+cnn_0005.parse 232 33 predicted happen-v happen.02 ----- 33:0-rel  32:1-ARG1 34:2-C-ARG1
+cnn_0005.parse 232 36 predicted operate-v operate.01 ----- 36:0-rel  32:1-ARG0 37:1-ARGM-LOC 40:1-ARG1
+cnn_0005.parse 232 44 predicted find-v find.01 ----- 44:0-rel  42:1-ARGM-LOC 43:1-ARG0 45:1-ARG1
+cnn_0005.parse 232 49 predicted understand-v understand.01 ----- 49:0-rel  47:2-ARG0 50:3-ARG1
+cnn_0005.parse 232 54 predicted take-v take.01 ----- 54:0-rel  50:1-ARG0 55:1-ARG1
+cnn_0005.parse 233 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+cnn_0005.parse 234 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 235 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 235 4 predicted understand-v understand.01 ----- 4:0-rel  2:1-ARG0
+cnn_0005.parse 235 7 predicted take-v take.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1
+cnn_0005.parse 235 14 predicted prevail-v prevail.01 ----- 14:0-rel  11:1-ARGM-TMP 12:1-ARG0 13:0-ARGM-MOD
+cnn_0005.parse 237 7 predicted have-v have.03 ----- 7:0-rel  3:2-ARG0 8:1-ARG1
+cnn_0005.parse 238 4 predicted elect-v elect.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG1 5:1-ARG2
+cnn_0005.parse 238 9 predicted consider-v consider.01 ----- 9:0-rel  0:1-ARGM-DIS 1:2-ARG1 7:1-ARG0 10:2-ARG2
+cnn_0005.parse 239 10 predicted mean-v mean.01 ----- 10:0-rel  0:2-ARG1 9:1-ARG0 11:1-ARGM-ADV
+cnn_0005.parse 240 8 predicted be-v be.01 ----- 8:0-rel  9:1-ARG2
+cnn_0005.parse 240 11 predicted talk-v talk.01 ----- 11:0-rel  12:1-ARG1
+cnn_0005.parse 240 15 predicted elect-v elect.01 ----- 15:0-rel  14:0-ARGM-TMP 16:0-ARG2
+cnn_0005.parse 241 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+cnn_0005.parse 242 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 243 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 243 3 predicted have-v have.04 ----- 3:0-rel  0:1-ARG0
+cnn_0005.parse 243 5 predicted work-v work.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+cnn_0005.parse 244 12 predicted continue-v continue.01 ----- 12:0-rel  10:1-ARG0 11:0-ARGM-MOD 13:2-ARG1
+cnn_0005.parse 244 14 predicted do-v do.02 ----- 14:0-rel  10:1-ARG0 15:1-ARG1
+cnn_0005.parse 245 5 predicted join-v join.04 ----- 5:0-rel  6:1-ARG1
+cnn_0005.parse 247 4 predicted say-v say.01 ----- 4:0-rel  1:1-ARG0 2:0-ARGM-MOD 3:1-ARGM-ADV 5:1-ARG1
+cnn_0005.parse 247 18 predicted mind-v mind.01 ----- 18:0-rel  15:1-ARG0 16:0-ARGM-MOD 17:0-ARGM-NEG 19:2-ARG1
+cnn_0005.parse 247 20 predicted say-v say.01 ----- 20:0-rel  19:1-ARG0 21:1-ARG1
+cnn_0005.parse 247 27 predicted ask-v ask.02 ----- 27:0-rel  0:1-ARGM-ADV 14:1-ARGM-ADV 23:1-ARG0 24:0-ARGM-MOD 25:1-ARGM-ADV 26:1-ARGM-ADV 28:1-ARG2 29:1-ARG1
+cnn_0005.parse 247 32 predicted gather-v gather.01 ----- 32:0-rel  30:1-ARG1 33:1-ARGM-MNR 37:2-ARGM-PRP
+cnn_0005.parse 247 38 predicted remember-v remember.01 ----- 38:0-rel  30:1-ARG0
+cnn_0005.parse 248 5 predicted do-v do.02 ----- 5:0-rel  0:1-ARGM-DIS 1:1-ARG0 6:1-ARG1
+cnn_0005.parse 249 9 predicted put-v put.01 ----- 9:0-rel  3:1-ARG1 6:1-ARG0 8:1-ARGM-TMP 10:1-ARG2
+cnn_0005.parse 250 4 predicted testify-v testify.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1
+cnn_0005.parse 252 2 predicted see-v see.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-MNR
+cnn_0005.parse 252 8 predicted do-v do.02 ----- 8:0-rel  5:1-ARG1 6:1-ARG0
+cnn_0005.parse 255 5 predicted get-v get.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 4:0-ARGM-MOD
+cnn_0005.parse 255 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:1-ARG2 15:1-ARGM-TMP
+cnn_0005.parse 256 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARGM-DIS 2:1-ARG1
+cnn_0005.parse 256 8 predicted leave-v leave.01 ----- 8:0-rel  5:1-ARG0 9:1-ARG1
+cnn_0005.parse 257 2 predicted ask-v ask.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:3-ARG2
+cnn_0005.parse 258 2 predicted stand-v stand.05 ----- 2:0-rel  0:1-ARG1
+cnn_0005.parse 259 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2
+cnn_0005.parse 261 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+cnn_0005.parse 261 9 predicted need-v need.01 ----- 9:0-rel  6:1-ARG0 8:0-ARGM-NEG 10:2-ARG1
+cnn_0005.parse 261 14 predicted help-v help.01 ----- 14:0-rel  10:1-ARG0 15:2-ARG1
+cnn_0005.parse 262 2 predicted vow-v vow.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+cnn_0005.parse 262 4 predicted pursue-v pursue.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0005.parse 262 10 predicted say-v say.01 ----- 10:0-rel  0:1-ARG0 1:1-ARGM-ADV 11:3-ARG1
+cnn_0005.parse 262 15 predicted be-v be.01 ----- 15:0-rel  11:1-ARG1 13:0-ARGM-MOD 14:0-ARGM-NEG 16:1-ARG2
+cnn_0005.parse 263 3 predicted criticize-v criticize.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1 8:1-ARG2
+cnn_0005.parse 264 2 predicted hold-v hold.04 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0005.parse 264 11 predicted be-v be.01 ----- 11:0-rel  0:2-ARG1
+cnn_0005.parse 265 3 predicted decide-v decide.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0005.parse 265 7 predicted continue-v continue.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:2-ARG1
+cnn_0005.parse 265 9 predicted detain-v detain.01 ----- 9:0-rel  5:1-ARG0 10:1-ARG1 11:1-ARGM-TMP
+cnn_0005.parse 267 5 predicted click-v click.- ----- 5:0-rel  6:1-ARGM-LOC
+cnn_0005.parse 267 11 predicted browse-v browse.- ----- 11:0-rel  12:1-ARG1
+cnn_0005.parse 267 16 predicted want-v want.01 ----- 16:0-rel  15:1-ARG0 17:2-ARG1
+cnn_0005.parse 267 18 predicted see-v see.01 ----- 18:0-rel  15:1-ARG0
+cnn_0005.parse 268 3 predicted want-v want.01 ----- 3:0-rel  1:1-ARG1 2:1-ARG0
+cnn_0005.parse 268 6 predicted want-v want.01 ----- 6:0-rel  4:1-ARGM-TMP 5:1-ARG0
+cnn_0005.parse 271 2 predicted return-v return.03 ----- 2:0-rel  0:1-ARG1 3:2-ARGM-TMP
+cnn_0005.parse 275 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+cnn_0005.parse 276 2 predicted welcome-v welcome.01 ----- 2:0-rel  0:1-ARGM-DIS 3:1-ARGM-DIR 4:1-ARG2
+cnn_0005.parse 277 2 predicted be-v be.01 ----- 2:0-rel  3:1-ARG2
+cnn_0005.parse 278 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV
+cnn_0005.parse 278 5 predicted say-v say.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG1
+cnn_0005.parse 278 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARG1 11:1-ARGM-TMP
+cnn_0005.parse 278 15 predicted say-v say.01 ----- 15:0-rel  13:1-ARG1 14:1-ARG0 16:1-ARGM-DIS
+cnn_0005.parse 279 3 predicted deal-v deal.01 ----- 3:0-rel  4:1-ARG1
+cnn_0005.parse 279 10 predicted be-v be.02 ----- 10:0-rel  0:2-ARGM-ADV 11:3-ARG1
+cnn_0005.parse 280 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 4:0-ARGM-MOD 6:2-ARGM-DIS
+cnn_0005.parse 281 1 predicted sound-v sound.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 283 2 predicted hope-v hope.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+cnn_0005.parse 283 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+cnn_0005.parse 284 2 predicted testify-v testify.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARGM-LOC
+cnn_0005.parse 284 10 predicted sound-v sound.01 ----- 10:0-rel  0:2-ARGM-TMP 7:1-ARG1 9:0-ARGM-NEG 11:1-ARG2
+cnn_0005.parse 285 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 285 7 predicted decline-v decline.01 ----- 7:0-rel  3:1-ARG1 6:0-ARGM-NEG
+cnn_0005.parse 286 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+cnn_0005.parse 286 5 predicted be-v be.02 ----- 5:0-rel  6:3-ARG1
+cnn_0005.parse 286 11 predicted come-v come.01 ----- 11:0-rel  6:2-ARG1 12:1-ARGM-DIR 17:2-ARGM-PRP
+cnn_0005.parse 287 4 predicted sound-v sound.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 5:1-ARG2 7:1-ARG3
+cnn_0005.parse 288 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:2-ARG2
+cnn_0005.parse 288 9 predicted think-v think.01 ----- 9:0-rel  8:1-ARG0 10:3-ARG1
+cnn_0005.parse 288 13 predicted say-v say.01 ----- 13:0-rel  10:1-ARG0 14:3-ARG1
+cnn_0005.parse 288 14 predicted be-v be.01 ----- 14:0-rel  15:1-ARG2
+cnn_0005.parse 289 6 predicted be-v be.01 ----- 6:0-rel  0:0-ARGM-DIS 1:2-ARG1
+cnn_0005.parse 289 10 predicted work-v work.01 ----- 10:0-rel  0:0-ARGM-DIS 1:2-ARG0 9:0-ARGM-NEG
+cnn_0005.parse 290 3 predicted got-v got.- ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+cnn_0005.parse 290 5 predicted change-v change.01 ----- 5:0-rel  1:1-ARG0 6:1-ARG1
+cnn_0005.parse 291 5 predicted know-v know.01 ----- 5:0-rel  4:1-ARG0
+cnn_0005.parse 291 12 predicted have-v have.03 ----- 12:0-rel  0:1-ARG0 2:1-ARGM-ADV 13:1-ARG1
+cnn_0005.parse 292 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 292 4 predicted listen-v listen.01 ----- 4:0-rel  2:1-ARG0
+cnn_0005.parse 292 8 predicted say-v say.01 ----- 8:0-rel  6:1-ARG1 7:1-ARG0 9:2-ARGM-TMP
+cnn_0005.parse 292 16 predicted tell-v tell.01 ----- 16:0-rel  14:1-ARG1 15:1-ARG0 17:1-ARG2
+cnn_0005.parse 292 22 predicted tell-v tell.01 ----- 22:0-rel  20:1-ARG1 21:1-ARG0 23:1-ARG2 24:1-ARGM-TMP
+cnn_0005.parse 294 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 296 2 predicted look-v look.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cnn_0005.parse 296 7 predicted say-v say.01 ----- 7:0-rel  4:1-ARG1 5:1-ARG0 8:1-ARG3
+cnn_0005.parse 296 13 predicted be-v be.01 ----- 13:0-rel  0:1-ARGM-ADV 10:1-ARG1 11:0-ARGM-MOD 12:1-ARGM-TMP 14:2-ARG2
+cnn_0005.parse 296 16 predicted know-v know.01 ----- 16:0-rel  15:1-ARG0
+cnn_0005.parse 297 6 predicted back-v back.02 ----- 6:0-rel  0:1-ARG1
+cnn_0005.parse 299 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2
+cnn_0005.parse 300 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG1 5:1-ARG2
+cnn_0005.parse 300 12 predicted be-v be.01 ----- 12:0-rel  6:2-ARG1 13:1-ARG2
+cnn_0005.parse 300 15 predicted colour-v colour.- ----- 15:0-rel  16:0-ARG1
+cnn_0005.parse 301 3 predicted go-v go.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-DIR
+cnn_0005.parse 302 3 predicted rely-v rely.01 ----- 3:0-rel  1:1-ARGM-TMP 2:1-ARG0 4:1-ARG1 7:2-ARG2
+cnn_0005.parse 302 8 predicted define-v define.01 ----- 8:0-rel  9:2-ARG1
+cnn_0005.parse 302 14 predicted leave-v leave.03 ----- 14:0-rel  0:1-ARGM-DIS 1:2-ARGM-TMP 12:1-ARG0 16:1-ARG1
+cnn_0005.parse 302 20 predicted put-v put.01 ----- 20:0-rel  19:1-ARG0 21:1-ARG2
+cnn_0005.parse 302 24 predicted be-v be.01 ----- 24:0-rel  23:1-R-ARG1 25:2-ARG2
+cnn_0005.parse 303 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 304 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+cnn_0005.parse 304 5 predicted got-v got.- ----- 5:0-rel  3:1-ARG0 6:2-ARG1
+cnn_0005.parse 304 8 predicted have-v have.04 ----- 8:0-rel  3:1-ARG0 7:1-ARGM-ADV
+cnn_0005.parse 304 11 predicted close-v close.01 ----- 11:0-rel  9:1-ARG1 12:1-ARG2
+cnn_0005.parse 304 16 predicted be-v be.01 ----- 16:0-rel  13:1-ARG2 14:1-ARG1 17:1-ARGM-LOC
+cnn_0005.parse 305 2 predicted deserve-v deserve.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0005.parse 305 12 predicted get-v get.01 ----- 12:0-rel  3:1-ARG1 9:1-ARG0 10:0-ARGM-MOD 11:1-ARGM-ADV
+cnn_0005.parse 306 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 307 10 predicted deserve-v deserve.01 ----- 10:0-rel  0:2-ARG0 11:2-ARG1
+cnn_0005.parse 307 14 predicted provide-v provide.01 ----- 14:0-rel  11:1-ARG1 12:1-ARG0 13:0-ARGM-MOD 15:1-ARG2
+cnn_0005.parse 308 2 predicted include-v include.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG2 3:2-ARG1
+cnn_0005.parse 308 9 predicted give-v give.01 ----- 9:0-rel  3:1-ARG1 7:1-ARG0 8:0-ARGM-MOD 10:1-ARG2
+cnn_0005.parse 309 1 predicted suggest-v suggest.01 ----- 1:0-rel  2:1-ARG1
+cnn_0005.parse 309 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 6:1-ARG2
+cnn_0005.parse 309 10 predicted fly-v fly.01 ----- 10:0-rel  0:2-ARG1
+cnn_0005.parse 309 23 predicted give-v give.01 ----- 23:0-rel  19:1-ARG1 21:1-R-ARG1 24:1-ARG2 26:1-ARGM-TMP
+cnn_0005.parse 309 43 predicted say-v say.01 ----- 43:0-rel  39:1-ARG0 42:1-R-ARG0 44:2-ARG1
+cnn_0005.parse 309 49 predicted decline-v decline.01 ----- 49:0-rel  45:1-ARG1 48:0-ARGM-NEG
+cnn_0005.parse 309 56 predicted come-v come.01 ----- 56:0-rel  52:2-ARG1 57:1-ARGM-DIR
+cnn_0005.parse 309 61 predicted increase-v increase.01 ----- 61:0-rel  52:3-ARG1
+cnn_0005.parse 310 3 predicted acknowledge-v acknowledge.- ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+cnn_0005.parse 310 15 predicted seem-v seem.01 ----- 15:0-rel  16:2-C-ARG1
+cnn_0005.parse 310 17 predicted get-v get.05 ----- 17:0-rel  18:1-ARG2
+cnn_0005.parse 310 25 predicted say-v say.01 ----- 25:0-rel  20:1-ARG1 21:1-ARG0 26:2-ARGM-TMP
+cnn_0005.parse 310 28 predicted say-v say.01 ----- 28:0-rel  26:1-ARGM-TMP 27:1-ARG0 29:3-ARG1
+cnn_0005.parse 310 31 predicted be-v be.01 ----- 31:0-rel  29:1-ARG1 32:1-ARG2
+cnn_0005.parse 311 5 predicted run-v run.02 ----- 5:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+cnn_0005.parse 312 4 predicted see-v see.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 3:0-ARGM-MOD 5:1-ARG1 6:1-ARGM-DIS 7:1-ARGM-MNR
+cnn_0005.parse 314 11 predicted understand-v understand.01 ----- 11:0-rel  6:1-ARG1 10:1-ARG0
+cnn_0005.parse 314 12 predicted be-v be.01 ----- 12:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 2:2-ARG1 13:1-ARG2
+cnn_0005.parse 315 1 predicted hope-v hope.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 316 3 predicted got-v got.- ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+cnn_0005.parse 316 5 predicted tell-v tell.01 ----- 5:0-rel  1:1-ARG0 6:1-ARG2 7:3-ARG1
+cnn_0005.parse 316 11 predicted see-v see.01 ----- 11:0-rel  7:1-ARG0 8:1-ARGM-ADV 10:0-ARGM-NEG
+cnn_0005.parse 316 17 predicted continue-v continue.01 ----- 17:0-rel  13:1-ARG1 16:1-R-ARG1 18:2-C-ARG1
+cnn_0005.parse 316 19 predicted be-v be.01 ----- 19:0-rel  16:1-ARG1 20:1-ARG2
+cnn_0005.parse 316 24 predicted get-v get.03 ----- 24:0-rel  23:1-ARGM-ADV 25:1-ARG2
+cnn_0005.parse 317 5 predicted say-v say.01 ----- 5:0-rel  1:1-ARG1 2:1-ARG0 4:1-ARGM-ADV 6:3-ARG1
+cnn_0005.parse 317 16 predicted keep-v keep.02 ----- 16:0-rel  13:1-ARG0
+cnn_0005.parse 317 17 predicted move-v move.01 ----- 17:0-rel  13:1-ARG1 18:1-ARGM-DIR
+cnn_0005.parse 317 22 predicted be-v be.02 ----- 22:0-rel  20:1-ARGM-TMP 23:1-ARG1
+cnn_0005.parse 317 29 predicted be-v be.02 ----- 29:0-rel  28:0-ARGM-MOD 30:1-ARG1
+cnn_0005.parse 317 43 predicted move-v move.01 ----- 43:0-rel  39:1-ARG1
+cnn_0005.parse 317 46 predicted mean-v mean.01 ----- 46:0-rel  45:1-ARG0 47:1-ARG1
+cnn_0005.parse 317 50 predicted be-v be.02 ----- 50:0-rel  49:0-ARGM-MOD 51:2-ARG1
+cnn_0005.parse 317 55 predicted agree-v agree.01 ----- 55:0-rel  51:1-ARG1 53:1-R-ARG1 56:1-ARG2 57:1-ARG0
+cnn_0005.parse 318 2 predicted be-v be.02 ----- 2:0-rel  0:1-ARGM-DIS 3:2-ARG1
+cnn_0005.parse 318 7 predicted permit-v permit.01 ----- 7:0-rel  3:1-ARG1
+cnn_0005.parse 319 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+cnn_0005.parse 320 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+cnn_0005.parse 320 8 predicted set-v set.02 ----- 8:0-rel  4:1-R-ARG1 5:1-ARG0 9:1-ARGM-ADV
+cnn_0005.parse 320 12 predicted accept-v accept.01 ----- 12:0-rel  4:1-R-ARG1 5:1-ARG0
+cnn_0005.parse 321 3 predicted insist-v insist.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+cnn_0005.parse 322 4 predicted insist-v insist.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-MOD
+cnn_0005.parse 323 2 predicted hope-v hope.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+cnn_0005.parse 323 6 predicted insist-v insist.01 ----- 6:0-rel  3:1-ARG0 5:0-ARGM-MOD 7:1-ARGM-TMP
+cnn_0005.parse 323 13 predicted live-v live.04 ----- 13:0-rel  11:1-ARG0 15:1-ARG1
+cnn_0005.parse 323 25 predicted move-v move.01 ----- 25:0-rel  20:1-ARG1 24:0-ARGM-NEG 26:1-ARGM-DIR 27:1-ARGM-TMP
+cnn_0005.parse 323 35 predicted solve-v solve.01 ----- 35:0-rel  19:1-ARGM-ADV 30:1-ARG0 33:0-ARGM-MOD 34:0-ARGM-NEG 36:1-ARG1
+cnn_0005.parse 324 4 predicted tell-v tell.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG2 7:1-ARG1
+cnn_0005.parse 324 11 predicted expect-v expect.01 ----- 11:0-rel  10:1-ARG0 12:2-ARG1
+cnn_0005.parse 324 14 predicted live-v live.04 ----- 14:0-rel  12:1-ARG0
+cnn_0005.parse 328 4 predicted tell-v tell.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG2 2:0-ARGM-MOD 5:1-ARG1
+cnn_0005.parse 328 9 predicted make-v make.04 ----- 9:0-rel  6:1-ARG0 7:0-ARGM-MOD 8:0-ARGM-NEG
+cnn_0005.parse 329 3 predicted stay-v stay.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG3 5:2-ARGM-MNR
+cnn_0005.parse 329 12 predicted say-v say.01 ----- 12:0-rel  7:1-ARG0 13:3-ARG1
+cnn_0005.parse 329 15 predicted stay-v stay.01 ----- 15:0-rel  13:1-ARG1 14:0-ARGM-MOD 16:1-ARG3 17:2-ARGM-TMP
+cnn_0005.parse 329 21 predicted need-v need.01 ----- 21:0-rel  20:1-ARG0 22:1-ARG1
+cnn_0005.parse 330 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 331 3 predicted tell-v tell.01 ----- 3:0-rel  0:1-ARG2 1:0-ARGM-MOD 4:1-ARG1
+cnn_0005.parse 331 7 predicted have-v have.02 ----- 7:0-rel  6:0-ARGM-MOD
+cnn_0005.parse 331 9 predicted reconsider-v reconsider.01 ----- 9:0-rel  5:1-ARG0 10:1-ARG1
+cnn_0005.parse 331 16 predicted live-v live.04 ----- 16:0-rel  13:1-ARG0 15:0-ARGM-NEG
+cnn_0005.parse 331 22 predicted include-v include.01 ----- 22:0-rel  23:2-ARG1
+cnn_0005.parse 332 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 1:1-ARGM-ADV 4:1-ARG2
+cnn_0005.parse 333 4 predicted call-v call.03 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+cnn_0005.parse 333 22 predicted suggest-v suggest.01 ----- 22:0-rel  12:1-ARG0 23:1-ARG1
+cnn_0005.parse 333 26 predicted be-v be.02 ----- 26:0-rel  25:0-ARGM-MOD 27:1-ARG1
+cnn_0005.parse 334 3 predicted go-v go.02 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARGM-EXT
+cnn_0005.parse 335 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+cnn_0005.parse 335 8 predicted set-v set.01 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD 9:1-ARG1 11:1-ARGM-TMP
+cnn_0005.parse 336 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG1 1:1-ARG0
+cnn_0005.parse 336 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1 7:1-ARG2
+cnn_0005.parse 336 9 predicted be-v be.01 ----- 9:0-rel  10:1-ARG2
+cnn_0005.parse 336 13 predicted tell-v tell.01 ----- 13:0-rel  11:1-ARG0 12:0-ARGM-MOD 14:1-ARG2
+cnn_0005.parse 336 20 predicted expect-v expect.01 ----- 20:0-rel  19:1-ARG0 21:2-ARG1
+cnn_0005.parse 336 23 predicted live-v live.04 ----- 23:0-rel  21:1-ARG0
+cnn_0005.parse 336 39 predicted live-v live.04 ----- 39:0-rel  36:1-ARG0 38:0-ARGM-NEG 41:1-ARG1
+cnn_0005.parse 336 49 predicted be-v be.01 ----- 49:0-rel  46:1-ARG1 50:2-ARG2
+cnn_0005.parse 336 54 predicted defeat-v defeat.01 ----- 54:0-rel  55:1-ARG1
+cnn_0005.parse 336 62 predicted live-v live.04 ----- 62:0-rel  59:1-ARG0 61:0-ARGM-NEG 64:1-ARG1
+cnn_0005.parse 336 71 predicted have-v have.02 ----- 71:0-rel  69:0-ARGM-MOD
+cnn_0005.parse 336 73 predicted consider-v consider.02 ----- 73:0-rel  68:1-ARG0 74:2-ARG1
+cnn_0005.parse 336 76 predicted include-v include.01 ----- 76:0-rel  74:1-ARG2
+cnn_0005.parse 336 79 predicted limit-v limit.01 ----- 79:0-rel  78:0-ARGM-NEG 80:1-ARG2
+cnn_0005.parse 337 5 predicted testify-v testify.01 ----- 5:0-rel  0:2-ARG0 6:1-ARGM-LOC
+cnn_0005.parse 338 2 predicted want-v want.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+cnn_0005.parse 338 5 predicted listen-v listen.01 ----- 5:0-rel  3:1-ARG0
+cnn_0005.parse 338 9 predicted say-v say.01 ----- 9:0-rel  7:1-ARG1 8:1-ARG0 10:1-ARG3
+cnn_0005.parse 339 3 predicted train-v train.01 ----- 3:0-rel  4:0-ARG2
+cnn_0005.parse 339 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-TMP 1:2-ARG1 6:1-ARG2
+cnn_0005.parse 339 8 predicted conduct-v conduct.01 ----- 8:0-rel  1:2-ARG0 9:1-ARG1
+cnn_0005.parse 340 4 predicted dispute-v dispute.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG2
+cnn_0005.parse 341 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1
+cnn_0005.parse 341 7 predicted operate-v operate.01 ----- 7:0-rel  3:1-ARG1 5:1-R-ARG1 6:0-ARGM-MOD 8:1-ARGM-MNR
+cnn_0005.parse 341 10 predicted be-v be.01 ----- 10:0-rel  9:1-ARG1 11:1-ARG2
+cnn_0005.parse 342 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 343 2 predicted work-v work.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG3
+cnn_0005.parse 343 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARG1 1:0-ARGM-MOD 7:1-ARG2
+cnn_0005.parse 344 4 predicted handle-v handle.01 ----- 4:0-rel  1:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+cnn_0005.parse 345 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 346 5 predicted print-v print.01 ----- 5:0-rel  0:1-ARG1 2:1-R-ARG1
+cnn_0005.parse 346 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1 8:0-ARGM-DIS
+cnn_0005.parse 347 3 predicted want-v want.01 ----- 3:0-rel  1:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+cnn_0005.parse 347 14 predicted resign-v resign.- ----- 14:0-rel  10:1-ARG0
+cnn_0005.parse 348 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 348 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:2-ARG2
+cnn_0005.parse 348 10 predicted implement-v implement.01 ----- 10:0-rel  5:1-ARG1 7:1-R-ARG1 8:1-ARG0
+cnn_0005.parse 349 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+cnn_0005.parse 349 6 predicted change-v change.01 ----- 6:0-rel  3:1-ARG0 5:0-ARGM-MOD 7:1-ARG1
+cnn_0005.parse 349 11 predicted help-v help.01 ----- 11:0-rel  3:1-ARG0 10:0-ARGM-MOD 12:2-ARG1
+cnn_0005.parse 349 13 predicted change-v change.01 ----- 13:0-rel  14:1-ARG1
+cnn_0005.parse 349 17 predicted change-v change.01 ----- 17:0-rel  18:1-ARG1
+cnn_0005.parse 349 23 predicted favour-v favour.- ----- 23:0-rel  0:1-ARGM-ADV 20:1-ARGM-ADV 21:1-ARG0 22:0-ARGM-MOD 24:1-ARG1
+cnn_0005.parse 350 4 predicted think-v think.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+cnn_0005.parse 351 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 351 9 predicted have-v have.03 ----- 9:0-rel  6:1-R-ARG1 7:1-ARG0 10:1-ARG1 11:1-ARGM-TMP
+cnn_0005.parse 351 14 predicted be-v be.01 ----- 14:0-rel  3:2-ARG1 15:3-ARG2
+cnn_0005.parse 351 24 predicted happen-v happen.01 ----- 24:0-rel  22:1-ARG1 23:0-ARGM-MOD 25:1-ARGM-ADV
+cnn_0005.parse 351 27 predicted attack-v attack.01 ----- 27:0-rel  26:1-ARG0 28:1-ARG1
+cnn_0005.parse 352 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+cnn_0005.parse 352 6 predicted need-v need.01 ----- 6:0-rel  3:1-ARG0 5:1-R-ARG0 7:2-ARG1
+cnn_0005.parse 352 9 predicted change-v change.01 ----- 9:0-rel  5:1-ARG1
+cnn_0005.parse 353 5 predicted effectuate-v effectuate.- ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:0-ARGM-NEG 6:2-ARG1
+cnn_0005.parse 354 3 predicted focus-v focus.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG2
+cnn_0005.parse 354 9 predicted need-v need.01 ----- 9:0-rel  8:1-ARG0 10:2-ARG1
+cnn_0005.parse 354 12 predicted do-v do.02 ----- 12:0-rel  8:1-ARG1 13:2-ARGM-PRP
+cnn_0005.parse 354 14 predicted change-v change.01 ----- 14:0-rel  15:1-ARG1
+cnn_0005.parse 355 1 predicted hear-v hear.01 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 355 5 predicted express-v express.01 ----- 5:0-rel  2:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+cnn_0005.parse 356 4 predicted ask-v ask.01 ----- 4:0-rel  0:1-ARGM-ADV 1:1-ARG2 5:1-ARG1
+cnn_0005.parse 356 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARG1 11:1-ARG2
+cnn_0005.parse 356 13 predicted support-v support.01 ----- 13:0-rel  14:2-ARG1
+cnn_0005.parse 356 17 predicted do-v do.02 ----- 17:0-rel  14:1-ARG1 15:1-ARG0
+cnn_0005.parse 357 15 predicted deal-v deal.01 ----- 15:0-rel  0:1-ARGM-MNR 16:1-ARG1
+cnn_0005.parse 358 1 predicted tell-v tell.01 ----- 1:0-rel  2:1-ARG2
+cnn_0005.parse 358 12 predicted support-v support.01 ----- 12:0-rel  8:1-ARG0 13:1-ARG1
+cnn_0005.parse 358 26 predicted be-v be.01 ----- 26:0-rel  21:1-ARG1 27:2-ARG2
+cnn_0005.parse 358 35 predicted send-v send.01 ----- 35:0-rel  30:1-ARG0 32:1-R-ARG0 33:1-ARGM-ADV 36:1-ARG1 37:1-ARG2
+cnn_0005.parse 358 39 predicted unequipped-v unequipped.- ----- 39:0-rel  30:1-ARG1 32:1-R-ARG1 36:1-ARG0 37:1-ARGM-LOC 38:1-ARGM-DIS
+cnn_0005.parse 359 4 predicted come-v come.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG1 5:1-ARG4 6:2-ARGM-PNC
+cnn_0005.parse 359 7 predicted roost-v roost.01 ----- 7:0-rel  1:1-ARG0 8:1-ARGM-MNR
+cnn_0005.parse 360 7 predicted be-v be.01 ----- 7:0-rel  0:0-ARGM-DIS 1:2-ARG1 6:1-ARGM-ADV 8:1-ARG2
+cnn_0005.parse 360 11 predicted support-v support.01 ----- 11:0-rel  1:2-ARG0 12:2-ARG1
+cnn_0005.parse 361 1 predicted deserve-v deserve.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 361 7 predicted think-v think.01 ----- 7:0-rel  8:2-ARG1
+cnn_0005.parse 361 14 predicted provide-v provide.01 ----- 14:0-rel  8:1-ARG1 12:1-R-ARG1 13:1-ARG0 15:1-ARG2
+cnn_0005.parse 362 2 predicted entitle-v entitle.02 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0005.parse 363 10 predicted determine-v determine.01 ----- 10:0-rel  7:1-ARG1 11:1-ARG2
+cnn_0005.parse 363 17 predicted go-v go.04 ----- 17:0-rel  16:0-ARGM-NEG
+cnn_0005.parse 363 19 predicted be-v be.01 ----- 19:0-rel  14:1-ARG1 20:1-ARG2
+cnn_0005.parse 363 32 predicted be-v be.01 ----- 32:0-rel  28:1-ARG1 33:1-ARG2
+cnn_0005.parse 363 38 predicted do-v do.02 ----- 38:0-rel  35:1-ARG0 36:1-ARGM-ADV 37:0-ARGM-MOD 39:2-ARGM-PRP
+cnn_0005.parse 363 40 predicted support-v support.01 ----- 40:0-rel  35:1-ARG0 41:1-ARG1
+cnn_0005.parse 363 47 predicted include-v include.01 ----- 47:0-rel  48:2-ARG1
+cnn_0005.parse 365 6 predicted erupt-v erupt.01 ----- 6:0-rel  4:1-ARG1 5:1-R-ARG1
+cnn_0005.parse 365 16 predicted say-v say.01 ----- 16:0-rel  7:1-ARGM-TMP 9:2-ARG0 17:1-ARG1
+cnn_0005.parse 366 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 366 4 predicted listen-v listen.01 ----- 4:0-rel  2:1-ARG0
+cnn_0005.parse 367 1 predicted see-v see.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 367 11 predicted prepare-v prepare.02 ----- 11:0-rel  0:1-ARG0 12:1-ARG2
+cnn_0005.parse 368 1 predicted see-v see.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 368 10 predicted want-v want.01 ----- 10:0-rel  0:1-ARG0 11:2-ARG1
+cnn_0005.parse 368 12 predicted prepare-v prepare.01 ----- 12:0-rel  0:1-ARG0 13:1-ARG1
+cnn_0005.parse 368 15 predicted offer-v offer.01 ----- 15:0-rel  0:1-ARG0
+cnn_0005.parse 369 4 predicted insist-v insist.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 5:3-ARG1
+cnn_0005.parse 369 7 predicted refer-v refer.01 ----- 7:0-rel  5:1-ARG0 8:1-ARG1
+cnn_0005.parse 370 4 predicted say-v say.01 ----- 4:0-rel  1:1-ARG1 3:1-ARG0
+cnn_0005.parse 370 11 predicted say-v say.01 ----- 11:0-rel  8:1-ARG1 9:1-ARG0
+cnn_0005.parse 371 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG1 4:1-ARG2
+cnn_0005.parse 371 10 predicted be-v be.01 ----- 10:0-rel  5:2-ARG1 11:2-ARG2
+cnn_0005.parse 371 18 predicted respond-v respond.01 ----- 18:0-rel  5:2-ARG0 17:0-ARGM-NEG 19:1-ARG1
+cnn_0005.parse 372 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 373 3 predicted apologize-v apologize.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0005.parse 374 3 predicted disown-v disown.- ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0005.parse 375 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG1
+cnn_0005.parse 375 9 predicted split-v split.01 ----- 9:0-rel  10:1-ARG1
+cnn_0005.parse 375 12 predicted divide-v divide.02 ----- 12:0-rel  13:1-ARG1 14:1-ARGM-PRP
+cnn_0005.parse 375 18 predicted perceive-v perceive.01 ----- 18:0-rel  19:0-ARG1 20:0-C-ARG1
+cnn_0005.parse 376 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 376 3 predicted backfire-v backfire.01 ----- 3:0-rel  2:1-ARG1 4:2-ARGM-TMP
+cnn_0005.parse 376 9 predicted do-v do.02 ----- 9:0-rel  4:1-ARGM-TMP 5:2-ARG1
+cnn_0005.parse 377 2 predicted hope-v hope.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+cnn_0005.parse 377 8 predicted disassociate-v disassociate.- ----- 8:0-rel  4:1-ARG0 7:0-ARGM-MOD 9:1-ARG1
+cnn_0005.parse 377 11 predicted tell-v tell.01 ----- 11:0-rel  4:1-ARG0 7:0-ARGM-MOD 12:1-ARG2
+cnn_0005.parse 377 18 predicted be-v be.01 ----- 18:0-rel  15:1-ARG1 19:1-ARG2
+cnn_0005.parse 377 23 predicted stoop-v stoop.- ----- 23:0-rel  24:1-ARGM-ADV
+cnn_0005.parse 377 28 predicted divide-v divide.02 ----- 28:0-rel  29:1-ARG1 30:1-ARGM-PRP
+cnn_0005.parse 377 35 predicted pander-v pander.- ----- 35:0-rel  36:1-ARG1
+cnn_0005.parse 377 42 predicted make-v make.05 ----- 42:0-rel  43:2-ARG1
+cnn_0005.parse 377 46 predicted perceive-v perceive.01 ----- 46:0-rel  47:1-ARGM-DIS 48:1-ARG1
+cnn_0005.parse 378 6 predicted backfire-v backfire.01 ----- 6:0-rel  2:2-ARG1
+cnn_0005.parse 379 6 predicted join-v join.04 ----- 6:0-rel  7:1-ARG1 8:1-ARGM-LOC
+cnn_0005.parse 382 2 predicted speak-v speak.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG2
+cnn_0005.parse 383 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 4:1-ARG2
+cnn_0005.parse 384 17 predicted be-v be.01 ----- 17:0-rel  0:3-ARG1 18:1-ARG2 20:1-ARGM-TMP
+cnn_0005.parse 385 3 predicted set-v set.02 ----- 3:0-rel  1:1-ARG1 4:2-ARG2
+cnn_0005.parse 385 5 predicted expire-v expire.01 ----- 5:0-rel  6:1-ARGM-TMP
+cnn_0005.parse 385 10 predicted demand-v demand.01 ----- 10:0-rel  0:1-ARGM-MNR 9:1-ARG0
+cnn_0005.parse 385 15 predicted approve-v approve.01 ----- 15:0-rel  12:1-ARG0
+cnn_0005.parse 385 19 predicted extend-v extend.01 ----- 19:0-rel  16:1-ARG0 20:1-ARG1 22:1-ARG2
+cnn_0005.parse 386 18 predicted blow-v blow.04 ----- 18:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 11:2-ARG1
+cnn_0005.parse 387 5 predicted call-v call.01 ----- 5:0-rel  3:1-ARG1 6:2-ARG2
+cnn_0005.parse 387 11 predicted manage-v manage.02 ----- 11:0-rel  0:2-ARGM-TMP 3:2-ARG0 12:2-ARG1
+cnn_0005.parse 387 16 predicted back-v back.01 ----- 16:0-rel  15:0-ARG0 17:0-ARG1 18:0-C-ARG1
+cnn_0005.parse 387 19 predicted force-v force.02 ----- 19:0-rel  14:1-ARG0 20:2-ARG1
+cnn_0005.parse 387 26 predicted call-v call.03 ----- 26:0-rel  14:1-ARG0 27:1-ARG1
+cnn_0005.parse 388 3 predicted head-v head.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG0
+cnn_0005.parse 388 7 predicted win-v win.01 ----- 7:0-rel  0:2-ARG0 12:1-ARGM-LOC
+cnn_0005.parse 388 18 predicted poise-v poise.01 ----- 18:0-rel  0:2-ARG1 17:1-ARGM-TMP 19:2-ARG2
+cnn_0005.parse 388 20 predicted lead-v lead.02 ----- 20:0-rel  0:2-ARG0 21:1-ARG1
+cnn_0005.parse 389 3 predicted face-v face.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 4:1-ARG1
+cnn_0005.parse 390 3 predicted focus-v focus.01 ----- 3:0-rel  1:1-ARG1 4:1-ARG2
+cnn_0005.parse 390 14 predicted call-v call.05 ----- 14:0-rel  0:1-ARGM-MNR 10:1-ARG0 13:1-ARGM-TMP 15:1-ARG2 18:2-ARG1
+cnn_0005.parse 390 19 predicted resign-v resign.- ----- 19:0-rel  10:1-ARG0
+cnn_0005.parse 391 2 predicted condemn-v condemn.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0005.parse 391 5 predicted insist-v insist.01 ----- 5:0-rel  3:1-ARG0 6:3-ARG1
+cnn_0005.parse 391 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:0-ARGM-NEG 9:1-ARG2
+cnn_0005.parse 392 7 predicted speak-v speak.01 ----- 7:0-rel  0:0-ARGM-DIS 1:2-ARGM-TMP 6:1-ARG0 8:1-ARG2 11:1-ARGM-DIR
+cnn_0005.parse 393 6 predicted join-v join.04 ----- 6:0-rel  7:1-ARG1
+cnn_0005.parse 395 2 predicted see-v see.01 ----- 2:0-rel  0:1-R-ARG1 3:1-ARG1
+cnn_0005.parse 396 7 predicted be-v be.01 ----- 7:0-rel  8:1-ARG1
+cnn_0005.parse 396 11 predicted move-v move.01 ----- 11:0-rel  8:1-ARG0 12:1-ARG1
+cnn_0005.parse 397 4 predicted like-v like.02 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 3:0-ARGM-MOD
+cnn_0005.parse 397 6 predicted say-v say.01 ----- 6:0-rel  2:1-ARG0 7:1-ARG1
+cnn_0005.parse 397 9 predicted be-v be.02 ----- 9:0-rel  10:3-ARG1
+cnn_0005.parse 397 18 predicted be-v be.01 ----- 18:0-rel  16:1-R-ARG1 19:1-ARG2
+cnn_0005.parse 398 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 5:1-ARGM-DIS
+cnn_0005.parse 399 3 predicted look-v look.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+cnn_0005.parse 399 9 predicted see-v see.01 ----- 9:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 8:1-ARG0 10:1-ARG1
+cnn_0005.parse 399 13 predicted have-v have.03 ----- 13:0-rel  12:1-ARG0 14:1-ARG1
+cnn_0005.parse 399 18 predicted have-v have.03 ----- 18:0-rel  17:1-ARG0 19:1-ARG1
+cnn_0005.parse 399 31 predicted have-v have.03 ----- 31:0-rel  27:1-ARGM-LOC 30:1-ARG0 32:1-ARG1
+cnn_0005.parse 400 4 predicted be-v be.01 ----- 4:0-rel  1:1-ARG1 9:1-ARG2
+cnn_0005.parse 400 12 predicted continue-v continue.01 ----- 12:0-rel  1:1-ARG0 13:2-ARG1
+cnn_0005.parse 400 14 predicted do-v do.02 ----- 14:0-rel  15:1-ARG1
+cnn_0005.parse 401 5 predicted be-v be.02 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARGM-DIS 6:2-ARG1
+cnn_0005.parse 401 13 predicted include-v include.01 ----- 13:0-rel  14:1-ARG1
+cnn_0005.parse 402 5 predicted assassinate-v assassinate.01 ----- 5:0-rel  0:1-ARG1 6:1-ARGM-TMP
+cnn_0005.parse 403 1 predicted see-v see.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0005.parse 405 3 predicted tell-v tell.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:1-ARG1
+cnn_0005.parse 405 9 predicted do-v do.02 ----- 9:0-rel  6:1-ARG0 8:1-R-ARG0
+cnn_0005.parse 405 18 predicted be-v be.01 ----- 18:0-rel  6:2-ARG1 19:2-ARG2
+cnn_0005.parse 406 2 predicted want-v want.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+cnn_0005.parse 406 4 predicted do-v do.02 ----- 4:0-rel  1:1-ARG0 5:1-ARG1 6:1-ARG2
+cnn_0005.parse 407 3 predicted be-v be.01 ----- 3:0-rel  1:1-ARG1 2:0-ARGM-MOD 4:2-ARG2
+cnn_0005.parse 407 7 predicted benefit-v benefit.01 ----- 7:0-rel  4:1-ARG1 6:1-R-ARG1 8:1-ARG0
+cnn_0005.parse 408 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:0-ARGM-NEG 5:1-ARG2
+cnn_0005.parse 408 20 predicted be-v be.01 ----- 20:0-rel  16:1-ARG1 21:1-ARG2
+cnn_0005.parse 408 28 predicted be-v be.01 ----- 28:0-rel  26:1-ARG1 27:1-R-ARG1
+cnn_0005.parse 409 3 predicted make-v make.02 ----- 3:0-rel  1:1-ARG0
+cnn_0005.parse 409 6 predicted go-v go.02 ----- 6:0-rel  4:1-ARG0 5:1-ARGM-DIS 7:1-ARGM-DIR
+cnn_0005.parse 409 10 predicted lose-v lose.02 ----- 10:0-rel  9:1-ARG0 11:1-ARG1 13:1-ARGM-MNR
+cnn_0005.parse 409 21 predicted harm-v harm.01 ----- 21:0-rel  20:1-ARG0 22:1-ARG1
+cnn_0005.parse 410 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG2
+cnn_0005.parse 411 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:2-ARG2
+cnn_0005.parse 412 3 predicted see-v see.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0
+cnn_0005.parse 413 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 4:2-ARG2
+cnn_0005.parse 414 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+cnn_0005.parse 414 6 predicted know-v know.01 ----- 6:0-rel  5:1-ARG0
+cnn_0005.parse 415 7 predicted have-v have.03 ----- 7:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:2-ARGM-TMP 6:1-ARG0 8:1-ARGM-DIS
+cnn_0005.parse 416 2 predicted lose-v lose.02 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+cnn_0005.parse 417 4 predicted react-v react.01 ----- 4:0-rel  1:1-ARG0
+cnn_0005.parse 418 2 predicted put-v put.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARG2
+cnn_0005.parse 420 7 predicted ask-v ask.01 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 5:1-ARG2 8:2-ARG1
+cnn_0005.parse 420 10 predicted do-v do.02 ----- 10:0-rel  8:1-ARGM-CAU 9:1-ARG0 11:1-ARG1
+cnn_0005.parse 421 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 421 5 predicted try-v try.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG1
+cnn_0005.parse 422 4 predicted happen-v happen.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1
+cnn_0005.parse 423 8 predicted try-v try.01 ----- 8:0-rel  3:1-ARGM-TMP 5:1-ARGM-DIS 6:1-ARGM-DIS 7:1-ARG0 9:2-ARG1
+cnn_0005.parse 423 10 predicted put-v put.01 ----- 10:0-rel  7:1-ARG0 11:1-ARG1 13:1-ARG2
+cnn_0005.parse 424 3 predicted accuse-v accuse.01 ----- 3:0-rel  0:0-ARGM-DIS 2:1-ARG0 4:1-ARG1 6:1-ARGM-DIS 7:1-ARGM-DIS
+cnn_0005.parse 426 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG1
+cnn_0005.parse 427 2 predicted accuse-v accuse.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1 5:1-ARG2
+cnn_0005.parse 427 6 predicted be-v be.01 ----- 6:0-rel  7:1-ARG2
+cnn_0005.parse 428 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:3-ARG1
+cnn_0005.parse 428 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+cnn_0005.parse 429 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+cnn_0005.parse 429 6 predicted belong-v belong.01 ----- 6:0-rel  4:1-ARG1 5:1-ARG0 7:1-ARG1
+cnn_0005.parse 430 3 predicted have-v have.03 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0
+cnn_0005.parse 431 2 predicted have-v have.03 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:2-ARGM-TMP
+cnn_0005.parse 432 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0005.parse 433 14 predicted say-v say.01 ----- 14:0-rel  2:1-ARG1 3:3-ARG0 15:1-ARGM-TMP
+cnn_0005.parse 435 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:2-ARG2
+cnn_0005.parse 436 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARG1
+cnn_0005.parse 436 7 predicted hear-v hear.01 ----- 7:0-rel  4:1-ARG0 8:1-ARG1 9:1-ARGM-TMP
+cnn_0005.parse 436 17 predicted targetting-v targetting.- ----- 17:0-rel  13:1-ARG0 18:1-ARG1
+cnn_0005.parse 437 1 predicted suggest-v suggest.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 437 4 predicted be-v be.02 ----- 4:0-rel  5:2-ARG1
+cnn_0005.parse 437 9 predicted targetting-v targetting.- ----- 9:0-rel  5:1-ARG0 10:1-ARG1
+cnn_0005.parse 438 3 predicted disagree-v disagree.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-EXT 4:1-ARG1
+cnn_0005.parse 438 15 predicted be-v be.01 ----- 15:0-rel  12:1-ARG1 14:0-ARGM-MOD 16:1-ARG2
+cnn_0005.parse 439 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG2 4:1-ARG1
+cnn_0005.parse 439 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1
+cnn_0005.parse 439 11 predicted lose-v lose.03 ----- 11:0-rel  9:1-ARG0 12:1-ARGM-DIS 13:1-ARGM-CAU
+cnn_0005.parse 440 4 predicted do-v do.02 ----- 4:0-rel  1:1-ARGM-CAU 2:0-ARGM-MOD 3:1-ARG0 5:1-ARG1
+cnn_0005.parse 441 3 predicted say-v say.01 ----- 3:0-rel  2:1-ARG0 4:5-ARG1
+cnn_0005.parse 441 7 predicted try-v try.01 ----- 7:0-rel  4:1-ARG0 6:1-R-ARG0 8:2-ARGM-TMP
+cnn_0005.parse 441 21 predicted be-v be.01 ----- 21:0-rel  4:3-ARG1 20:0-ARGM-MOD 22:2-ARG2
+cnn_0005.parse 442 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 4:1-ARG2
+cnn_0005.parse 443 2 predicted know-v know.01 ----- 2:0-rel  1:1-ARG0
+cnn_0005.parse 443 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARGM-ADV 3:1-ARG0 5:1-ARGM-TMP
+cnn_0005.parse 444 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 4:1-ARG2
+cnn_0005.parse 444 7 predicted try-v try.01 ----- 7:0-rel  5:1-ARG0 8:1-ARGM-TMP
+cnn_0005.parse 445 3 predicted have-v have.03 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARGM-TMP
+cnn_0005.parse 446 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0005.parse 447 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 448 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 449 6 predicted accuse-v accuse.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 4:1-ARG1
+cnn_0005.parse 451 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0005.parse 451 4 predicted accuse-v accuse.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0005.parse 452 6 predicted blame-v blame.01 ----- 6:0-rel  0:2-ARG0 7:3-ARG1
+cnn_0005.parse 452 18 predicted get-v get.04 ----- 18:0-rel  14:1-ARGM-TMP 16:1-ARGM-TMP 19:1-ARG1
+cnn_0005.parse 452 22 predicted extend-v extend.01 ----- 22:0-rel  23:2-ARG1
+cnn_0005.parse 452 44 predicted reflect-v reflect.01 ----- 44:0-rel  42:1-ARG1
+cnn_0005.parse 452 50 predicted occured-v occured.- ----- 50:0-rel  46:1-ARG1 48:1-R-ARG1 51:1-ARGM-TMP
+cnn_0005.parse 453 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cnn_0005.parse 454 5 predicted resign-v resign.- ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-NEG
+cnn_0005.parse 455 2 predicted stay-v stay.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+cnn_0005.parse 456 3 predicted tell-v tell.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:3-ARG1
+cnn_0005.parse 456 7 predicted elect-v elect.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG0
+cnn_0005.parse 457 5 predicted give-v give.01 ----- 5:0-rel  0:2-ARG0 4:1-ARGM-DIS 6:1-ARG2 7:1-ARG1 9:1-ARGM-ADV
+cnn_0005.parse 458 4 predicted say-v say.01 ----- 4:0-rel  1:1-ARGM-CAU 3:1-ARG0 5:1-ARG1
+cnn_0005.parse 458 11 predicted do-v do.02 ----- 11:0-rel  10:1-R-ARG0 12:1-ARG1
+cnn_0005.parse 460 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1 7:1-ARGM-TMP 8:0-ARGM-DIS
+cnn_0005.parse 461 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0005.parse 461 5 predicted receive-v receive.01 ----- 5:0-rel  2:1-ARG0 4:1-ARGM-TMP 6:1-ARG1
+cnn_0005.parse 461 10 predicted be-v be.02 ----- 10:0-rel  9:0-ARGM-MOD 11:2-ARG1
+cnn_0005.parse 461 13 predicted be-v be.01 ----- 13:0-rel  11:1-ARG1 12:1-R-ARG1 14:1-ARGM-TMP 15:1-ARG2
+cnn_0005.parse 462 3 predicted consider-v consider.02 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0
+cnn_0005.parse 462 12 predicted ascertain-v ascertain.- ----- 12:0-rel  1:1-ARG0 4:2-ARG1 13:2-ARG2
+cnn_0005.parse 462 15 predicted go-v go.15 ----- 15:0-rel  13:1-ARG1
+cnn_0005.parse 463 2 predicted refer-v refer.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0005.parse 463 12 predicted operate-v operate.01 ----- 12:0-rel  7:1-ARG0 11:1-ARGM-TMP 13:1-ARGM-LOC
+cnn_0005.parse 463 21 predicted withdraw-v withdraw.01 ----- 21:0-rel  17:1-ARG1
+cnn_0005.parse 464 4 predicted leave-v leave.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG1
+cnn_0005.parse 465 3 predicted tell-v tell.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:1-ARG1
+cnn_0005.parse 465 7 predicted be-v be.02 ----- 7:0-rel  8:1-ARG1
+cnn_0005.parse 465 11 predicted find-v find.01 ----- 11:0-rel  12:1-ARG1 13:1-ARG2
+cnn_0005.parse 465 18 predicted look-v look.01 ----- 18:0-rel  14:1-ARG0 16:1-R-ARG0 19:1-ARG1
+cnn_0005.parse 465 28 predicted report-v report.01 ----- 28:0-rel  26:0-ARGM-MOD 29:1-ARGM-TMP
+cnn_0005.parse 466 3 predicted know-v know.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+cnn_0005.parse 467 3 predicted know-v know.01 ----- 3:0-rel  1:1-ARG1 2:1-ARG0 4:1-ARGM-REC
+cnn_0005.parse 467 5 predicted be-v be.01 ----- 5:0-rel  0:0-ARGM-DIS 1:2-ARG1 6:1-ARG2
+cnn_0005.parse 467 10 predicted withdraw-v withdraw.01 ----- 10:0-rel  7:1-ARG0 11:1-ARGM-MNR
+cnn_0005.parse 468 3 predicted be-v be.02 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 4:2-ARG1
+cnn_0005.parse 469 4 predicted tell-v tell.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG2 6:1-ARG1
+cnn_0005.parse 469 10 predicted hear-v hear.01 ----- 10:0-rel  8:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+cnn_0005.parse 469 23 predicted show-v show.01 ----- 23:0-rel  20:1-ARGM-TMP 21:1-ARGM-DIS 22:1-ARG0 24:2-ARG1
+cnn_0005.parse 470 9 predicted call-v call.03 ----- 9:0-rel  0:1-ARG0
+cnn_0005.parse 470 13 predicted quoting-v quoting.- ----- 13:0-rel  11:1-ARG0 14:1-ARGM-TMP 15:1-ARG1
+cnn_0005.parse 471 2 predicted want-v want.01 ----- 2:0-rel  1:1-ARG0
+cnn_0005.parse 471 7 predicted disarm-v disarm.01 ----- 7:0-rel  3:1-ARG1
+cnn_0005.parse 471 9 predicted give-v give.08 ----- 9:0-rel  3:1-ARG0 11:1-ARG1
+cnn_0005.parse 471 15 predicted have-v have.03 ----- 15:0-rel  14:1-ARGM-ADV 16:2-ARG1
+cnn_0005.parse 471 20 predicted have-v have.03 ----- 20:0-rel  16:1-ARG0 19:1-R-ARG0 21:1-ARG1
+cnn_0005.parse 472 3 predicted tell-v tell.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 12:1-ARG1
+cnn_0005.parse 472 18 predicted consider-v consider.01 ----- 18:0-rel  14:2-ARG0 19:1-ARG1 20:1-ARG2 24:1-ARGM-CAU
+cnn_0005.parse 472 26 predicted free-v free.01 ----- 26:0-rel  25:1-ARG0 27:2-ARG1
+cnn_0005.parse 473 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:1-ARG1
+cnn_0005.parse 474 6 predicted do-v do.02 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 3:1-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG 7:1-ARG1 8:1-ARGM-MNR
+cnn_0005.parse 475 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD
+cnn_0005.parse 476 3 predicted agree-v agree.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+cnn_0005.parse 477 5 predicted be-v be.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-CAU 4:1-ARG1 6:2-ARG2 10:2-C-ARG1
+cnn_0005.parse 478 5 predicted do-v do.02 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 3:0-ARGM-NEG 6:1-ARGM-MNR
+cnn_0005.parse 479 3 predicted tell-v tell.01 ----- 3:0-rel  0:1-ARG1 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:1-ARG1
+cnn_0005.parse 479 8 predicted be-v be.01 ----- 8:0-rel  6:1-ARGM-TMP 7:1-ARG1 9:1-ARG2
+cnn_0005.parse 479 13 predicted be-v be.01 ----- 13:0-rel  12:1-ARG1 14:0-ARGM-NEG 15:1-ARG2
+cnn_0005.parse 480 2 predicted know-v know.01 ----- 2:0-rel  1:1-ARG0
+cnn_0005.parse 480 5 predicted have-v have.03 ----- 5:0-rel  0:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-TMP 6:1-ARG1
+cnn_0005.parse 481 4 predicted finish-v finish.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG
+cnn_0005.parse 482 3 predicted be-v be.01 ----- 3:0-rel  0:2-ARG1 4:2-ARG2
+cnn_0005.parse 482 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARG1 9:1-R-ARG1 11:1-ARG2
+cnn_0005.parse 483 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+cnn_0005.parse 484 1 predicted consider-v consider.01 ----- 1:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0005.parse 484 9 predicted be-v be.02 ----- 9:0-rel  7:0-ARGM-MOD 8:0-ARGM-NEG 10:2-ARG1
+cnn_0005.parse 484 17 predicted be-v be.02 ----- 17:0-rel  16:0-ARGM-MOD 18:2-ARG1
+cnn_0005.parse 485 6 predicted finish-v finish.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:0-ARGM-NEG 7:1-ARGM-TMP
+cnn_0005.parse 486 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+cnn_0005.parse 486 8 predicted decide-v decide.01 ----- 8:0-rel  9:1-ARGM-DIR
+cnn_0005.parse 486 13 predicted do-v do.02 ----- 13:0-rel  12:0-ARGM-NEG 14:1-ARG1 15:1-ARGM-MNR
+cnn_0005.parse 487 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0005.parse 487 7 predicted reach-v reach.01 ----- 7:0-rel  5:1-ARG0 8:2-ARG1
+cnn_0005.parse 487 16 predicted envy-v envy.01 ----- 16:0-rel  11:2-ARG0 17:1-ARG1
+cnn_0005.parse 488 4 predicted want-v want.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:2-ARG1
+cnn_0005.parse 488 6 predicted lose-v lose.02 ----- 6:0-rel  1:1-ARG0 7:1-ARG1
+cnn_0005.parse 489 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG1 1:1-ARG0
+cnn_0005.parse 489 3 predicted be-v be.01 ----- 3:0-rel  4:1-ARG2
+cnn_0005.parse 489 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1
+cnn_0005.parse 489 9 predicted know-v know.01 ----- 9:0-rel  5:1-ARG0 10:2-ARG1
+cnn_0005.parse 489 15 predicted concern-v concern.02 ----- 15:0-rel  11:1-ARG0 16:1-ARG1
+cnn_0005.parse 489 19 predicted get-v get.05 ----- 19:0-rel  11:2-ARG1 18:0-ARGM-MOD 20:1-ARG2
+cnn_0005.parse 490 13 predicted ask-v ask.02 ----- 13:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:2-ARGM-TMP 11:1-ARG0 14:1-ARG1
+cnn_0005.parse 490 25 predicted come-v come.01 ----- 25:0-rel  22:1-ARGM-TMP 23:1-ARG1 24:0-ARGM-MOD
+cnn_0005.parse 490 26 predicted reach-v reach.01 ----- 26:0-rel  23:1-ARG0 27:1-ARG2
+cnn_0005.parse 490 33 predicted know-v know.01 ----- 33:0-rel  28:1-ARGM-TMP 30:1-R-ARGM-TMP 31:1-ARG0 32:0-ARGM-MOD 34:2-ARG1
+cnn_0005.parse 490 36 predicted do-v do.02 ----- 36:0-rel  34:1-ARG0 37:1-ARG1
+cnn_0005.parse 491 5 predicted know-v know.01 ----- 5:0-rel  0:1-ARGM-TMP 1:1-ARG1 3:0-ARGM-MOD
+cnn_0005.parse 492 1 predicted be-v be.01 ----- 1:0-rel  0:0-ARGM-DIS 2:1-ARG2
+cnn_0005.parse 493 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+cnn_0005.parse 493 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 3:1-R-ARG1 5:1-ARG2
+cnn_0005.parse 495 3 predicted spend-v spend.02 ----- 3:0-rel  4:2-ARG1
+cnn_0005.parse 496 2 predicted say-v say.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cnn_0005.parse 500 3 predicted forget-v forget.01 ----- 3:0-rel  0:0-ARGM-DIS 2:0-ARGM-NEG 4:2-ARG1
+cnn_0005.parse 501 3 predicted set-v set.02 ----- 3:0-rel  0:0-ARGM-MOD 1:1-ARG0 4:2-ARG1
+cnn_0005.parse 501 7 predicted withdraw-v withdraw.01 ----- 7:0-rel  8:1-ARG1 9:1-ARG2
+cnn_0005.parse 502 9 predicted cast-v cast.01 ----- 9:0-rel  10:1-ARG1
+cnn_0005.parse 503 2 predicted take-v take.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0005.parse 504 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2
+cnn_0005.parse 505 27 predicted face-v face.01 ----- 27:0-rel  20:2-ARG0 26:1-ARGM-TMP 28:1-ARG1
+cnn_0005.parse 506 2 predicted come-v come.11 ----- 2:0-rel  0:1-ARG1

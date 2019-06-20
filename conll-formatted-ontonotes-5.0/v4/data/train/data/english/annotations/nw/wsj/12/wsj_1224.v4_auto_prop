@@ -1,0 +1,6 @@
+wsj_1224.parse 0 23 predicted name-v name.01 ----- 23:0-rel  0:2-ARG1
+wsj_1224.parse 1 1 predicted succeed-v succeed.02 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1224.parse 1 9 predicted resign-v resign.- ----- 9:0-rel  8:1-R-ARG0
+wsj_1224.parse 1 11 predicted continue-v continue.01 ----- 11:0-rel  8:1-R-ARG0 12:1-ARGM-MNR
+wsj_1224.parse 2 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-ADV 4:2-ARG2
+wsj_1224.parse 2 5 predicted manage-v manage.01 ----- 5:0-rel  6:0-ARG0

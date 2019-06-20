@@ -1,0 +1,7 @@
+cnn_0177.parse 0 5 predicted postpone-v postpone.01 ----- 5:0-rel  0:2-ARG0 8:1-ARGM-TMP 9:1-ARGM-LOC
+cnn_0177.parse 1 6 predicted leave-v leave.02 ----- 6:0-rel  0:2-ARG0
+cnn_0177.parse 2 7 predicted believe-v believe.01 ----- 7:0-rel  5:1-ARG0 8:3-ARG1
+cnn_0177.parse 2 12 predicted found-v found.01 ----- 12:0-rel  0:2-ARG1 13:0-ARGM-PRD
+cnn_0177.parse 3 4 predicted close-v close.01 ----- 4:0-rel  0:1-ARG0 12:1-ARGM-TMP
+cnn_0177.parse 4 2 predicted schedule-v schedule.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+cnn_0177.parse 4 4 predicted resume-v resume.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 6:1-ARGM-TMP

@@ -1,0 +1,28 @@
+pri_0100.parse 0 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARG1
+pri_0100.parse 0 9 predicted meet-v meet.03 ----- 9:0-rel  0:1-ARG0 10:1-ARG1 15:1-ARGM-LOC 17:1-ARGM-TMP
+pri_0100.parse 1 4 predicted see-v see.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+pri_0100.parse 1 11 predicted drum-v drum.01 ----- 11:0-rel  13:2-ARG1
+pri_0100.parse 1 21 predicted base-v base.02 ----- 21:0-rel  16:1-ARG1 22:1-ARG2
+pri_0100.parse 2 1 predicted require-v require.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 3:2-ARG1
+pri_0100.parse 2 4 predicted relinquish-v relinquish.01 ----- 4:0-rel  2:1-ARG0 5:2-ARG1
+pri_0100.parse 2 16 predicted scale-v scale.01 ----- 16:0-rel  17:1-ARG5 18:2-ARG1
+pri_0100.parse 2 32 predicted say-v say.01 ----- 32:0-rel  27:2-ARG0 33:3-ARG1
+pri_0100.parse 2 36 predicted require-v require.01 ----- 36:0-rel  33:1-ARG1 37:1-ARGM-TMP
+pri_0100.parse 2 41 predicted strike-v strike.01 ----- 41:0-rel  38:1-ARG0 40:0-ARGM-MOD 42:1-ARG1
+pri_0100.parse 3 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+pri_0100.parse 3 7 predicted have-v have.03 ----- 7:0-rel  5:1-ARG1 6:1-ARG0
+pri_0100.parse 3 13 predicted need-v need.01 ----- 13:0-rel  9:2-ARG0 12:1-R-ARG0 14:2-ARG1
+pri_0100.parse 3 16 predicted clarify-v clarify.01 ----- 16:0-rel  12:1-ARG1
+pri_0100.parse 4 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+pri_0100.parse 5 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+pri_0100.parse 5 7 predicted focus-v focus.01 ----- 7:0-rel  6:1-ARG0 8:1-ARG2
+pri_0100.parse 6 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+pri_0100.parse 6 15 predicted dismantle-v dismantle.01 ----- 15:0-rel  5:2-ARG1 13:0-ARGM-MOD 16:1-ARGM-ADV
+pri_0100.parse 6 20 predicted reach-v reach.01 ----- 20:0-rel  17:1-ARG1
+pri_0100.parse 7 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:3-ARG1
+pri_0100.parse 7 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:1-ARG2
+pri_0100.parse 8 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+pri_0100.parse 8 7 predicted protect-v protect.01 ----- 7:0-rel  8:2-ARG1
+pri_0100.parse 8 19 predicted be-v be.01 ----- 19:0-rel  4:1-ARGM-LOC 15:1-ARG1
+pri_0100.parse 8 22 predicted forgo-v forgo.- ----- 22:0-rel  15:1-ARG0
+pri_0100.parse 9 6 predicted kill-v kill.01 ----- 6:0-rel  0:2-ARG1 7:1-ARGM-LOC 14:1-ARGM-TMP

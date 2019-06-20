@@ -1,0 +1,25 @@
+pri_0015.parse 0 4 predicted share-v share.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-MOD
+pri_0015.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+pri_0015.parse 2 4 predicted report-v report.01 ----- 4:0-rel  0:2-ARG0
+pri_0015.parse 3 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+pri_0015.parse 3 7 predicted award-v award.01 ----- 7:0-rel  4:1-ARG2
+pri_0015.parse 3 17 predicted combine-v combine.01 ----- 17:0-rel  16:1-R-ARG3 18:1-ARG1
+pri_0015.parse 4 8 predicted develop-v develop.02 ----- 8:0-rel  0:1-ARGM-PRD 5:2-ARG0
+pri_0015.parse 4 10 predicted exchange-v exchange.01 ----- 10:0-rel  0:1-ARGM-ADV 5:2-ARG0
+pri_0015.parse 5 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARGM-DIS 4:1-ARG1 7:1-ARG2
+pri_0015.parse 5 13 predicted be-v be.01 ----- 13:0-rel  10:1-ARG1 14:2-ARG2
+pri_0015.parse 5 20 predicted study-v study.01 ----- 20:0-rel  21:1-ARG1
+pri_0015.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+pri_0015.parse 6 9 predicted include-v include.01 ----- 9:0-rel  5:2-ARG2 10:2-ARG1
+pri_0015.parse 6 13 predicted decide-v decide.01 ----- 13:0-rel  10:1-ARGM-MNR 11:1-ARG0 14:1-ARG1
+pri_0015.parse 7 2 predicted create-v create.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+pri_0015.parse 7 4 predicted aim-v aim.02 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+pri_0015.parse 7 6 predicted figure-v figure.05 ----- 6:0-rel  8:3-ARG1
+pri_0015.parse 7 10 predicted make-v make.04 ----- 10:0-rel  8:2-ARG0 11:2-ARG1
+pri_0015.parse 7 19 predicted get-v get.03 ----- 19:0-rel  20:1-ARG2
+pri_0015.parse 7 20 predicted marry-v marry.01 ----- 20:0-rel  17:1-ARGM-TMP
+pri_0015.parse 7 26 predicted have-v have.05 ----- 26:0-rel  23:1-ARG0
+pri_0015.parse 8 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 3:3-ARG1
+pri_0015.parse 8 5 predicted use-v use.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD 6:2-ARG1 13:2-ARG2
+pri_0015.parse 8 14 predicted support-v support.01 ----- 14:0-rel  3:1-ARG0 15:2-ARG1
+pri_0015.parse 9 3 predicted travel-v travel.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-TMP 4:1-ARG1

@@ -1,0 +1,20 @@
+pri_0014.parse 0 15 predicted settle-v settle.02 ----- 15:0-rel  0:2-ARG1
+pri_0014.parse 1 5 predicted apologize-v apologize.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG2
+pri_0014.parse 1 10 predicted say-v say.01 ----- 10:0-rel  7:1-ARG0 9:1-R-ARG0 11:3-ARG1
+pri_0014.parse 1 13 predicted molest-v molest.- ----- 13:0-rel  11:1-ARG1 14:1-ARG0 18:2-ARGM-TMP
+pri_0014.parse 1 20 predicted be-v be.01 ----- 20:0-rel  18:1-ARGM-TMP 19:1-ARG1 21:1-ARG2
+pri_0014.parse 2 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-DIR
+pri_0014.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+pri_0014.parse 3 5 predicted abuse-v abuse.01 ----- 5:0-rel  3:1-ARG1 6:1-ARG0 9:1-ARGM-TMP
+pri_0014.parse 4 9 predicted receive-v receive.01 ----- 9:0-rel  0:1-ARGM-ADV 6:1-ARG0 8:0-ARGM-MOD 10:1-ARG1 11:1-ARGM-ADV
+pri_0014.parse 4 17 predicted keep-v keep.02 ----- 17:0-rel  12:1-ARG1 18:2-C-ARG1
+pri_0014.parse 5 3 predicted call-v call.03 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS
+pri_0014.parse 5 14 predicted read-v read.01 ----- 14:0-rel  11:1-R-ARG1 12:0-ARGM-MOD
+pri_0014.parse 6 3 predicted represent-v represent.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+pri_0014.parse 6 5 predicted allege-v allege.01 ----- 5:0-rel  6:0-ARG1
+pri_0014.parse 7 3 predicted burden-v burden.01 ----- 3:0-rel  0:1-ARG1
+pri_0014.parse 8 4 predicted keep-v keep.02 ----- 4:0-rel  0:1-ARGM-EXT 3:1-ARG0
+pri_0014.parse 9 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP 4:1-ARG2
+pri_0014.parse 9 6 predicted live-v live.01 ----- 6:0-rel  0:1-ARG0 7:1-ARGM-LOC
+pri_0014.parse 10 2 predicted face-v face.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-NEG 3:2-ARG1 9:1-ARGM-CAU
+pri_0014.parse 10 14 predicted expire-v expire.01 ----- 14:0-rel  10:2-ARG1 15:1-ARGM-TMP

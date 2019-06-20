@@ -1,0 +1,11 @@
+cnn_0072.parse 0 3 predicted place-v place.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2 6:1-ARGM-ADV
+cnn_0072.parse 0 10 predicted stay-v stay.01 ----- 10:0-rel  7:1-ARG1 11:1-ARGM-ADV
+cnn_0072.parse 0 13 predicted search-v search.01 ----- 13:0-rel  12:1-ARG0 14:1-ARG1
+cnn_0072.parse 1 2 predicted order-v order.02 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+cnn_0072.parse 2 4 predicted kill-v kill.01 ----- 4:0-rel  0:1-ARG1
+cnn_0072.parse 2 7 predicted wounded-v wounded.- ----- 7:0-rel  6:1-ARG1 8:2-ARGM-TMP
+cnn_0072.parse 2 15 predicted leave-v leave.02 ----- 15:0-rel  12:1-ARG0 14:1-R-ARG0 16:1-ARG1 19:1-ARGM-LOC
+cnn_0072.parse 3 2 predicted send-v send.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2 5:2-ARGM-PRP
+cnn_0072.parse 3 6 predicted collect-v collect.01 ----- 6:0-rel  7:1-ARG1
+cnn_0072.parse 3 9 predicted schedule-v schedule.01 ----- 9:0-rel  0:2-ARG0 10:2-ARG1
+cnn_0072.parse 3 11 predicted leave-v leave.01 ----- 11:0-rel  0:2-ARG0 12:1-ARGM-TMP

@@ -1,0 +1,10 @@
+cnn_0238.parse 0 5 predicted endorse-v endorse.01 ----- 5:0-rel  0:1-ARG0 4:1-ARGM-MNR 6:1-ARG1 9:1-ARGM-LOC
+cnn_0238.parse 1 8 predicted clash-v clash.01 ----- 8:0-rel  0:1-ARGM-TMP 5:1-ARG0 9:1-ARG1
+cnn_0238.parse 2 7 predicted accuse-v accuse.01 ----- 7:0-rel  0:1-ARGM-ADV 3:1-ARG0 8:1-ARG1 11:1-ARG2
+cnn_0238.parse 2 12 predicted provide-v provide.01 ----- 12:0-rel  8:1-ARG0 13:1-ARG1 15:1-ARG2
+cnn_0238.parse 3 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+cnn_0238.parse 3 7 predicted be-v be.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+cnn_0238.parse 3 14 predicted have-v have.03 ----- 14:0-rel  5:1-ARG0 15:2-ARG1
+cnn_0238.parse 3 17 predicted do-v do.04 ----- 17:0-rel  15:1-ARG0 18:1-ARG1
+cnn_0238.parse 3 25 predicted make-v make.04 ----- 25:0-rel  23:1-ARG0 26:2-ARG1
+cnn_0238.parse 3 31 predicted lie-v lie.01 ----- 31:0-rel  28:1-ARG2 29:1-ARG1

@@ -1,0 +1,21 @@
+cnn_0315.parse 0 7 predicted do-v do.02 ----- 7:0-rel  0:2-ARG0 8:2-ARG1
+cnn_0315.parse 0 12 predicted see-v see.01 ----- 12:0-rel  0:2-ARG0 13:1-ARGM-LOC
+cnn_0315.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0315.parse 1 7 predicted detain-v detain.01 ----- 7:0-rel  3:1-ARG0 6:1-ARGM-MNR 8:2-ARG1
+cnn_0315.parse 1 11 predicted exhibit-v exhibit.01 ----- 11:0-rel  8:1-ARG0 10:1-R-ARG0 12:1-ARG1
+cnn_0315.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0315.parse 2 5 predicted have-v have.03 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+cnn_0315.parse 2 12 predicted use-v use.01 ----- 12:0-rel  13:1-ARG1
+cnn_0315.parse 3 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2
+cnn_0315.parse 3 5 predicted put-v put.01 ----- 5:0-rel  2:1-ARG0 6:2-ARG1 10:1-ARG2 12:1-ARGM-ADV
+cnn_0315.parse 4 6 predicted be-v be.02 ----- 6:0-rel  0:1-ARGM-LOC 7:3-ARG1
+cnn_0315.parse 4 9 predicted document-v document.01 ----- 9:0-rel  10:0-ARG1
+cnn_0315.parse 5 6 predicted originate-v originate.01 ----- 6:0-rel  2:1-ARGM-LOC 4:1-R-ARGM-LOC 5:1-ARG1
+cnn_0315.parse 5 9 predicted be-v be.03 ----- 9:0-rel  0:2-ARG1
+cnn_0315.parse 5 12 predicted hit-v hit.01 ----- 12:0-rel  0:2-ARG0 10:1-ARGM-MNR 14:1-ARGM-ADV
+cnn_0315.parse 6 10 predicted be-v be.02 ----- 10:0-rel  0:1-ARGM-LOC 6:1-ARGM-DIS 11:2-ARG1
+cnn_0315.parse 7 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-ADV
+cnn_0315.parse 7 10 predicted suspect-v suspect.01 ----- 10:0-rel  6:1-ARG0 11:1-ARG1
+cnn_0315.parse 7 16 predicted put-v put.01 ----- 16:0-rel  14:1-ARGM-ADV 17:2-ARG1 21:1-ARG2
+cnn_0315.parse 7 31 predicted die-v die.01 ----- 31:0-rel  24:1-ARGM-LOC 29:1-ARG1 32:1-ARGM-TMP 34:1-ARGM-CAU 39:1-ARGM-ADV
+cnn_0315.parse 7 42 predicted die-v die.01 ----- 42:0-rel  40:1-ARG1 43:1-ARGM-TMP 45:1-ARGM-CAU

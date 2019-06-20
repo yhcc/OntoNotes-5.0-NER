@@ -1,0 +1,35 @@
+chtb_0116.parse 1 5 predicted build-v build.01 ----- 5:0-rel  4:0-ARGM-TMP 6:0-ARG1 7:0-C-ARG1 8:0-C-ARG1
+chtb_0116.parse 1 10 predicted make-v make.02 ----- 10:0-rel  0:1-ARGM-LOC
+chtb_0116.parse 1 18 predicted improve-v improve.01 ----- 18:0-rel  16:1-ARGM-DIS 17:1-ARGM-EXT
+chtb_0116.parse 1 22 predicted exist-v exist.01 ----- 22:0-rel  23:0-ARG1 24:0-C-ARG1
+chtb_0116.parse 2 6 predicted build-v build.01 ----- 6:0-rel  1:1-ARG1 4:1-R-ARG1 7:1-ARGM-LOC
+chtb_0116.parse 2 30 predicted establish-v establish.01 ----- 30:0-rel  0:1-ARGM-LOC 11:2-ARG0
+chtb_0116.parse 3 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+chtb_0116.parse 3 23 predicted re-shipped-v re-shipped.- ----- 23:0-rel  10:2-ARG1 24:1-ARGM-MNR
+chtb_0116.parse 3 40 predicted change-v change.01 ----- 40:0-rel  6:3-ARG1 38:0-ARGM-MOD 41:1-ARGM-EXT
+chtb_0116.parse 4 14 predicted build-v build.01 ----- 14:0-rel  0:1-ARGM-TMP 5:1-ARG1 12:1-ARGM-TMP 15:1-ARGM-LOC 18:1-ARGM-LOC
+chtb_0116.parse 6 22 predicted have-v have.03 ----- 22:0-rel  10:2-ARG0 23:2-ARG1
+chtb_0116.parse 6 37 predicted hoist-v hoist.01 ----- 37:0-rel  32:1-ARG1 35:0-ARGM-MOD 38:1-ARGM-TMP
+chtb_0116.parse 7 1 predicted end-v end.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+chtb_0116.parse 8 1 predicted concern-v concern.01 ----- 1:0-rel  0:1-ARG1
+chtb_0116.parse 8 2 predicted analyse-v analyse.- ----- 2:0-rel  0:2-ARG0 3:1-ARG1
+chtb_0116.parse 8 5 predicted accelerate-v accelerate.01 ----- 5:0-rel  6:2-ARG1
+chtb_0116.parse 8 10 predicted handle-v handle.01 ----- 10:0-rel  9:1-ARG0 11:1-ARG1
+chtb_0116.parse 8 32 predicted open-v open.03 ----- 32:0-rel  27:1-ARG1 34:1-ARG3
+chtb_0116.parse 9 6 predicted connect-v connect.01 ----- 6:0-rel  0:2-ARG2 7:2-ARG1
+chtb_0116.parse 9 20 predicted complete-v complete.01 ----- 20:0-rel  0:3-ARG1 13:1-ARG0 21:1-ARGM-MNR 22:1-ARGM-TMP
+chtb_0116.parse 10 8 predicted pass-v pass.03 ----- 8:0-rel  2:1-ARGM-LOC 3:2-ARG1 9:1-ARGM-LOC
+chtb_0116.parse 10 17 predicted benefit-v benefit.01 ----- 17:0-rel  13:1-ARG1 15:1-R-ARG1 18:1-ARGM-EXT
+chtb_0116.parse 11 36 predicted crisscross-v crisscross.- ----- 36:0-rel  0:1-ARGM-TMP 3:2-ARG0 37:1-ARG1
+chtb_0116.parse 12 2 predicted emerge-v emerge.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0116.parse 14 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0116.parse 14 30 predicted reach-v reach.01 ----- 30:0-rel  5:1-ARGM-LOC 10:2-ARG0 29:1-ARGM-TMP 31:2-ARG1
+chtb_0116.parse 15 4 predicted include-v include.01 ----- 4:0-rel  0:1-ARG2 5:1-ARG1
+chtb_0116.parse 15 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1
+chtb_0116.parse 15 10 predicted improve-v improve.01 ----- 10:0-rel  0:2-ARG0 9:1-ARGM-ADV 11:1-ARG1
+chtb_0116.parse 16 8 predicted improve-v improve.01 ----- 8:0-rel  0:1-ARGM-TMP 6:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+chtb_0116.parse 16 16 predicted build-v build.01 ----- 16:0-rel  0:1-ARGM-TMP 6:1-ARG0 7:0-ARGM-MOD
+chtb_0116.parse 16 24 predicted include-v include.01 ----- 24:0-rel  17:2-ARG2 25:1-ARG1
+chtb_0116.parse 17 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0
+chtb_0116.parse 17 15 predicted end-v end.01 ----- 15:0-rel  14:0-ARGM-TMP 16:0-ARG1
+chtb_0116.parse 17 37 predicted make-v make.04 ----- 37:0-rel  33:1-ARG1 35:0-ARGM-MOD 47:1-ARGM-TMP

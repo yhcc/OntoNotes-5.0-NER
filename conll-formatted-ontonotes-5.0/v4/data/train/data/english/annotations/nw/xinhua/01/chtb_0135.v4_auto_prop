@@ -1,0 +1,23 @@
+chtb_0135.parse 1 2 predicted learn-v learn.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+chtb_0135.parse 1 27 predicted develop-v develop.01 ----- 27:0-rel  11:1-ARGM-TMP 25:1-ARG1 28:1-ARGM-MNR
+chtb_0135.parse 2 11 predicted exceed-v exceed.01 ----- 11:0-rel  0:1-ARGM-TMP 2:3-ARG0 12:3-ARG1
+chtb_0135.parse 2 16 predicted increase-v increase.01 ----- 16:0-rel  12:2-ARG1 17:1-ARG2 19:1-ARGM-ADV
+chtb_0135.parse 2 19 predicted compare-v compare.01 ----- 19:0-rel  17:1-ARG1 20:1-ARG2
+chtb_0135.parse 2 23 predicted open-v open.01 ----- 23:0-rel  21:1-ARGM-TMP 22:1-ARG1 24:1-ARGM-PNC
+chtb_0135.parse 3 6 predicted found-v found.01 ----- 6:0-rel  0:2-ARG1 7:1-ARGM-TMP
+chtb_0135.parse 3 14 predicted approve-v approve.01 ----- 14:0-rel  0:2-ARG1 15:1-ARG0
+chtb_0135.parse 4 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+chtb_0135.parse 4 12 predicted invest-v invest.01 ----- 12:0-rel  2:2-ARG1 11:1-ARGM-ADV 13:1-ARGM-MNR
+chtb_0135.parse 4 15 predicted buy-v buy.01 ----- 15:0-rel  14:1-ARG1 16:1-ARG0
+chtb_0135.parse 4 18 predicted run-v run.01 ----- 18:0-rel  17:1-ARG1 19:1-ARG0
+chtb_0135.parse 5 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+chtb_0135.parse 6 2 predicted provide-v provide.01 ----- 2:0-rel  0:1-ARG0
+chtb_0135.parse 6 9 predicted run-v run.01 ----- 9:0-rel  8:0-ARGM-MNR 10:0-ARG1
+chtb_0135.parse 6 12 predicted scale-v scale.01 ----- 12:0-rel  13:0-ARG1 14:0-C-ARG1
+chtb_0135.parse 7 7 predicted provide-v provide.01 ----- 7:0-rel  0:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV
+chtb_0135.parse 7 18 predicted own-v own.01 ----- 18:0-rel  16:0-ARG0 19:0-ARG1
+chtb_0135.parse 8 15 predicted invest-v invest.01 ----- 15:0-rel  0:1-ARGM-ADV 4:2-ARG1 16:1-ARG2
+chtb_0135.parse 9 9 predicted establish-v establish.01 ----- 9:0-rel  0:1-ARGM-TMP 3:2-ARG0
+chtb_0135.parse 9 20 predicted have-v have.03 ----- 20:0-rel  0:1-ARGM-TMP 3:2-ARG0 21:1-ARG1
+chtb_0135.parse 9 24 predicted make-v make.05 ----- 24:0-rel  25:1-ARG1 26:1-ARGM-TMP 27:1-ARGM-TMP
+chtb_0135.parse 9 37 predicted establish-v establish.01 ----- 37:0-rel  0:1-ARGM-TMP 3:2-ARG0 36:1-ARGM-MNR 38:1-ARG1 42:1-ARGM-LOC

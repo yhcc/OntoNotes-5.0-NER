@@ -1,0 +1,17 @@
+cnn_0148.parse 1 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:3-ARG1
+cnn_0148.parse 1 10 predicted run-v run.02 ----- 10:0-rel  7:1-ARG0 8:0-ARGM-MOD 9:0-ARGM-NEG 11:1-ARG1
+cnn_0148.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+cnn_0148.parse 2 9 predicted make-v make.02 ----- 9:0-rel  2:2-ARG0 10:2-ARG1
+cnn_0148.parse 2 13 predicted form-v form.01 ----- 13:0-rel  14:1-ARG1
+cnn_0148.parse 2 19 predicted last-v last.01 ----- 19:0-rel  17:0-ARGM-EXT 20:0-ARG1
+cnn_0148.parse 3 2 predicted come-v come.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+cnn_0148.parse 3 7 predicted refuse-v refuse.01 ----- 7:0-rel  4:2-ARG0 8:2-ARG1
+cnn_0148.parse 3 9 predicted call-v call.03 ----- 9:0-rel  4:2-ARG0 10:1-ARG1 11:1-ARGM-MNR
+cnn_0148.parse 4 3 predicted leave-v leave.02 ----- 3:0-rel  0:2-ARG0 4:2-ARG1 8:1-ARG2
+cnn_0148.parse 4 12 predicted run-v run.02 ----- 12:0-rel  9:1-ARG0 13:1-ARGM-ADV
+cnn_0148.parse 4 25 predicted tell-v tell.01 ----- 25:0-rel  20:2-ARG0 26:1-ARG2
+cnn_0148.parse 4 30 predicted consider-v consider.02 ----- 30:0-rel  28:1-ARG0 31:2-ARG1
+cnn_0148.parse 4 31 predicted run-v run.02 ----- 31:0-rel  28:1-ARG0
+cnn_0148.parse 5 4 predicted call-v call.03 ----- 4:0-rel  0:1-ARG1 5:2-ARGM-TMP
+cnn_0148.parse 5 8 predicted resign-v resign.- ----- 8:0-rel  5:1-ARGM-TMP 6:1-ARG0 7:1-ARGM-MNR 9:2-ARGM-TMP
+cnn_0148.parse 6 4 predicted take-v take.14 ----- 4:0-rel  0:1-ARG1 1:0-ARGM-MOD 2:1-ARGM-ADV 5:1-ARG2 6:1-ARGM-TMP

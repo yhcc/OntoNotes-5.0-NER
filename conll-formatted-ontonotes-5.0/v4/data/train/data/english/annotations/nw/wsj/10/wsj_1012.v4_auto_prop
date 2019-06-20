@@ -1,0 +1,14 @@
+wsj_1012.parse 1 10 predicted begin-v begin.01 ----- 10:0-rel  0:3-ARG1 9:0-ARGM-MOD 11:2-C-ARG1
+wsj_1012.parse 1 11 predicted transmit-v transmit.01 ----- 11:0-rel  0:3-ARG0 12:1-ARG1
+wsj_1012.parse 1 16 predicted select-v select.01 ----- 16:0-rel  17:0-ARG1
+wsj_1012.parse 2 8 predicted aim-v aim.02 ----- 8:0-rel  0:1-ARG1 6:0-ARGM-MOD
+wsj_1012.parse 2 21 predicted be-v be.01 ----- 21:0-rel  17:1-ARGM-LOC 18:1-ARG1 22:0-ARGM-NEG 23:1-ARG2 24:1-ARGM-TMP
+wsj_1012.parse 3 7 predicted have-v have.03 ----- 7:0-rel  0:1-ARGM-LOC 4:1-ARG0 8:1-ARG1
+wsj_1012.parse 3 16 predicted consider-v consider.01 ----- 16:0-rel  12:1-ARG0 17:1-ARG1
+wsj_1012.parse 4 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2 2:1-ARG1
+wsj_1012.parse 5 11 predicted name-v name.01 ----- 11:0-rel  0:2-ARG1
+wsj_1012.parse 5 21 predicted succeed-v succeed.02 ----- 21:0-rel  0:2-ARG0 22:1-ARG1
+wsj_1012.parse 6 15 predicted take-v take.01 ----- 15:0-rel  0:2-ARG1 10:2-ARG0 16:2-ARG1 21:1-ARGM-TMP
+wsj_1012.parse 7 2 predicted look-v look.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_1012.parse 7 12 predicted try-v try.01 ----- 12:0-rel  0:1-ARG0 13:2-ARG1
+wsj_1012.parse 7 14 predicted sell-v sell.01 ----- 14:0-rel  0:1-ARG0 15:1-ARG1

@@ -1,0 +1,6 @@
+wsj_2371.parse 0 8 predicted elect-v elect.01 ----- 8:0-rel  0:2-ARG1 9:3-ARG2
+wsj_2371.parse 1 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:3-ARG2
+wsj_2371.parse 2 9 predicted be-v be.01 ----- 9:0-rel  7:1-R-ARG1
+wsj_2371.parse 2 10 predicted act-v act.01 ----- 10:0-rel  7:1-ARG0 11:0-ARG1 12:0-C-ARG1
+wsj_2371.parse 2 18 predicted continue-v continue.01 ----- 18:0-rel  0:3-ARG1 17:0-ARGM-MOD 19:1-ARGM-MNR
+wsj_2371.parse 3 11 predicted resign-v resign.- ----- 11:0-rel  0:3-ARG0 12:1-ARGM-TMP

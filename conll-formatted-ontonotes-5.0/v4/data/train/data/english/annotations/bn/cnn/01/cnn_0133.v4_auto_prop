@@ -1,0 +1,18 @@
+cnn_0133.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:3-ARG1
+cnn_0133.parse 0 7 predicted pardon-v pardon.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 10:2-ARG1
+cnn_0133.parse 0 9 predicted release-v release.01 ----- 9:0-rel  5:1-ARG0 6:0-ARGM-MOD 10:2-ARG1
+cnn_0133.parse 1 3 predicted convict-v convict.01 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-TMP 6:1-ARG2
+cnn_0133.parse 1 10 predicted sentence-v sentence.01 ----- 10:0-rel  0:1-ARG0 11:1-ARG1 12:1-ARG2
+cnn_0133.parse 2 1 predicted deny-v deny.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0133.parse 2 5 predicted appeal-v appeal.02 ----- 5:0-rel  0:1-ARG0 6:1-ARG1 8:1-ARG2
+cnn_0133.parse 2 10 predicted say-v say.01 ----- 10:0-rel  0:1-ARG0 11:3-ARG1
+cnn_0133.parse 2 12 predicted need-v need.01 ----- 12:0-rel  11:1-ARG0 13:1-ARG1
+cnn_0133.parse 3 2 predicted suffer-v suffer.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0133.parse 4 5 predicted jail-v jail.01 ----- 5:0-rel  0:1-ARG1 6:1-ARGM-LOC 8:1-ARGM-TMP
+cnn_0133.parse 4 13 predicted try-v try.01 ----- 13:0-rel  12:1-ARG0 14:2-ARG1
+cnn_0133.parse 4 15 predicted obtain-v obtain.01 ----- 15:0-rel  12:1-ARG0 16:2-ARG1
+cnn_0133.parse 5 3 predicted run-v run.01 ----- 3:0-rel  0:1-ARG0 2:1-R-ARG0 4:1-ARG1
+cnn_0133.parse 5 9 predicted insist-v insist.01 ----- 9:0-rel  0:2-ARG0 10:3-ARG1
+cnn_0133.parse 5 12 predicted be-v be.01 ----- 12:0-rel  10:1-ARG1 13:1-ARG2
+cnn_0133.parse 6 4 predicted praise-v praise.01 ----- 4:0-rel  0:1-ARG0
+cnn_0133.parse 6 8 predicted release-v release.01 ----- 8:0-rel  9:1-ARG1

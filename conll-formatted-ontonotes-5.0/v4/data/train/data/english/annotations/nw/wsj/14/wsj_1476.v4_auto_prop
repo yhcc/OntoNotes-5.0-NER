@@ -1,0 +1,13 @@
+wsj_1476.parse 0 7 predicted say-v say.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+wsj_1476.parse 0 18 predicted propose-v propose.01 ----- 18:0-rel  19:0-ARG1
+wsj_1476.parse 1 6 predicted ask-v ask.02 ----- 6:0-rel  0:2-ARG0
+wsj_1476.parse 2 5 predicted include-v include.01 ----- 5:0-rel  6:2-ARG1
+wsj_1476.parse 2 11 predicted say-v say.01 ----- 11:0-rel  0:2-ARG0 12:3-ARG1
+wsj_1476.parse 2 14 predicted be-v be.01 ----- 14:0-rel  12:1-ARG1 15:1-ARG2
+wsj_1476.parse 3 3 predicted base-v base.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+wsj_1476.parse 3 7 predicted say-v say.01 ----- 7:0-rel  0:2-ARG0 8:3-ARG1
+wsj_1476.parse 3 11 predicted proceed-v proceed.01 ----- 11:0-rel  8:1-ARG0 10:0-ARGM-MOD 12:1-ARGM-MNR
+wsj_1476.parse 3 15 predicted submit-v submit.01 ----- 15:0-rel  8:1-ARG0 16:2-ARG1
+wsj_1476.parse 3 18 predicted request-v request.01 ----- 18:0-rel  16:1-ARG1
+wsj_1476.parse 4 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:3-ARG1
+wsj_1476.parse 4 15 predicted encourage-v encourage.01 ----- 15:0-rel  10:1-ARG1 13:1-ARGM-EXT 16:0-ARG2

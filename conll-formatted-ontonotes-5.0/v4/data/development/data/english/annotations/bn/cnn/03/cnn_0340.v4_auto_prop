@@ -1,0 +1,26 @@
+cnn_0340.parse 0 2 predicted make-v make.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0340.parse 0 12 predicted kill-v kill.01 ----- 12:0-rel  9:1-ARG0 11:0-ARGM-NEG 13:1-ARG1
+cnn_0340.parse 0 22 predicted make-v make.02 ----- 22:0-rel  19:1-ARG0
+cnn_0340.parse 0 29 predicted go-v go.02 ----- 29:0-rel  23:1-ARG1 25:1-ARG0 28:0-ARGM-NEG 30:1-ARGM-MNR
+cnn_0340.parse 1 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 3:0-ARGM-MOD
+cnn_0340.parse 1 10 predicted die-v die.01 ----- 10:0-rel  9:1-ARG1
+cnn_0340.parse 1 15 predicted search-v search.01 ----- 15:0-rel  13:1-ARG0 16:1-ARG1
+cnn_0340.parse 1 19 predicted struggle-v struggle.02 ----- 19:0-rel  13:1-ARG0 20:1-ARG1
+cnn_0340.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+cnn_0340.parse 5 14 predicted confess-v confess.01 ----- 14:0-rel  2:2-ARG0
+cnn_0340.parse 5 29 predicted lie-v lie.01 ----- 29:0-rel  22:1-ARG1 30:2-ARG2
+cnn_0340.parse 6 1 predicted tell-v tell.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 3:3-ARG1
+cnn_0340.parse 6 7 predicted cope-v cope.01 ----- 7:0-rel  3:1-ARG0 4:0-ARGM-MOD 5:1-ARGM-NEG
+cnn_0340.parse 7 10 predicted say-v say.01 ----- 10:0-rel  0:2-ARG0 11:3-ARG1
+cnn_0340.parse 7 12 predicted feel-v feel.01 ----- 12:0-rel  11:1-ARG0
+cnn_0340.parse 7 13 predicted gut-v gut.- ----- 13:0-rel  11:1-ARG1 14:2-ARGM-TMP
+cnn_0340.parse 7 16 predicted see-v see.01 ----- 16:0-rel  14:1-ARGM-TMP 15:1-ARG0
+cnn_0340.parse 8 6 predicted pull-v pull.01 ----- 6:0-rel  3:1-ARG0 7:1-ARG1 9:1-ARG2
+cnn_0340.parse 8 11 predicted hold-v hold.04 ----- 11:0-rel  3:1-ARG0 12:1-ARG1
+cnn_0340.parse 8 16 predicted know-v know.01 ----- 16:0-rel  0:2-ARGM-TMP 15:1-ARG0 17:3-ARG1
+cnn_0340.parse 10 1 predicted sell-v sell.01 ----- 1:0-rel  2:1-ARG1 3:1-ARG2 5:2-ARGM-TMP
+cnn_0340.parse 11 1 predicted explain-v explain.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 4:1-ARG1
+cnn_0340.parse 15 1 predicted send-v send.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1 5:1-ARG2
+cnn_0340.parse 16 3 predicted clear-v clear.01 ----- 3:0-rel  1:1-ARG1
+cnn_0340.parse 16 6 predicted make-v make.03 ----- 6:0-rel  0:1-ARGM-TMP 5:1-ARG0
+cnn_0340.parse 16 8 predicted wait-v wait.01 ----- 8:0-rel  7:1-ARG1 9:1-ARG2

@@ -1,0 +1,26 @@
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 0 2 gold have-v have.01 ----- 2:0-rel
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 0 3 gold announce-v announce.01 ----- 3:0-rel 0:1-ARG0 4:2-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 0 5 gold rule-n rule.01 ----- 5:0-rel 4:0-ARGM-TMP 6:3-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 0 7 gold cut-v cut.02 ----- 7:0-rel 8:2-ARG1 4:1-LINK-SLC
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 1 2 gold apply-v apply.02 ----- 2:0-rel 0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2 10:2-ARGM-ADV
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 1 9 gold sell-v sell.01 ----- 9:0-rel 4:2-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 1 10 gold begin-v begin.01 ----- 10:0-rel 11:1-ARGM-TMP
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 2 1 gold rule-n rule.01 ----- 1:0-rel
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 2 3 gold toughen-v toughen.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 2 8 gold require-v require.01 ----- 8:0-rel 0:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 2 12 gold be-v be.03 ----- 12:0-rel
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 2 13 gold make-v make.01 ----- 13:0-rel 14:1-ARG2
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 3 2 gold have-v have.01 ----- 2:0-rel
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 3 4 gold drive-v drive.01 ----- 4:0-rel 3:1-ARGM-TMP 5:1-ARGM-LOC 0:1-LINK-SLC
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 3 11 gold know-v know.01 ----- 11:0-rel 0:2-ARG0 12:1-ARGM-MNR 15:2-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 4 3 gold follow-v follow.01 ----- 3:0-rel 0:1-LINK-SLC
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 4 4 gold be-v be.01 ----- 4:0-rel 0:2-ARG1 7:2-ARG2
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 4 12 gold induce-v induce.01 ----- 12:0-rel 11:0-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 4 15 gold be-v be.01 ----- 15:0-rel 14:1-ARG1 16:2-ARG2
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 5 2 gold include-v include.01 ----- 2:0-rel 0:1-ARG2 3:1,5:1,8:1,11:1-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 6 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 6 4 gold cut-v cut.02 ----- 4:0-rel 5:2-ARG1 11:1-ARG2 14:1-ARGM-TMP
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 7 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 7 3 gold reduction-n reduction.01 ----- 3:0-rel 4:1-ARGM-MNR
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 7 7 gold be-v be.01 ----- 7:0-rel 2:2-ARG1 6:0-ARGM-MOD 8:1-ARG2
+bn/cnn/01/cnn_0154@0154@cnn@bn@en@on 7 10 gold take-v take.03 ----- 10:0-rel 11:2-ARG1 14:1-ARG2

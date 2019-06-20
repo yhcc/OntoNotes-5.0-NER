@@ -1,0 +1,8 @@
+cnn_0204.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0204.parse 1 5 predicted dig-v dig.01 ----- 5:0-rel  2:1-ARG1
+cnn_0204.parse 1 7 predicted try-v try.01 ----- 7:0-rel  8:2-ARG1
+cnn_0204.parse 1 9 predicted fend-v fend.01 ----- 9:0-rel  2:1-ARG0 11:2-ARG1
+cnn_0204.parse 1 13 predicted make-v make.01 ----- 13:0-rel  11:1-ARG0 14:1-ARG1
+cnn_0204.parse 2 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:5-ARG1
+cnn_0204.parse 2 11 predicted kill-v kill.01 ----- 11:0-rel  4:3-ARG1 12:1-ARG2
+cnn_0204.parse 2 15 predicted call-v call.01 ----- 15:0-rel  13:1-ARG1 14:1-ARG0 16:3-ARG2

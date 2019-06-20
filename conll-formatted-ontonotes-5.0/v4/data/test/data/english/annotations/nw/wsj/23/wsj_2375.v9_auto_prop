@@ -1,0 +1,18 @@
+wsj_2375.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:3-ARG1
+wsj_2375.parse 0 6 predicted reduce-v reduce.01 ----- 6:0-rel  5:1-ARG0
+wsj_2375.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_2375.parse 1 4 predicted reduce-v reduce.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1 13:1-ARG4 17:1-ARG3
+wsj_2375.parse 1 23 predicted keep-v keep.02 ----- 23:0-rel  3:1-ARG0 22:0-ARGM-MOD 24:1-ARG1 26:1-ARG2
+wsj_2375.parse 2 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+wsj_2375.parse 2 9 predicted call-v call.01 ----- 9:0-rel  7:0-ARGM-MNR 10:0-ARG2 11:0-C-ARG2
+wsj_2375.parse 3 3 predicted require-v require.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+wsj_2375.parse 3 7 predicted divest-v divest.01 ----- 7:0-rel  5:1-ARG0 8:1-ARG2 9:1-ARG1 13:1-ARGM-TMP
+wsj_2375.parse 4 3 predicted be-v be.01 ----- 3:0-rel  0:2-ARG1 4:0-ARGM-NEG 5:1-ARG2
+wsj_2375.parse 6 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+wsj_2375.parse 6 7 predicted downgrade-v downgrade.01 ----- 7:0-rel  6:1-ARG0 8:1-ARG1 10:1-ARG4
+wsj_2375.parse 7 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0
+wsj_2375.parse 7 22 predicted cite-v cite.01 ----- 22:0-rel  23:2-ARG1
+wsj_2375.parse 8 3 predicted have-v have.03 ----- 3:0-rel  1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+wsj_2375.parse 8 8 predicted get-v get.05 ----- 8:0-rel  6:1-ARG0 9:1-ARG2
+wsj_2375.parse 8 15 predicted say-v say.01 ----- 15:0-rel  16:2-ARG0
+wsj_2375.parse 9 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1

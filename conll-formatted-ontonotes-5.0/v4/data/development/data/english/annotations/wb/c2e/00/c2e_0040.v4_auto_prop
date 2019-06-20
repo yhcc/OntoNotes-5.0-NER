@@ -1,0 +1,53 @@
+c2e_0040.parse 5 2 predicted keep-v keep.02 ----- 2:0-rel  0:1-ARG0
+c2e_0040.parse 5 10 predicted clean-v clean.01 ----- 10:0-rel  8:1-ARG1
+c2e_0040.parse 5 14 predicted know-v know.01 ----- 14:0-rel  13:1-ARG0 15:3-ARG1
+c2e_0040.parse 5 17 predicted claim-v claim.01 ----- 17:0-rel  15:1-ARG0 16:0-ARGM-MOD 18:1-ARG1 20:1-ARGM-ADV
+c2e_0040.parse 5 23 predicted go-v go.04 ----- 23:0-rel  21:1-ARG0 22:1-ARGM-MNR
+c2e_0040.parse 5 25 predicted clean-v clean.01 ----- 25:0-rel  21:1-ARG0 26:1-ARG1 28:1-ARGM-TMP
+c2e_0040.parse 5 31 predicted leave-v leave.01 ----- 31:0-rel  32:1-ARG1 33:2-ARG2
+c2e_0040.parse 6 11 predicted crouch-v crouch.- ----- 11:0-rel  1:1-ARG0 12:1-ARGM-LOC 15:1-ARGM-MNR 18:1-ARGM-TMP
+c2e_0040.parse 6 25 predicted erupt-v erupt.01 ----- 25:0-rel  0:1-ARGM-TMP 23:1-ARG1 26:1-ARGM-TMP 29:1-ARGM-TMP
+c2e_0040.parse 6 31 predicted graduated-v graduated.- ----- 31:0-rel  30:1-ARG0
+c2e_0040.parse 6 33 predicted found-v found.01 ----- 33:0-rel  30:1-ARG0 34:1-ARG1
+c2e_0040.parse 7 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 5:2-ARG1
+c2e_0040.parse 7 10 predicted make-v make.02 ----- 10:0-rel  9:1-ARG0 11:2-ARG1
+c2e_0040.parse 7 12 predicted decide-v decide.01 ----- 12:0-rel  11:1-ARG0 13:1-ARGM-TMP 14:2-ARG1
+c2e_0040.parse 7 15 predicted eliminate-v eliminate.01 ----- 15:0-rel  11:1-ARG0 16:2-ARG1
+c2e_0040.parse 8 3 predicted cause-v cause.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG0
+c2e_0040.parse 9 14 predicted lead-v lead.03 ----- 14:0-rel  6:1-ARG0 13:1-R-ARG0 15:1-ARG2
+c2e_0040.parse 10 8 predicted eat-v eat.01 ----- 8:0-rel  5:1-ARGM-TMP 6:1-ARG0 9:1-ARG1
+c2e_0040.parse 10 16 predicted ache-v ache.- ----- 16:0-rel  0:1-ARGM-CAU 13:1-ARG1 15:1-ARGM-MNR 17:1-ARGM-TMP
+c2e_0040.parse 11 2 predicted hear-v hear.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1 7:1-ARGM-TMP
+c2e_0040.parse 11 10 predicted eat-v eat.01 ----- 10:0-rel  8:1-ARG0
+c2e_0040.parse 11 17 predicted fall-v fall.01 ----- 17:0-rel  13:2-ARG1 18:1-ARG2
+c2e_0040.parse 12 3 predicted remember-v remember.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG
+c2e_0040.parse 12 4 predicted eat-v eat.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 6:1-ARGM-MNR
+c2e_0040.parse 13 1 predicted rush-v rush.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+c2e_0040.parse 13 7 predicted say-v say.01 ----- 7:0-rel  3:1-ARG0 6:1-R-ARG0 8:2-ARG1 11:1-ARGM-TMP
+c2e_0040.parse 13 12 predicted see-v see.01 ----- 12:0-rel  13:1-ARG1
+c2e_0040.parse 13 19 predicted come-v come.01 ----- 19:0-rel  15:1-ARG1 20:1-ARGM-DIR 21:1-ARGM-TMP
+c2e_0040.parse 14 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+c2e_0040.parse 14 7 predicted mean-v mean.01 ----- 7:0-rel  4:1-ARG1 5:1-ARG0
+c2e_0040.parse 14 9 predicted think-v think.01 ----- 9:0-rel  0:1-ARG0 10:3-ARG1
+c2e_0040.parse 15 4 predicted begin-v begin.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+c2e_0040.parse 15 6 predicted receive-v receive.01 ----- 6:0-rel  3:1-ARG0 7:1-ARG1 8:1-ARG2
+c2e_0040.parse 15 10 predicted found-v found.01 ----- 10:0-rel  9:1-ARG0 11:1-ARG1 12:2-ARGM-MNR
+c2e_0040.parse 16 2 predicted kill-v kill.01 ----- 2:0-rel  3:1-ARG1
+c2e_0040.parse 16 7 predicted deal-v deal.01 ----- 7:0-rel  8:1-ARG1
+c2e_0040.parse 17 1 predicted ask-v ask.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 4:1-ARGM-TMP 5:2-ARG1
+c2e_0040.parse 17 8 predicted break-v break.01 ----- 8:0-rel  5:1-ARGM-CAU 6:1-ARG1
+c2e_0040.parse 18 1 predicted examine-v examine.01 ----- 1:0-rel  2:1-ARG1
+c2e_0040.parse 18 8 predicted tell-v tell.01 ----- 8:0-rel  0:1-ARGM-TMP 6:1-ARG0 9:1-ARG2 10:1-ARGM-MNR 11:1-ARG1
+c2e_0040.parse 18 18 predicted be-v be.01 ----- 18:0-rel  12:2-ARG1 19:1-ARG2
+c2e_0040.parse 18 22 predicted bite-v bite.01 ----- 22:0-rel  21:0-ARG1
+c2e_0040.parse 18 43 predicted be-v be.01 ----- 43:0-rel  37:1-ARG1 44:1-ARGM-TMP 45:1-ARG2
+c2e_0040.parse 19 4 predicted lead-v lead.03 ----- 4:0-rel  0:1-ARG0 5:1-ARG2
+c2e_0040.parse 19 9 predicted result-v result.01 ----- 9:0-rel  10:1-ARG2
+c2e_0040.parse 20 1 predicted ask-v ask.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+c2e_0040.parse 20 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+c2e_0040.parse 21 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 4:1-ARG1
+c2e_0040.parse 22 6 predicted run-v run.02 ----- 6:0-rel  5:1-ARG0
+c2e_0040.parse 22 16 predicted step-v step.01 ----- 16:0-rel  0:1-ARGM-DIS 15:1-ARG1 17:1-ARG2 22:1-ARGM-TMP
+c2e_0040.parse 24 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+c2e_0040.parse 24 12 predicted be-v be.01 ----- 12:0-rel  9:2-ARG1 13:1-ARG2
+c2e_0040.parse 25 1 predicted be-v be.01 ----- 1:0-rel  2:1-ARG1

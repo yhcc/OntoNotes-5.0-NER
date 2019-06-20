@@ -1,0 +1,13 @@
+voa_0169.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+voa_0169.parse 0 4 predicted have-v have.03 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+voa_0169.parse 0 8 predicted complete-v complete.01 ----- 8:0-rel  3:1-ARG0
+voa_0169.parse 1 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:1-ARGM-TMP
+voa_0169.parse 1 8 predicted have-v have.03 ----- 8:0-rel  7:1-ARG0 9:1-ARG1
+voa_0169.parse 1 12 predicted press-v press.01 ----- 12:0-rel  7:1-ARG0 13:2-ARG1
+voa_0169.parse 1 15 predicted finish-v finish.01 ----- 15:0-rel  13:1-ARG0 16:2-ARG1
+voa_0169.parse 2 1 predicted make-v make.04 ----- 1:0-rel  0:1-ARG0
+voa_0169.parse 2 15 predicted rule-v rule.03 ----- 15:0-rel  14:0-ARG0 16:0-ARG1
+voa_0169.parse 3 1 predicted halt-v halt.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-LOC 6:1-ARGM-TMP
+voa_0169.parse 3 9 predicted follow-v follow.01 ----- 9:0-rel  10:2-ARG2
+voa_0169.parse 3 18 predicted provide-v provide.01 ----- 18:0-rel  17:1-R-ARG0
+voa_0169.parse 4 3 predicted coincide-v coincide.- ----- 3:0-rel  0:2-ARG1 4:1-ARG1

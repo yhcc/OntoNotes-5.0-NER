@@ -1,0 +1,14 @@
+cnn_0162.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0162.parse 0 11 predicted accuse-v accuse.01 ----- 11:0-rel  9:1-ARG1 12:1-ARGM-LOC
+cnn_0162.parse 1 7 predicted kill-v kill.01 ----- 7:0-rel  0:2-ARG2 8:1-ARG1
+cnn_0162.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0162.parse 2 11 predicted close-v close.01 ----- 11:0-rel  8:1-ARG0 12:3-ARG1
+cnn_0162.parse 3 4 predicted take-v take.10 ----- 4:0-rel  0:2-ARG0 3:0-ARGM-MOD 5:1-ARG1
+cnn_0162.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0162.parse 4 5 predicted orchestrate-v orchestrate.01 ----- 5:0-rel  2:1-ARG1 6:1-ARG0
+cnn_0162.parse 5 3 predicted stand-v stand.04 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+cnn_0162.parse 5 6 predicted accuse-v accuse.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+cnn_0162.parse 5 8 predicted serve-v serve.01 ----- 8:0-rel  9:1-ARG1
+cnn_0162.parse 6 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+cnn_0162.parse 6 7 predicted believe-v believe.01 ----- 7:0-rel  5:1-ARG1 8:2-R-ARG1
+cnn_0162.parse 6 10 predicted involve-v involve.01 ----- 10:0-rel  11:1-ARG2

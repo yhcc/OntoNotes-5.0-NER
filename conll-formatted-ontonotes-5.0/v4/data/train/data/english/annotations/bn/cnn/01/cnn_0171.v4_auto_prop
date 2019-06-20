@@ -1,0 +1,17 @@
+cnn_0171.parse 0 5 predicted lead-v lead.03 ----- 5:0-rel  0:2-ARG0 6:1-ARG2
+cnn_0171.parse 1 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0171.parse 2 9 predicted sentence-v sentence.01 ----- 9:0-rel  0:1-ARGM-TMP 5:1-ARG1 10:1-ARG2
+cnn_0171.parse 2 19 predicted leave-v leave.02 ----- 19:0-rel  16:1-ARG0 18:1-R-ARG0
+cnn_0171.parse 3 6 predicted stick-v stick.01 ----- 6:0-rel  0:1-ARG1
+cnn_0171.parse 3 13 predicted shoot-v shoot.02 ----- 13:0-rel  10:1-ARGM-TMP 11:1-ARG1 14:1-ARGM-PRD 16:1-ARGM-TMP
+cnn_0171.parse 4 4 predicted suspect-v suspect.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+cnn_0171.parse 4 10 predicted flee-v flee.01 ----- 10:0-rel  0:1-ARG0 11:1-ARG1 15:1-ARGM-TMP
+cnn_0171.parse 4 19 predicted arrest-v arrest.01 ----- 19:0-rel  16:1-ARG1 17:0-ARGM-MOD
+cnn_0171.parse 5 3 predicted catch-v catch.04 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-TMP 5:1-ARG2 7:1-ARGM-TMP
+cnn_0171.parse 6 2 predicted bring-v bring.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2 8:2-ARGM-PRP
+cnn_0171.parse 6 9 predicted stand-v stand.04 ----- 9:0-rel  10:1-ARG2
+cnn_0171.parse 7 1 predicted claim-v claim.01 ----- 1:0-rel  0:1-ARG0
+cnn_0171.parse 7 5 predicted work-v work.01 ----- 5:0-rel  4:1-R-ARG0 6:1-ARG1
+cnn_0171.parse 8 2 predicted convict-v convict.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0171.parse 8 9 predicted sentence-v sentence.01 ----- 9:0-rel  0:1-ARG1 10:1-ARG2
+cnn_0171.parse 9 4 predicted reject-v reject.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1

@@ -1,0 +1,21 @@
+cnn_0005.parse 0 9 predicted end-v end.02 ----- 9:0-rel  0:2-ARGM-TMP 5:1-ARG1 10:1-ARG2
+cnn_0005.parse 1 11 predicted look-v look.01 ----- 11:0-rel  0:1-ARGM-LOC 9:1-ARG0 12:1-ARG1
+cnn_0005.parse 1 27 predicted do-v do.02 ----- 27:0-rel  24:1-ARG1 25:1-ARG0 28:1-ARGM-TMP
+cnn_0005.parse 3 9 predicted acquit-v acquit.01 ----- 9:0-rel  0:1-ARGM-TMP 6:1-ARG1 10:1-ARG2
+cnn_0005.parse 4 2 predicted thrust-v thrust.- ----- 2:0-rel  0:1-ARG0 3:2-ARG1 7:1-ARG2
+cnn_0005.parse 5 1 predicted graduated-v graduated.- ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARGM-TMP
+cnn_0005.parse 5 7 predicted earn-v earn.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1 11:2-ARGM-TMP
+cnn_0005.parse 6 1 predicted join-v join.01 ----- 1:0-rel  0:1-ARG0 9:1-ARGM-TMP 11:1-ARGM-TMP
+cnn_0005.parse 6 12 predicted spend-v spend.02 ----- 12:0-rel  13:1-ARG1 15:1-ARG2
+cnn_0005.parse 7 1 predicted gain-v gain.02 ----- 1:0-rel  0:1-ARG0
+cnn_0005.parse 7 10 predicted handle-v handle.01 ----- 10:0-rel  11:4-ARG1
+cnn_0005.parse 7 18 predicted involve-v involve.01 ----- 18:0-rel  19:1-ARG1
+cnn_0005.parse 7 22 predicted take-v take.21 ----- 22:0-rel  24:1-ARG1
+cnn_0005.parse 8 2 predicted help-v help.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0005.parse 8 3 predicted convict-v convict.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0005.parse 8 26 predicted mark-v mark.01 ----- 26:0-rel  18:2-ARG0 27:2-ARG1
+cnn_0005.parse 8 28 predicted turn-v turn.02 ----- 28:0-rel  29:0-ARG1
+cnn_0005.parse 8 37 predicted divorce-v divorce.01 ----- 37:0-rel  35:0-ARGM-EXT 38:0-ARG1
+cnn_0005.parse 9 6 predicted publish-v publish.01 ----- 6:0-rel  0:1-ARGM-TMP 4:1-ARG0 7:1-ARG1
+cnn_0005.parse 9 10 predicted sell-v sell.01 ----- 10:0-rel  8:0-ARGM-MNR 11:0-ARG1
+cnn_0005.parse 10 11 predicted make-v make.04 ----- 11:0-rel  0:1-ARGM-TMP 3:1-ARG0

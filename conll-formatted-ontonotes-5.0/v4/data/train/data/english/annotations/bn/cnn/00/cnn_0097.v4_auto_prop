@@ -1,0 +1,9 @@
+cnn_0097.parse 0 4 predicted halt-v halt.01 ----- 4:0-rel  0:1-ARG0
+cnn_0097.parse 0 7 predicted recover-v recover.02 ----- 7:0-rel  8:1-ARG1 9:1-ARG2
+cnn_0097.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+cnn_0097.parse 1 7 predicted make-v make.02 ----- 7:0-rel  2:2-ARG0 8:2-ARG1
+cnn_0097.parse 1 14 predicted continue-v continue.01 ----- 14:0-rel  12:1-ARG0
+cnn_0097.parse 2 5 predicted plan-v plan.01 ----- 5:0-rel  0:1-ARG0 6:2-ARG1
+cnn_0097.parse 2 7 predicted meet-v meet.03 ----- 7:0-rel  0:1-ARG0 8:1-ARGM-TMP 9:2-ARGM-PRP
+cnn_0097.parse 2 10 predicted decide-v decide.01 ----- 10:0-rel  12:1-ARG1
+cnn_0097.parse 3 8 predicted recover-v recover.02 ----- 8:0-rel  0:2-ARG1

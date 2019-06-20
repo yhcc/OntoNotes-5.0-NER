@@ -1,0 +1,17 @@
+pri_0009.parse 0 6 predicted die-v die.01 ----- 6:0-rel  0:2-ARG1
+pri_0009.parse 1 2 predicted retire-v retire.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARGM-TMP
+pri_0009.parse 1 12 predicted serve-v serve.01 ----- 12:0-rel  13:0-ARG0
+pri_0009.parse 2 4 predicted report-v report.01 ----- 4:0-rel  0:2-ARG0 5:1-ARGM-DIR
+pri_0009.parse 3 4 predicted elect-v elect.01 ----- 4:0-rel  0:1-ARG1 3:1-ARGM-TMP 5:1-ARG2
+pri_0009.parse 3 24 predicted trounce-v trounce.- ----- 24:0-rel  18:1-ARGM-TMP 23:1-ARG0 25:1-ARG1
+pri_0009.parse 3 28 predicted face-v face.01 ----- 28:0-rel  23:1-ARG0 29:1-ARG1 30:1-ARGM-LOC
+pri_0009.parse 4 1 predicted sit-v sit.01 ----- 1:0-rel  0:1-ARG1 3:1-ARGM-TMP 5:1-ARGM-TMP
+pri_0009.parse 4 6 predicted lose-v lose.02 ----- 6:0-rel  0:1-ARG0 7:1-ARG1 11:1-ARGM-TMP
+pri_0009.parse 4 21 predicted represent-v represent.01 ----- 21:0-rel  16:1-ARGM-ADV 20:1-ARG0 22:2-ARG1
+pri_0009.parse 5 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+pri_0009.parse 5 16 predicted note-v note.01 ----- 16:0-rel  14:1-ARG1 17:1-ARG2
+pri_0009.parse 5 24 predicted finance-v finance.01 ----- 24:0-rel  22:1-ARG0 25:1-ARG1
+pri_0009.parse 6 5 predicted award-v award.01 ----- 5:0-rel  0:1-ARGM-TMP 3:1-ARG2 6:3-ARG1
+pri_0009.parse 7 2 predicted bear-v bear.02 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+pri_0009.parse 7 15 predicted walk-v walk.01 ----- 15:0-rel  10:1-ARG0 13:1-R-ARG0 14:1-ARGM-MNR
+pri_0009.parse 8 1 predicted die-v die.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP 3:1-ARGM-CAU

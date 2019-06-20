@@ -1,0 +1,12 @@
+wsj_1238.parse 1 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1238.parse 1 9 predicted retire-v retire.01 ----- 9:0-rel  4:1-ARG0 8:0-ARGM-MOD
+wsj_1238.parse 2 9 predicted succeed-v succeed.02 ----- 9:0-rel  0:2-ARG1 7:0-ARGM-MOD 10:1-ARG0
+wsj_1238.parse 3 3 predicted relinquish-v relinquish.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+wsj_1238.parse 3 16 predicted name-v name.01 ----- 16:0-rel  9:2-ARG2 14:0-ARGM-NEG 17:1-ARGM-TMP
+wsj_1238.parse 4 29 predicted fill-v fill.01 ----- 29:0-rel  30:2-ARG1
+wsj_1238.parse 4 32 predicted leave-v leave.02 ----- 32:0-rel  30:1-ARG1
+wsj_1238.parse 4 35 predicted retire-v retire.01 ----- 35:0-rel  36:0-ARG0 37:0-C-ARG0
+wsj_1238.parse 4 38 predicted wander-v wander.01 ----- 38:0-rel  34:1-ARG1 39:1-ARGM-TMP
+wsj_1238.parse 5 3 predicted continue-v continue.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 4:1-ARGM-MNR 6:1-ARG1
+wsj_1238.parse 6 6 predicted elect-v elect.01 ----- 6:0-rel  0:1-ARG1
+wsj_1238.parse 6 15 predicted fill-v fill.01 ----- 15:0-rel  0:1-ARG2 7:2-ARG0

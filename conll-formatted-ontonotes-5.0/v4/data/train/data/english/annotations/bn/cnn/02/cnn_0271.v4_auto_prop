@@ -1,0 +1,7 @@
+cnn_0271.parse 0 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0
+cnn_0271.parse 0 8 predicted hit-v hit.01 ----- 8:0-rel  6:1-ARG2
+cnn_0271.parse 1 1 predicted report-v report.01 ----- 1:0-rel  0:1-ARG0
+cnn_0271.parse 1 6 predicted wounded-v wounded.- ----- 6:0-rel  2:3-ARG1 8:2-ARG1 11:1-ARGM-MNR
+cnn_0271.parse 2 2 predicted get-v get.01 ----- 2:0-rel  3:1-ARG1
+cnn_0271.parse 2 10 predicted get-v get.01 ----- 10:0-rel  11:1-ARG1
+cnn_0271.parse 2 16 predicted happen-v happen.01 ----- 16:0-rel  14:1-ARG1 17:1-ARGM-LOC

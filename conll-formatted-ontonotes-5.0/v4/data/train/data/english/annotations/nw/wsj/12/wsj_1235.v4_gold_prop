@@ -1,0 +1,11 @@
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 0 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 0 5 gold receive-v receive.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 0 12 gold provide-v provide.01 ----- 12:0-rel 13:1-ARG1 16:1-ARG2 0:1-LINK-PCR
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 0 15 gold service-n service.01 ----- 15:0-rel 13:0*14:0-ARG1
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 1 3 gold provide-v provide.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-DIS 4:1-ARG1
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 1 10 gold service-n service.01 ----- 10:0-rel 5:2-ARG1
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 2 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 2 3 gold expect-v expect.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 2 5 gold expand-v expand.01 ----- 5:0-rel 6:2-ARG1 11:1-ARGM-ADV
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 2 10 gold service-n service.01 ----- 10:0-rel 9:0-ARG0
+nw/wsj/12/wsj_1235@1235@wsj@nw@en@on 2 13 gold add-v add.02 ----- 13:0-rel 12:1-ARG0 14:2-ARG1 18:1-ARGM-TMP

@@ -1,0 +1,39 @@
+wsj_2399.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+wsj_2399.parse 0 24 predicted compile-v compile.01 ----- 24:0-rel  25:1-ARG0
+wsj_2399.parse 2 14 predicted price-v price.01 ----- 14:0-rel  15:1-ARG2
+wsj_2399.parse 3 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+wsj_2399.parse 3 19 predicted price-v price.01 ----- 19:0-rel  0:2-ARG1 20:1-ARG2
+wsj_2399.parse 4 28 predicted sell-v sell.01 ----- 28:0-rel  23:1-ARG1 26:0-ARGM-MOD 29:1-ARGM-MNR
+wsj_2399.parse 4 31 predicted lead-v lead.02 ----- 31:0-rel  30:1-ARG1 32:1-ARG0
+wsj_2399.parse 6 13 predicted price-v price.01 ----- 13:0-rel  14:1-ARG2 16:2-ARGM-PRP
+wsj_2399.parse 6 17 predicted yield-v yield.01 ----- 17:0-rel  18:1-ARG1
+wsj_2399.parse 7 7 predicted put-v put.01 ----- 7:0-rel  0:1-ARG1 4:1-R-ARG1 5:0-ARGM-MOD 8:1-ARG2 12:1-ARGM-TMP
+wsj_2399.parse 7 16 predicted price-v price.01 ----- 16:0-rel  0:2-ARG1 17:1-ARG2
+wsj_2399.parse 8 20 predicted sell-v sell.01 ----- 20:0-rel  16:1-ARG1 18:0-ARGM-MOD 21:1-ARGM-MNR
+wsj_2399.parse 8 23 predicted lead-v lead.02 ----- 23:0-rel  22:1-ARG1 24:1-ARG0
+wsj_2399.parse 10 7 predicted offer-v offer.01 ----- 7:0-rel  0:3-ARG1 8:1-ARGM-MNR 11:1-ARG0
+wsj_2399.parse 11 6 predicted back-v back.01 ----- 6:0-rel  0:1-ARG1 3:1-C-ARG1 7:1-ARG0
+wsj_2399.parse 11 27 predicted price-v price.01 ----- 27:0-rel  0:2-ARG1 28:1-ARGM-TMP
+wsj_2399.parse 12 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARGM-ADV 4:1-ARG1 6:1-ARG2
+wsj_2399.parse 12 9 predicted range-v range.01 ----- 9:0-rel  0:1-ARGM-LOC 8:1-ARG1
+wsj_2399.parse 14 7 predicted offer-v offer.01 ----- 7:0-rel  0:3-ARG1 8:1-ARG0
+wsj_2399.parse 15 7 predicted back-v back.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG0
+wsj_2399.parse 16 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:0-ARGM-NEG 4:1-ARGM-TMP 5:1-ARG2
+wsj_2399.parse 18 4 predicted strip-v strip.01 ----- 4:0-rel  5:0-ARG1 6:0-C-ARG1
+wsj_2399.parse 18 7 predicted underwrite-v underwrite.01 ----- 7:0-rel  0:3-ARG1 8:1-ARG0
+wsj_2399.parse 19 7 predicted collateralized-v collateralized.- ----- 7:0-rel  0:2-ARG1 8:1-ARG0
+wsj_2399.parse 19 14 predicted pool-v pool.01 ----- 14:0-rel  9:2-ARG1 15:1-ARG2
+wsj_2399.parse 19 19 predicted call-v call.01 ----- 19:0-rel  16:1-ARG1 20:1-ARG2
+wsj_2399.parse 19 25 predicted divide-v divide.02 ----- 25:0-rel  0:3-ARG1 23:0-ARGM-MOD 26:1-ARG2
+wsj_2399.parse 20 4 predicted sell-v sell.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG0
+wsj_2399.parse 21 7 predicted repackage-v repackage.- ----- 7:0-rel  0:1-ARG1 5:0-ARGM-MOD 8:1-ARG0 11:1-ARG2
+wsj_2399.parse 21 22 predicted have-v have.03 ----- 22:0-rel  20:1-ARG0 21:0-ARGM-MOD 23:1-ARG1
+wsj_2399.parse 22 7 predicted sell-v sell.01 ----- 7:0-rel  0:1-ARG1 5:0-ARGM-MOD 8:1-ARGM-MNR 9:1-ARG0
+wsj_2399.parse 23 5 predicted pay-v pay.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1 17:1-ARGM-ADV
+wsj_2399.parse 23 23 predicted pay-v pay.01 ----- 23:0-rel  18:1-ARG0 24:1-ARG1
+wsj_2399.parse 24 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_2399.parse 24 9 predicted price-v price.01 ----- 9:0-rel  3:1-ARG1 10:1-ARG2 13:2-ARGM-PRP
+wsj_2399.parse 24 14 predicted yield-v yield.01 ----- 14:0-rel  3:1-ARG0 15:1-ARG1
+wsj_2399.parse 24 18 predicted assume-v assume.02 ----- 18:0-rel  3:1-ARG0
+wsj_2399.parse 25 6 predicted price-v price.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG2 10:2-ARGM-PRP
+wsj_2399.parse 25 11 predicted yield-v yield.01 ----- 11:0-rel  0:1-ARG0 12:1-ARG1

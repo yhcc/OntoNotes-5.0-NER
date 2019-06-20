@@ -1,0 +1,48 @@
+cnn_0276.parse 0 1 predicted hold-v hold.04 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 6:1-ARGM-LOC 8:1-ARGM-ADV
+cnn_0276.parse 0 8 predicted mourn-v mourn.01 ----- 8:0-rel  9:2-ARG1
+cnn_0276.parse 1 2 predicted kill-v kill.01 ----- 2:0-rel  0:1-ARG2 3:1-ARG1 5:1-ARGM-LOC 7:1-ARGM-TMP
+cnn_0276.parse 2 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0276.parse 2 6 predicted target-v target.01 ----- 6:0-rel  3:1-ARG0 5:1-ARGM-MNR 7:2-ARG1
+cnn_0276.parse 3 3 predicted deny-v deny.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0276.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0276.parse 4 5 predicted used-v used.- ----- 5:0-rel  2:1-ARG1 6:1-ARG0
+cnn_0276.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0276.parse 5 5 predicted cover-v cover.03 ----- 5:0-rel  2:1-ARGM-MNR 3:1-ARG0 6:2-ARG1
+cnn_0276.parse 5 10 predicted translate-v translate.01 ----- 10:0-rel  11:0-ARG1
+cnn_0276.parse 7 6 predicted shell-v shell.- ----- 6:0-rel  7:1-ARG1
+cnn_0276.parse 7 17 predicted target-v target.01 ----- 17:0-rel  13:1-R-ARG1 16:1-ARG2
+cnn_0276.parse 8 3 predicted target-v target.01 ----- 3:0-rel  0:1-ARG0
+cnn_0276.parse 8 11 predicted go-v go.15 ----- 11:0-rel  4:2-ARG1 13:2-ARGM-ADV
+cnn_0276.parse 8 13 predicted shell-v shell.- ----- 13:0-rel  4:2-ARG0
+cnn_0276.parse 8 18 predicted result-v result.01 ----- 18:0-rel  14:1-ARG1 17:1-R-ARG1 19:1-ARG2
+cnn_0276.parse 9 7 predicted target-v target.01 ----- 7:0-rel  0:1-ARG2 4:1-ARGM-DIS 6:0-ARG0 8:2-ARG1
+cnn_0276.parse 9 13 predicted be-v be.01 ----- 13:0-rel  8:1-ARG1 12:1-R-ARG1 14:1-ARGM-DIS
+cnn_0276.parse 9 20 predicted surned-v surned.- ----- 20:0-rel  8:1-ARG1 12:1-R-ARG1 14:1-ARGM-DIS 15:1-ARGM-ADV 21:1-ARG0
+cnn_0276.parse 10 4 predicted target-v target.01 ----- 4:0-rel  0:1-ARG2 5:1-ARG1
+cnn_0276.parse 10 13 predicted work-v work.01 ----- 13:0-rel  6:1-ARGM-LOC 9:1-R-ARGM-LOC 10:1-ARG0
+cnn_0276.parse 12 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0276.parse 12 6 predicted put-v put.01 ----- 6:0-rel  2:1-ARG0 5:0-ARGM-NEG 7:1-ARG1 10:1-ARG2
+cnn_0276.parse 13 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:0-ARGM-NEG 6:1-ARG2
+cnn_0276.parse 14 6 predicted appreciate-v appreciate.02 ----- 6:0-rel  0:2-ARG0 5:0-ARGM-NEG 7:2-ARG1
+cnn_0276.parse 15 6 predicted face-v face.01 ----- 6:0-rel  0:1-ARG0 2:1-ARGM-DIS 7:1-ARG1
+cnn_0276.parse 16 12 predicted report-v report.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG1
+cnn_0276.parse 16 21 predicted kill-v kill.01 ----- 21:0-rel  16:1-ARG1 19:1-R-ARG1 22:1-ARGM-TMP 23:1-ARGM-LOC
+cnn_0276.parse 16 28 predicted kill-v kill.01 ----- 28:0-rel  16:2-ARG1 29:1-ARGM-LOC
+cnn_0276.parse 17 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+cnn_0276.parse 18 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1
+cnn_0276.parse 19 3 predicted wounded-v wounded.- ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+cnn_0276.parse 20 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0276.parse 20 7 predicted respond-v respond.01 ----- 7:0-rel  4:1-ARG0 8:1-ARG1
+cnn_0276.parse 20 11 predicted describe-v describe.01 ----- 11:0-rel  9:1-ARG1 10:1-ARG0 12:1-ARG2
+cnn_0276.parse 20 18 predicted come-v come.01 ----- 18:0-rel  16:1-ARG1 19:1-ARGM-DIR 21:1-ARG3
+cnn_0276.parse 21 9 predicted know-v know.01 ----- 9:0-rel  6:1-ARG0 8:1-R-ARG0
+cnn_0276.parse 21 15 predicted cover-v cover.03 ----- 15:0-rel  16:1-ARG1
+cnn_0276.parse 22 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0276.parse 22 8 predicted happen-v happen.01 ----- 8:0-rel  5:1-ARG1 6:0-ARGM-MOD 9:1-ARGM-ADV
+cnn_0276.parse 22 12 predicted understand-v understand.01 ----- 12:0-rel  11:1-ARG0
+cnn_0276.parse 26 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0276.parse 26 4 predicted bear-v bear.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+cnn_0276.parse 27 2 predicted happen-v happen.01 ----- 2:0-rel  1:1-ARG1
+cnn_0276.parse 27 7 predicted hit-v hit.01 ----- 7:0-rel  4:1-ARGM-CAU 5:1-ARG1
+cnn_0276.parse 28 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG1 5:1-ARGM-ADV
+cnn_0276.parse 29 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1

@@ -1,0 +1,47 @@
+cnn_0241.parse 0 6 predicted accuse-v accuse.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+cnn_0241.parse 0 8 predicted drop-v drop.01 ----- 8:0-rel  0:2-ARG0 9:1-ARG1
+cnn_0241.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0241.parse 3 1 predicted measure-v measure.01 ----- 1:0-rel  0:1-ARGM-DIS 2:2-ARG1
+cnn_0241.parse 3 6 predicted land-v land.01 ----- 6:0-rel  2:1-ARGM-LOC 4:1-R-ARGM-LOC 5:1-ARG0 7:1-ARGM-TMP
+cnn_0241.parse 3 10 predicted throw-v throw.01 ----- 10:0-rel  8:1-ARG1 11:1-ARG2
+cnn_0241.parse 4 2 predicted fall-v fall.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0241.parse 5 3 predicted cushion-v cushion.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0241.parse 5 7 predicted save-v save.02 ----- 7:0-rel  0:1-ARG0 8:1-ARG1
+cnn_0241.parse 6 6 predicted want-v want.01 ----- 6:0-rel  0:2-ARG0 5:0-ARGM-NEG 7:2-ARG1
+cnn_0241.parse 6 9 predicted show-v show.01 ----- 9:0-rel  7:1-ARG1 10:1-ARGM-LOC
+cnn_0241.parse 6 14 predicted tell-v tell.01 ----- 14:0-rel  0:2-ARG0 15:1-ARG2 16:3-ARG1
+cnn_0241.parse 7 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+cnn_0241.parse 8 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0241.parse 10 11 predicted charge-v charge.05 ----- 11:0-rel  0:1-ARGM-TMP 2:2-ARG1 12:1-ARG2
+cnn_0241.parse 10 13 predicted attempt-v attempt.01 ----- 13:0-rel  14:0-ARG1
+cnn_0241.parse 11 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+cnn_0241.parse 11 4 predicted start-v start.01 ----- 4:0-rel  2:2-ARG1
+cnn_0241.parse 11 12 predicted got-v got.- ----- 12:0-rel  10:1-ARGM-TMP 11:1-ARG1 13:1-ARG2
+cnn_0241.parse 12 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0241.parse 12 3 predicted date-v date.02 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 5:1-ARGM-TMP
+cnn_0241.parse 13 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0241.parse 13 4 predicted kidnap-v kidnap.01 ----- 4:0-rel  2:1-ARG0 3:1-ARGM-ADV 5:1-ARG1
+cnn_0241.parse 13 7 predicted threaten-v threaten.01 ----- 7:0-rel  2:1-ARG0 3:1-ARGM-ADV 8:1-ARG2
+cnn_0241.parse 13 11 predicted bring-v bring.01 ----- 11:0-rel  2:1-ARG0 10:1-ARGM-TMP 12:1-ARG1 13:1-ARG2
+cnn_0241.parse 14 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0241.parse 14 4 predicted say-v say.01 ----- 4:0-rel  2:1-ARGM-TMP 3:1-ARG0 5:3-ARG1
+cnn_0241.parse 14 6 predicted grab-v grab.01 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+cnn_0241.parse 15 6 predicted pick-v pick.04 ----- 6:0-rel  0:2-ARG0 5:1-ARGM-ADV 7:1-ARG1
+cnn_0241.parse 15 11 predicted dangedled-v dangedled.- ----- 11:0-rel  0:2-ARG0 5:1-ARGM-ADV 12:1-ARG1 13:1-ARGM-LOC
+cnn_0241.parse 15 17 predicted pull-v pull.01 ----- 17:0-rel  0:2-ARG0 18:1-ARG1
+cnn_0241.parse 16 5 predicted make-v make.04 ----- 5:0-rel  0:1-ARGM-TMP 1:2-ARG0 6:2-ARG1
+cnn_0241.parse 17 8 predicted pick-v pick.04 ----- 8:0-rel  0:1-ARGM-TMP 7:1-ARG0 10:1-ARG1 12:1-ARGM-TMP
+cnn_0241.parse 17 16 predicted throw-v throw.01 ----- 16:0-rel  0:1-ARGM-TMP 7:1-ARG0 14:1-ARGM-TMP 17:1-ARG1 18:1-ARG2
+cnn_0241.parse 18 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:4-ARG1
+cnn_0241.parse 18 7 predicted pull-v pull.01 ----- 7:0-rel  3:2-ARG0 9:1-ARG1
+cnn_0241.parse 19 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD
+cnn_0241.parse 19 4 predicted say-v say.01 ----- 4:0-rel  3:1-ARG0
+cnn_0241.parse 19 6 predicted go-v go.02 ----- 6:0-rel  7:1-ARGM-DIR
+cnn_0241.parse 19 9 predicted kill-v kill.01 ----- 9:0-rel  10:1-ARG1
+cnn_0241.parse 20 7 predicted stab-v stab.01 ----- 7:0-rel  0:1-ARGM-TMP 3:2-ARG0 8:1-ARG1 9:2-ARG3
+cnn_0241.parse 21 1 predicted bleed-v bleed.01 ----- 1:0-rel  0:1-ARGM-TMP 3:1-ARG1
+cnn_0241.parse 21 4 predicted run-v run.02 ----- 4:0-rel  0:2-R-ARG0 3:1-ARG0 5:1-ARGM-DIR
+cnn_0241.parse 21 7 predicted scoop-v scoop.02 ----- 7:0-rel  0:2-R-ARG0 3:1-ARG0 9:1-ARG1
+cnn_0241.parse 21 13 predicted take-v take.01 ----- 13:0-rel  0:2-ARG0 3:1-ARG0 14:1-ARG1 16:1-ARG2
+cnn_0241.parse 22 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0241.parse 22 6 predicted found-v found.01 ----- 6:0-rel  0:1-ARG0 7:2-ARG1 11:1-ARGM-LOC

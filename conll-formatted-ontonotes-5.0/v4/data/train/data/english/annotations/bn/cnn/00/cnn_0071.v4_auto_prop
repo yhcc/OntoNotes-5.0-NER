@@ -1,0 +1,10 @@
+cnn_0071.parse 0 2 predicted block-v block.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0071.parse 0 8 predicted follow-v follow.01 ----- 8:0-rel  9:2-ARG2
+cnn_0071.parse 1 4 predicted load-v load.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 7:1-ARG2
+cnn_0071.parse 1 10 predicted head-v head.02 ----- 10:0-rel  0:1-ARG0 11:1-ARG1
+cnn_0071.parse 2 1 predicted hit-v hit.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARGM-LOC
+cnn_0071.parse 2 6 predicted blow-v blow.06 ----- 6:0-rel  0:1-ARG0 7:1-ARG1
+cnn_0071.parse 3 5 predicted hurt-v hurt.01 ----- 5:0-rel  0:1-ARG1 4:1-ARGM-MNR
+cnn_0071.parse 4 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0071.parse 4 6 predicted receive-v receive.01 ----- 6:0-rel  4:1-ARG0 7:1-ARG1
+cnn_0071.parse 4 15 predicted claim-v claim.01 ----- 15:0-rel  10:1-ARG0 16:1-ARG1

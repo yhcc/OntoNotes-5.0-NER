@@ -1,0 +1,9 @@
+cnn_0073.parse 0 1 predicted post-v post.01 ----- 1:0-rel  0:1-ARG0
+cnn_0073.parse 0 11 predicted help-v help.01 ----- 11:0-rel  12:1-ARG0
+cnn_0073.parse 1 8 predicted say-v say.01 ----- 8:0-rel  0:1-ARG0 9:3-ARG1
+cnn_0073.parse 1 11 predicted unveil-v unveil.01 ----- 11:0-rel  9:1-ARG0 10:0-ARGM-MOD 12:1-ARG1
+cnn_0073.parse 1 13 predicted restructure-v restructure.01 ----- 13:0-rel  14:0-ARG1
+cnn_0073.parse 1 19 predicted concentrate-v concentrate.01 ----- 19:0-rel  17:0-R-ARG0 18:0-ARGM-MOD 20:1-ARG1
+cnn_0073.parse 1 26 predicted boost-v boost.01 ----- 26:0-rel  18:0-ARGM-MOD 25:1-ARGM-ADV 27:1-ARG1
+cnn_0073.parse 1 28 predicted sag-v sag.01 ----- 28:0-rel  29:0-ARG1 30:0-C-ARG1
+cnn_0073.parse 2 4 predicted fall-v fall.01 ----- 4:0-rel  0:2-ARG1 5:2-ARG2 9:1-ARGM-TMP

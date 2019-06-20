@@ -1,0 +1,9 @@
+voa_0219.parse 0 4 predicted issue-v issue.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+voa_0219.parse 0 10 predicted warn-v warn.01 ----- 10:0-rel  9:1-ARG0 11:1-ARG1
+voa_0219.parse 1 3 predicted specify-v specify.01 ----- 3:0-rel  0:1-ARG1
+voa_0219.parse 1 11 predicted close-v close.01 ----- 11:0-rel  5:2-ARG1 12:1-ARGM-TMP 13:1-ARGM-PNC
+voa_0219.parse 1 16 predicted call-v call.01 ----- 16:0-rel  14:1-ARG1 15:1-ARG0 17:1-ARG2
+voa_0219.parse 2 3 predicted reopen-v reopen.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 4:2-ARGM-TMP
+voa_0219.parse 3 6 predicted caution-v caution.01 ----- 6:0-rel  0:1-ARG0 3:2-ARGM-LOC 7:0-ARG1
+voa_0219.parse 4 2 predicted issue-v issue.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP 5:1-ARGM-TMP
+voa_0219.parse 4 5 predicted follow-v follow.01 ----- 5:0-rel  6:2-ARG2

@@ -1,0 +1,12 @@
+cnn_0135.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:2-ARG0 4:4-ARG1
+cnn_0135.parse 0 10 predicted allow-v allow.01 ----- 10:0-rel  4:2-ARG0 8:0-ARGM-MOD 9:0-ARGM-NEG 11:3-ARG1
+cnn_0135.parse 0 24 predicted extradite-v extradite.01 ----- 24:0-rel  11:2-ARG1
+cnn_0135.parse 1 1 predicted tell-v tell.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2
+cnn_0135.parse 1 10 predicted search-v search.01 ----- 10:0-rel  7:1-ARG0 9:1-ARGM-TMP 11:1-ARG1
+cnn_0135.parse 1 13 predicted suspect-v suspect.01 ----- 13:0-rel  14:0-ARG1
+cnn_0135.parse 1 23 predicted speculate-v speculate.01 ----- 23:0-rel  20:1-ARG0 21:0-ARGM-MOD 22:0-ARGM-NEG 24:1-ARG1
+cnn_0135.parse 1 25 predicted suspect-v suspect.01 ----- 25:0-rel  26:0-ARG1
+cnn_0135.parse 1 31 predicted involve-v involve.01 ----- 31:0-rel  25:2-ARG1
+cnn_0135.parse 2 4 predicted plan-v plan.01 ----- 4:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:2-ARG1
+cnn_0135.parse 2 6 predicted try-v try.02 ----- 6:0-rel  3:1-ARG0 7:2-ARG1
+cnn_0135.parse 2 15 predicted kill-v kill.01 ----- 15:0-rel  10:1-ARG0 14:1-R-ARG0 16:1-ARG1

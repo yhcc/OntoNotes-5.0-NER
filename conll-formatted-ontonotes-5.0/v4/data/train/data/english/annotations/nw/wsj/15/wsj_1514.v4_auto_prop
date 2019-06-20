@@ -1,0 +1,16 @@
+wsj_1514.parse 0 11 predicted say-v say.01 ----- 11:0-rel  0:2-ARG0 12:4-ARG1
+wsj_1514.parse 0 15 predicted control-v control.01 ----- 15:0-rel  12:1-ARG1 16:1-ARG0
+wsj_1514.parse 0 22 predicted raise-v raise.01 ----- 22:0-rel  12:2-ARG0 28:1-ARGM-TMP 29:1-ARG4
+wsj_1514.parse 1 13 predicted base-v base.01 ----- 13:0-rel  10:1-ARGM-LOC 14:0-ARG1 15:0-C-ARG1
+wsj_1514.parse 1 21 predicted boost-v boost.01 ----- 21:0-rel  0:2-ARG0 22:1-ARG1 24:1-ARGM-LOC 26:1-ARG4
+wsj_1514.parse 2 3 predicted follow-v follow.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+wsj_1514.parse 2 9 predicted make-v make.03 ----- 9:0-rel  7:1-ARG1 10:1-ARGM-TMP
+wsj_1514.parse 3 7 predicted shrink-v shrink.01 ----- 7:0-rel  0:1-ARGM-TMP 3:2-ARG1 8:1-ARG4 11:1-ARGM-TMP
+wsj_1514.parse 4 4 predicted view-v view.02 ----- 4:0-rel  1:1-ARG0 3:1-ARGM-MNR 5:1-ARG1 7:1-ARG2
+wsj_1514.parse 4 16 predicted say-v say.01 ----- 16:0-rel  13:1-ARG0 17:0-ARG1
+wsj_1514.parse 5 2 predicted refuse-v refuse.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_1514.parse 5 4 predicted comment-v comment.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+wsj_1514.parse 5 11 predicted use-v use.01 ----- 11:0-rel  8:1-ARG0 10:0-ARGM-MOD 12:1-ARG1 14:1-ARG2 17:2-ARG2
+wsj_1514.parse 5 18 predicted launch-v launch.01 ----- 18:0-rel  8:1-ARG0 19:2-ARG1
+wsj_1514.parse 6 1 predicted make-v make.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+wsj_1514.parse 6 13 predicted have-v have.03 ----- 13:0-rel  0:1-ARG0 14:2-ARG1

@@ -1,0 +1,4 @@
+wsj_1061.parse 0 2 predicted award-v award.01 ----- 2:0-rel  0:1-ARG0
+wsj_1061.parse 1 2 predicted exercise-v exercise.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_1061.parse 1 7 predicted extend-v extend.01 ----- 7:0-rel  3:1-ARG0 8:2-ARG1
+wsj_1061.parse 1 10 predicted give-v give.01 ----- 10:0-rel  8:1-ARG1 11:1-ARGM-TMP

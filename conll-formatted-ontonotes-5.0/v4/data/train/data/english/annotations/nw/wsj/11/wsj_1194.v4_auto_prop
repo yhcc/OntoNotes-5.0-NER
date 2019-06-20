@@ -1,0 +1,18 @@
+wsj_1194.parse 0 4 predicted agree-v agree.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+wsj_1194.parse 0 6 predicted acquire-v acquire.01 ----- 6:0-rel  0:1-ARG0
+wsj_1194.parse 1 4 predicted make-v make.03 ----- 4:0-rel  0:1-ARG1 2:0-ARGM-MOD 5:1-ARGM-MNR
+wsj_1194.parse 1 18 predicted say-v say.01 ----- 18:0-rel  0:2-ARG1 15:1-ARG0 19:1-ARGM-TMP 20:0-ARGM-DIS
+wsj_1194.parse 2 2 predicted raise-v raise.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1 7:1-ARG4
+wsj_1194.parse 2 15 predicted agree-v agree.01 ----- 15:0-rel  0:1-ARG0 16:2-ARG1
+wsj_1194.parse 2 18 predicted go-v go.02 ----- 18:0-rel  0:1-ARG0 17:0-ARGM-NEG 22:1-ARGM-TMP
+wsj_1194.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1194.parse 3 6 predicted have-v have.03 ----- 6:0-rel  2:1-ARGM-LOC 5:1-ARG0
+wsj_1194.parse 3 10 predicted develop-v develop.02 ----- 10:0-rel  9:0-ARGM-MNR 11:0-ARG1
+wsj_1194.parse 3 23 predicted plan-v plan.01 ----- 23:0-rel  5:1-ARG0 24:2-ARG1
+wsj_1194.parse 3 25 predicted expand-v expand.01 ----- 25:0-rel  5:1-ARG0 26:1-ARG1
+wsj_1194.parse 4 2 predicted earn-v earn.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1 7:1-ARGM-LOC
+wsj_1194.parse 4 9 predicted plan-v plan.01 ----- 9:0-rel  0:1-ARG0 10:1-ARG1
+wsj_1194.parse 5 6 predicted hold-v hold.01 ----- 6:0-rel  0:2-ARG1 5:1-ARGM-TMP 7:1-ARG0
+wsj_1194.parse 5 12 predicted dilute-v dilute.01 ----- 12:0-rel  0:3-ARG1 10:0-ARGM-MOD 13:1-ARG4 19:1-ARGM-TMP
+wsj_1194.parse 5 21 predicted acquire-v acquire.01 ----- 21:0-rel  20:1-ARG0 22:1-ARG1
+wsj_1194.parse 6 2 predicted require-v require.01 ----- 2:0-rel  0:1-ARG0

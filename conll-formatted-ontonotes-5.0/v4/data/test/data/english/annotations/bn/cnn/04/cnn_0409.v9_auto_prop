@@ -1,0 +1,24 @@
+cnn_0409.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0409.parse 0 6 predicted become-v become.01 ----- 6:0-rel  7:2-ARG2
+cnn_0409.parse 0 11 predicted allow-v allow.01 ----- 11:0-rel  12:1-ARG1
+cnn_0409.parse 1 5 predicted appeal-v appeal.03 ----- 5:0-rel  0:1-ARG0 3:0-ARGM-MOD 4:0-ARGM-NEG 6:2-ARG1
+cnn_0409.parse 1 10 predicted clear-v clear.01 ----- 10:0-rel  6:1-ARG0 9:1-R-ARG0 11:2-ARG1
+cnn_0409.parse 2 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:3-ARG1
+cnn_0409.parse 2 9 predicted draft-v draft.01 ----- 9:0-rel  5:1-ARG0 7:0-ARGM-MOD 8:1-ARGM-TMP 10:2-ARG1
+cnn_0409.parse 2 11 predicted legalize-v legalize.01 ----- 11:0-rel  10:1-ARG0 12:1-ARG1
+cnn_0409.parse 3 6 predicted withhold-v withhold.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARG0 5:0-ARGM-MOD 7:2-ARG1
+cnn_0409.parse 3 11 predicted detain-v detain.01 ----- 11:0-rel  10:1-ARG1 12:1-ARG2
+cnn_0409.parse 4 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0409.parse 4 9 predicted reverse-v reverse.01 ----- 9:0-rel  5:1-ARG0 10:1-ARG1
+cnn_0409.parse 5 3 predicted argue-v argue.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0409.parse 5 5 predicted release-v release.01 ----- 5:0-rel  6:1-ARG1
+cnn_0409.parse 5 9 predicted hamper-v hamper.01 ----- 9:0-rel  5:2-ARG0 8:0-ARGM-MOD 10:1-ARG1
+cnn_0409.parse 6 4 predicted report-v report.01 ----- 4:0-rel  1:1-ARG0
+cnn_0409.parse 6 16 predicted be-v be.02 ----- 16:0-rel  0:1-ARGM-TMP
+cnn_0409.parse 7 9 predicted die-v die.01 ----- 9:0-rel  0:1-ARG1
+cnn_0409.parse 8 12 predicted wounded-v wounded.- ----- 12:0-rel  0:2-ARG1 13:1-ARGM-LOC
+cnn_0409.parse 9 4 predicted continue-v continue.01 ----- 4:0-rel  0:1-ARG0
+cnn_0409.parse 9 6 predicted get-v get.01 ----- 6:0-rel  0:1-ARG0 7:2-ARG1
+cnn_0409.parse 9 13 predicted break-v break.01 ----- 13:0-rel  11:0-ARGM-TMP 14:0-ARG1
+cnn_0409.parse 9 16 predicted bring-v bring.01 ----- 16:0-rel  17:1-ARG2 18:2-ARG1
+cnn_0409.parse 9 22 predicted have-v have.03 ----- 22:0-rel  18:1-ARGM-TMP 20:1-R-ARGM-TMP 21:1-ARG0 23:1-ARG1

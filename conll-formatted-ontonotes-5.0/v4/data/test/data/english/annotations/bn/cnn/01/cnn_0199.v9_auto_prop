@@ -1,0 +1,15 @@
+cnn_0199.parse 0 4 predicted try-v try.01 ----- 4:0-rel  0:2-ARG0 5:2-ARG1
+cnn_0199.parse 0 6 predicted keep-v keep.04 ----- 6:0-rel  0:2-ARG0 7:1-ARG1 9:1-ARG2
+cnn_0199.parse 0 10 predicted become-v become.01 ----- 10:0-rel  11:2-ARG2
+cnn_0199.parse 0 14 predicted execute-v execute.01 ----- 14:0-rel  11:1-ARG1 15:1-ARGM-LOC
+cnn_0199.parse 0 23 predicted resume-v resume.01 ----- 23:0-rel  21:1-ARGM-TMP 22:1-ARG0 24:1-ARG1
+cnn_0199.parse 1 2 predicted ask-v ask.02 ----- 2:0-rel  0:1-ARG0 3:1-ARG2 6:2-ARG1
+cnn_0199.parse 1 7 predicted block-v block.01 ----- 7:0-rel  3:1-ARG0 8:3-ARG1
+cnn_0199.parse 2 2 predicted convict-v convict.01 ----- 2:0-rel  0:1-ARG1
+cnn_0199.parse 2 4 predicted shoot-v shoot.02 ----- 4:0-rel  0:1-ARG0
+cnn_0199.parse 2 6 predicted kill-v kill.01 ----- 6:0-rel  0:1-ARG0 7:1-ARG1
+cnn_0199.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+cnn_0199.parse 3 6 predicted do-v do.02 ----- 6:0-rel  3:1-ARG0 7:1-ARG1
+cnn_0199.parse 3 14 predicted keep-v keep.02 ----- 14:0-rel  11:1-ARG0 13:1-ARGM-MNR 15:1-ARG1 18:1-ARG2
+cnn_0199.parse 4 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD
+cnn_0199.parse 4 6 predicted put-v put.01 ----- 6:0-rel  3:1-ARG1 7:1-ARG2 9:1-ARGM-LOC

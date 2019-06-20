@@ -1,0 +1,17 @@
+cnn_0044.parse 0 4 predicted approve-v approve.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-MNR 5:2-ARG1
+cnn_0044.parse 0 10 predicted include-v include.01 ----- 10:0-rel  5:1-ARG2 9:1-R-ARG2 11:2-ARG1
+cnn_0044.parse 0 14 predicted ease-v ease.02 ----- 14:0-rel  11:1-ARG0 15:2-ARG1
+cnn_0044.parse 1 2 predicted allow-v allow.01 ----- 2:0-rel  0:1-ARG0
+cnn_0044.parse 2 1 predicted prohibit-v prohibit.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0044.parse 2 9 predicted finance-v finance.01 ----- 9:0-rel  10:1-ARG1
+cnn_0044.parse 3 6 predicted have-v have.02 ----- 6:0-rel  5:0-ARGM-MOD
+cnn_0044.parse 3 8 predicted pay-v pay.01 ----- 8:0-rel  4:1-ARG0 9:1-ARG1
+cnn_0044.parse 3 11 predicted get-v get.01 ----- 11:0-rel  4:1-ARG0 12:1-ARG1
+cnn_0044.parse 3 18 predicted buy-v buy.01 ----- 18:0-rel  19:1-ARG1
+cnn_0044.parse 4 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0044.parse 4 6 predicted sign-v sign.01 ----- 6:0-rel  4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1
+cnn_0044.parse 5 6 predicted lead-v lead.02 ----- 6:0-rel  3:1-ARG1 7:1-ARG0
+cnn_0044.parse 5 11 predicted march-v march.01 ----- 11:0-rel  0:1-ARGM-LOC 12:1-ARGM-MNR
+cnn_0044.parse 6 1 predicted insist-v insist.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0044.parse 6 6 predicted toughen-v toughen.01 ----- 6:0-rel  2:1-ARG0 4:0-ARGM-MOD 5:1-ARGM-ADV 7:1-ARG1
+cnn_0044.parse 7 3 predicted ban-v ban.01 ----- 3:0-rel  0:1-ARG0 1:1-R-ARG0 2:1-ARGM-ADV

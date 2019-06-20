@@ -1,0 +1,8 @@
+cnn_0160.parse 0 10 predicted pay-v pay.01 ----- 10:0-rel  0:4-ARG1 12:1-ARG3
+cnn_0160.parse 1 2 predicted break-v break.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0160.parse 1 12 predicted shear-v shear.- ----- 12:0-rel  0:1-ARG0 13:1-ARG1
+cnn_0160.parse 2 4 predicted watch-v watch.01 ----- 4:0-rel  0:2-ARG0 5:2-ARG1
+cnn_0160.parse 2 6 predicted accomplish-v accomplish.01 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+cnn_0160.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0160.parse 3 5 predicted dream-v dream.01 ----- 5:0-rel  2:1-ARG0
+cnn_0160.parse 3 7 predicted complete-v complete.01 ----- 7:0-rel  2:1-ARG0 8:1-ARG1 10:1-ARGM-TMP

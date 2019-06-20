@@ -1,0 +1,12 @@
+cnn_0023.parse 0 5 predicted take-v take.03 ----- 5:0-rel  0:2-ARG0 13:1-ARGM-LOC
+cnn_0023.parse 1 1 predicted write-v write.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-LOC
+cnn_0023.parse 1 9 predicted receive-v receive.01 ----- 9:0-rel  8:1-ARG0 16:1-ARG1
+cnn_0023.parse 1 19 predicted go-v go.08 ----- 19:0-rel  18:1-ARG1 20:1-ARG2
+cnn_0023.parse 1 24 predicted choose-v choose.01 ----- 24:0-rel  23:1-ARG0 25:1-ARG1
+cnn_0023.parse 1 27 predicted warn-v warn.01 ----- 27:0-rel  23:1-ARG0 25:0-ARGM-NEG 28:1-ARG2
+cnn_0023.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0023.parse 2 4 predicted think-v think.01 ----- 4:0-rel  2:1-ARG0 5:3-ARG1
+cnn_0023.parse 2 7 predicted handle-v handle.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:2-ARG1
+cnn_0023.parse 3 2 predicted admit-v admit.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+cnn_0023.parse 3 8 predicted grab-v grab.01 ----- 8:0-rel  6:1-ARGM-TMP 7:1-ARG0 9:1-ARG1
+cnn_0023.parse 3 12 predicted strike-v strike.09 ----- 12:0-rel  6:1-ARGM-TMP 7:1-ARG0 14:1-ARG1 17:1-ARGM-LOC 19:2-ARGM-TMP

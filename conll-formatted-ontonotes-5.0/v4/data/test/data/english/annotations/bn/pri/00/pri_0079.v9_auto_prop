@@ -1,0 +1,100 @@
+pri_0079.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+pri_0079.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+pri_0079.parse 2 2 predicted arrive-v arrive.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG4
+pri_0079.parse 2 10 predicted leave-v leave.01 ----- 10:0-rel  8:1-ARGM-TMP 9:1-ARG0
+pri_0079.parse 2 13 predicted bear-v bear.02 ----- 13:0-rel  12:0-ARGM-LOC 14:0-ARG1
+pri_0079.parse 2 16 predicted have-v have.03 ----- 16:0-rel  11:1-ARG0 15:0-ARGM-MOD
+pri_0079.parse 3 5 predicted live-v live.01 ----- 5:0-rel  3:1-R-ARG0 4:1-ARGM-TMP 6:1-ARGM-LOC
+pri_0079.parse 3 9 predicted give-v give.01 ----- 9:0-rel  0:2-ARG0 10:1-ARG1 14:1-ARG2
+pri_0079.parse 3 19 predicted lead-v lead.03 ----- 19:0-rel  17:1-ARG0 21:1-ARG2
+pri_0079.parse 3 32 predicted collect-v collect.01 ----- 32:0-rel  27:1-ARGM-TMP 31:1-ARG0 33:1-ARG1
+pri_0079.parse 4 10 predicted publish-v publish.01 ----- 10:0-rel  0:3-ARG1 8:0-ARGM-MOD 11:1-ARGM-TMP
+pri_0079.parse 5 2 predicted want-v want.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+pri_0079.parse 5 4 predicted know-v know.01 ----- 4:0-rel  1:1-ARG0 5:2-ARG1
+pri_0079.parse 5 8 predicted be-v be.01 ----- 8:0-rel  5:1-ARG2 6:1-ARG1 9:1-ARG2
+pri_0079.parse 5 26 predicted say-v say.01 ----- 26:0-rel  0:1-ARGM-ADV 20:2-ARG0 27:4-ARG1
+pri_0079.parse 5 30 predicted be-v be.01 ----- 30:0-rel  27:2-ARG1 31:1-ARG2
+pri_0079.parse 6 3 predicted embed-v embed.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+pri_0079.parse 6 10 predicted be-v be.01 ----- 10:0-rel  8:1-ARG1 11:1-ARG2 14:2-ARG2
+pri_0079.parse 7 11 predicted release-v release.01 ----- 11:0-rel  7:1-ARG1 9:1-ARGM-TMP 12:1-ARGM-LOC 16:1-ARGM-TMP
+pri_0079.parse 7 18 predicted be-v be.01 ----- 18:0-rel  0:2-ARG1 19:1-ARGM-MNR 23:2-ARG2
+pri_0079.parse 7 28 predicted mean-v mean.01 ----- 28:0-rel  26:1-ARG1 27:1-ARG0
+pri_0079.parse 8 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+pri_0079.parse 9 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARG2 3:1-ARGM-ADV
+pri_0079.parse 9 5 predicted like-v like.01 ----- 5:0-rel  4:1-ARG0
+pri_0079.parse 9 10 predicted wrapped-v wrapped.- ----- 10:0-rel  0:2-ARG1 7:1-ARG0 12:1-ARGM-LOC
+pri_0079.parse 10 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+pri_0079.parse 10 14 predicted be-v be.01 ----- 14:0-rel  13:1-ARG1 15:1-ARG2
+pri_0079.parse 10 18 predicted be-v be.01 ----- 18:0-rel  19:0-ARGM-NEG
+pri_0079.parse 10 27 predicted do-v do.02 ----- 27:0-rel  23:1-ARG0 28:1-ARG1
+pri_0079.parse 10 31 predicted make-v make.01 ----- 31:0-rel  23:1-ARG0 32:1-ARG1
+pri_0079.parse 10 36 predicted have-v have.03 ----- 36:0-rel  35:1-ARG0 37:2-ARG1
+pri_0079.parse 11 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+pri_0079.parse 11 4 predicted take-v take.01 ----- 4:0-rel  2:1-ARG0 5:2-ARG1
+pri_0079.parse 11 12 predicted base-v base.02 ----- 12:0-rel  7:1-R-ARG2 9:1-ARG1 13:1-ARGM-CAU
+pri_0079.parse 13 2 predicted bear-v bear.02 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+pri_0079.parse 14 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+pri_0079.parse 15 3 predicted have-v have.02 ----- 3:0-rel  0:1-ARGM-DIS
+pri_0079.parse 15 5 predicted burn-v burn.01 ----- 5:0-rel  2:1-ARG0
+pri_0079.parse 15 29 predicted go-v go.02 ----- 29:0-rel  30:1-ARG4
+pri_0079.parse 15 46 predicted kill-v kill.01 ----- 46:0-rel  44:1-ARG0 47:1-ARG1 49:2-ARGM-TMP
+pri_0079.parse 15 54 predicted convince-v convince.01 ----- 54:0-rel  55:1-ARG1
+pri_0079.parse 15 61 predicted die-v die.01 ----- 61:0-rel  56:2-ARG1
+pri_0079.parse 15 64 predicted get-v get.01 ----- 64:0-rel  34:1-ARGM-TMP 63:1-ARG0 65:2-ARG1
+pri_0079.parse 16 1 predicted get-v get.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+pri_0079.parse 16 7 predicted discover-v discover.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1
+pri_0079.parse 16 12 predicted have-v have.03 ----- 12:0-rel  9:1-ARG0 11:0-ARGM-NEG 13:1-ARG1
+pri_0079.parse 16 16 predicted recognize-v recognize.01 ----- 16:0-rel  0:1-ARG0 17:1-ARG1 18:1-ARG2
+pri_0079.parse 16 28 predicted write-v write.01 ----- 28:0-rel  25:1-R-ARG1 26:1-ARG0
+pri_0079.parse 16 39 predicted be-v be.01 ----- 39:0-rel  38:1-ARG1 40:1-ARG2 43:1-ARGM-TMP
+pri_0079.parse 16 48 predicted set-v set.01 ----- 48:0-rel  46:1-ARGM-DIS 47:1-ARG0
+pri_0079.parse 16 65 predicted take-v take.01 ----- 65:0-rel  63:1-ARG1 64:1-ARG0 66:1-ARG2
+pri_0079.parse 17 2 predicted survive-v survive.01 ----- 2:0-rel  0:1-ARG0 3:0-ARG1 4:1-ARGM-ADV
+pri_0079.parse 17 27 predicted take-v take.01 ----- 27:0-rel  13:1-ARGM-TMP 26:1-ARG0
+pri_0079.parse 17 42 predicted see-v see.01 ----- 42:0-rel  40:1-ARG1 41:1-ARG0
+pri_0079.parse 17 46 predicted hear-v hear.01 ----- 46:0-rel  44:1-ARG1 45:1-ARG0
+pri_0079.parse 17 53 predicted tell-v tell.01 ----- 53:0-rel  48:1-ARG1 50:1-R-ARG1 51:1-ARG2
+pri_0079.parse 18 3 predicted fill-v fill.01 ----- 3:0-rel  0:1-ARG1
+pri_0079.parse 18 13 predicted walk-v walk.01 ----- 13:0-rel  10:1-R-ARGM-MNR 12:1-ARG0
+pri_0079.parse 18 19 predicted climb-v climb.02 ----- 19:0-rel  18:1-ARG0
+pri_0079.parse 18 25 predicted call-v call.01 ----- 25:0-rel  21:1-ARGM-DIS 22:1-ARG1
+pri_0079.parse 18 34 predicted hope-v hope.01 ----- 34:0-rel  31:1-R-ARGM-LOC 33:1-ARG0 35:1-ARGM-MNR 40:2-ARG1
+pri_0079.parse 18 61 predicted enforce-v enforce.01 ----- 61:0-rel  59:1-ARG1 62:1-ARG2 64:1-ARG0
+pri_0079.parse 18 77 predicted have-v have.03 ----- 77:0-rel  74:1-ARG0 76:0-ARGM-MOD
+pri_0079.parse 18 79 predicted write-v write.01 ----- 79:0-rel  78:1-ARG0 80:1-ARGM-DIR
+pri_0079.parse 19 5 predicted write-v write.01 ----- 5:0-rel  2:0-ARGM-MOD 3:1-ARG0
+pri_0079.parse 19 9 predicted paint-v paint.01 ----- 9:0-rel  7:1-ARG0 8:0-ARGM-MOD 10:1-ARGM-ADV
+pri_0079.parse 20 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+pri_0079.parse 21 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+pri_0079.parse 21 13 predicted be-v be.01 ----- 13:0-rel  11:1-ARG1
+pri_0079.parse 21 16 predicted do-v do.02 ----- 16:0-rel  11:1-ARG1 14:1-ARGM-MNR
+pri_0079.parse 21 20 predicted be-v be.01 ----- 20:0-rel  19:1-ARG1 21:1-ARGM-ADV
+pri_0079.parse 21 24 predicted know-v know.01 ----- 24:0-rel  19:1-ARG1 21:1-ARGM-DIS 22:1-ARGM-EXT 25:1-ARG2
+pri_0079.parse 22 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+pri_0079.parse 22 4 predicted publish-v publish.01 ----- 4:0-rel  2:1-ARG0 5:3-ARGM-TMP
+pri_0079.parse 22 11 predicted write-v write.01 ----- 11:0-rel  10:1-ARG0 12:1-ARG1 14:1-ARGM-LOC
+pri_0079.parse 23 4 predicted quoting-v quoting.- ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+pri_0079.parse 23 8 predicted wonder-v wonder.01 ----- 8:0-rel  7:1-ARG0 9:1-ARG1
+pri_0079.parse 23 12 predicted respond-v respond.01 ----- 12:0-rel  10:1-ARG0 11:0-ARGM-MOD 13:1-ARG1 16:1-ARGM-DIS
+pri_0079.parse 23 19 predicted say-v say.01 ----- 19:0-rel  0:4-ARG1 18:1-ARG0 20:1-ARGM-LOC
+pri_0079.parse 23 35 predicted say-v say.01 ----- 35:0-rel  34:1-ARG0
+pri_0079.parse 23 41 predicted wish-v wish.01 ----- 41:0-rel  38:1-ARG0 40:0-ARGM-NEG 42:2-ARG1
+pri_0079.parse 23 43 predicted waste-v waste.01 ----- 43:0-rel  38:1-ARG0 44:1-ARG1 46:1-ARG2 48:1-ARGM-MNR
+pri_0079.parse 23 59 predicted want-v want.01 ----- 59:0-rel  58:1-ARG0 60:2-ARG1
+pri_0079.parse 23 61 predicted do-v do.02 ----- 61:0-rel  57:1-ARG1 58:1-ARG0
+pri_0079.parse 23 62 predicted be-v be.01 ----- 62:0-rel  63:2-ARG2
+pri_0079.parse 23 64 predicted use-v use.01 ----- 64:0-rel  65:1-ARG1
+pri_0079.parse 23 68 predicted speak-v speak.01 ----- 68:0-rel  69:1-ARG1
+pri_0079.parse 25 6 predicted have-v have.03 ----- 6:0-rel  4:1-ARG1 5:1-ARG0
+pri_0079.parse 25 12 predicted suggest-v suggest.01 ----- 12:0-rel  2:2-ARG0 13:1-ARG1
+pri_0079.parse 25 21 predicted be-v be.01 ----- 21:0-rel  20:1-R-ARG1 22:2-ARG2
+pri_0079.parse 25 33 predicted go-v go.02 ----- 33:0-rel  16:1-ARGM-ADV 17:2-ARG1 34:2-ARG4
+pri_0079.parse 25 39 predicted divide-v divide.02 ----- 39:0-rel  38:1-ARGM-ADV 41:1-ARG1
+pri_0079.parse 26 1 predicted proliferate-v proliferate.01 ----- 1:0-rel  0:1-ARG0
+pri_0079.parse 26 17 predicted have-v have.03 ----- 17:0-rel  11:1-ARGM-TMP 16:1-ARG0 18:1-ARG1
+pri_0079.parse 26 23 predicted have-v have.03 ----- 23:0-rel  22:1-ARG0 24:1-ARG1
+pri_0079.parse 26 29 predicted have-v have.03 ----- 29:0-rel  28:1-ARG0 30:1-ARG1
+pri_0079.parse 26 39 predicted tell-v tell.01 ----- 39:0-rel  34:2-ARG0 40:1-ARG2
+pri_0079.parse 26 47 predicted design-v design.01 ----- 47:0-rel  45:1-ARG1 48:2-ARG3
+pri_0079.parse 26 49 predicted give-v give.01 ----- 49:0-rel  45:1-ARG0 50:1-ARG2
+pri_0079.parse 27 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2

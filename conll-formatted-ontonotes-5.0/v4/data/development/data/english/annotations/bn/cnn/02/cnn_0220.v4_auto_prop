@@ -1,0 +1,8 @@
+cnn_0220.parse 0 5 predicted surface-v surface.01 ----- 5:0-rel  3:1-ARG1
+cnn_0220.parse 0 9 predicted say-v say.01 ----- 9:0-rel  10:3-ARG1
+cnn_0220.parse 0 12 predicted fight-v fight.01 ----- 12:0-rel  10:1-ARG0 11:0-ARGM-MOD 13:1-ARG2
+cnn_0220.parse 0 19 predicted resign-v resign.- ----- 19:0-rel  8:1-ARGM-TMP 17:1-ARG0 20:1-ARG1
+cnn_0220.parse 1 10 predicted admit-v admit.01 ----- 10:0-rel  9:1-ARG0
+cnn_0220.parse 1 12 predicted partied-v partied.- ----- 12:0-rel  11:1-ARG0 13:1-ARG1
+cnn_0220.parse 1 22 predicted be-v be.01 ----- 22:0-rel  21:1-ARG1 23:1-ARG2
+cnn_0220.parse 2 1 predicted seep-v seep.- ----- 1:0-rel  0:1-ARG0 2:1-ARG1 6:1-ARG2

@@ -1,0 +1,6 @@
+wsj_2434.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_2434.parse 0 6 predicted offer-v offer.01 ----- 6:0-rel  4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1
+wsj_2434.parse 1 2 predicted offer-v offer.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+wsj_2434.parse 2 17 predicted amount-v amount.01 ----- 17:0-rel  0:1-ARG1 18:1-ARG2
+wsj_2434.parse 3 4 predicted offer-v offer.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-DIS 5:2-ARG1
+wsj_2434.parse 3 14 predicted qualify-v qualify.01 ----- 14:0-rel  12:1-ARG1 13:1-R-ARG1 15:1-ARG2

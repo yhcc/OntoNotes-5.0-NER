@@ -1,0 +1,19 @@
+pri_0002.parse 0 2 predicted continue-v continue.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+pri_0002.parse 0 9 predicted show-v show.01 ----- 9:0-rel  6:1-ARG0 10:2-ARG1
+pri_0002.parse 0 13 predicted bow-v bow.01 ----- 13:0-rel  14:1-ARG2
+pri_0002.parse 1 6 predicted offer-v offer.01 ----- 6:0-rel  0:1-ARGM-TMP 1:2-ARG0 7:2-ARG1
+pri_0002.parse 1 8 predicted be-v be.01 ----- 8:0-rel  1:2-ARG1 9:2-ARG2
+pri_0002.parse 2 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-DIR
+pri_0002.parse 3 2 predicted write-v write.01 ----- 2:0-rel  3:0-ARG1
+pri_0002.parse 3 6 predicted express-v express.01 ----- 6:0-rel  0:1-ARGM-LOC 4:1-ARG0
+pri_0002.parse 3 10 predicted mount-v mount.02 ----- 10:0-rel  11:0-ARG1
+pri_0002.parse 3 16 predicted describe-v describe.01 ----- 16:0-rel  14:1-R-ARG1 15:1-ARG0 17:1-ARG2
+pri_0002.parse 4 12 predicted say-v say.01 ----- 12:0-rel  0:1-ARGM-CAU 9:1-ARG0 13:3-ARG1
+pri_0002.parse 4 17 predicted step-v step.02 ----- 17:0-rel  13:1-ARG1 19:1-ARGM-PRD
+pri_0002.parse 4 24 predicted help-v help.01 ----- 24:0-rel  13:1-ARG0 25:2-ARG1
+pri_0002.parse 4 25 predicted mediate-v mediate.- ----- 25:0-rel  26:1-ARG1
+pri_0002.parse 5 1 predicted invite-v invite.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 8:1-ARG2 10:1-ARGM-PRP
+pri_0002.parse 6 8 predicted bang-v bang.01 ----- 8:0-rel  0:1-ARGM-TMP 3:1-ARG0 9:1-ARG1 13:2-ARGM-ADV
+pri_0002.parse 6 13 predicted offer-v offer.01 ----- 13:0-rel  14:2-ARG1
+pri_0002.parse 6 15 predicted help-v help.01 ----- 15:0-rel  16:2-ARG1
+pri_0002.parse 6 16 predicted negotiate-v negotiate.01 ----- 16:0-rel  17:2-ARG2

@@ -1,0 +1,11 @@
+wsj_1153.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1153.parse 0 6 predicted order-v order.02 ----- 6:0-rel  3:1-ARG0 7:3-ARG1
+wsj_1153.parse 0 11 predicted value-v value.01 ----- 11:0-rel  7:2-ARG1 12:1-ARG2
+wsj_1153.parse 1 8 predicted power-v power.01 ----- 8:0-rel  0:1-ARG1 6:0-ARGM-MOD 9:1-ARG0
+wsj_1153.parse 1 12 predicted produce-v produce.01 ----- 12:0-rel  10:1-ARG1 11:1-ARGM-MNR 13:1-ARG0
+wsj_1153.parse 2 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARGM-TMP 2:1-ARG0 4:2-ARG1
+wsj_1153.parse 2 16 predicted slow-v slow.01 ----- 16:0-rel  13:1-ARG1
+wsj_1153.parse 2 25 predicted enter-v enter.01 ----- 25:0-rel  24:1-ARG0 26:1-ARG1 29:1-ARGM-TMP
+wsj_1153.parse 3 5 predicted fail-v fail.01 ----- 5:0-rel  0:1-ARGM-TMP 3:1-ARG1 6:2-ARG2
+wsj_1153.parse 3 7 predicted rekindle-v rekindle.01 ----- 7:0-rel  3:1-ARG0
+wsj_1153.parse 3 18 predicted reject-v reject.01 ----- 18:0-rel  13:1-ARG0 16:1-R-ARG0 19:1-ARG1

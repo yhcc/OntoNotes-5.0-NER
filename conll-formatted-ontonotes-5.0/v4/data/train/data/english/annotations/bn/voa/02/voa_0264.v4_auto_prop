@@ -1,0 +1,41 @@
+voa_0264.parse 1 6 predicted call-v call.05 ----- 6:0-rel  0:2-ARG0 7:1-ARG1 9:2-ARG2
+voa_0264.parse 1 10 predicted accept-v accept.01 ----- 10:0-rel  0:2-ARG0 11:2-ARG1
+voa_0264.parse 2 3 predicted call-v call.05 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:1-ARG1 6:2-ARG2
+voa_0264.parse 2 7 predicted compensate-v compensate.01 ----- 7:0-rel  0:1-ARG0 8:2-ARG2
+voa_0264.parse 2 12 predicted perish-v perish.- ----- 12:0-rel  10:1-ARG0 11:1-R-ARG0
+voa_0264.parse 3 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARGM-LOC 2:1-ARG0 5:3-ARG1
+voa_0264.parse 3 7 predicted change-v change.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD
+voa_0264.parse 3 12 predicted cause-v cause.01 ----- 12:0-rel  8:1-ARG1
+voa_0264.parse 3 24 predicted kill-v kill.01 ----- 24:0-rel  23:1-R-ARG0 25:1-ARG1
+voa_0264.parse 3 30 predicted welcome-v welcome.01 ----- 30:0-rel  29:1-ARG0
+voa_0264.parse 3 42 predicted accuse-v accuse.01 ----- 42:0-rel  38:1-ARG1 43:1-ARGM-LOC
+voa_0264.parse 4 3 predicted report-v report.01 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-DIR
+voa_0264.parse 4 12 predicted hail-v hail.02 ----- 12:0-rel  9:1-ARG0 13:1-ARG1 15:1-ARGM-TMP
+voa_0264.parse 4 19 predicted say-v say.01 ----- 19:0-rel  16:1-ARG0 20:3-ARG1
+voa_0264.parse 4 22 predicted appeal-v appeal.01 ----- 22:0-rel  20:1-ARG0 21:0-ARGM-MOD
+voa_0264.parse 5 7 predicted tell-v tell.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG2
+voa_0264.parse 5 12 predicted accept-v accept.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG1
+voa_0264.parse 5 20 predicted appeal-v appeal.01 ----- 20:0-rel  17:1-ARG1 18:0-ARGM-MOD
+voa_0264.parse 6 2 predicted note-v note.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+voa_0264.parse 6 7 predicted hand-v hand.02 ----- 7:0-rel  9:1-ARG1
+voa_0264.parse 6 13 predicted call-v call.03 ----- 13:0-rel  0:1-ARG0 14:1-ARG1
+voa_0264.parse 7 3 predicted exile-v exile.- ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+voa_0264.parse 7 9 predicted say-v say.01 ----- 9:0-rel  0:3-ARG0 10:3-ARG1
+voa_0264.parse 7 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:1-ARG2 16:1-ARGM-CAU
+voa_0264.parse 7 18 predicted prove-v prove.01 ----- 18:0-rel  17:1-ARG0 19:3-ARG1
+voa_0264.parse 7 21 predicted commit-v commit.02 ----- 21:0-rel  19:1-ARG0 22:2-ARG1
+voa_0264.parse 7 29 predicted say-v say.01 ----- 29:0-rel  27:1-ARG0 30:3-ARG1
+voa_0264.parse 7 31 predicted hope-v hope.01 ----- 31:0-rel  30:1-ARG0 32:3-ARG1
+voa_0264.parse 7 34 predicted be-v be.01 ----- 34:0-rel  32:1-ARG1 35:0-ARGM-NEG 36:1-ARG2
+voa_0264.parse 8 1 predicted hope-v hope.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+voa_0264.parse 8 6 predicted continue-v continue.01 ----- 6:0-rel  3:1-ARG1 5:0-ARGM-MOD 7:2-C-ARG1
+voa_0264.parse 8 8 predicted bring-v bring.01 ----- 8:0-rel  3:1-ARG0 9:2-ARG1
+voa_0264.parse 8 13 predicted be-v be.01 ----- 13:0-rel  9:1-ARG1 12:1-R-ARG1 14:1-ARG2
+voa_0264.parse 9 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+voa_0264.parse 10 4 predicted displace-v displace.- ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+voa_0264.parse 10 9 predicted order-v order.01 ----- 9:0-rel  6:1-ARG0 8:0-ARGM-NEG 10:1-ARG2
+voa_0264.parse 11 2 predicted die-v die.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+voa_0264.parse 12 2 predicted refuse-v refuse.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:2-ARG1
+voa_0264.parse 12 4 predicted hand-v hand.02 ----- 4:0-rel  0:1-ARG0 6:1-ARG1
+voa_0264.parse 12 11 predicted surrender-v surrender.01 ----- 11:0-rel  10:1-ARG0 12:1-ARG1 13:3-ARGM-TMP
+voa_0264.parse 12 21 predicted try-v try.02 ----- 21:0-rel  19:1-ARG1 22:1-ARGM-LOC

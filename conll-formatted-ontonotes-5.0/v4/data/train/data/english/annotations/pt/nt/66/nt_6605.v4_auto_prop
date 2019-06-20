@@ -1,0 +1,64 @@
+nt_6605.parse 0 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6605.parse 0 12 predicted sit-v sit.01 ----- 12:0-rel  10:1-ARG1 13:1-ARG2
+nt_6605.parse 1 3 predicted write-v write.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+nt_6605.parse 1 10 predicted close-v close.01 ----- 10:0-rel  0:1-ARG1 11:1-ARGM-MNR
+nt_6605.parse 2 2 predicted see-v see.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+nt_6605.parse 2 8 predicted call-v call.01 ----- 8:0-rel  3:1-ARG1 7:1-R-ARG1 9:1-ARG2
+nt_6605.parse 2 16 predicted be-v be.01 ----- 16:0-rel  15:1-ARG1
+nt_6605.parse 2 19 predicted break-v break.01 ----- 19:0-rel  20:1-ARG1
+nt_6605.parse 2 23 predicted open-v open.01 ----- 23:0-rel  24:1-ARG1
+nt_6605.parse 3 16 predicted open-v open.01 ----- 16:0-rel  14:1-R-ARG0 15:0-ARGM-MOD 17:1-ARG1
+nt_6605.parse 3 20 predicted look-v look.01 ----- 20:0-rel  14:1-ARG0 15:0-ARGM-MOD 21:1-ARG1
+nt_6605.parse 4 1 predicted cry-v cry.02 ----- 1:0-rel  0:1-ARG0
+nt_6605.parse 4 3 predicted cry-v cry.02 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-CAU
+nt_6605.parse 4 13 predicted open-v open.01 ----- 13:0-rel  9:1-ARG0 14:1-ARG1
+nt_6605.parse 4 17 predicted look-v look.01 ----- 17:0-rel  18:1-ARGM-LOC
+nt_6605.parse 5 5 predicted say-v say.01 ----- 5:0-rel  0:0-ARGM-DIS 1:2-ARG0 6:1-ARG2
+nt_6605.parse 5 12 predicted cry-v cry.02 ----- 12:0-rel  11:0-ARGM-NEG
+nt_6605.parse 6 8 predicted win-v win.01 ----- 8:0-rel  0:2-ARG0 9:1-ARG1
+nt_6605.parse 7 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nt_6605.parse 8 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+nt_6605.parse 8 4 predicted open-v open.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+nt_6605.parse 9 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6605.parse 10 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-ADV 4:1-ARG2
+nt_6605.parse 11 2 predicted look-v look.02 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nt_6605.parse 11 8 predicted kill-v kill.01 ----- 8:0-rel  5:1-ARG1
+nt_6605.parse 12 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+nt_6605.parse 12 9 predicted be-v be.01 ----- 9:0-rel  8:1-R-ARG1 10:3-ARG2
+nt_6605.parse 12 17 predicted send-v send.01 ----- 17:0-rel  10:2-ARG1 15:1-R-ARG1 18:1-ARG2
+nt_6605.parse 13 2 predicted come-v come.01 ----- 2:0-rel  0:1-ARG1
+nt_6605.parse 13 4 predicted take-v take.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+nt_6605.parse 13 14 predicted sit-v sit.01 ----- 14:0-rel  12:1-ARG1 15:1-ARG2
+nt_6605.parse 14 3 predicted take-v take.01 ----- 3:0-rel  1:1-ARG0 4:1-ARG1
+nt_6605.parse 14 9 predicted live-v live.01 ----- 9:0-rel  10:0-ARG0
+nt_6605.parse 14 15 predicted bow-v bow.01 ----- 15:0-rel  0:1-ARGM-TMP 7:2-ARG1 16:1-ARGM-DIR 17:1-ARGM-TMP
+nt_6605.parse 15 4 predicted have-v have.03 ----- 4:0-rel  0:2-ARG0
+nt_6605.parse 16 4 predicted hold-v hold.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 5:1-ARG1
+nt_6605.parse 16 12 predicted be-v be.01 ----- 12:0-rel  11:1-R-ARG1 13:2-ARG2
+nt_6605.parse 17 3 predicted sing-v sing.01 ----- 3:0-rel  1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1 7:1-ARG2
+nt_6605.parse 17 13 predicted be-v be.01 ----- 13:0-rel  12:1-ARG1
+nt_6605.parse 17 16 predicted take-v take.01 ----- 16:0-rel  12:1-ARG0 17:1-ARG1
+nt_6605.parse 17 21 predicted open-v open.01 ----- 21:0-rel  22:1-ARG1
+nt_6605.parse 17 28 predicted kill-v kill.01 ----- 28:0-rel  26:1-ARG1
+nt_6605.parse 17 36 predicted buy-v buy.01 ----- 36:0-rel  31:1-ARGM-MNR 35:1-ARG0 37:1-ARG1 38:1-ARG2
+nt_6605.parse 18 1 predicted make-v make.04 ----- 1:0-rel  0:1-ARG0
+nt_6605.parse 18 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:1-ARG2
+nt_6605.parse 18 9 predicted be-v be.01 ----- 9:0-rel  2:1-ARG1 10:2-ARG2
+nt_6605.parse 19 3 predicted rule-v rule.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+nt_6605.parse 20 2 predicted look-v look.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6605.parse 20 6 predicted hear-v hear.01 ----- 6:0-rel  5:1-ARG0 7:2-ARG1
+nt_6605.parse 21 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+nt_6605.parse 21 9 predicted live-v live.01 ----- 9:0-rel  10:0-ARG0
+nt_6605.parse 23 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-LOC
+nt_6605.parse 23 18 predicted belong-v belong.01 ----- 18:0-rel  9:1-ARG0 19:1-ARG1
+nt_6605.parse 23 24 predicted kill-v kill.01 ----- 24:0-rel  20:1-ARG1 22:1-R-ARG1
+nt_6605.parse 24 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+nt_6605.parse 24 4 predicted receive-v receive.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+nt_6605.parse 25 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6605.parse 25 4 predicted create-v create.01 ----- 4:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6605.parse 25 5 predicted be-v be.01 ----- 5:0-rel  1:1-ARG1
+nt_6605.parse 25 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1
+nt_6605.parse 25 46 predicted sit-v sit.01 ----- 46:0-rel  43:1-ARG1 45:1-R-ARG1 47:1-ARG2
+nt_6605.parse 26 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 7:1-ARG1
+nt_6605.parse 27 3 predicted bow-v bow.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1
+nt_6605.parse 27 6 predicted worship-v worship.- ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARG0

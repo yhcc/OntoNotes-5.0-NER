@@ -1,0 +1,4 @@
+wsj_1342.parse 0 7 predicted report-v report.01 ----- 7:0-rel  8:1-ARG0 13:1-ARGM-MNR
+wsj_1342.parse 1 2 predicted discount-v discount.01 ----- 2:0-rel  3:0-ARG1
+wsj_1342.parse 2 3 predicted end-v end.01 ----- 3:0-rel  2:1-ARG1 4:3-ARGM-TMP
+wsj_1342.parse 3 4 predicted adjust-v adjust.01 ----- 4:0-rel  2:1-ARG1 5:1-ARG4

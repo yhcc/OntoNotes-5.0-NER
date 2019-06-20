@@ -1,0 +1,22 @@
+cnn_0036.parse 0 2 predicted injure-v injure.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0036.parse 0 13 predicted come-v come.01 ----- 13:0-rel  0:2-ARG1 14:1-ARG4 15:1-ARGM-TMP
+cnn_0036.parse 1 2 predicted leave-v leave.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0036.parse 2 5 predicted hurt-v hurt.01 ----- 5:0-rel  2:1-ARG1
+cnn_0036.parse 2 9 predicted reunite-v reunite.01 ----- 9:0-rel  0:2-ARG1
+cnn_0036.parse 2 18 predicted move-v move.01 ----- 18:0-rel  20:1-ARG2
+cnn_0036.parse 3 8 predicted pause-v pause.01 ----- 8:0-rel  0:2-ARG0 9:1-ARGM-TMP 11:1-ARGM-PRP
+cnn_0036.parse 3 15 predicted honor-v honor.01 ----- 15:0-rel  12:1-ARG0 16:2-ARG1
+cnn_0036.parse 3 20 predicted die-v die.01 ----- 20:0-rel  16:1-ARG1 19:1-R-ARG1 21:1-ARGM-LOC
+cnn_0036.parse 4 4 predicted honor-v honor.01 ----- 4:0-rel  0:1-ARG1 2:0-ARGM-MOD 5:1-ARGM-TMP 6:1-ARGM-LOC
+cnn_0036.parse 5 2 predicted plan-v plan.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0036.parse 5 4 predicted attend-v attend.01 ----- 4:0-rel  0:1-ARG0
+cnn_0036.parse 6 7 predicted arrive-v arrive.01 ----- 7:0-rel  0:2-ARG1 13:1-ARGM-TMP 14:1-ARGM-LOC
+cnn_0036.parse 7 9 predicted say-v say.01 ----- 9:0-rel  0:1-ARGM-LOC 7:1-ARG0 10:3-ARG1
+cnn_0036.parse 7 12 predicted owe-v owe.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG2 15:2-ARG1
+cnn_0036.parse 8 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0036.parse 9 3 predicted be-v be.01 ----- 3:0-rel  0:2-ARG1
+cnn_0036.parse 9 7 predicted see-v see.01 ----- 7:0-rel  6:1-ARG0 8:1-ARGM-LOC 12:1-ARGM-TMP
+cnn_0036.parse 10 3 predicted try-v try.01 ----- 3:0-rel  0:2-ARG0 4:2-ARG1
+cnn_0036.parse 10 5 predicted find-v find.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1 10:1-ARGM-MNR
+cnn_0036.parse 10 11 predicted serve-v serve.01 ----- 11:0-rel  12:1-ARG2
+cnn_0036.parse 10 19 predicted be-v be.01 ----- 19:0-rel  16:1-ARG1 17:0-ARGM-MOD 20:1-ARG2

@@ -1,0 +1,55 @@
+chtb_0310.parse 1 1 predicted rise-v rise.01 ----- 1:0-rel  2:0-ARG1
+chtb_0310.parse 1 5 predicted break-v break.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1 18:2-ARGM-PRP
+chtb_0310.parse 1 19 predicted win-v win.01 ----- 19:0-rel  20:1-ARG1
+chtb_0310.parse 3 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+chtb_0310.parse 3 6 predicted take-v take.01 ----- 6:0-rel  2:1-ARG0 7:1-ARG1 8:1-ARG2
+chtb_0310.parse 4 6 predicted have-v have.03 ----- 6:0-rel  0:3-ARG0 7:1-ARG1
+chtb_0310.parse 4 11 predicted have-v have.03 ----- 11:0-rel  10:1-ARG0 12:1-ARG1
+chtb_0310.parse 5 6 predicted score-v score.01 ----- 6:0-rel  0:1-ARG0 7:1-ARG1 8:1-ARGM-LOC 12:2-ARGM-PRP
+chtb_0310.parse 5 13 predicted take-v take.01 ----- 13:0-rel  14:1-ARG1
+chtb_0310.parse 7 13 predicted show-v show.01 ----- 13:0-rel  0:1-ARG0 14:2-ARG1
+chtb_0310.parse 8 1 predicted receive-v receive.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARG2
+chtb_0310.parse 9 10 predicted award-v award.01 ----- 10:0-rel  0:1-ARGM-TMP 7:1-ARG0 9:1-ARGM-TMP 11:1-ARG2
+chtb_0310.parse 10 9 predicted stake-v stake.- ----- 9:0-rel  8:1-R-ARG0 10:1-ARG1 11:1-ARGM-LOC
+chtb_0310.parse 11 3 predicted be-v be.01 ----- 3:0-rel  1:1-ARG1 4:1-ARG2
+chtb_0310.parse 11 7 predicted earn-v earn.01 ----- 7:0-rel  0:1-ARGM-ADV 6:1-ARG0 8:2-ARG1 12:1-ARGM-CAU
+chtb_0310.parse 11 20 predicted pick-v pick.04 ----- 20:0-rel  0:1-ARGM-ADV 6:1-ARG0 22:1-ARG1
+chtb_0310.parse 12 7 predicted win-v win.01 ----- 7:0-rel  0:2-ARG0 4:1-ARG0 8:1-ARG1 11:1-ARGM-MNR
+chtb_0310.parse 13 11 predicted make-v make.04 ----- 11:0-rel  0:2-ARG0 12:1-ARG1
+chtb_0310.parse 13 17 predicted manage-v manage.01 ----- 17:0-rel  0:2-ARG0 16:1-ARGM-ADV 18:1-ARG1
+chtb_0310.parse 14 3 predicted be-v be.02 ----- 3:0-rel  0:1-ARGM-TMP 4:2-ARG1
+chtb_0310.parse 15 1 predicted win-v win.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+chtb_0310.parse 16 5 predicted share-v share.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+chtb_0310.parse 17 9 predicted take-v take.01 ----- 9:0-rel  0:1-ARG0 10:1-ARG1 11:1-ARG2 14:1-ARGM-TMP
+chtb_0310.parse 18 2 predicted win-v win.01 ----- 2:0-rel  0:2-ARG0 3:1-ARG1 5:1-ARGM-ADV
+chtb_0310.parse 19 9 predicted comment-v comment.01 ----- 9:0-rel  0:2-ARG0
+chtb_0310.parse 19 16 predicted be-v be.01 ----- 16:0-rel  11:2-ARG1
+chtb_0310.parse 19 26 predicted explain-v explain.01 ----- 26:0-rel  0:2-ARG0 27:1-ARG1
+chtb_0310.parse 19 30 predicted fall-v fall.01 ----- 30:0-rel  28:1-ARG1
+chtb_0310.parse 20 16 predicted take-v take.01 ----- 16:0-rel  17:1-ARG1 18:1-ARG2
+chtb_0310.parse 20 26 predicted perform-v perform.01 ----- 26:0-rel  0:1-ARGM-DIS 27:1-ARGM-MNR
+chtb_0310.parse 20 31 predicted have-v have.03 ----- 31:0-rel  30:1-ARG0 32:1-ARG1
+chtb_0310.parse 20 37 predicted have-v have.03 ----- 37:0-rel  35:1-ARG0 38:1-ARG1
+chtb_0310.parse 22 12 predicted go-v go.02 ----- 12:0-rel  0:1-ARGM-ADV 7:1-ARG0 11:1-ARGM-MNR 13:1-ARGM-DIR 14:2-ARGM-PRP
+chtb_0310.parse 22 15 predicted head-v head.02 ----- 15:0-rel  7:1-ARG0 16:1-ARG1
+chtb_0310.parse 23 2 predicted win-v win.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:1-ARG1 5:1-ARGM-MNR
+chtb_0310.parse 23 12 predicted score-v score.01 ----- 12:0-rel  11:1-ARG0 13:1-ARG1 14:2-ARG2
+chtb_0310.parse 23 15 predicted share-v share.01 ----- 15:0-rel  16:1-ARG1
+chtb_0310.parse 24 10 predicted begin-v begin.01 ----- 10:0-rel  9:1-ARG0 11:2-ARG1
+chtb_0310.parse 24 11 predicted take-v take.01 ----- 11:0-rel  9:1-ARG0 12:1-ARG1 13:1-ARG2
+chtb_0310.parse 25 1 predicted win-v win.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 13:1-ARGM-LOC
+chtb_0310.parse 25 35 predicted be-v be.01 ----- 35:0-rel  32:1-ARG1 36:1-ARG2
+chtb_0310.parse 26 3 predicted win-v win.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1 10:1-ARGM-MNR
+chtb_0310.parse 28 3 predicted perform-v perform.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+chtb_0310.parse 29 9 predicted show-v show.01 ----- 9:0-rel  0:2-ARG0 10:1-ARG1
+chtb_0310.parse 29 16 predicted win-v win.01 ----- 16:0-rel  0:2-ARG0 17:1-ARG1
+chtb_0310.parse 30 4 predicted win-v win.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 8:1-ARGM-MNR
+chtb_0310.parse 30 23 predicted share-v share.01 ----- 23:0-rel  14:2-ARG0 24:1-ARG1 27:1-ARG2
+chtb_0310.parse 31 2 predicted show-v show.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-LOC
+chtb_0310.parse 32 2 predicted win-v win.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+chtb_0310.parse 32 8 predicted win-v win.01 ----- 8:0-rel  0:1-ARGM-ADV 7:1-ARG0 9:1-ARG1 12:1-ARGM-MNR
+chtb_0310.parse 33 3 predicted win-v win.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 7:1-ARGM-MNR
+chtb_0310.parse 34 14 predicted make-v make.04 ----- 14:0-rel  0:2-ARG0 15:1-ARG1 18:1-ARGM-LOC
+chtb_0310.parse 34 23 predicted manage-v manage.01 ----- 23:0-rel  0:2-ARG0 22:1-ARGM-ADV 24:1-ARG1
+chtb_0310.parse 35 7 predicted decide-v decide.01 ----- 7:0-rel  0:1-ARGM-TMP 2:1-ARG1 8:1-ARGM-LOC
+chtb_0310.parse 36 15 predicted hold-v hold.04 ----- 15:0-rel  0:4-ARG1 13:0-ARGM-MOD 16:1-ARGM-TMP

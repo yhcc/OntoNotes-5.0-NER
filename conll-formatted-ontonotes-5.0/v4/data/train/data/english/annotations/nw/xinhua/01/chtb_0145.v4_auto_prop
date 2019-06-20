@@ -1,0 +1,23 @@
+chtb_0145.parse 0 5 predicted strive-v strive.01 ----- 5:0-rel  0:2-ARG0 6:2-ARG1
+chtb_0145.parse 0 7 predicted expand-v expand.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+chtb_0145.parse 2 10 predicted reveal-v reveal.01 ----- 10:0-rel  2:1-ARG1 3:2-ARG0
+chtb_0145.parse 2 22 predicted provide-v provide.01 ----- 22:0-rel  19:1-ARG0
+chtb_0145.parse 2 23 predicted finance-v finance.01 ----- 23:0-rel  19:1-ARG0 24:1-ARG1
+chtb_0145.parse 2 38 predicted finish-v finish.01 ----- 38:0-rel  34:1-R-ARGM-LOC 36:1-ARG0 39:1-ARG1 43:1-ARGM-ADV
+chtb_0145.parse 2 47 predicted contract-v contract.02 ----- 47:0-rel  46:0-ARGM-MNR 48:0-ARG1
+chtb_0145.parse 3 7 predicted establish-v establish.01 ----- 7:0-rel  0:1-ARG1 4:1-R-ARG1 8:2-ARGM-TMP
+chtb_0145.parse 3 12 predicted raise-v raise.02 ----- 12:0-rel  0:2-ARG0
+chtb_0145.parse 3 21 predicted bank-v bank.01 ----- 21:0-rel  22:0-ARG2
+chtb_0145.parse 3 42 predicted undertake-v undertake.01 ----- 42:0-rel  0:2-ARG0
+chtb_0145.parse 4 12 predicted secure-v secure.01 ----- 12:0-rel  0:1-ARGM-ADV 4:2-ARG1 15:1-ARG1
+chtb_0145.parse 4 14 predicted achieve-v achieve.01 ----- 14:0-rel  0:1-ARGM-DIS 4:2-ARG0 15:1-ARG1
+chtb_0145.parse 5 15 predicted reach-v reach.01 ----- 15:0-rel  0:1-ARGM-TMP 7:2-ARG0 16:1-ARG1
+chtb_0145.parse 5 20 predicted realize-v realize.02 ----- 20:0-rel  0:1-ARGM-TMP 7:2-ARG0 21:2-ARG1
+chtb_0145.parse 6 4 predicted issue-v issue.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-MNR
+chtb_0145.parse 6 33 predicted issue-v issue.01 ----- 33:0-rel  0:1-ARG0 34:2-ARG1
+chtb_0145.parse 6 54 predicted establish-v establish.01 ----- 54:0-rel  55:1-ARG1 58:1-ARGM-LOC
+chtb_0145.parse 7 8 predicted do-v do.02 ----- 8:0-rel  0:1-ARGM-TMP 2:1-ARG0 7:1-ARGM-TMP
+chtb_0145.parse 7 12 predicted borrow-v borrow.01 ----- 12:0-rel  13:1-ARG1
+chtb_0145.parse 7 33 predicted have-v have.03 ----- 33:0-rel  30:1-ARG0 32:1-R-ARG0 34:1-ARG1
+chtb_0145.parse 7 37 predicted stand-v stand.01 ----- 37:0-rel  38:1-ARG1
+chtb_0145.parse 8 10 predicted give-v give.01 ----- 10:0-rel  0:2-ARG0 11:3-ARG1

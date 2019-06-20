@@ -1,0 +1,5 @@
+abc_0032.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+abc_0032.parse 1 2 predicted go-v go.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARGM-TMP 4:1-ARG4 6:1-ARGM-PRP
+abc_0032.parse 2 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 4:1-ARG2
+abc_0032.parse 2 9 predicted visit-v visit.01 ----- 9:0-rel  0:1-ARG0 4:1-ARG0 10:1-ARG1
+abc_0032.parse 2 16 predicted end-v end.01 ----- 16:0-rel  13:1-ARG1 17:1-ARGM-TMP

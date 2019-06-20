@@ -1,0 +1,5 @@
+cnn_0214.parse 2 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+cnn_0214.parse 2 8 predicted plate-v plate.- ----- 8:0-rel  6:0-ARG2
+cnn_0214.parse 3 2 predicted be-v be.02 ----- 2:0-rel  1:1-ARGM-DIS
+cnn_0214.parse 3 7 predicted plate-v plate.- ----- 7:0-rel  3:1-ARG2 8:1-ARG1
+cnn_0214.parse 4 7 predicted have-v have.03 ----- 7:0-rel  0:2-ARG0 8:2-ARG1

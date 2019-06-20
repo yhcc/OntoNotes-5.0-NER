@@ -1,0 +1,9 @@
+cnn_0163.parse 0 2 predicted deny-v deny.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0163.parse 0 7 predicted move-v move.01 ----- 7:0-rel  5:1-ARG0 8:2-ARG1 13:1-ARG2
+cnn_0163.parse 1 3 predicted quote-v quote.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 8:1-ARG2
+cnn_0163.parse 1 14 predicted remove-v remove.01 ----- 14:0-rel  11:1-ARG1 15:1-ARGM-TMP
+cnn_0163.parse 2 5 predicted report-v report.01 ----- 5:0-rel  0:1-ARG0 6:3-ARG1
+cnn_0163.parse 2 10 predicted position-v position.01 ----- 10:0-rel  6:1-ARG1 11:1-ARG2
+cnn_0163.parse 2 27 predicted be-v be.01 ----- 27:0-rel  26:1-R-ARG1 28:2-ARG2
+cnn_0163.parse 3 11 predicted say-v say.01 ----- 11:0-rel  0:2-ARG0 12:3-ARG1
+cnn_0163.parse 3 15 predicted confirm-v confirm.01 ----- 15:0-rel  12:1-ARG0 13:0-ARGM-MOD 14:0-ARGM-NEG 16:1-ARG1

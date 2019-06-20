@@ -1,0 +1,21 @@
+cnn_0289.parse 0 8 predicted bear-v bear.01 ----- 8:0-rel  3:1-ARG0 7:1-R-ARG0 9:2-ARG1
+cnn_0289.parse 1 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1 7:1-ARG2
+cnn_0289.parse 1 10 predicted be-v be.01 ----- 10:0-rel  5:1-ARG1 11:1-ARG2
+cnn_0289.parse 3 5 predicted hang-v hang.01 ----- 5:0-rel  0:2-ARG1
+cnn_0289.parse 3 15 predicted reject-v reject.01 ----- 15:0-rel  14:0-ARGM-MNR 16:0-ARG1 17:0-ARGM-TMP
+cnn_0289.parse 4 5 predicted approve-v approve.01 ----- 5:0-rel  1:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+cnn_0289.parse 4 10 predicted say-v say.01 ----- 10:0-rel  0:1-ARGM-ADV 9:1-ARG0 11:3-ARG1
+cnn_0289.parse 4 13 predicted file-v file.01 ----- 13:0-rel  11:1-ARG0 12:0-ARGM-MOD 14:1-ARG1
+cnn_0289.parse 5 4 predicted approve-v approve.01 ----- 4:0-rel  0:1-ARGM-TMP 1:1-ARG0 5:1-ARG1
+cnn_0289.parse 6 1 predicted warn-v warn.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0289.parse 6 4 predicted seek-v seek.01 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1 7:1-ARGM-ADV
+cnn_0289.parse 6 10 predicted file-v file.01 ----- 10:0-rel  8:1-ARG0 11:1-ARG1
+cnn_0289.parse 7 4 predicted plan-v plan.01 ----- 4:0-rel  0:2-ARG0 5:2-ARG1
+cnn_0289.parse 7 6 predicted cut-v cut.02 ----- 6:0-rel  0:2-ARG0 7:1-ARG1
+cnn_0289.parse 8 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0289.parse 8 4 predicted eliminate-v eliminate.01 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD 5:3-ARG1
+cnn_0289.parse 9 2 predicted look-v look.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cnn_0289.parse 10 3 predicted be-v be.01 ----- 3:0-rel  0:2-ARG1 4:1-ARG2
+cnn_0289.parse 11 3 predicted down-v down.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+cnn_0289.parse 13 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0289.parse 14 3 predicted continue-v continue.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-TMP

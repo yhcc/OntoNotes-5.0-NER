@@ -1,0 +1,29 @@
+cnn_0350.parse 2 1 predicted require-v require.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 4:2-ARG1
+cnn_0350.parse 2 5 predicted use-v use.01 ----- 5:0-rel  2:1-ARG0 6:1-ARG1 9:2-ARG2
+cnn_0350.parse 2 10 predicted serve-v serve.01 ----- 10:0-rel  11:1-ARG2
+cnn_0350.parse 3 6 predicted block-v block.01 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:1-ARGM-ADV
+cnn_0350.parse 3 19 predicted produce-v produce.01 ----- 19:0-rel  15:1-ARG0 17:1-R-ARG0 20:1-ARG1
+cnn_0350.parse 4 6 predicted face-v face.01 ----- 6:0-rel  0:1-ARG0 5:1-ARGM-DIS 7:2-ARG1
+cnn_0350.parse 5 4 predicted buy-v buy.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 5:2-ARG1
+cnn_0350.parse 5 6 predicted control-v control.01 ----- 6:0-rel  7:0-ARG0
+cnn_0350.parse 6 6 predicted broadcast-v broadcast.01 ----- 6:0-rel  0:1-ARGM-TMP 2:1-ARG0
+cnn_0350.parse 6 8 predicted pull-v pull.01 ----- 8:0-rel  9:1-ARG2
+cnn_0350.parse 7 2 predicted offend-v offend.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG0
+cnn_0350.parse 7 10 predicted demand-v demand.01 ----- 10:0-rel  0:1-ARG0 11:1-ARG1
+cnn_0350.parse 7 14 predicted remove-v remove.01 ----- 14:0-rel  12:1-ARG0 15:1-ARG1
+cnn_0350.parse 7 17 predicted lose-v lose.02 ----- 17:0-rel  12:1-ARG0 18:1-ARG1
+cnn_0350.parse 7 20 predicted broadcast-v broadcast.01 ----- 20:0-rel  21:1-ARGM-LOC
+cnn_0350.parse 8 4 predicted buy-v buy.01 ----- 4:0-rel  0:2-ARGM-TMP 3:1-ARG0 5:2-ARG1
+cnn_0350.parse 8 14 predicted own-v own.01 ----- 14:0-rel  11:1-ARG0 13:0-ARGM-NEG
+cnn_0350.parse 9 5 predicted have-v have.03 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+cnn_0350.parse 10 4 predicted expand-v expand.01 ----- 4:0-rel  0:1-ARG1 2:0-ARGM-MOD 5:1-ARGM-TMP 7:1-ARGM-ADV
+cnn_0350.parse 10 10 predicted ease-v ease.02 ----- 10:0-rel  8:1-ARG0 11:2-ARG1
+cnn_0350.parse 11 2 predicted lobby-v lobby.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-MNR 4:1-ARG2
+cnn_0350.parse 12 2 predicted allow-v allow.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+cnn_0350.parse 12 5 predicted buy-v buy.01 ----- 5:0-rel  3:1-ARG0 6:2-ARG1
+cnn_0350.parse 13 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG1 5:1-ARG2
+cnn_0350.parse 13 7 predicted accommodate-v accommodate.01 ----- 7:0-rel  2:1-ARG0 8:1-ARG1
+cnn_0350.parse 14 2 predicted promise-v promise.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:1-ARG2
+cnn_0350.parse 14 8 predicted change-v change.01 ----- 8:0-rel  5:1-ARG1
+cnn_0350.parse 14 11 predicted limit-v limit.01 ----- 11:0-rel  4:1-ARGM-ADV 9:1-ARG0 10:0-ARGM-MOD 12:1-ARG1 14:1-ARG2
+cnn_0350.parse 14 20 predicted call-v call.01 ----- 20:0-rel  18:1-ARG1 19:1-ARG0 21:1-ARG2

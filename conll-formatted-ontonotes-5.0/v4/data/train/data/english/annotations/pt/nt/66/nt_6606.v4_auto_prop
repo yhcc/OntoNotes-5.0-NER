@@ -1,0 +1,70 @@
+nt_6606.parse 0 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG1
+nt_6606.parse 0 6 predicted open-v open.01 ----- 6:0-rel  4:1-ARG0 7:2-ARG1
+nt_6606.parse 1 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:3-ARG1
+nt_6606.parse 1 9 predicted speak-v speak.01 ----- 9:0-rel  3:2-ARG0 10:1-ARG2
+nt_6606.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 4:2-ARG1
+nt_6606.parse 3 1 predicted look-v look.01 ----- 1:0-rel  0:1-ARG0
+nt_6606.parse 4 5 predicted hold-v hold.04 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+nt_6606.parse 4 10 predicted give-v give.01 ----- 10:0-rel  0:2-ARG0 11:1-ARG1
+nt_6606.parse 5 1 predicted ride-v ride.01 ----- 1:0-rel  0:1-ARG1 3:2-ARGM-PRP
+nt_6606.parse 5 4 predicted defeat-v defeat.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+nt_6606.parse 5 8 predicted win-v win.01 ----- 8:0-rel  0:1-ARG0 9:1-ARG1
+nt_6606.parse 6 2 predicted open-v open.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nt_6606.parse 7 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6606.parse 7 7 predicted say-v say.01 ----- 7:0-rel  3:1-ARG0
+nt_6606.parse 8 3 predicted come-v come.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG1
+nt_6606.parse 9 6 predicted give-v give.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1
+nt_6606.parse 9 9 predicted take-v take.01 ----- 9:0-rel  7:1-ARG0 12:1-ARG2
+nt_6606.parse 9 19 predicted kill-v kill.01 ----- 19:0-rel  17:1-ARG0 18:0-ARGM-MOD 20:1-ARG1
+nt_6606.parse 10 2 predicted give-v give.01 ----- 2:0-rel  0:1-ARG2 3:1-ARG1
+nt_6606.parse 11 2 predicted open-v open.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nt_6606.parse 12 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6606.parse 12 7 predicted say-v say.01 ----- 7:0-rel  3:1-ARG0
+nt_6606.parse 13 1 predicted look-v look.01 ----- 1:0-rel  0:1-ARG0
+nt_6606.parse 14 5 predicted hold-v hold.04 ----- 5:0-rel  0:2-ARG0 6:2-ARG1 10:1-ARGM-LOC
+nt_6606.parse 15 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+nt_6606.parse 15 5 predicted sound-v sound.01 ----- 5:0-rel  3:1-ARG1 4:1-R-ARG1 6:1-ARG2
+nt_6606.parse 16 2 predicted come-v come.03 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+nt_6606.parse 16 9 predicted be-v be.01 ----- 9:0-rel  4:1-ARG2 5:1-ARG1
+nt_6606.parse 17 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+nt_6606.parse 17 14 predicted cost-v cost.01 ----- 14:0-rel  4:3-ARG1 13:0-ARGM-MOD
+nt_6606.parse 17 19 predicted pay-v pay.01 ----- 19:0-rel  18:1-ARG0
+nt_6606.parse 18 3 predicted harm-v harm.01 ----- 3:0-rel  0:0-ARGM-DIS 2:0-ARGM-NEG 4:2-ARG1
+nt_6606.parse 19 2 predicted open-v open.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nt_6606.parse 20 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+nt_6606.parse 20 10 predicted say-v say.01 ----- 10:0-rel  3:2-ARG0
+nt_6606.parse 21 1 predicted look-v look.01 ----- 1:0-rel  0:1-ARG0
+nt_6606.parse 23 11 predicted follow-v follow.01 ----- 11:0-rel  9:1-ARG0 12:1-ARGM-LOC 13:1-ARGM-DIR
+nt_6606.parse 24 2 predicted give-v give.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+nt_6606.parse 25 2 predicted open-v open.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nt_6606.parse 26 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+nt_6606.parse 27 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nt_6606.parse 27 9 predicted kill-v kill.01 ----- 9:0-rel  5:1-ARG1 6:1-R-ARG1
+nt_6606.parse 27 12 predicted be-v be.01 ----- 12:0-rel  11:1-ARG1 13:1-ARG2
+nt_6606.parse 27 24 predicted receive-v receive.01 ----- 24:0-rel  20:1-ARG1 22:1-ARG0
+nt_6606.parse 28 2 predicted shout-v shout.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-MNR
+nt_6606.parse 28 18 predicted judge-v judge.01 ----- 18:0-rel  16:1-ARGM-TMP 19:2-ARG1
+nt_6606.parse 28 25 predicted punish-v punish.01 ----- 25:0-rel  26:1-ARG1 27:1-ARG2
+nt_6606.parse 28 28 predicted kill-v kill.01 ----- 28:0-rel  26:1-ARG0 29:1-ARG1
+nt_6606.parse 29 6 predicted give-v give.01 ----- 6:0-rel  0:1-ARGM-TMP 1:2-ARG2 7:1-ARG1
+nt_6606.parse 30 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG2 3:2-ARG1
+nt_6606.parse 30 4 predicted wait-v wait.01 ----- 4:0-rel  0:1-ARG1 5:2-ARGM-TMP
+nt_6606.parse 31 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARGM-TMP 3:2-ARG1
+nt_6606.parse 31 17 predicted kill-v kill.01 ----- 17:0-rel  14:1-R-ARG0 15:0-ARGM-MOD 18:1-ARGM-TMP
+nt_6606.parse 31 20 predicted be-v be.01 ----- 20:0-rel  19:1-ARG1
+nt_6606.parse 32 3 predicted tell-v tell.01 ----- 3:0-rel  0:1-ARG2 4:2-ARG1
+nt_6606.parse 32 5 predicted wait-v wait.01 ----- 5:0-rel  0:1-ARG1 6:1-ARGM-TMP
+nt_6606.parse 32 11 predicted finish-v finish.01 ----- 11:0-rel  7:1-ARG1
+nt_6606.parse 33 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG1
+nt_6606.parse 33 6 predicted open-v open.01 ----- 6:0-rel  4:1-ARG0 7:1-ARG1
+nt_6606.parse 36 5 predicted fall-v fall.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG4 9:1-ARGM-MNR
+nt_6606.parse 36 13 predicted drop-v drop.01 ----- 13:0-rel  10:1-ARG0 14:1-ARG1 16:2-ARGM-TMP
+nt_6606.parse 36 19 predicted blow-v blow.01 ----- 19:0-rel  16:1-ARGM-TMP 17:1-ARG1
+nt_6606.parse 37 3 predicted split-v split.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+nt_6606.parse 37 10 predicted roll-v roll.01 ----- 10:0-rel  8:1-ARG1 12:1-ARGM-MNR
+nt_6606.parse 38 6 predicted move-v move.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARG1 7:1-ARG2
+nt_6606.parse 39 34 predicted hide-v hide.01 ----- 34:0-rel  0:1-ARGM-TMP 35:1-ARG1 36:1-ARGM-LOC
+nt_6606.parse 40 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2
+nt_6606.parse 42 9 predicted sit-v sit.01 ----- 9:0-rel  6:1-ARG1 8:1-R-ARG1 10:1-ARG2
+nt_6606.parse 44 7 predicted come-v come.01 ----- 7:0-rel  0:2-ARG1
+nt_6606.parse 45 3 predicted stand-v stand.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 4:1-ARG2

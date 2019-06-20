@@ -1,0 +1,13 @@
+wsj_1533.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1533.parse 0 5 predicted complete-v complete.01 ----- 5:0-rel  4:1-ARG0
+wsj_1533.parse 1 6 predicted price-v price.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG2 10:2-ARGM-PRP
+wsj_1533.parse 1 11 predicted yield-v yield.01 ----- 11:0-rel  0:1-ARG0 12:1-ARG1
+wsj_1533.parse 1 17 predicted manage-v manage.01 ----- 17:0-rel  15:1-ARG1 18:1-ARG0
+wsj_1533.parse 1 37 predicted say-v say.01 ----- 37:0-rel  35:1-ARG0 38:0-ARG1
+wsj_1533.parse 2 8 predicted say-v say.01 ----- 8:0-rel  0:2-ARG0 9:5-ARG1
+wsj_1533.parse 2 16 predicted used-v used.- ----- 16:0-rel  9:3-ARG1
+wsj_1533.parse 2 18 predicted prepay-v prepay.01 ----- 18:0-rel  9:3-ARG3 19:2-ARG1
+wsj_1533.parse 2 20 predicted remain-v remain.01 ----- 20:0-rel  21:0-ARG1
+wsj_1533.parse 3 3 predicted used-v used.- ----- 3:0-rel  0:1-ARG1
+wsj_1533.parse 3 5 predicted pay-v pay.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG2
+wsj_1533.parse 3 10 predicted finance-v finance.01 ----- 10:0-rel  0:1-ARG2 11:2-ARG1

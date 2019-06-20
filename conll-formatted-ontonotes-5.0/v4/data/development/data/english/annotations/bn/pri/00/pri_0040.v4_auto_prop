@@ -1,0 +1,16 @@
+pri_0040.parse 1 8 predicted continue-v continue.01 ----- 8:0-rel  0:2-ARG1 9:1-ARGM-TMP
+pri_0040.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+pri_0040.parse 2 12 predicted kill-v kill.01 ----- 12:0-rel  7:1-R-ARGM-LOC 9:1-ARG1
+pri_0040.parse 3 3 predicted deploy-v deploy.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+pri_0040.parse 4 10 predicted report-v report.01 ----- 10:0-rel  0:3-ARG1 8:1-ARGM-DIS 11:1-ARGM-LOC
+pri_0040.parse 4 16 predicted report-v report.01 ----- 16:0-rel  0:4-ARG1 14:1-ARG0
+pri_0040.parse 5 12 predicted follow-v follow.01 ----- 12:0-rel  0:2-ARG1 13:1-ARG2
+pri_0040.parse 6 10 predicted attach-v attach.01 ----- 10:0-rel  0:2-ARG1 11:1-ARG0
+pri_0040.parse 7 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+pri_0040.parse 7 7 predicted deploy-v deploy.01 ----- 7:0-rel  5:1-ARG1 8:1-ARGM-ADV
+pri_0040.parse 7 20 predicted aim-v aim.02 ----- 20:0-rel  18:1-ARG1 21:1-ARG2
+pri_0040.parse 8 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+pri_0040.parse 8 5 predicted go-v go.06 ----- 5:0-rel  3:1-ARG1 6:1-ARG2 8:2-ARGM-ADV
+pri_0040.parse 8 8 predicted fire-v fire.01 ----- 8:0-rel  3:1-ARG0 9:1-ARG1
+pri_0040.parse 8 18 predicted suggest-v suggest.01 ----- 18:0-rel  13:2-ARG0 19:3-ARG1
+pri_0040.parse 8 23 predicted used-v used.- ----- 23:0-rel  19:1-ARG1 20:0-ARGM-MOD

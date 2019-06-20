@@ -1,0 +1,25 @@
+wsj_2382.parse 0 7 predicted say-v say.01 ----- 7:0-rel  0:4-ARG0 8:3-ARG1
+wsj_2382.parse 0 11 predicted turn-v turn.02 ----- 11:0-rel  8:1-ARG0
+wsj_2382.parse 0 18 predicted concern-v concern.02 ----- 18:0-rel  15:1-ARG0 19:1-ARG1
+wsj_2382.parse 1 18 predicted charge-v charge.05 ----- 18:0-rel  0:1-ARG1 19:1-ARG2
+wsj_2382.parse 2 1 predicted win-v win.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+wsj_2382.parse 2 4 predicted market-v market.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+wsj_2382.parse 2 13 predicted acknowledge-v acknowledge.- ----- 13:0-rel  0:1-ARG0 14:1-ARG1
+wsj_2382.parse 2 16 predicted substitute-v substitute.01 ----- 16:0-rel  15:1-ARG0 17:1-ARG1
+wsj_2382.parse 3 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:3-ARG1
+wsj_2382.parse 3 7 predicted ask-v ask.02 ----- 7:0-rel  4:1-ARG0 8:1-ARG2 11:2-ARG1
+wsj_2382.parse 3 12 predicted recall-v recall.02 ----- 12:0-rel  8:1-ARG0 13:1-ARGM-LOC
+wsj_2382.parse 4 7 predicted comply-v comply.01 ----- 7:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 6:0-ARGM-NEG 8:1-ARG1
+wsj_2382.parse 4 14 predicted say-v say.01 ----- 14:0-rel  12:1-ARG0 15:0-ARG1
+wsj_2382.parse 5 26 predicted agree-v agree.01 ----- 26:0-rel  25:1-ARGM-ADV 27:2-ARG1
+wsj_2382.parse 5 28 predicted recall-v recall.02 ----- 28:0-rel  29:2-ARG1
+wsj_2382.parse 5 50 predicted say-v say.01 ----- 50:0-rel  0:3-ARG1 48:1-ARG0 51:0-C-ARG1
+wsj_2382.parse 6 8 predicted begin-v begin.01 ----- 8:0-rel  0:2-ARG0 7:1-ARGM-TMP 9:2-ARG1
+wsj_2382.parse 7 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_2382.parse 7 5 predicted present-v present.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+wsj_2382.parse 7 8 predicted uncover-v uncover.01 ----- 8:0-rel  7:1-ARG0 9:1-ARG1 12:2-ARGM-PRD
+wsj_2382.parse 7 12 predicted indicate-v indicate.01 ----- 12:0-rel  13:1-ARG1
+wsj_2382.parse 7 15 predicted substitute-v substitute.01 ----- 15:0-rel  14:1-ARG0
+wsj_2382.parse 7 29 predicted sell-v sell.01 ----- 29:0-rel  30:2-ARG1
+wsj_2382.parse 8 2 predicted deny-v deny.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_2382.parse 8 5 predicted switch-v switch.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1 14:1-ARGM-MNR

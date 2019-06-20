@@ -1,0 +1,1393 @@
+msnbc_0003.parse 0 2 predicted come-v come.03 ----- 2:0-rel  0:1-ARG1 3:2-ARGM-TMP
+msnbc_0003.parse 0 9 predicted schedule-v schedule.01 ----- 9:0-rel  6:1-ARG1 10:2-ARG2
+msnbc_0003.parse 0 11 predicted hold-v hold.04 ----- 11:0-rel  6:1-ARG0
+msnbc_0003.parse 1 10 predicted speak-v speak.03 ----- 10:0-rel  7:1-ARG0 9:1-R-ARG0 12:1-ARG1 16:1-ARGM-TMP
+msnbc_0003.parse 2 4 predicted think-v think.01 ----- 4:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:0-ARGM-NEG 5:3-ARG1
+msnbc_0003.parse 2 7 predicted do-v do.02 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1 12:1-ARGM-LOC
+msnbc_0003.parse 3 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 3 6 predicted hurt-v hurt.01 ----- 6:0-rel  2:1-ARG0 7:1-ARG1 9:1-ARGM-MNR
+msnbc_0003.parse 3 13 predicted hurt-v hurt.01 ----- 13:0-rel  2:1-ARG0 14:1-ARG1
+msnbc_0003.parse 4 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 4 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:1-ARG2
+msnbc_0003.parse 5 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+msnbc_0003.parse 5 6 predicted arrive-v arrive.01 ----- 6:0-rel  2:1-ARGM-MNR 4:1-ARG1 7:1-ARG4
+msnbc_0003.parse 5 8 predicted be-v be.01 ----- 8:0-rel  2:2-ARG1 9:1-ARG2
+msnbc_0003.parse 6 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+msnbc_0003.parse 7 2 predicted know-v know.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0
+msnbc_0003.parse 7 8 predicted run-v run.10 ----- 8:0-rel  7:1-ARG0 9:2-ARG1
+msnbc_0003.parse 7 12 predicted look-v look.02 ----- 12:0-rel  13:1-ARG1
+msnbc_0003.parse 7 21 predicted win-v win.01 ----- 21:0-rel  14:1-ARG0 18:1-R-ARG0 20:0-ARGM-NEG 22:1-ARG1
+msnbc_0003.parse 7 26 predicted say-v say.01 ----- 26:0-rel  25:1-ARG0 27:3-ARG1
+msnbc_0003.parse 7 28 predicted be-v be.01 ----- 28:0-rel  27:1-ARG1 29:1-ARG2
+msnbc_0003.parse 8 2 predicted go-v go.02 ----- 2:0-rel  0:1-ARG0 3:1-ARG4 4:1-ARGM-MNR
+msnbc_0003.parse 9 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 9 9 predicted be-v be.01 ----- 9:0-rel  6:1-ARG1 8:1-R-ARG1 10:1-ARG2
+msnbc_0003.parse 9 14 predicted accuse-v accuse.01 ----- 14:0-rel  11:1-ARG0 15:1-ARG1 17:1-ARG2
+msnbc_0003.parse 9 18 predicted be-v be.01 ----- 18:0-rel  19:1-ARG2
+msnbc_0003.parse 9 26 predicted know-v know.01 ----- 26:0-rel  25:1-ARG0
+msnbc_0003.parse 9 29 predicted work-v work.01 ----- 29:0-rel  30:1-ARG3
+msnbc_0003.parse 9 38 predicted break-v break.01 ----- 38:0-rel  33:1-ARG0 39:1-ARG1
+msnbc_0003.parse 9 47 predicted say-v say.01 ----- 47:0-rel  45:1-ARG0
+msnbc_0003.parse 9 51 predicted be-v be.01 ----- 51:0-rel  50:1-ARG1 52:2-ARG2
+msnbc_0003.parse 9 54 predicted like-v like.01 ----- 54:0-rel  52:1-ARGM-CAU 53:1-ARG0 55:1-ARG1
+msnbc_0003.parse 10 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+msnbc_0003.parse 10 5 predicted want-v want.01 ----- 5:0-rel  2:1-ARG1 4:1-ARG0 6:1-ARGM-LOC
+msnbc_0003.parse 11 5 predicted kid-v kid.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-EXT
+msnbc_0003.parse 12 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV
+msnbc_0003.parse 12 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1
+msnbc_0003.parse 12 19 predicted ruffle-v ruffle.01 ----- 19:0-rel  12:1-ARG0 15:1-ARGM-DIS 16:1-ARG0 17:0-ARGM-MOD 20:1-ARG1 21:1-ARGM-LOC
+msnbc_0003.parse 12 24 predicted deal-v deal.01 ----- 24:0-rel  25:1-ARG1
+msnbc_0003.parse 12 31 predicted want-v want.01 ----- 31:0-rel  29:1-ARG0 32:2-ARG1
+msnbc_0003.parse 12 33 predicted do-v do.02 ----- 33:0-rel  29:1-ARG0 34:1-ARG1 35:1-ARGM-MNR
+msnbc_0003.parse 13 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 3:2-ARG1
+msnbc_0003.parse 13 4 predicted ask-v ask.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG2 6:1-ARG1 7:1-ARG3
+msnbc_0003.parse 13 18 predicted appoint-v appoint.01 ----- 18:0-rel  14:1-ARG1 15:0-ARGM-MOD 16:1-ARGM-ADV
+msnbc_0003.parse 13 30 predicted be-v be.01 ----- 30:0-rel  29:1-R-ARG1 31:1-ARG2
+msnbc_0003.parse 13 36 predicted be-v be.01 ----- 36:0-rel  35:1-ARG1 37:1-ARGM-ADV
+msnbc_0003.parse 14 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:1-ARG1 3:1-ARGM-ADV 5:1-ARG2
+msnbc_0003.parse 14 9 predicted have-v have.03 ----- 9:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:1-ARG0 10:2-ARG1
+msnbc_0003.parse 15 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 15 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 16 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 16 7 predicted pose-v pose.02 ----- 7:0-rel  3:1-ARG1 5:1-R-ARG1 8:1-ARG2
+msnbc_0003.parse 17 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 17 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARG1 6:1-ARG2
+msnbc_0003.parse 17 10 predicted got-v got.- ----- 10:0-rel  7:1-ARG0 11:2-ARG1
+msnbc_0003.parse 17 14 predicted work-v work.01 ----- 14:0-rel  11:1-ARGM-TMP 15:1-ARG3
+msnbc_0003.parse 18 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 19 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 19 4 predicted got-v got.- ----- 4:0-rel  2:1-ARG0 5:2-ARG1
+msnbc_0003.parse 19 6 predicted know-v know.01 ----- 6:0-rel  5:1-ARG0 7:2-ARG1
+msnbc_0003.parse 20 6 predicted understand-v understand.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1
+msnbc_0003.parse 20 13 predicted push-v push.04 ----- 13:0-rel  11:1-ARG0 12:0-ARGM-MOD 14:1-ARG1
+msnbc_0003.parse 21 4 predicted see-v see.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+msnbc_0003.parse 21 6 predicted happen-v happen.01 ----- 6:0-rel  5:1-ARG1
+msnbc_0003.parse 22 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 22 5 predicted prove-v prove.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD 6:1-ARG2
+msnbc_0003.parse 22 13 predicted work-v work.01 ----- 13:0-rel  11:1-ARG0 12:0-ARGM-MOD 14:1-ARGM-MNR 15:1-ARG3
+msnbc_0003.parse 22 21 predicted change-v change.01 ----- 21:0-rel  19:1-ARGM-ADV 20:1-ARG0 22:1-ARG1
+msnbc_0003.parse 23 5 predicted go-v go.04 ----- 5:0-rel  4:0-ARGM-NEG
+msnbc_0003.parse 23 7 predicted happen-v happen.01 ----- 7:0-rel  2:1-ARG1
+msnbc_0003.parse 24 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:1-ARG2
+msnbc_0003.parse 24 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:0-ARGM-NEG 9:2-ARG2
+msnbc_0003.parse 24 12 predicted think-v think.01 ----- 12:0-rel  9:1-ARG0 11:1-R-ARG0
+msnbc_0003.parse 25 6 predicted want-v want.01 ----- 6:0-rel  5:1-ARG0 7:2-ARG1
+msnbc_0003.parse 25 8 predicted have-v have.03 ----- 8:0-rel  5:1-ARG0 9:1-ARGM-LOC
+msnbc_0003.parse 25 12 predicted be-v be.01 ----- 12:0-rel  0:0-ARGM-DIS 1:2-ARG1 13:2-ARG2
+msnbc_0003.parse 25 14 predicted try-v try.01 ----- 14:0-rel  15:2-ARG1
+msnbc_0003.parse 25 16 predicted clean-v clean.02 ----- 16:0-rel  17:1-ARG1
+msnbc_0003.parse 26 6 predicted stand-v stand.01 ----- 6:0-rel  2:1-ARG1
+msnbc_0003.parse 26 11 predicted think-v think.01 ----- 11:0-rel  10:1-ARG0 12:2-ARG1
+msnbc_0003.parse 26 15 predicted do-v do.02 ----- 15:0-rel  12:1-ARG0 13:0-ARGM-MOD 14:1-ARGM-ADV 16:1-ARG1
+msnbc_0003.parse 27 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-ADV
+msnbc_0003.parse 27 12 predicted go-v go.04 ----- 12:0-rel  11:0-ARGM-NEG
+msnbc_0003.parse 27 15 predicted deter-v deter.01 ----- 15:0-rel  8:1-ARG1
+msnbc_0003.parse 27 31 predicted operate-v operate.01 ----- 31:0-rel  28:1-ARG0
+msnbc_0003.parse 28 8 predicted have-v have.03 ----- 8:0-rel  0:2-ARG1 5:1-ARG0
+msnbc_0003.parse 28 16 predicted fight-v fight.01 ----- 16:0-rel  17:1-ARG2 19:1-ARGM-EXT
+msnbc_0003.parse 28 23 predicted name-v name.01 ----- 23:0-rel  24:1-ARG1 25:1-ARG2
+msnbc_0003.parse 29 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 30 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 3:1-ARG1 5:2-ARG2
+msnbc_0003.parse 30 9 predicted be-v be.01 ----- 9:0-rel  5:1-ARG1 8:1-R-ARG1 10:1-ARG2
+msnbc_0003.parse 30 18 predicted be-v be.01 ----- 18:0-rel  16:1-R-ARG1
+msnbc_0003.parse 31 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 31 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2 7:1-ARGM-DIS
+msnbc_0003.parse 31 10 predicted make-v make.04 ----- 10:0-rel  9:1-ARG0 11:1-ARG1 13:1-ARG3
+msnbc_0003.parse 31 20 predicted wobble-v wobble.- ----- 20:0-rel  17:1-ARG0 19:0-ARGM-NEG 21:1-ARGM-ADV
+msnbc_0003.parse 31 27 predicted be-v be.01 ----- 27:0-rel  26:1-ARG1 28:2-ARG2
+msnbc_0003.parse 32 1 predicted thank-v thank.01 ----- 1:0-rel  0:1-ARGM-DIS 2:1-ARG1 3:1-ARGM-ADV 5:1-ARGM-DIS
+msnbc_0003.parse 33 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:2-ARG2
+msnbc_0003.parse 33 15 predicted hold-v hold.04 ----- 15:0-rel  10:1-ARG0 14:1-R-ARG0 16:1-ARG1
+msnbc_0003.parse 34 1 predicted let-v let.01 ----- 1:0-rel  0:1-ARGM-DIS 2:2-ARG1
+msnbc_0003.parse 34 3 predicted ask-v ask.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG2 5:1-ARG1
+msnbc_0003.parse 35 2 predicted refer-v refer.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 36 3 predicted talk-v talk.01 ----- 3:0-rel  0:1-ARG0 2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 37 1 predicted hold-v hold.10 ----- 1:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 38 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG1 5:1-ARG2
+msnbc_0003.parse 38 7 predicted be-v be.02 ----- 7:0-rel  8:3-ARG1
+msnbc_0003.parse 39 8 predicted support-v support.01 ----- 8:0-rel  0:1-ARGM-DIS 1:2-ARG0 9:2-ARG1
+msnbc_0003.parse 39 9 predicted end-v end.01 ----- 9:0-rel  1:2-ARG0 10:1-ARG1
+msnbc_0003.parse 40 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 40 5 predicted get-v get.01 ----- 5:0-rel  2:1-ARG0 3:0-ARGM-MOD
+msnbc_0003.parse 41 6 predicted support-v support.01 ----- 6:0-rel  0:1-ARGM-DIS 1:2-ARG0 7:1-ARG1
+msnbc_0003.parse 42 6 predicted get-v get.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARGM-LOC 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+msnbc_0003.parse 43 2 predicted allow-v allow.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 43 6 predicted block-v block.01 ----- 6:0-rel  7:1-ARG1
+msnbc_0003.parse 44 2 predicted do-v do.01 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 46 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1
+msnbc_0003.parse 46 6 predicted forget-v forget.01 ----- 6:0-rel  4:1-ARG0
+msnbc_0003.parse 47 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARG1
+msnbc_0003.parse 47 7 predicted make-v make.04 ----- 7:0-rel  0:1-ARG0 6:1-ARGM-LOC
+msnbc_0003.parse 47 14 predicted got-v got.- ----- 14:0-rel  8:1-ARGM-LOC 11:1-ARGM-TMP 12:1-ARG0
+msnbc_0003.parse 47 17 predicted be-v be.01 ----- 17:0-rel  16:1-ARG1 18:1-ARG2
+msnbc_0003.parse 47 21 predicted be-v be.01 ----- 21:0-rel  20:1-ARG2 22:1-ARG1
+msnbc_0003.parse 47 29 predicted work-v work.01 ----- 29:0-rel  25:1-ARG0 30:1-ARG3 32:1-ARGM-TMP
+msnbc_0003.parse 48 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 49 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+msnbc_0003.parse 50 4 predicted do-v do.02 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 6:1-ARGM-TMP
+msnbc_0003.parse 51 4 predicted believe-v believe.01 ----- 4:0-rel  1:1-ARG1 3:1-ARG0
+msnbc_0003.parse 51 5 predicted do-v do.02 ----- 5:0-rel  0:0-ARGM-DIS 6:1-ARG1
+msnbc_0003.parse 52 2 predicted listen-v listen.01 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 53 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 53 4 predicted say-v say.01 ----- 4:0-rel  2:1-ARG1 3:1-ARG0 5:1-C-ARG1
+msnbc_0003.parse 53 7 predicted oppose-v oppose.01 ----- 7:0-rel  6:1-ARG0 8:2-ARG1
+msnbc_0003.parse 54 2 predicted advise-v advise.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+msnbc_0003.parse 55 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 55 7 predicted confirm-v confirm.01 ----- 7:0-rel  4:1-ARG1 6:0-ARGM-NEG
+msnbc_0003.parse 56 3 predicted go-v go.02 ----- 3:0-rel  2:1-ARG0 4:1-ARG4
+msnbc_0003.parse 56 9 predicted limit-v limit.01 ----- 9:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 6:1-ARG1 7:0-ARGM-MOD 10:1-ARG2
+msnbc_0003.parse 57 7 predicted weaken-v weaken.01 ----- 7:0-rel  0:1-ARGM-DIS 1:1-ARGM-ADV 2:1-ARGM-DIS 3:1-ARG1 4:0-ARGM-MOD 5:0-ARGM-NEG
+msnbc_0003.parse 58 3 predicted know-v know.01 ----- 3:0-rel  2:1-ARG0
+msnbc_0003.parse 58 5 predicted appear-v appear.02 ----- 5:0-rel  6:1-ARG2 8:1-ARG1
+msnbc_0003.parse 59 5 predicted recommend-v recommend.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 4:0-ARGM-MOD 6:1-ARG1
+msnbc_0003.parse 60 3 predicted make-v make.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0 4:1-ARG2
+msnbc_0003.parse 61 1 predicted disagree-v disagree.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 61 6 predicted respect-v respect.01 ----- 6:0-rel  7:0-ARG1
+msnbc_0003.parse 62 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+msnbc_0003.parse 62 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+msnbc_0003.parse 63 3 predicted reel-v reel.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+msnbc_0003.parse 63 13 predicted do-v do.02 ----- 13:0-rel  8:1-ARG1 10:1-R-ARG1 11:1-ARG0 14:1-ARGM-TMP 16:1-ARG1
+msnbc_0003.parse 64 4 predicted reel-v reel.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:1-ARG2 11:1-ARGM-DIR
+msnbc_0003.parse 65 2 predicted understand-v understand.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:3-ARG1
+msnbc_0003.parse 65 5 predicted got-v got.- ----- 5:0-rel  3:1-ARG0 6:2-ARG1
+msnbc_0003.parse 65 7 predicted make-v make.04 ----- 7:0-rel  3:1-ARG0 8:1-ARG1
+msnbc_0003.parse 66 2 predicted get-v get.04 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARGM-ADV 3:2-ARG1
+msnbc_0003.parse 66 8 predicted force-v force.01 ----- 8:0-rel  3:1-ARG0 6:1-R-ARG0 7:0-ARGM-MOD 9:2-ARG1 15:2-ARG2
+msnbc_0003.parse 66 16 predicted understand-v understand.01 ----- 16:0-rel  9:2-ARG0 17:1-ARG1
+msnbc_0003.parse 66 20 predicted got-v got.- ----- 20:0-rel  18:1-ARG0 21:2-ARG1
+msnbc_0003.parse 66 22 predicted get-v get.04 ----- 22:0-rel  18:1-ARG0 23:1-ARG1
+msnbc_0003.parse 66 23 predicted rid-v rid.01 ----- 23:0-rel  18:1-ARG0 24:1-ARG1
+msnbc_0003.parse 67 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 5:1-ARG2
+msnbc_0003.parse 68 7 predicted be-v be.01 ----- 7:0-rel  1:1-ARG1
+msnbc_0003.parse 69 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+msnbc_0003.parse 69 6 predicted be-v be.01 ----- 6:0-rel  2:2-ARG2 5:0-ARGM-MOD
+msnbc_0003.parse 70 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-MOD 5:1-ARG2
+msnbc_0003.parse 71 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 71 13 predicted go-v go.02 ----- 13:0-rel  11:1-ARG0 14:1-ARG4
+msnbc_0003.parse 71 18 predicted waste-v waste.01 ----- 18:0-rel  11:1-ARG0 17:1-ARGM-ADV 19:1-ARG1
+msnbc_0003.parse 71 22 predicted mean-v mean.01 ----- 22:0-rel  21:1-ARG0
+msnbc_0003.parse 71 27 predicted give-v give.01 ----- 27:0-rel  23:1-ARGM-DIS 26:1-ARGM-ADV
+msnbc_0003.parse 71 30 predicted try-v try.01 ----- 30:0-rel  28:1-ARG0 31:2-ARG1
+msnbc_0003.parse 71 32 predicted humiliate-v humiliate.- ----- 32:0-rel  28:1-ARG0
+msnbc_0003.parse 71 35 predicted try-v try.01 ----- 35:0-rel  33:1-ARG0 34:1-ARGM-DIS 36:2-ARG1
+msnbc_0003.parse 71 37 predicted get-v get.05 ----- 37:0-rel  38:1-ARG1
+msnbc_0003.parse 71 43 predicted straighten-v straighten.02 ----- 43:0-rel  42:1-ARG1
+msnbc_0003.parse 71 47 predicted make-v make.04 ----- 47:0-rel  46:1-ARGM-ADV 48:1-ARG1 49:1-ARG2
+msnbc_0003.parse 71 53 predicted trash-v trash.01 ----- 53:0-rel  52:1-ARGM-ADV 54:2-ARG1
+msnbc_0003.parse 71 62 predicted contribute-v contribute.01 ----- 62:0-rel  56:1-ARG0 60:1-R-ARG0
+msnbc_0003.parse 71 73 predicted mention-v mention.01 ----- 73:0-rel  67:1-ARGM-LOC 72:1-ARG0
+msnbc_0003.parse 72 4 predicted think-v think.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:3-ARG1
+msnbc_0003.parse 72 6 predicted be-v be.02 ----- 6:0-rel  7:2-ARG1
+msnbc_0003.parse 72 10 predicted say-v say.01 ----- 10:0-rel  11:3-ARG1
+msnbc_0003.parse 72 12 predicted be-v be.01 ----- 12:0-rel  11:1-ARG1 13:2-ARG2
+msnbc_0003.parse 72 19 predicted do-v do.02 ----- 19:0-rel  13:1-ARG1 14:1-ARG0
+msnbc_0003.parse 74 1 predicted help-v help.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 74 4 predicted get-v get.04 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+msnbc_0003.parse 74 5 predicted rid-v rid.01 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+msnbc_0003.parse 74 10 predicted be-v be.01 ----- 10:0-rel  0:2-ARG1 11:1-ARG2
+msnbc_0003.parse 74 20 predicted say-v say.01 ----- 20:0-rel  18:1-ARGM-TMP 19:1-ARG0 21:1-ARG1
+msnbc_0003.parse 74 25 predicted do-v do.02 ----- 25:0-rel  22:0-ARGM-MOD 23:0-ARGM-NEG
+msnbc_0003.parse 75 3 predicted underestimate-v underestimate.01 ----- 3:0-rel  0:0-ARGM-DIS 2:0-ARGM-NEG 4:2-ARG1
+msnbc_0003.parse 76 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARGM-TMP 6:1-ARG2
+msnbc_0003.parse 78 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 4:1-ARG2
+msnbc_0003.parse 79 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARGM-TMP 6:1-ARG2
+msnbc_0003.parse 81 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2
+msnbc_0003.parse 82 2 predicted got-v got.- ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+msnbc_0003.parse 82 6 predicted do-v do.02 ----- 6:0-rel  7:1-ARG1
+msnbc_0003.parse 83 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 2:1-ARGM-DIS 5:1-ARG1
+msnbc_0003.parse 84 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+msnbc_0003.parse 85 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+msnbc_0003.parse 86 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 86 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 4:0-ARGM-MOD 6:1-ARG2
+msnbc_0003.parse 86 20 predicted push-v push.01 ----- 20:0-rel  16:1-ARG0 21:1-ARG1 22:1-ARG2
+msnbc_0003.parse 87 2 predicted know-v know.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 87 5 predicted get-v get.04 ----- 5:0-rel  3:1-ARGM-MNR 6:2-ARG1
+msnbc_0003.parse 87 7 predicted do-v do.02 ----- 7:0-rel  6:1-ARG1
+msnbc_0003.parse 88 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+msnbc_0003.parse 89 3 predicted miss-v miss.01 ----- 3:0-rel  2:1-ARG0
+msnbc_0003.parse 90 2 predicted worry-v worry.02 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 90 5 predicted rattle-v rattle.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1 15:1-ARG2
+msnbc_0003.parse 90 19 predicted be-v be.01 ----- 19:0-rel  18:1-ARG1 20:1-ARG2
+msnbc_0003.parse 91 2 predicted deal-v deal.01 ----- 2:0-rel  0:1-ARG0
+msnbc_0003.parse 91 8 predicted live-v live.01 ----- 8:0-rel  4:1-ARG0 6:1-R-ARG0
+msnbc_0003.parse 91 10 predicted booze-v booze.- ----- 10:0-rel  11:2-ARG1
+msnbc_0003.parse 91 21 predicted provide-v provide.01 ----- 21:0-rel  13:1-ARG1 22:1-ARG2
+msnbc_0003.parse 92 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 92 4 predicted be-v be.01 ----- 4:0-rel  5:1-ARG2 6:2-ARG1
+msnbc_0003.parse 92 7 predicted call-v call.01 ----- 7:0-rel  8:1-ARG1 9:2-ARG2
+msnbc_0003.parse 93 3 predicted talk-v talk.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 93 10 predicted say-v say.01 ----- 10:0-rel  8:1-ARGM-TMP 9:1-ARG0 11:1-ARG1
+msnbc_0003.parse 94 3 predicted talk-v talk.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1
+msnbc_0003.parse 95 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 95 4 predicted be-v be.01 ----- 4:0-rel  5:1-ARG2 6:2-ARG1
+msnbc_0003.parse 95 7 predicted rattle-v rattle.01 ----- 7:0-rel  8:2-ARG1
+msnbc_0003.parse 96 6 predicted know-v know.01 ----- 6:0-rel  4:1-ARG0 5:1-ARGM-MNR
+msnbc_0003.parse 97 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 98 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+msnbc_0003.parse 100 5 predicted say-v say.01 ----- 5:0-rel  1:1-ARG1 2:1-R-ARG1 3:1-ARG0 6:1-ARG3
+msnbc_0003.parse 100 10 predicted approve-v approve.01 ----- 10:0-rel  0:1-ARGM-DIS 1:2-ARG1 11:1-ARG0
+msnbc_0003.parse 101 1 predicted be-v be.02 ----- 1:0-rel  2:0-ARGM-NEG 3:2-ARG1
+msnbc_0003.parse 102 1 predicted sit-v sit.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV
+msnbc_0003.parse 102 7 predicted read-v read.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1
+msnbc_0003.parse 103 1 predicted be-v be.02 ----- 1:0-rel  2:0-ARGM-NEG 3:2-ARG1
+msnbc_0003.parse 103 9 predicted say-v say.01 ----- 9:0-rel  3:1-ARG1 6:1-R-ARG1 7:1-ARG0 10:3-ARG1
+msnbc_0003.parse 103 13 predicted approve-v approve.01 ----- 13:0-rel  10:1-R-ARG1 12:0-ARGM-NEG 14:1-ARG0
+msnbc_0003.parse 104 2 predicted hellish-v hellish.- ----- 2:0-rel  0:1-ARG0 3:1-ARG1 4:1-ARGM-ADV
+msnbc_0003.parse 105 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 105 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG2 3:1-ARG1
+msnbc_0003.parse 106 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 107 2 predicted hurt-v hurt.01 ----- 2:0-rel  0:1-ARG0 3:2-ARGM-EXT 5:1-ARGM-ADV
+msnbc_0003.parse 108 3 predicted understand-v understand.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:3-ARG1
+msnbc_0003.parse 108 5 predicted be-v be.02 ----- 5:0-rel  6:0-ARGM-NEG
+msnbc_0003.parse 108 13 predicted say-v say.01 ----- 13:0-rel  10:1-ARG1 11:1-ARG0 14:1-ARGM-TMP
+msnbc_0003.parse 108 21 predicted vet-v vet.- ----- 21:0-rel  20:0-ARGM-NEG
+msnbc_0003.parse 108 26 predicted clear-v clear.02 ----- 26:0-rel  23:1-R-ARG1 25:0-ARGM-NEG
+msnbc_0003.parse 108 31 predicted approve-v approve.01 ----- 31:0-rel  28:1-R-ARG1 30:0-ARGM-NEG
+msnbc_0003.parse 109 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 109 10 predicted say-v say.01 ----- 10:0-rel  9:1-ARG0
+msnbc_0003.parse 110 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 110 8 predicted use-v use.01 ----- 8:0-rel  4:1-ARG0
+msnbc_0003.parse 111 12 predicted speak-v speak.01 ----- 12:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 11:0-ARGM-NEG 14:1-ARG1
+msnbc_0003.parse 112 2 predicted speak-v speak.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 113 3 predicted approve-v approve.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+msnbc_0003.parse 114 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0 4:1-ARG2
+msnbc_0003.parse 114 10 predicted lose-v lose.02 ----- 10:0-rel  8:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+msnbc_0003.parse 114 23 predicted hurt-v hurt.01 ----- 23:0-rel  20:1-ARG0 21:0-ARGM-MOD 22:0-ARGM-NEG
+msnbc_0003.parse 115 1 predicted hope-v hope.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 115 5 predicted have-v have.03 ----- 5:0-rel  2:1-ARG0 4:0-ARGM-NEG 6:2-ARG1
+msnbc_0003.parse 116 3 predicted sound-v sound.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2 7:1-ARGM-TMP
+msnbc_0003.parse 117 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 117 6 predicted say-v say.01 ----- 6:0-rel  4:1-ARG0 7:1-ARG1 9:1-ARG2
+msnbc_0003.parse 118 8 predicted talk-v talk.01 ----- 8:0-rel  6:1-ARG0 9:1-ARG1
+msnbc_0003.parse 119 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-DIS
+msnbc_0003.parse 119 8 predicted go-v go.04 ----- 8:0-rel  7:0-ARGM-NEG
+msnbc_0003.parse 119 10 predicted happen-v happen.01 ----- 10:0-rel  5:1-ARG1
+msnbc_0003.parse 123 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG1 2:1-ARG0 3:1-ARGM-ADV
+msnbc_0003.parse 124 4 predicted think-v think.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+msnbc_0003.parse 125 3 predicted go-v go.04 ----- 3:0-rel  2:0-ARGM-NEG
+msnbc_0003.parse 125 5 predicted happen-v happen.01 ----- 5:0-rel  0:1-ARG1
+msnbc_0003.parse 126 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:1-ARG2
+msnbc_0003.parse 126 11 predicted say-v say.01 ----- 11:0-rel  6:2-ARG0 10:0-ARGM-MOD 12:3-ARG1
+msnbc_0003.parse 126 16 predicted be-v be.01 ----- 16:0-rel  12:1-ARG1 15:0-ARGM-NEG
+msnbc_0003.parse 126 22 predicted be-v be.01 ----- 22:0-rel  20:1-ARG1 21:0-ARGM-MOD
+msnbc_0003.parse 127 3 predicted show-v show.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+msnbc_0003.parse 129 3 predicted be-v be.02 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 4:2-ARG1
+msnbc_0003.parse 129 8 predicted say-v say.01 ----- 8:0-rel  7:1-ARG0
+msnbc_0003.parse 129 10 predicted got-v got.- ----- 10:0-rel  9:1-ARG0 11:2-ARG1
+msnbc_0003.parse 129 12 predicted make-v make.04 ----- 12:0-rel  9:1-ARG0 13:1-ARG1 14:1-ARGM-LOC
+msnbc_0003.parse 130 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 131 3 predicted recognize-v recognize.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARGM-TMP
+msnbc_0003.parse 132 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 132 5 predicted hold-v hold.04 ----- 5:0-rel  2:1-ARGM-PRP 3:1-ARG0 6:1-ARG1 8:1-ARGM-ADV
+msnbc_0003.parse 133 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 133 9 predicted speak-v speak.01 ----- 9:0-rel  3:1-ARG0 10:1-ARGM-LOC
+msnbc_0003.parse 134 3 predicted got-v got.- ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0
+msnbc_0003.parse 134 11 predicted help-v help.01 ----- 11:0-rel  9:1-ARG0 10:0-ARGM-MOD 12:2-ARG1
+msnbc_0003.parse 134 14 predicted happen-v happen.01 ----- 14:0-rel  13:1-ARG1
+msnbc_0003.parse 135 4 predicted have-v have.03 ----- 4:0-rel  3:0-ARGM-NEG
+msnbc_0003.parse 135 5 predicted quoted-v quoted.- ----- 5:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 6:1-ARG1
+msnbc_0003.parse 136 1 predicted make-v make.04 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 137 2 predicted jump-v jump.03 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:1-ARGM-DIR 5:1-ARGM-CAU
+msnbc_0003.parse 137 7 predicted quoted-v quoted.- ----- 7:0-rel  6:1-ARG0 8:1-ARG1 9:2-ARG2
+msnbc_0003.parse 137 9 predicted say-v say.01 ----- 9:0-rel  6:1-ARG0 10:3-ARG1
+msnbc_0003.parse 137 12 predicted be-v be.01 ----- 12:0-rel  10:1-ARG1 11:0-ARGM-MOD 13:1-ARG2
+msnbc_0003.parse 137 17 predicted lose-v lose.02 ----- 17:0-rel  16:1-ARG0 18:2-ARG1
+msnbc_0003.parse 138 5 predicted do-v do.02 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+msnbc_0003.parse 142 7 predicted say-v say.01 ----- 7:0-rel  6:1-ARG0 8:2-ARG1
+msnbc_0003.parse 142 11 predicted feel-v feel.01 ----- 11:0-rel  8:1-ARG1 9:0-ARGM-MOD 10:1-ARG0 12:1-ARGM-ADV
+msnbc_0003.parse 142 14 predicted be-v be.01 ----- 14:0-rel  13:1-ARG1 15:1-ARG2
+msnbc_0003.parse 143 5 predicted do-v do.02 ----- 5:0-rel  2:1-ARG1 3:1-ARG0 4:0-ARGM-MOD 6:1-ARGM-LOC
+msnbc_0003.parse 144 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 144 5 predicted say-v say.01 ----- 5:0-rel  2:1-ARG1 3:1-ARG0 6:1-ARGM-LOC
+msnbc_0003.parse 145 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 148 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:1-ARGM-TMP
+msnbc_0003.parse 148 11 predicted say-v say.01 ----- 11:0-rel  8:1-R-ARGM-LOC 10:1-ARG0 12:3-ARG1
+msnbc_0003.parse 148 17 predicted think-v think.01 ----- 17:0-rel  16:1-ARG0 18:3-ARG1
+msnbc_0003.parse 148 20 predicted argue-v argue.02 ----- 20:0-rel  18:1-ARG0 19:0-ARGM-MOD 21:1-ARG1
+msnbc_0003.parse 148 25 predicted be-v be.01 ----- 25:0-rel  24:1-ARG1
+msnbc_0003.parse 148 29 predicted go-v go.02 ----- 29:0-rel  26:1-ARG0 28:0-ARGM-NEG
+msnbc_0003.parse 149 4 predicted go-v go.04 ----- 4:0-rel  3:0-ARGM-NEG
+msnbc_0003.parse 149 6 predicted dictate-v dictate.01 ----- 6:0-rel  0:1-ARG0 7:1-ARG1
+msnbc_0003.parse 149 13 predicted defend-v defend.01 ----- 13:0-rel  11:1-ARGM-MNR 12:1-ARG0 14:1-ARG1
+msnbc_0003.parse 150 5 predicted need-v need.01 ----- 5:0-rel  0:1-ARGM-DIS 4:1-ARG0 6:2-ARG1
+msnbc_0003.parse 150 7 predicted work-v work.01 ----- 7:0-rel  4:1-ARG0 8:1-ARG3
+msnbc_0003.parse 151 3 predicted show-v show.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+msnbc_0003.parse 151 7 predicted do-v do.02 ----- 7:0-rel  8:1-ARG1
+msnbc_0003.parse 152 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 152 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 4:0-ARGM-MOD 6:1-ARG2
+msnbc_0003.parse 152 9 predicted mischaracterize-v mischaracterize.- ----- 9:0-rel  10:1-ARG1
+msnbc_0003.parse 153 2 predicted bother-v bother.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1 4:1-ARG2
+msnbc_0003.parse 153 7 predicted fill-v fill.03 ----- 7:0-rel  5:1-ARGM-TMP 6:1-ARG0
+msnbc_0003.parse 153 23 predicted fail-v fail.01 ----- 23:0-rel  22:1-ARG1 24:2-ARG2
+msnbc_0003.parse 153 25 predicted note-v note.01 ----- 25:0-rel  22:1-ARG0
+msnbc_0003.parse 153 30 predicted deny-v deny.01 ----- 30:0-rel  27:1-ARGM-DIS 29:1-ARG0
+msnbc_0003.parse 153 36 predicted interview-v interview.01 ----- 36:0-rel  33:1-ARG1 37:1-ARG2
+msnbc_0003.parse 154 2 predicted bother-v bother.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG2 4:2-ARG1
+msnbc_0003.parse 154 8 predicted say-v say.01 ----- 8:0-rel  6:1-ARGM-DIS 7:1-ARG0 9:1-ARG1
+msnbc_0003.parse 154 12 predicted turn-v turn.10 ----- 12:0-rel  14:1-ARG1
+msnbc_0003.parse 154 16 predicted be-v be.01 ----- 16:0-rel  14:0-ARGM-NEG 17:1-ARG2
+msnbc_0003.parse 155 11 predicted talk-v talk.01 ----- 11:0-rel  9:1-R-ARG0 10:1-ARG0 12:1-ARG2
+msnbc_0003.parse 155 15 predicted be-v be.02 ----- 15:0-rel  16:0-ARGM-NEG 17:1-ARG1
+msnbc_0003.parse 155 21 predicted involve-v involve.01 ----- 21:0-rel  19:1-ARG1 22:1-ARGM-MNR
+msnbc_0003.parse 155 27 predicted have-v have.03 ----- 27:0-rel  0:1-ARGM-DIS 4:1-ARGM-ADV 26:1-ARG0 28:1-ARG1
+msnbc_0003.parse 156 3 predicted bother-v bother.01 ----- 3:0-rel  0:0-ARGM-DIS 2:1-ARG2 4:1-ARG1
+msnbc_0003.parse 158 1 predicted wish-v wish.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 158 5 predicted happen-v happen.01 ----- 5:0-rel  2:1-ARG1 4:0-ARGM-NEG
+msnbc_0003.parse 159 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 159 7 predicted play-v play.02 ----- 7:0-rel  3:1-ARG0 5:0-ARGM-MOD 6:1-ARGM-TMP
+msnbc_0003.parse 159 19 predicted think-v think.01 ----- 19:0-rel  11:2-ARG0 16:1-ARGM-TMP 20:3-ARG1
+msnbc_0003.parse 159 29 predicted keep-v keep.04 ----- 29:0-rel  30:1-ARG1 31:1-ARG2
+msnbc_0003.parse 159 32 predicted fight-v fight.01 ----- 32:0-rel  30:1-ARG0
+msnbc_0003.parse 160 3 predicted play-v play.02 ----- 3:0-rel  0:0-ARGM-MOD 1:1-ARG0 2:1-ARGM-TMP 4:1-ARG1
+msnbc_0003.parse 161 2 predicted hope-v hope.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 162 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 162 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:2-ARG2
+msnbc_0003.parse 163 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 163 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 163 13 predicted get-v get.04 ----- 13:0-rel  8:1-ARG0 14:1-ARG1
+msnbc_0003.parse 163 14 predicted rid-v rid.01 ----- 14:0-rel  8:1-ARG0 15:1-ARG1
+msnbc_0003.parse 164 3 predicted change-v change.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+msnbc_0003.parse 164 13 predicted spend-v spend.01 ----- 13:0-rel  10:1-ARG0 12:0-ARGM-NEG 14:2-ARG3 21:1-ARG1
+msnbc_0003.parse 165 3 predicted got-v got.- ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 4:2-ARG1
+msnbc_0003.parse 165 5 predicted do-v do.02 ----- 5:0-rel  1:1-ARG0 6:1-ARG1
+msnbc_0003.parse 166 2 predicted got-v got.- ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+msnbc_0003.parse 166 4 predicted do-v do.02 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+msnbc_0003.parse 167 2 predicted do-v do.02 ----- 2:0-rel  3:1-ARG1
+msnbc_0003.parse 167 10 predicted live-v live.05 ----- 10:0-rel  0:1-ARGM-ADV 4:1-ARGM-ADV 5:1-ARGM-DIS 7:1-ARG0 9:0-ARGM-MOD 12:2-ARG1
+msnbc_0003.parse 167 15 predicted suppose-v suppose.02 ----- 15:0-rel  13:1-ARG1 16:2-ARG2
+msnbc_0003.parse 167 17 predicted be-v be.01 ----- 17:0-rel  13:1-ARG1
+msnbc_0003.parse 168 3 predicted do-v do.02 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARGM-TMP
+msnbc_0003.parse 169 2 predicted like-v like.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+msnbc_0003.parse 169 4 predicted change-v change.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+msnbc_0003.parse 169 10 predicted think-v think.01 ----- 10:0-rel  7:1-ARG0 9:0-ARGM-NEG 11:3-ARG1
+msnbc_0003.parse 169 14 predicted be-v be.01 ----- 14:0-rel  11:1-ARG1 13:0-ARGM-MOD 15:3-ARG2
+msnbc_0003.parse 170 2 predicted need-v need.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 171 3 predicted scar-v scar.- ----- 3:0-rel  2:1-ARGM-TMP 4:1-ARGM-MNR
+msnbc_0003.parse 171 5 predicted taint-v taint.01 ----- 5:0-rel  0:1-ARG1 4:1-ARGM-TMP
+msnbc_0003.parse 172 1 predicted let-v let.01 ----- 1:0-rel  0:1-ARGM-DIS 2:2-ARG1
+msnbc_0003.parse 172 3 predicted get-v get.05 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 173 4 predicted get-v get.05 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 3:0-ARGM-MOD 5:1-ARG2
+msnbc_0003.parse 173 8 predicted think-v think.01 ----- 8:0-rel  6:1-ARGM-LOC 7:1-ARG0 9:3-ARG1
+msnbc_0003.parse 173 11 predicted be-v be.01 ----- 11:0-rel  9:1-ARG1 10:0-ARGM-MOD
+msnbc_0003.parse 175 2 predicted come-v come.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG1 3:1-ARGM-DIR
+msnbc_0003.parse 175 19 predicted be-v be.01 ----- 19:0-rel  18:1-ARG2 20:2-ARG1
+msnbc_0003.parse 176 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 177 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 178 5 predicted say-v say.01 ----- 5:0-rel  3:1-ARG0 6:3-ARG1
+msnbc_0003.parse 178 8 predicted be-v be.01 ----- 8:0-rel  6:1-ARG1
+msnbc_0003.parse 179 2 predicted call-v call.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:2-ARG2
+msnbc_0003.parse 179 4 predicted damage-v damage.01 ----- 4:0-rel  5:0-ARG1
+msnbc_0003.parse 180 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1
+msnbc_0003.parse 180 13 predicted return-v return.03 ----- 13:0-rel  11:1-ARGM-TMP 12:1-ARG1
+msnbc_0003.parse 182 12 predicted be-v be.01 ----- 12:0-rel  0:3-ARG1 11:0-ARGM-MOD 13:1-ARG2
+msnbc_0003.parse 183 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+msnbc_0003.parse 184 4 predicted energize-v energize.- ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 5:1-ARG1 7:1-ARGM-TMP
+msnbc_0003.parse 184 9 predicted prepare-v prepare.02 ----- 9:0-rel  8:1-ARG0 10:1-ARG2
+msnbc_0003.parse 185 4 predicted report-v report.01 ----- 4:0-rel  0:2-ARG0 5:0-ARG1
+msnbc_0003.parse 186 1 predicted urge-v urge.01 ----- 1:0-rel  2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 186 6 predicted go-v go.02 ----- 6:0-rel  2:1-ARG0 4:0-ARGM-NEG 7:1-ARG2 8:1-ARG1
+msnbc_0003.parse 187 6 predicted have-v have.03 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+msnbc_0003.parse 187 14 predicted approve-v approve.01 ----- 14:0-rel  0:1-ARG1 2:1-ARGM-DIS 3:1-ARGM-ADV 4:1-ARGM-ADV 9:1-ARG1 11:0-ARGM-MOD 12:0-ARGM-NEG 15:1-ARG0
+msnbc_0003.parse 188 12 predicted have-v have.03 ----- 12:0-rel  11:1-ARG0 13:2-ARG1
+msnbc_0003.parse 189 3 predicted say-v say.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:4-ARG1
+msnbc_0003.parse 189 8 predicted be-v be.01 ----- 8:0-rel  4:2-ARG1 9:2-ARG2
+msnbc_0003.parse 189 19 predicted prepare-v prepare.02 ----- 19:0-rel  16:1-ARG0
+msnbc_0003.parse 190 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0
+msnbc_0003.parse 190 15 predicted see-v see.01 ----- 15:0-rel  11:1-ARG1 13:1-ARG0 16:1-ARGM-TMP
+msnbc_0003.parse 191 5 predicted make-v make.04 ----- 5:0-rel  6:1-ARG1
+msnbc_0003.parse 191 8 predicted come-v come.03 ----- 8:0-rel  0:2-ARG1 9:1-ARG2
+msnbc_0003.parse 192 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 192 6 predicted date-v date.01 ----- 6:0-rel  3:1-ARG1 5:1-R-ARG1 7:1-ARG2
+msnbc_0003.parse 193 3 predicted found-v found.01 ----- 3:0-rel  4:0-ARG0
+msnbc_0003.parse 193 5 predicted recess-v recess.- ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+msnbc_0003.parse 193 15 predicted see-v see.01 ----- 15:0-rel  13:1-ARGM-ADV
+msnbc_0003.parse 193 18 predicted reject-v reject.01 ----- 18:0-rel  16:1-ARG1 17:1-ARGM-MNR 19:1-ARG0 22:1-ARGM-TMP
+msnbc_0003.parse 194 2 predicted make-v make.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+msnbc_0003.parse 195 2 predicted make-v make.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+msnbc_0003.parse 196 6 predicted make-v make.01 ----- 6:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 7:2-ARG1
+msnbc_0003.parse 197 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+msnbc_0003.parse 197 5 predicted include-v include.01 ----- 5:0-rel  3:1-ARG2 6:2-ARG1
+msnbc_0003.parse 197 13 predicted oppose-v oppose.01 ----- 13:0-rel  12:1-ARG0
+msnbc_0003.parse 197 15 predicted be-v be.01 ----- 15:0-rel  12:1-ARG1 16:2-ARG2
+msnbc_0003.parse 198 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-TMP
+msnbc_0003.parse 198 7 predicted put-v put.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1 12:1-ARG2 16:1-ARGM-TMP
+msnbc_0003.parse 199 9 predicted make-v make.04 ----- 9:0-rel  4:1-ARG1 7:1-R-ARG1 8:1-ARG0 10:1-ARGM-LOC
+msnbc_0003.parse 199 15 predicted think-v think.01 ----- 15:0-rel  0:1-ARGM-TMP 3:1-ARGM-CAU 13:1-ARGM-DIS 14:1-ARG0 16:3-ARG1
+msnbc_0003.parse 199 17 predicted be-v be.01 ----- 17:0-rel  18:1-ARG2
+msnbc_0003.parse 199 25 predicted do-v do.02 ----- 25:0-rel  21:1-ARG1 23:0-ARGM-NEG
+msnbc_0003.parse 200 4 predicted determine-v determine.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+msnbc_0003.parse 200 6 predicted do-v do.02 ----- 6:0-rel  1:1-ARG0 7:1-ARG1
+msnbc_0003.parse 201 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV
+msnbc_0003.parse 201 5 predicted do-v do.02 ----- 5:0-rel  6:1-ARG1
+msnbc_0003.parse 202 6 predicted go-v go.01 ----- 6:0-rel  0:1-ARGM-ADV 3:1-ARG1 7:1-ARG4
+msnbc_0003.parse 203 3 predicted say-v say.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:3-ARG1
+msnbc_0003.parse 203 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1
+msnbc_0003.parse 203 8 predicted divide-v divide.02 ----- 8:0-rel  4:1-ARG1 6:1-ARGM-MNR 9:1-ARGM-TMP
+msnbc_0003.parse 203 13 predicted be-v be.01 ----- 13:0-rel  11:1-ARG1 14:1-ARGM-TMP
+msnbc_0003.parse 205 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 205 5 predicted try-v try.01 ----- 5:0-rel  6:2-ARG1
+msnbc_0003.parse 205 7 predicted remove-v remove.01 ----- 7:0-rel  8:2-ARG1
+msnbc_0003.parse 205 11 predicted disagree-v disagree.01 ----- 11:0-rel  8:1-ARG0 10:1-R-ARG0 12:1-ARG1
+msnbc_0003.parse 206 3 predicted attempt-v attempt.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+msnbc_0003.parse 206 5 predicted exaggerate-v exaggerate.01 ----- 5:0-rel  1:1-ARG0 6:2-ARG1
+msnbc_0003.parse 206 8 predicted fit-v fit.01 ----- 8:0-rel  9:1-ARG1
+msnbc_0003.parse 207 4 predicted play-v play.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV
+msnbc_0003.parse 207 10 predicted disparage-v disparage.01 ----- 10:0-rel  11:1-ARG1
+msnbc_0003.parse 208 6 predicted have-v have.03 ----- 6:0-rel  0:1-ARG0 7:2-ARG1
+msnbc_0003.parse 209 2 predicted lose-v lose.02 ----- 2:0-rel  1:1-ARG0 3:1-ARG1 5:1-ARGM-TMP
+msnbc_0003.parse 209 9 predicted make-v make.04 ----- 9:0-rel  0:1-ARGM-ADV 6:1-ARG0 7:0-ARGM-MOD 8:0-ARGM-NEG 10:2-ARG1
+msnbc_0003.parse 210 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:5-ARG1
+msnbc_0003.parse 210 8 predicted combine-v combine.01 ----- 8:0-rel  6:1-ARG1 9:1-ARG2
+msnbc_0003.parse 210 12 predicted work-v work.01 ----- 12:0-rel  11:0-ARGM-MNR 13:0-ARG0
+msnbc_0003.parse 210 15 predicted make-v make.02 ----- 15:0-rel  2:3-ARG0 14:0-ARGM-MOD 16:1-ARG3
+msnbc_0003.parse 211 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+msnbc_0003.parse 212 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 212 11 predicted reform-v reform.01 ----- 11:0-rel  12:1-ARG1
+msnbc_0003.parse 212 29 predicted find-v find.01 ----- 29:0-rel  28:1-ARG0 30:1-ARG1 31:1-ARGM-LOC
+msnbc_0003.parse 213 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP 4:2-ARG2
+msnbc_0003.parse 213 13 predicted name-v name.01 ----- 13:0-rel  14:1-ARGM-MNR
+msnbc_0003.parse 214 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+msnbc_0003.parse 214 5 predicted be-v be.02 ----- 5:0-rel  3:0-ARGM-MOD
+msnbc_0003.parse 214 26 predicted deal-v deal.01 ----- 26:0-rel  18:2-ARG0 27:1-ARG1 30:1-ARGM-TMP
+msnbc_0003.parse 216 20 predicted heighten-v heighten.01 ----- 20:0-rel  23:0-ARG1
+msnbc_0003.parse 217 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 4:1-ARGM-LOC
+msnbc_0003.parse 220 8 predicted join-v join.04 ----- 8:0-rel  0:3-ARG0 9:1-ARG1 10:1-ARGM-TMP
+msnbc_0003.parse 221 2 predicted be-v be.02 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+msnbc_0003.parse 222 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+msnbc_0003.parse 222 9 predicted come-v come.17 ----- 9:0-rel  4:1-ARG1 7:1-R-ARG1 8:1-ARGM-ADV 11:1-ARGM-TMP
+msnbc_0003.parse 222 21 predicted believe-v believe.01 ----- 21:0-rel  17:2-ARG0 22:3-ARG1
+msnbc_0003.parse 223 8 predicted go-v go.02 ----- 8:0-rel  4:1-ARG0 7:1-R-ARG0 9:1-ARG4
+msnbc_0003.parse 223 12 predicted take-v take.21 ----- 12:0-rel  4:1-ARG0 7:1-R-ARG0 14:1-ARG1 17:1-ARGM-LOC
+msnbc_0003.parse 223 32 predicted win-v win.01 ----- 32:0-rel  31:1-ARG0 33:1-ARG1
+msnbc_0003.parse 224 3 predicted look-v look.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 225 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 226 3 predicted need-v need.01 ----- 3:0-rel  1:1-ARG1 2:1-ARG0 4:2-ARGM-PRP
+msnbc_0003.parse 226 5 predicted learn-v learn.01 ----- 5:0-rel  1:1-ARG1 2:1-ARG0
+msnbc_0003.parse 226 9 predicted think-v think.01 ----- 9:0-rel  8:1-ARG0 10:3-ARG1
+msnbc_0003.parse 226 13 predicted warn-v warn.01 ----- 13:0-rel  10:1-ARG2 14:1-ARG1 15:1-ARGM-DIS 16:1-ARG0
+msnbc_0003.parse 226 20 predicted be-v be.01 ----- 20:0-rel  0:0-ARGM-DIS 1:3-ARG1 21:1-ARG2
+msnbc_0003.parse 226 23 predicted need-v need.01 ----- 23:0-rel  22:1-ARG0 24:1-ARG1
+msnbc_0003.parse 227 4 predicted go-v go.02 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARGM-DIR
+msnbc_0003.parse 227 13 predicted give-v give.01 ----- 13:0-rel  7:1-ARG1 9:1-R-ARG1 10:1-ARG0 14:1-ARG2 15:2-ARG1
+msnbc_0003.parse 227 16 predicted shake-v shake.03 ----- 16:0-rel  14:1-ARG0 17:1-ARG1 20:1-ARGM-MNR
+msnbc_0003.parse 227 28 predicted get-v get.18 ----- 28:0-rel  10:1-ARG0 14:1-ARG0 30:1-ARG2
+msnbc_0003.parse 227 54 predicted confront-v confront.01 ----- 54:0-rel  49:1-ARG1 50:1-ARG0 55:2-ARG2
+msnbc_0003.parse 228 5 predicted accuse-v accuse.01 ----- 5:0-rel  0:1-ARGM-TMP 2:1-ARG1 6:1-ARG2
+msnbc_0003.parse 228 7 predicted twist-v twist.01 ----- 7:0-rel  2:1-ARG0 8:2-ARG1
+msnbc_0003.parse 228 15 predicted need-v need.01 ----- 15:0-rel  14:1-ARG0 16:1-ARG1
+msnbc_0003.parse 229 7 predicted develop-v develop.02 ----- 7:0-rel  1:1-ARG0 8:1-ARG1 10:1-ARGM-TMP
+msnbc_0003.parse 230 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+msnbc_0003.parse 231 4 predicted have-v have.03 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:2-ARG1 9:1-ARGM-LOC
+msnbc_0003.parse 232 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG0
+msnbc_0003.parse 232 4 predicted have-v have.03 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+msnbc_0003.parse 233 16 predicted defeat-v defeat.01 ----- 16:0-rel  12:1-ARG0 17:1-ARG1
+msnbc_0003.parse 233 19 predicted be-v be.01 ----- 19:0-rel  18:1-ARG1 20:1-ARG2
+msnbc_0003.parse 234 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 235 4 predicted bet-v bet.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG3
+msnbc_0003.parse 237 4 predicted destroy-v destroy.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG1
+msnbc_0003.parse 237 8 predicted get-v get.03 ----- 8:0-rel  7:1-ARG1
+msnbc_0003.parse 237 9 predicted start-v start.01 ----- 9:0-rel  7:1-ARG0 10:1-ARG1
+msnbc_0003.parse 237 11 predicted be-v be.01 ----- 11:0-rel  7:1-ARG1 12:1-ARG2
+msnbc_0003.parse 238 7 predicted have-v have.03 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARGM-DIS 6:0-ARGM-NEG
+msnbc_0003.parse 239 4 predicted like-v like.02 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD
+msnbc_0003.parse 239 6 predicted warn-v warn.01 ----- 6:0-rel  2:1-ARG0 7:1-ARG2
+msnbc_0003.parse 239 11 predicted do-v do.01 ----- 11:0-rel  12:1-ARGM-TMP
+msnbc_0003.parse 239 15 predicted be-v be.02 ----- 15:0-rel  16:3-ARG1
+msnbc_0003.parse 239 23 predicted have-v have.03 ----- 23:0-rel  16:2-ARG1 21:1-ARG0 24:1-ARG1
+msnbc_0003.parse 240 7 predicted listen-v listen.01 ----- 7:0-rel  1:1-ARG0 8:1-ARG1
+msnbc_0003.parse 241 2 predicted guess-v guess.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 241 8 predicted say-v say.01 ----- 8:0-rel  5:1-ARG0 7:0-ARGM-NEG 9:2-ARG1
+msnbc_0003.parse 241 16 predicted say-v say.01 ----- 16:0-rel  11:1-ARG1 13:1-R-ARG1 14:1-ARG0 17:1-ARGM-TMP
+msnbc_0003.parse 241 22 predicted know-v know.01 ----- 22:0-rel  21:1-ARG0
+msnbc_0003.parse 241 26 predicted have-v have.03 ----- 26:0-rel  23:1-ARG0 27:2-ARG1
+msnbc_0003.parse 241 34 predicted lose-v lose.02 ----- 34:0-rel  32:1-ARG0 33:0-ARGM-MOD 35:2-ARG1 38:1-ARGM-MNR
+msnbc_0003.parse 241 39 predicted lose-v lose.02 ----- 39:0-rel  40:1-ARG1
+msnbc_0003.parse 241 50 predicted haunt-v haunt.01 ----- 50:0-rel  41:2-ARG0 48:1-ARGM-ADV 51:1-ARG1
+msnbc_0003.parse 242 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 242 11 predicted cause-v cause.01 ----- 11:0-rel  12:2-ARG1
+msnbc_0003.parse 242 23 predicted call-v call.01 ----- 23:0-rel  24:1-ARG1
+msnbc_0003.parse 242 30 predicted be-v be.01 ----- 30:0-rel  28:1-ARG2 29:1-ARG1
+msnbc_0003.parse 243 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 243 3 predicted call-v call.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 244 2 predicted say-v say.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 244 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2 7:1-ARGM-LOC
+msnbc_0003.parse 246 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 247 7 predicted rattle-v rattle.01 ----- 7:0-rel  4:1-ARG0 5:0-ARGM-MOD 6:1-ARGM-ADV 8:1-ARG1 10:1-ARGM-MNR
+msnbc_0003.parse 248 11 predicted rattle-v rattle.01 ----- 11:0-rel  0:1-ARGM-DIS 1:1-ARGM-ADV 2:2-ARG0 12:1-ARG1
+msnbc_0003.parse 249 3 predicted walk-v walk.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARGM-DIR
+msnbc_0003.parse 250 3 predicted prove-v prove.01 ----- 3:0-rel  0:1-ARG1 1:1-ARG0 4:1-ARGM-MNR
+msnbc_0003.parse 250 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+msnbc_0003.parse 250 9 predicted be-v be.01 ----- 9:0-rel  8:1-ARG1
+msnbc_0003.parse 251 3 predicted take-v take.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0
+msnbc_0003.parse 251 8 predicted reflect-v reflect.01 ----- 8:0-rel  6:1-ARG1 9:2-ARG2
+msnbc_0003.parse 251 14 predicted adjust-v adjust.01 ----- 14:0-rel  15:1-ARG4
+msnbc_0003.parse 251 25 predicted follow-v follow.02 ----- 25:0-rel  19:1-ARG0 26:1-ARG1
+msnbc_0003.parse 252 4 predicted go-v go.16 ----- 4:0-rel  0:1-ARG1 1:0-ARGM-MOD 2:0-ARGM-NEG 3:1-ARGM-ADV 6:1-ARGM-MNR
+msnbc_0003.parse 253 3 predicted do-v do.01 ----- 3:0-rel  2:1-ARG0
+msnbc_0003.parse 253 5 predicted think-v think.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 4:1-ARG0 6:3-ARG1
+msnbc_0003.parse 253 8 predicted reel-v reel.01 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD 9:1-ARG1 10:1-ARGM-DIR
+msnbc_0003.parse 254 8 predicted apologize-v apologize.01 ----- 8:0-rel  4:1-ARG0
+msnbc_0003.parse 254 10 predicted defend-v defend.01 ----- 10:0-rel  4:1-ARG0 11:1-ARGM-DIS
+msnbc_0003.parse 256 1 predicted thank-v thank.01 ----- 1:0-rel  0:1-ARGM-DIS 2:1-ARG1 3:1-ARGM-ADV 5:1-ARGM-DIS
+msnbc_0003.parse 257 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1
+msnbc_0003.parse 258 2 predicted join-v join.04 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+msnbc_0003.parse 258 23 predicted know-v know.01 ----- 23:0-rel  20:1-ARG0 22:0-ARGM-NEG
+msnbc_0003.parse 258 26 predicted be-v be.01 ----- 26:0-rel  24:1-ARG1
+msnbc_0003.parse 258 53 predicted stamp-v stamp.01 ----- 53:0-rel  47:1-ARG1 49:1-R-ARG1
+msnbc_0003.parse 258 55 predicted work-v work.01 ----- 55:0-rel  56:1-ARGM-MNR 57:2-ARG1
+msnbc_0003.parse 260 22 predicted earn-v earn.01 ----- 22:0-rel  7:2-ARG0 23:1-ARG1
+msnbc_0003.parse 261 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 262 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+msnbc_0003.parse 262 5 predicted recruit-v recruit.01 ----- 5:0-rel  2:1-ARGM-LOC 4:1-ARG0 6:2-ARG1
+msnbc_0003.parse 262 15 predicted know-v know.01 ----- 15:0-rel  12:1-ARG1 13:1-R-ARG1 14:1-ARG0 16:3-ARG1
+msnbc_0003.parse 262 17 predicted be-v be.01 ----- 17:0-rel  16:0-ARGM-MOD 18:1-ARG2 19:1-ARGM-LOC
+msnbc_0003.parse 262 28 predicted be-v be.01 ----- 28:0-rel  27:1-ARG1 29:2-ARG2
+msnbc_0003.parse 262 32 predicted come-v come.07 ----- 32:0-rel  29:1-ARGM-LOC 30:1-ARG1 33:1-ARGM-DIR
+msnbc_0003.parse 263 5 predicted learn-v learn.01 ----- 5:0-rel  2:1-ARGM-LOC 3:1-ARG0 6:2-ARG1
+msnbc_0003.parse 263 8 predicted be-v be.01 ----- 8:0-rel  6:1-ARGM-MNR 9:1-ARG2
+msnbc_0003.parse 264 1 predicted let-v let.01 ----- 1:0-rel  0:1-ARGM-DIS 2:2-ARG1
+msnbc_0003.parse 264 3 predicted ask-v ask.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG2 5:1-ARG1
+msnbc_0003.parse 265 3 predicted vote-v vote.01 ----- 3:0-rel  0:1-ARG0 2:1-R-ARG0 4:1-ARG1
+msnbc_0003.parse 265 7 predicted deny-v deny.01 ----- 7:0-rel  0:1-ARG0 2:1-R-ARG0 8:1-ARG2 9:1-ARG1 14:1-ARGM-LOC
+msnbc_0003.parse 265 25 predicted try-v try.01 ----- 25:0-rel  0:2-ARG0 26:2-ARG1
+msnbc_0003.parse 265 27 predicted separate-v separate.01 ----- 27:0-rel  0:2-ARG0 19:2-ARG0 28:1-ARG1 29:1-ARG2
+msnbc_0003.parse 265 31 predicted vote-v vote.01 ----- 31:0-rel  32:1-ARG1
+msnbc_0003.parse 266 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 266 6 predicted say-v say.01 ----- 6:0-rel  5:1-ARGM-ADV
+msnbc_0003.parse 267 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+msnbc_0003.parse 267 15 predicted think-v think.01 ----- 15:0-rel  12:1-ARG0 14:0-ARGM-NEG 16:1-ARG1
+msnbc_0003.parse 267 36 predicted got-v got.- ----- 36:0-rel  35:1-ARG0
+msnbc_0003.parse 267 41 predicted got-v got.- ----- 41:0-rel  39:1-ARG1
+msnbc_0003.parse 268 7 predicted follow-v follow.01 ----- 7:0-rel  0:2-ARG1 4:1-ARGM-DIS 5:1-ARGM-TMP 6:1-ARGM-TMP 8:1-ARG2 9:1-ARGM-DIR
+msnbc_0003.parse 269 2 predicted buy-v buy.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1 4:1-ARGM-DIR 5:1-ARGM-TMP
+msnbc_0003.parse 269 10 predicted buy-v buy.01 ----- 10:0-rel  6:1-ARGM-CAU 8:1-ARG0 9:0-ARGM-NEG 11:1-ARG1 12:1-ARGM-TMP
+msnbc_0003.parse 270 4 predicted learn-v learn.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG2
+msnbc_0003.parse 271 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 271 4 predicted know-v know.01 ----- 4:0-rel  3:1-ARG0
+msnbc_0003.parse 271 7 predicted lead-v lead.01 ----- 7:0-rel  6:1-ARG0 13:1-ARGM-DIR
+msnbc_0003.parse 271 19 predicted have-v have.03 ----- 19:0-rel  18:1-ARG0
+msnbc_0003.parse 271 27 predicted have-v have.03 ----- 27:0-rel  25:1-ARG0
+msnbc_0003.parse 271 35 predicted go-v go.02 ----- 35:0-rel  34:1-ARG0 36:1-ARG4
+msnbc_0003.parse 271 39 predicted fight-v fight.01 ----- 39:0-rel  34:1-ARG0 40:1-ARGM-LOC
+msnbc_0003.parse 271 44 predicted think-v think.01 ----- 44:0-rel  43:1-ARG0 45:3-ARG1
+msnbc_0003.parse 271 46 predicted know-v know.01 ----- 46:0-rel  45:1-ARG0
+msnbc_0003.parse 271 49 predicted got-v got.- ----- 49:0-rel  47:1-ARG0 50:1-ARG1
+msnbc_0003.parse 272 6 predicted come-v come.09 ----- 6:0-rel  4:1-ARGM-TMP 8:1-ARG2
+msnbc_0003.parse 273 6 predicted play-v play.01 ----- 6:0-rel  2:1-ARG0 7:1-ARG1 8:1-ARGM-MNR
+msnbc_0003.parse 274 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+msnbc_0003.parse 274 7 predicted play-v play.01 ----- 7:0-rel  4:1-ARG0 8:1-ARG1 9:1-ARGM-MNR
+msnbc_0003.parse 275 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 275 7 predicted hold-v hold.02 ----- 7:0-rel  2:1-ARG0 8:2-ARG1
+msnbc_0003.parse 276 3 predicted be-v be.03 ----- 3:0-rel  2:1-ARG1
+msnbc_0003.parse 279 2 predicted be-v be.01 ----- 2:0-rel  1:0-ARGM-DIS 3:1-ARG1
+msnbc_0003.parse 280 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 3:0-ARGM-MOD 5:1-ARG2
+msnbc_0003.parse 280 9 predicted be-v be.01 ----- 9:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 3:0-ARGM-MOD 10:1-ARG2
+msnbc_0003.parse 281 3 predicted know-v know.01 ----- 3:0-rel  2:1-ARG0
+msnbc_0003.parse 281 5 predicted think-v think.01 ----- 5:0-rel  4:1-ARG0 6:3-ARG1
+msnbc_0003.parse 281 7 predicted be-v be.02 ----- 7:0-rel  8:2-ARG1
+msnbc_0003.parse 282 3 predicted answer-v answer.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 283 6 predicted have-v have.03 ----- 6:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 5:0-ARGM-NEG 7:1-ARG1
+msnbc_0003.parse 284 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+msnbc_0003.parse 285 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 5:1-ARG1
+msnbc_0003.parse 287 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2 2:1-ARG1 3:1-ARGM-DIS
+msnbc_0003.parse 288 6 predicted have-v have.03 ----- 6:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 3:1-ARG0 7:1-ARG1
+msnbc_0003.parse 289 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2 4:2-ARG1
+msnbc_0003.parse 289 6 predicted be-v be.01 ----- 6:0-rel  4:1-ARG2 5:1-ARG1
+msnbc_0003.parse 290 2 predicted got-v got.- ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 291 3 predicted find-v find.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:2-ARG1 10:1-ARGM-TMP
+msnbc_0003.parse 292 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2 2:2-ARG1
+msnbc_0003.parse 292 8 predicted roll-v roll.01 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD 9:1-ARGM-DIR 10:2-ARG1
+msnbc_0003.parse 293 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 293 5 predicted roll-v roll.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD 6:1-ARGM-DIR 7:2-ARG1
+msnbc_0003.parse 294 4 predicted believe-v believe.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG1
+msnbc_0003.parse 295 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 295 6 predicted say-v say.01 ----- 6:0-rel  2:1-ARG0
+msnbc_0003.parse 295 8 predicted know-v know.01 ----- 8:0-rel  7:1-ARG0
+msnbc_0003.parse 295 11 predicted be-v be.01 ----- 11:0-rel  9:1-ARG1
+msnbc_0003.parse 296 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+msnbc_0003.parse 299 2 predicted know-v know.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+msnbc_0003.parse 299 5 predicted stand-v stand.01 ----- 5:0-rel  3:1-ARG2 4:1-ARG1
+msnbc_0003.parse 300 5 predicted look-v look.01 ----- 5:0-rel  0:1-ARG0 2:1-ARG0 4:1-ARGM-TMP 6:1-ARG1
+msnbc_0003.parse 302 2 predicted believe-v believe.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 302 7 predicted drive-v drive.02 ----- 7:0-rel  4:1-ARG0 8:1-ARG1 10:1-ARG2
+msnbc_0003.parse 303 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+msnbc_0003.parse 304 7 predicted do-v do.02 ----- 7:0-rel  2:1-ARG1 4:1-ARG0 8:1-ARG2
+msnbc_0003.parse 305 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 305 5 predicted think-v think.01 ----- 5:0-rel  3:1-ARG0 6:3-ARG1
+msnbc_0003.parse 305 9 predicted repeal-v repeal.01 ----- 9:0-rel  6:1-ARG0
+msnbc_0003.parse 308 3 predicted take-v take.19 ----- 3:0-rel  0:1-ARG1
+msnbc_0003.parse 309 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2 3:1-ARGM-ADV
+msnbc_0003.parse 310 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-TMP
+msnbc_0003.parse 311 3 predicted talk-v talk.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 312 2 predicted want-v want.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 312 4 predicted come-v come.01 ----- 4:0-rel  1:1-ARG1 5:1-ARGM-DIR
+msnbc_0003.parse 312 7 predicted talk-v talk.01 ----- 7:0-rel  1:1-ARG0
+msnbc_0003.parse 312 11 predicted have-v have.03 ----- 11:0-rel  10:1-ARG0 12:1-ARG1
+msnbc_0003.parse 314 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 314 4 predicted think-v think.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1
+msnbc_0003.parse 314 13 predicted end-v end.03 ----- 13:0-rel  6:2-ARG1
+msnbc_0003.parse 315 6 predicted stay-v stay.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG3
+msnbc_0003.parse 316 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 4:1-ARGM-ADV
+msnbc_0003.parse 317 2 predicted hear-v hear.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 320 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 320 7 predicted want-v want.01 ----- 7:0-rel  3:1-ARG1 5:1-ARG0 8:3-ARG1
+msnbc_0003.parse 320 13 predicted go-v go.02 ----- 13:0-rel  8:2-ARG0
+msnbc_0003.parse 321 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP 3:1-ARG2
+msnbc_0003.parse 322 3 predicted boo-v boo.- ----- 3:0-rel  0:1-ARG1 4:1-ARGM-MNR 7:1-ARG2 10:1-ARGM-TMP
+msnbc_0003.parse 323 2 predicted give-v give.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 3:1-ARG2 4:1-ARG1
+msnbc_0003.parse 324 3 predicted be-v be.01 ----- 3:0-rel  1:1-ARG1
+msnbc_0003.parse 325 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 326 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+msnbc_0003.parse 326 7 predicted work-v work.01 ----- 7:0-rel  3:1-ARG0 8:1-ARG3
+msnbc_0003.parse 327 4 predicted do-v do.02 ----- 4:0-rel  0:1-ARG0
+msnbc_0003.parse 328 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+msnbc_0003.parse 329 5 predicted go-v go.02 ----- 5:0-rel  1:1-ARG0 6:1-ARGM-DIR
+msnbc_0003.parse 329 8 predicted do-v do.02 ----- 8:0-rel  1:1-ARG0 9:1-ARG1
+msnbc_0003.parse 329 13 predicted pay-v pay.01 ----- 13:0-rel  12:0-ARGM-NEG 14:1-ARG1 15:1-ARG2 18:1-ARG3
+msnbc_0003.parse 330 5 predicted waste-v waste.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+msnbc_0003.parse 330 15 predicted blow-v blow.06 ----- 15:0-rel  9:1-ARG0 16:1-ARG1
+msnbc_0003.parse 332 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+msnbc_0003.parse 333 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:2-ARG2
+msnbc_0003.parse 333 6 predicted fulfill-v fulfill.01 ----- 6:0-rel  7:2-ARG1
+msnbc_0003.parse 334 3 predicted include-v include.01 ----- 3:0-rel  1:1-ARG2 2:1-ARGM-ADV
+msnbc_0003.parse 334 4 predicted help-v help.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 5:2-ARG1
+msnbc_0003.parse 335 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 335 5 predicted be-v be.01 ----- 5:0-rel  7:1-ARG1
+msnbc_0003.parse 336 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 337 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 337 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 337 5 predicted send-v send.01 ----- 5:0-rel  6:1-ARG1 8:1-ARG2
+msnbc_0003.parse 338 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1
+msnbc_0003.parse 338 7 predicted know-v know.01 ----- 7:0-rel  6:1-ARG0
+msnbc_0003.parse 341 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 341 8 predicted go-v go.02 ----- 8:0-rel  4:1-ARG0 9:2-ARG1
+msnbc_0003.parse 341 9 predicted get-v get.05 ----- 9:0-rel  10:1-ARG1 12:1-ARG2
+msnbc_0003.parse 342 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 342 4 predicted talk-v talk.01 ----- 4:0-rel  2:1-ARG0 5:1-ARGM-ADV
+msnbc_0003.parse 343 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+msnbc_0003.parse 343 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+msnbc_0003.parse 344 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 344 3 predicted know-v know.01 ----- 3:0-rel  2:1-ARG0
+msnbc_0003.parse 344 7 predicted refer-v refer.01 ----- 7:0-rel  4:1-ARG0 6:0-ARGM-MOD 8:1-ARG1 11:1-ARG2
+msnbc_0003.parse 345 9 predicted be-v be.01 ----- 9:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 7:1-ARG1 10:2-ARG2
+msnbc_0003.parse 345 13 predicted mislead-v mislead.01 ----- 13:0-rel  14:1-ARG1
+msnbc_0003.parse 345 16 predicted mislead-v mislead.01 ----- 16:0-rel  17:1-ARG1 19:1-ARG2
+msnbc_0003.parse 346 4 predicted know-v know.01 ----- 4:0-rel  3:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-TMP
+msnbc_0003.parse 346 12 predicted ask-v ask.01 ----- 12:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 10:1-ARG2 13:1-ARG1
+msnbc_0003.parse 346 18 predicted interrogate-v interrogate.01 ----- 18:0-rel  14:1-ARG2 16:1-ARGM-TMP 19:1-ARGM-PRP
+msnbc_0003.parse 347 3 predicted tell-v tell.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1 6:1-C-ARG1
+msnbc_0003.parse 348 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 348 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:2-ARG2
+msnbc_0003.parse 348 9 predicted reward-v reward.01 ----- 9:0-rel  4:1-ARG0 6:1-R-ARG0 7:1-ARGM-ADV 10:1-ARG1
+msnbc_0003.parse 348 13 predicted tell-v tell.01 ----- 13:0-rel  12:0-ARGM-NEG 14:1-ARG1 16:1-ARGM-MNR 17:1-ARGM-TMP
+msnbc_0003.parse 348 26 predicted abuse-v abuse.01 ----- 26:0-rel  25:1-ARGM-MNR 27:1-ARG1
+msnbc_0003.parse 349 3 predicted believe-v believe.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 350 2 predicted stick-v stick.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+msnbc_0003.parse 350 7 predicted say-v say.01 ----- 7:0-rel  4:1-ARG1 5:1-ARG0 6:1-ARGM-ADV 8:1-ARG3
+msnbc_0003.parse 350 9 predicted blame-v blame.01 ----- 9:0-rel  10:1-ARG1 12:1-ARG2
+msnbc_0003.parse 351 5 predicted nickel-v nickel.- ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 8:1-ARG1
+msnbc_0003.parse 351 7 predicted dimed-v dimed.- ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARG0 8:1-ARG1 9:1-ARG2
+msnbc_0003.parse 351 11 predicted give-v give.01 ----- 11:0-rel  8:1-ARG0 10:0-ARGM-NEG 12:1-ARG2 13:1-ARG1
+msnbc_0003.parse 351 18 predicted vote-v vote.01 ----- 18:0-rel  0:1-ARGM-DIS 2:1-ARG0 17:1-ARGM-MNR 19:1-ARG1
+msnbc_0003.parse 352 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 352 9 predicted think-v think.01 ----- 9:0-rel  8:1-ARG0 10:3-ARG1
+msnbc_0003.parse 352 11 predicted need-v need.01 ----- 11:0-rel  10:1-ARG0
+msnbc_0003.parse 353 2 predicted keep-v keep.02 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 353 3 predicted play-v play.01 ----- 3:0-rel  1:1-ARG0
+msnbc_0003.parse 355 13 predicted do-v do.02 ----- 13:0-rel  11:1-ARG0
+msnbc_0003.parse 356 7 predicted be-v be.01 ----- 7:0-rel  0:0-ARGM-MOD 1:0-ARGM-NEG 2:2-ARG1
+msnbc_0003.parse 356 13 predicted be-v be.01 ----- 13:0-rel  8:1-ARG1 14:1-ARG2
+msnbc_0003.parse 357 2 predicted hate-v hate.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+msnbc_0003.parse 358 3 predicted hate-v hate.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 359 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 360 3 predicted like-v like.01 ----- 3:0-rel  0:1-ARG0 1:1-ARGM-ADV 4:1-ARG1
+msnbc_0003.parse 361 3 predicted be-v be.01 ----- 3:0-rel  0:2-ARG1 4:1-ARG2
+msnbc_0003.parse 362 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 362 5 predicted send-v send.02 ----- 5:0-rel  2:1-ARG0 4:0-ARGM-MOD 6:1-ARG1 7:1-ARGM-DIR
+msnbc_0003.parse 364 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 365 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 368 4 predicted like-v like.01 ----- 4:0-rel  0:1-ARG0
+msnbc_0003.parse 368 11 predicted be-v be.03 ----- 11:0-rel  12:1-ARG1
+msnbc_0003.parse 369 2 predicted know-v know.01 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 370 3 predicted go-v go.04 ----- 3:0-rel  2:0-ARGM-NEG
+msnbc_0003.parse 370 5 predicted get-v get.03 ----- 5:0-rel  0:1-ARG1 6:1-ARG2
+msnbc_0003.parse 370 6 predicted reupped-v reupped.- ----- 6:0-rel  0:1-ARG1
+msnbc_0003.parse 371 7 predicted confirm-v confirm.01 ----- 7:0-rel  4:1-ARG0 6:0-ARGM-MOD 8:1-ARG1
+msnbc_0003.parse 372 4 predicted think-v think.01 ----- 4:0-rel  0:0-ARGM-MOD 1:1-ARG1 3:1-ARG0 5:0-ARGM-DIS
+msnbc_0003.parse 373 2 predicted ask-v ask.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG2 4:1-ARG1
+msnbc_0003.parse 374 8 predicted confirm-v confirm.01 ----- 8:0-rel  0:1-ARGM-DIS 2:0-ARGM-MOD 3:1-ARG0 7:1-ARGM-TMP 9:1-ARG1 11:1-ARGM-ADV
+msnbc_0003.parse 375 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 375 8 predicted surprise-v surprise.01 ----- 8:0-rel  3:1-ARG0 9:1-ARG1 10:1-ARG1
+msnbc_0003.parse 376 2 predicted happen-v happen.01 ----- 2:0-rel  0:0-ARGM-MOD 1:1-ARG1
+msnbc_0003.parse 377 1 predicted depend-v depend.01 ----- 1:0-rel  2:1-ARG1
+msnbc_0003.parse 378 1 predicted depend-v depend.01 ----- 1:0-rel  2:1-ARG1
+msnbc_0003.parse 379 3 predicted mean-v mean.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0
+msnbc_0003.parse 380 3 predicted end-v end.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG1 4:1-ARGM-TMP
+msnbc_0003.parse 382 4 predicted pick-v pick.04 ----- 4:0-rel  2:1-ARG0 6:1-ARG1
+msnbc_0003.parse 382 9 predicted get-v get.03 ----- 9:0-rel  7:1-ARG1 8:0-ARGM-MOD 10:1-ARG2
+msnbc_0003.parse 382 10 predicted confirm-v confirm.01 ----- 10:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 7:1-ARG1 8:0-ARGM-MOD
+msnbc_0003.parse 383 3 predicted pick-v pick.04 ----- 3:0-rel  1:1-ARGM-TMP 2:1-ARG0 5:1-ARG1
+msnbc_0003.parse 383 9 predicted give-v give.01 ----- 9:0-rel  5:1-ARG0 10:2-ARG2
+msnbc_0003.parse 384 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2
+msnbc_0003.parse 385 8 predicted do-v do.02 ----- 8:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 3:2-ARG0 7:0-ARGM-MOD 9:1-ARG1
+msnbc_0003.parse 386 5 predicted set-v set.02 ----- 5:0-rel  0:1-ARG1 3:1-ARG0
+msnbc_0003.parse 387 5 predicted get-v get.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+msnbc_0003.parse 387 14 predicted call-v call.01 ----- 14:0-rel  11:1-ARG1 13:1-ARG0 15:1-ARG1
+msnbc_0003.parse 388 2 predicted go-v go.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARGM-DIR
+msnbc_0003.parse 388 5 predicted get-v get.03 ----- 5:0-rel  0:1-ARG1 1:0-ARGM-MOD
+msnbc_0003.parse 388 6 predicted confirm-v confirm.01 ----- 6:0-rel  0:1-ARG1 1:0-ARGM-MOD 7:1-ARGM-ADV 8:1-ARGM-CAU
+msnbc_0003.parse 388 16 predicted do-v do.02 ----- 16:0-rel  12:1-ARG0
+msnbc_0003.parse 389 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 389 7 predicted show-v show.01 ----- 7:0-rel  2:1-ARGM-TMP
+msnbc_0003.parse 389 9 predicted think-v think.01 ----- 9:0-rel  8:1-ARG0 10:3-ARG1
+msnbc_0003.parse 389 15 predicted be-v be.01 ----- 15:0-rel  14:1-ARG1 16:1-ARG2
+msnbc_0003.parse 389 23 predicted carry-v carry.01 ----- 23:0-rel  13:1-ARGM-ADV 19:1-ARG0 21:0-ARGM-MOD 22:0-ARGM-NEG 24:1-ARG1
+msnbc_0003.parse 390 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 390 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 391 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 391 13 predicted confirm-v confirm.01 ----- 13:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 9:1-ARG1 10:0-ARGM-MOD 14:1-ARGM-CAU
+msnbc_0003.parse 391 16 predicted have-v have.03 ----- 16:0-rel  15:1-ARG0 17:2-ARG1
+msnbc_0003.parse 392 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 392 5 predicted carry-v carry.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD 6:1-ARG1
+msnbc_0003.parse 393 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 394 5 predicted get-v get.01 ----- 5:0-rel  6:1-ARG1
+msnbc_0003.parse 395 2 predicted go-v go.02 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 396 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2
+msnbc_0003.parse 396 5 predicted ask-v ask.01 ----- 5:0-rel  2:1-ARG1 4:1-ARG0 6:1-ARG2
+msnbc_0003.parse 397 2 predicted end-v end.03 ----- 2:0-rel  0:0-ARGM-MOD 1:1-ARG1
+msnbc_0003.parse 398 3 predicted end-v end.03 ----- 3:0-rel  0:0-ARGM-DIS 1:0-ARGM-MOD 2:1-ARG1 5:1-ARG2
+msnbc_0003.parse 399 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 399 5 predicted know-v know.01 ----- 5:0-rel  2:1-ARG0 4:0-ARGM-NEG 6:1-ARGM-TMP
+msnbc_0003.parse 400 5 predicted appear-v appear.02 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 4:0-ARGM-NEG 6:1-C-ARG1
+msnbc_0003.parse 400 11 predicted be-v be.02 ----- 11:0-rel  12:1-ARG1
+msnbc_0003.parse 400 14 predicted be-v be.02 ----- 14:0-rel  15:1-ARGM-DIS
+msnbc_0003.parse 401 2 predicted be-v be.02 ----- 2:0-rel  0:0-ARGM-DIS
+msnbc_0003.parse 401 7 predicted go-v go.15 ----- 7:0-rel  5:1-ARG1 9:1-ARGM-LOC
+msnbc_0003.parse 401 19 predicted go-v go.15 ----- 19:0-rel  18:1-ARGM-DIS 21:1-ARGM-LOC
+msnbc_0003.parse 402 3 predicted bet-v bet.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 4:1-ARG2
+msnbc_0003.parse 403 2 predicted suspect-v suspect.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+msnbc_0003.parse 405 3 predicted say-v say.01 ----- 3:0-rel  2:1-ARG0
+msnbc_0003.parse 405 5 predicted be-v be.02 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 6:2-ARG1
+msnbc_0003.parse 405 8 predicted go-v go.15 ----- 8:0-rel  6:1-ARG1
+msnbc_0003.parse 406 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+msnbc_0003.parse 406 8 predicted be-v be.01 ----- 8:0-rel  4:1-ARG1 9:2-ARG2
+msnbc_0003.parse 407 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 407 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 407 7 predicted have-v have.03 ----- 7:0-rel  8:2-ARG1
+msnbc_0003.parse 407 17 predicted put-v put.01 ----- 17:0-rel  18:1-ARG1 26:1-ARGM-TMP
+msnbc_0003.parse 408 4 predicted work-v work.01 ----- 4:0-rel  0:1-ARGM-DIS 2:0-ARGM-NEG 3:1-ARG0 5:1-ARG2 10:1-ARGM-TMP
+msnbc_0003.parse 408 13 predicted go-v go.02 ----- 13:0-rel  0:1-ARGM-DIS 3:1-ARG0 14:1-ARGM-TMP
+msnbc_0003.parse 409 3 predicted got-v got.- ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-NEG 4:2-ARG1
+msnbc_0003.parse 411 3 predicted put-v put.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-NEG 4:1-ARG1 8:1-ARG2
+msnbc_0003.parse 412 5 predicted happen-v happen.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:1-ARGM-NEG 6:1-ARGM-TMP
+msnbc_0003.parse 414 1 predicted got-v got.- ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARG3
+msnbc_0003.parse 415 4 predicted talk-v talk.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG
+msnbc_0003.parse 416 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 417 3 predicted got-v got.- ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 4:2-ARG1
+msnbc_0003.parse 418 3 predicted got-v got.- ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+msnbc_0003.parse 419 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0
+msnbc_0003.parse 420 2 predicted be-v be.03 ----- 2:0-rel  1:1-ARG2
+msnbc_0003.parse 420 7 predicted be-v be.01 ----- 7:0-rel  3:1-ARG1
+msnbc_0003.parse 421 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 421 6 predicted see-v see.01 ----- 6:0-rel  2:1-ARG0
+msnbc_0003.parse 421 17 predicted think-v think.01 ----- 17:0-rel  13:1-ARG0 14:1-ARGM-ADV 16:0-ARGM-NEG 18:1-ARG1
+msnbc_0003.parse 421 31 predicted allege-v allege.01 ----- 31:0-rel  26:1-ARG1 28:1-R-ARG1 30:1-ARGM-TMP
+msnbc_0003.parse 421 37 predicted return-v return.02 ----- 37:0-rel  32:1-ARG0 36:1-ARGM-ADV 38:1-ARG1
+msnbc_0003.parse 421 42 predicted be-v be.01 ----- 42:0-rel  41:1-ARG1 43:1-ARG2
+msnbc_0003.parse 422 7 predicted look-v look.02 ----- 7:0-rel  0:0-ARGM-DIS 1:1-ARGM-LOC 6:1-ARG0 8:1-ARG1
+msnbc_0003.parse 422 10 predicted be-v be.02 ----- 10:0-rel  11:2-ARG1
+msnbc_0003.parse 423 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 423 10 predicted walk-v walk.01 ----- 10:0-rel  4:1-ARG1 6:0-ARGM-MOD 8:0-ARGM-MNR
+msnbc_0003.parse 424 3 predicted mean-v mean.01 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 425 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 425 7 predicted happen-v happen.01 ----- 7:0-rel  3:1-ARG1
+msnbc_0003.parse 426 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 426 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 428 2 predicted got-v got.- ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+msnbc_0003.parse 428 11 predicted start-v start.01 ----- 11:0-rel  9:1-ARGM-TMP 10:1-ARG1 12:1-C-ARG1
+msnbc_0003.parse 428 18 predicted do-v do.02 ----- 18:0-rel  14:1-ARG0 19:1-ARG1 22:1-ARGM-LOC
+msnbc_0003.parse 428 27 predicted have-v have.02 ----- 27:0-rel  26:0-ARGM-MOD
+msnbc_0003.parse 428 29 predicted ask-v ask.01 ----- 29:0-rel  25:1-ARG0 30:2-ARG1
+msnbc_0003.parse 428 40 predicted do-v do.02 ----- 40:0-rel  37:1-ARG0
+msnbc_0003.parse 428 42 predicted be-v be.01 ----- 42:0-rel  37:1-ARG1 43:1-ARG2
+msnbc_0003.parse 428 45 predicted come-v come.11 ----- 45:0-rel  37:1-ARG0 47:1-ARG1 49:1-ARGM-ADV
+msnbc_0003.parse 429 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 429 4 predicted think-v think.01 ----- 4:0-rel  2:1-ARG1 3:1-ARG0
+msnbc_0003.parse 431 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 431 4 predicted got-v got.- ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+msnbc_0003.parse 432 3 predicted interview-v interview.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+msnbc_0003.parse 432 5 predicted interrogate-v interrogate.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG2 7:1-ARGM-TMP
+msnbc_0003.parse 433 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 434 2 predicted watch-v watch.01 ----- 2:0-rel  0:0-ARGM-DIS 3:2-ARG1
+msnbc_0003.parse 434 9 predicted do-v do.02 ----- 9:0-rel  3:1-ARG1 4:1-ARG0 10:1-ARGM-LOC
+msnbc_0003.parse 434 21 predicted take-v take.01 ----- 21:0-rel  16:1-ARGM-LOC 19:1-R-ARGM-LOC 20:1-ARG0
+msnbc_0003.parse 434 33 predicted say-v say.01 ----- 33:0-rel  29:1-R-ARG0 30:1-ARG0 32:0-ARGM-MOD
+msnbc_0003.parse 434 34 predicted be-v be.01 ----- 34:0-rel  35:0-ARGM-NEG
+msnbc_0003.parse 434 39 predicted do-v do.02 ----- 39:0-rel  37:1-ARG1 38:1-ARG0
+msnbc_0003.parse 434 46 predicted think-v think.01 ----- 46:0-rel  37:2-ARG1 45:1-ARG0 47:3-ARG1
+msnbc_0003.parse 434 48 predicted be-v be.01 ----- 48:0-rel  47:1-ARG1 49:1-ARG2
+msnbc_0003.parse 435 2 predicted look-v look.08 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1 7:1-ARGM-ADV
+msnbc_0003.parse 435 9 predicted be-v be.01 ----- 9:0-rel  8:1-ARG1 10:1-ARG2
+msnbc_0003.parse 436 7 predicted comment-v comment.01 ----- 7:0-rel  2:1-ARGM-DIS 5:1-ARG0 8:1-ARG1
+msnbc_0003.parse 437 1 predicted think-v think.02 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 437 5 predicted have-v have.03 ----- 5:0-rel  2:1-ARG0 4:0-ARGM-MOD 6:1-ARG1
+msnbc_0003.parse 438 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+msnbc_0003.parse 438 6 predicted be-v be.03 ----- 6:0-rel  4:1-ARG1 5:0-ARGM-MOD
+msnbc_0003.parse 438 9 predicted walk-v walk.01 ----- 9:0-rel  4:1-ARG1 5:0-ARGM-MOD
+msnbc_0003.parse 439 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 439 4 predicted be-v be.02 ----- 4:0-rel  5:2-ARG1
+msnbc_0003.parse 439 10 predicted stand-v stand.01 ----- 10:0-rel  5:1-ARGM-MNR 7:1-ARG1 9:0-ARGM-MOD 11:1-ARG2
+msnbc_0003.parse 439 21 predicted get-v get.03 ----- 21:0-rel  17:1-ARG1 22:3-ARG2
+msnbc_0003.parse 439 31 predicted do-v do.02 ----- 31:0-rel  29:1-ARG0 32:1-ARG1
+msnbc_0003.parse 440 4 predicted stay-v stay.01 ----- 4:0-rel  1:1-ARG1 5:1-ARG3
+msnbc_0003.parse 440 13 predicted indict-v indict.01 ----- 13:0-rel  6:1-ARG1 10:1-R-ARG1 14:2-ARGM-DIS
+msnbc_0003.parse 441 1 predicted indict-v indict.01 ----- 1:0-rel  0:1-ARGM-TMP 2:0-ARG1
+msnbc_0003.parse 442 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 442 5 predicted indict-v indict.01 ----- 5:0-rel  3:1-ARG1
+msnbc_0003.parse 442 7 predicted be-v be.01 ----- 7:0-rel  2:1-ARGM-TMP 8:1-ARG2 9:2-ARG1
+msnbc_0003.parse 442 10 predicted keep-v keep.04 ----- 10:0-rel  11:1-ARG1 12:1-ARG2
+msnbc_0003.parse 443 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 443 7 predicted be-v be.01 ----- 7:0-rel  3:1-ARG1 8:2-ARG2
+msnbc_0003.parse 444 5 predicted have-v have.03 ----- 5:0-rel  1:1-ARG0 6:1-ARG1
+msnbc_0003.parse 445 4 predicted suffer-v suffer.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG 5:1-ARG1 6:1-ARGM-TMP
+msnbc_0003.parse 446 9 predicted have-v have.03 ----- 9:0-rel  0:3-ARG0 10:1-ARG1
+msnbc_0003.parse 447 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+msnbc_0003.parse 448 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2 4:1-ARGM-PRD
+msnbc_0003.parse 449 3 predicted look-v look.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 449 9 predicted handle-v handle.01 ----- 9:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 7:1-ARG0 10:1-ARG1 11:1-ARGM-MNR
+msnbc_0003.parse 449 15 predicted handle-v handle.01 ----- 15:0-rel  14:1-ARG0 16:1-ARG1 17:1-ARGM-LOC
+msnbc_0003.parse 449 25 predicted handle-v handle.01 ----- 25:0-rel  21:1-ARGM-MNR 24:1-ARG0 26:1-ARG1 27:1-ARGM-MNR 28:1-ARGM-MNR
+msnbc_0003.parse 449 43 predicted seem-v seem.01 ----- 43:0-rel  33:1-ARGM-LOC
+msnbc_0003.parse 449 51 predicted lead-v lead.03 ----- 51:0-rel  47:1-ARG0 52:1-ARG2
+msnbc_0003.parse 449 59 predicted be-v be.01 ----- 59:0-rel  57:1-ARG1 60:1-ARG2 61:2-ARGM-PRP
+msnbc_0003.parse 449 62 predicted do-v do.02 ----- 62:0-rel  57:1-ARG0 63:1-ARG1
+msnbc_0003.parse 449 67 predicted be-v be.01 ----- 67:0-rel  66:1-ARG1 68:0-ARGM-NEG 69:1-ARG2
+msnbc_0003.parse 449 73 predicted be-v be.01 ----- 73:0-rel  72:1-ARG1 74:1-ARG2
+msnbc_0003.parse 451 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+msnbc_0003.parse 452 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 453 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0
+msnbc_0003.parse 453 4 predicted know-v know.01 ----- 4:0-rel  3:1-ARG0
+msnbc_0003.parse 453 8 predicted have-v have.03 ----- 8:0-rel  5:1-ARG0 7:0-ARGM-MOD 9:1-ARG1
+msnbc_0003.parse 454 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+msnbc_0003.parse 455 7 predicted go-v go.15 ----- 7:0-rel  4:1-R-ARG1
+msnbc_0003.parse 455 15 predicted be-v be.01 ----- 15:0-rel  14:1-ARG1
+msnbc_0003.parse 455 33 predicted write-v write.01 ----- 33:0-rel  32:1-ARG0 34:1-ARG1 36:1-ARGM-TMP
+msnbc_0003.parse 455 46 predicted be-v be.01 ----- 46:0-rel  42:1-ARG2 43:1-ARG1 47:1-ARG2
+msnbc_0003.parse 455 48 predicted be-v be.01 ----- 48:0-rel  42:2-ARG1 49:2-ARG2
+msnbc_0003.parse 455 56 predicted go-v go.02 ----- 56:0-rel  53:1-ARG0 54:0-ARGM-MOD 57:1-ARG1
+msnbc_0003.parse 456 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 456 6 predicted be-v be.01 ----- 6:0-rel  3:1-ARG2 4:1-ARG1 7:1-ARG2
+msnbc_0003.parse 457 6 predicted agree-v agree.01 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+msnbc_0003.parse 458 1 predicted seem-v seem.01 ----- 1:0-rel  2:1-ARG2
+msnbc_0003.parse 458 7 predicted be-v be.01 ----- 7:0-rel  4:1-ARG1
+msnbc_0003.parse 460 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 461 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 462 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1
+msnbc_0003.parse 463 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 464 1 predicted got-v got.- ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 464 6 predicted go-v go.02 ----- 6:0-rel  2:1-ARG1 4:1-ARG0
+msnbc_0003.parse 465 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+msnbc_0003.parse 466 4 predicted think-v think.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:3-ARG1
+msnbc_0003.parse 466 10 predicted go-v go.02 ----- 10:0-rel  5:1-ARG0 11:1-ARGM-DIR
+msnbc_0003.parse 466 12 predicted look-v look.01 ----- 12:0-rel  5:1-ARG0 18:1-ARGM-DIS
+msnbc_0003.parse 467 1 predicted fail-v fail.01 ----- 1:0-rel  2:1-ARG1
+msnbc_0003.parse 468 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:4-ARG1
+msnbc_0003.parse 468 12 predicted be-v be.01 ----- 12:0-rel  3:2-ARG1 9:1-ARG1 13:2-ARG2
+msnbc_0003.parse 469 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 469 5 predicted get-v get.05 ----- 5:0-rel  3:1-ARG1 4:1-R-ARG1 6:1-ARG2
+msnbc_0003.parse 469 10 predicted knock-v knock.02 ----- 10:0-rel  9:1-ARG0
+msnbc_0003.parse 473 2 predicted know-v know.01 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 473 6 predicted learn-v learn.01 ----- 6:0-rel  0:1-ARGM-DIS 3:1-ARGM-DIS 4:1-ARG0 7:1-ARG1
+msnbc_0003.parse 473 9 predicted be-v be.01 ----- 9:0-rel  8:1-ARG1 10:2-ARG2
+msnbc_0003.parse 474 2 predicted learn-v learn.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARG2 7:1-ARGM-ADV
+msnbc_0003.parse 475 5 predicted think-v think.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-DIS 3:1-ARGM-DIS 4:1-ARG0 6:3-ARG1
+msnbc_0003.parse 475 7 predicted sit-v sit.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG2 13:1-ARGM-MNR 15:2-ARGM-ADV
+msnbc_0003.parse 475 15 predicted talk-v talk.01 ----- 15:0-rel  16:1-ARG1
+msnbc_0003.parse 476 3 predicted singe-v singe.- ----- 3:0-rel  1:1-ARG0 4:1-ARG1 7:1-ARGM-TMP
+msnbc_0003.parse 477 2 predicted learn-v learn.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 478 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 478 6 predicted confirm-v confirm.01 ----- 6:0-rel  2:1-ARG1 4:0-ARGM-MOD 7:1-ARG0 12:1-ARGM-TMP
+msnbc_0003.parse 480 8 predicted be-v be.01 ----- 8:0-rel  5:1-ARGM-TMP 6:1-ARG1
+msnbc_0003.parse 481 1 predicted believe-v believe.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 481 5 predicted be-v be.03 ----- 5:0-rel  2:1-ARG1 3:0-ARGM-MOD 4:0-ARGM-NEG
+msnbc_0003.parse 482 10 predicted pack-v pack.01 ----- 10:0-rel  6:1-ARG1 8:0-ARGM-MOD 11:1-ARG2 13:1-ARGM-TMP
+msnbc_0003.parse 483 6 predicted do-v do.02 ----- 6:0-rel  2:1-ARG0 7:1-ARG1
+msnbc_0003.parse 483 15 predicted deserve-v deserve.01 ----- 15:0-rel  11:1-ARG0
+msnbc_0003.parse 485 2 predicted believe-v believe.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 485 5 predicted be-v be.02 ----- 5:0-rel  4:0-ARGM-MOD 6:2-ARG1
+msnbc_0003.parse 485 7 predicted come-v come.03 ----- 7:0-rel  6:1-ARG1
+msnbc_0003.parse 486 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 486 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 9:1-ARGM-DIS
+msnbc_0003.parse 487 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 487 5 predicted be-v be.02 ----- 5:0-rel  3:0-ARGM-MOD 4:0-ARGM-NEG
+msnbc_0003.parse 488 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 488 6 predicted be-v be.02 ----- 6:0-rel  4:0-ARGM-MOD 5:0-ARGM-NEG 7:1-ARG1
+msnbc_0003.parse 489 1 predicted thank-v thank.01 ----- 1:0-rel  0:1-ARGM-DIS 2:1-ARG1 3:1-ARGM-ADV
+msnbc_0003.parse 490 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 491 13 predicted say-v say.01 ----- 13:0-rel  12:1-ARG0 14:1-ARGM-MNR
+msnbc_0003.parse 492 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-DIS 1:1-ARGM-PRD 6:1-ARG1
+msnbc_0003.parse 492 18 predicted go-v go.02 ----- 18:0-rel  9:2-ARG1 19:1-ARG4 21:2-ARGM-PRP
+msnbc_0003.parse 492 22 predicted oppose-v oppose.01 ----- 22:0-rel  9:2-ARG0
+msnbc_0003.parse 492 25 predicted call-v call.01 ----- 25:0-rel  23:1-ARG1 24:1-ARG0
+msnbc_0003.parse 493 3 predicted go-v go.15 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-ADV 5:1-ARGM-LOC
+msnbc_0003.parse 494 4 predicted hear-v hear.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG2
+msnbc_0003.parse 495 1 predicted go-v go.06 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 496 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 497 8 predicted say-v say.01 ----- 8:0-rel  0:2-ARGM-ADV 3:1-ARG0 9:3-ARG1
+msnbc_0003.parse 497 12 predicted miss-v miss.02 ----- 12:0-rel  9:1-ARG0 13:2-ARG1
+msnbc_0003.parse 498 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 498 9 predicted return-v return.03 ----- 9:0-rel  7:1-ARGM-TMP 8:1-ARG1
+msnbc_0003.parse 500 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+msnbc_0003.parse 501 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:4-ARG2
+msnbc_0003.parse 501 10 predicted be-v be.01 ----- 10:0-rel  3:2-ARG1 11:3-ARG2
+msnbc_0003.parse 501 12 predicted be-v be.01 ----- 12:0-rel  11:1-ARG1 13:2-ARG2
+msnbc_0003.parse 502 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV
+msnbc_0003.parse 502 7 predicted move-v move.01 ----- 7:0-rel  8:1-ARG1 9:1-ARGM-DIR
+msnbc_0003.parse 503 2 predicted return-v return.01 ----- 2:0-rel  0:1-ARG1 1:1-ARGM-TMP 3:1-ARG3 5:1-ARG1
+msnbc_0003.parse 503 17 predicted broadcast-v broadcast.01 ----- 17:0-rel  15:1-ARGM-LOC 16:1-ARG0 18:1-ARGM-TMP 21:1-ARGM-PRP
+msnbc_0003.parse 503 27 predicted call-v call.01 ----- 27:0-rel  25:1-ARG1 26:1-ARG0
+msnbc_0003.parse 503 36 predicted undermine-v undermine.01 ----- 36:0-rel  37:1-ARG1
+msnbc_0003.parse 504 1 predicted join-v join.04 ----- 1:0-rel  0:1-ARGM-DIS 2:1-ARG1 3:1-ARGM-TMP
+msnbc_0003.parse 505 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 506 4 predicted start-v start.01 ----- 4:0-rel  0:1-ARG0
+msnbc_0003.parse 506 15 predicted smell-v smell.01 ----- 15:0-rel  12:1-ARG1 14:1-ARG0 16:1-ARGM-LOC
+msnbc_0003.parse 507 3 predicted see-v see.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0
+msnbc_0003.parse 509 5 predicted wear-v wear.01 ----- 5:0-rel  2:1-ARGM-TMP 3:1-ARG0
+msnbc_0003.parse 509 23 predicted try-v try.01 ----- 23:0-rel  24:2-ARG1
+msnbc_0003.parse 509 25 predicted stay-v stay.01 ----- 25:0-rel  26:1-ARG3
+msnbc_0003.parse 509 38 predicted trap-v trap.01 ----- 38:0-rel  35:1-R-ARG2 36:1-ARG1 39:1-ARGM-TMP
+msnbc_0003.parse 509 55 predicted make-v make.02 ----- 55:0-rel  52:1-ARG0 54:1-R-ARG0
+msnbc_0003.parse 509 57 predicted have-v have.03 ----- 57:0-rel  56:1-ARG0 58:2-ARG1
+msnbc_0003.parse 509 66 predicted go-v go.12 ----- 66:0-rel  63:1-ARG1 68:1-ARGM-TMP
+msnbc_0003.parse 510 3 predicted get-v get.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0 4:1-ARG2
+msnbc_0003.parse 511 2 predicted like-v like.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 512 2 predicted dislike-v dislike.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 514 2 predicted wait-v wait.01 ----- 2:0-rel  1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 514 4 predicted see-v see.01 ----- 4:0-rel  1:1-ARG0 5:3-ARG1
+msnbc_0003.parse 514 6 predicted win-v win.01 ----- 6:0-rel  5:1-ARG0
+msnbc_0003.parse 515 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 515 15 predicted feel-v feel.02 ----- 15:0-rel  9:1-ARG2 11:1-R-ARG2 13:1-ARG0 16:1-ARGM-MNR
+msnbc_0003.parse 515 20 predicted appreciate-v appreciate.02 ----- 20:0-rel  19:1-ARG0 21:2-ARG1
+msnbc_0003.parse 516 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV
+msnbc_0003.parse 516 12 predicted come-v come.03 ----- 12:0-rel  10:1-R-ARG1 13:1-ARG2
+msnbc_0003.parse 517 2 predicted be-v be.02 ----- 2:0-rel  0:0-ARGM-DIS 3:2-ARG1
+msnbc_0003.parse 518 4 predicted hear-v hear.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG
+msnbc_0003.parse 518 6 predicted discuss-v discuss.01 ----- 6:0-rel  5:1-ARG1 7:1-ARGM-LOC
+msnbc_0003.parse 518 14 predicted bring-v bring.02 ----- 14:0-rel  12:1-ARG0 15:1-ARG1 16:1-ARG3
+msnbc_0003.parse 519 5 predicted concern-v concern.02 ----- 5:0-rel  0:1-ARGM-CAU 2:1-R-ARGM-CAU 3:1-ARG1
+msnbc_0003.parse 519 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+msnbc_0003.parse 519 9 predicted know-v know.01 ----- 9:0-rel  8:1-ARG0 10:1-ARG1
+msnbc_0003.parse 519 15 predicted be-v be.01 ----- 15:0-rel  12:1-ARG1 16:1-ARG2
+msnbc_0003.parse 520 2 predicted make-v make.04 ----- 2:0-rel  0:1-ARG0
+msnbc_0003.parse 520 10 predicted disrupt-v disrupt.01 ----- 10:0-rel  9:0-ARGM-NEG 11:1-ARG1
+msnbc_0003.parse 521 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 521 5 predicted come-v come.04 ----- 5:0-rel  3:1-ARG1 7:1-ARGM-ADV
+msnbc_0003.parse 522 4 predicted go-v go.01 ----- 4:0-rel  2:1-ARG1 5:1-ARGM-MNR 6:1-ARGM-TMP
+msnbc_0003.parse 522 11 predicted hope-v hope.01 ----- 11:0-rel  7:1-ARG0 14:1-ARG1
+msnbc_0003.parse 522 13 predicted plan-v plan.01 ----- 13:0-rel  7:1-ARG0 14:1-ARG1
+msnbc_0003.parse 522 26 predicted start-v start.01 ----- 26:0-rel  22:1-ARG0 27:2-ARG1
+msnbc_0003.parse 522 27 predicted discuss-v discuss.01 ----- 27:0-rel  22:1-ARG0 28:2-ARG1
+msnbc_0003.parse 522 31 predicted draw-v draw.02 ----- 31:0-rel  33:1-ARG1
+msnbc_0003.parse 523 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 523 6 predicted learn-v learn.01 ----- 6:0-rel  3:1-ARG1 4:1-R-ARG1 5:1-ARG0
+msnbc_0003.parse 523 8 predicted report-v report.01 ----- 8:0-rel  3:1-ARG1 4:1-R-ARG1 5:1-ARG0 10:1-ARGM-TMP
+msnbc_0003.parse 524 10 predicted start-v start.01 ----- 10:0-rel  5:2-ARGM-TMP 8:1-ARG0 9:1-ARGM-TMP 11:2-ARG1
+msnbc_0003.parse 524 11 predicted see-v see.01 ----- 11:0-rel  8:1-ARG0 12:1-ARG1 13:1-ARGM-LOC
+msnbc_0003.parse 525 2 predicted help-v help.01 ----- 2:0-rel  0:2-ARG0 3:2-ARG1
+msnbc_0003.parse 525 3 predicted fight-v fight.01 ----- 3:0-rel  4:1-ARG1
+msnbc_0003.parse 526 6 predicted say-v say.01 ----- 6:0-rel  3:1-ARG1 4:1-ARG0 5:1-ARGM-ADV
+msnbc_0003.parse 527 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 527 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 527 10 predicted head-v head.02 ----- 10:0-rel  7:1-ARG0 11:1-ARG1
+msnbc_0003.parse 527 14 predicted try-v try.01 ----- 14:0-rel  7:1-ARG0 15:2-ARG1
+msnbc_0003.parse 527 16 predicted get-v get.01 ----- 16:0-rel  7:1-ARG0
+msnbc_0003.parse 527 27 predicted live-v live.01 ----- 27:0-rel  23:1-ARG1 24:2-ARG0 28:1-ARGM-TMP
+msnbc_0003.parse 529 2 predicted see-v see.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 530 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 530 4 predicted need-v need.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+msnbc_0003.parse 530 7 predicted continue-v continue.01 ----- 7:0-rel  3:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+msnbc_0003.parse 530 9 predicted go-v go.02 ----- 9:0-rel  3:1-ARG0 10:1-ARG4
+msnbc_0003.parse 531 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 531 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1
+msnbc_0003.parse 531 12 predicted be-v be.03 ----- 12:0-rel  7:2-ARG1 13:1-ARGM-ADV 14:1-ARG2
+msnbc_0003.parse 531 14 predicted spoon-v spoon.- ----- 14:0-rel  7:2-ARG0 13:1-ARGM-ADV
+msnbc_0003.parse 531 16 predicted feed-v feed.01 ----- 16:0-rel  14:0-ARG2
+msnbc_0003.parse 532 2 predicted provide-v provide.01 ----- 2:0-rel  0:1-ARG2 3:1-ARG1
+msnbc_0003.parse 533 3 predicted get-v get.01 ----- 3:0-rel  1:1-ARG1 2:1-ARG0
+msnbc_0003.parse 533 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:2-ARG1
+msnbc_0003.parse 533 16 predicted be-v be.01 ----- 16:0-rel  10:1-ARG2 11:1-ARG1
+msnbc_0003.parse 534 5 predicted go-v go.02 ----- 5:0-rel  0:2-ARG0 4:1-ARGM-ADV 6:1-ARG4
+msnbc_0003.parse 534 12 predicted go-v go.02 ----- 12:0-rel  0:2-ARG0 13:1-ARG4
+msnbc_0003.parse 534 16 predicted try-v try.01 ----- 16:0-rel  17:2-ARG1
+msnbc_0003.parse 534 18 predicted experience-v experience.01 ----- 18:0-rel  0:2-ARG0 19:2-ARG1
+msnbc_0003.parse 535 1 predicted make-v make.02 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 535 3 predicted assume-v assume.02 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 535 6 predicted stay-v stay.01 ----- 6:0-rel  5:1-ARG1 7:1-ARG3
+msnbc_0003.parse 536 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+msnbc_0003.parse 536 7 predicted write-v write.01 ----- 7:0-rel  2:1-ARG1 4:1-R-ARG1 5:1-ARG0 8:1-ARGM-ADV
+msnbc_0003.parse 536 11 predicted be-v be.01 ----- 11:0-rel  10:1-R-ARG1 12:1-ARG2
+msnbc_0003.parse 537 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG
+msnbc_0003.parse 537 5 predicted say-v say.01 ----- 5:0-rel  3:1-ARG1 4:1-ARG0 6:1-ARGM-DIS
+msnbc_0003.parse 538 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG1 1:1-ARG0
+msnbc_0003.parse 538 8 predicted get-v get.05 ----- 8:0-rel  5:1-ARG1 7:0-ARGM-NEG 9:1-ARG2
+msnbc_0003.parse 540 3 predicted finish-v finish.01 ----- 3:0-rel  1:1-ARG0 2:0-ARGM-MOD
+msnbc_0003.parse 540 6 predicted respond-v respond.01 ----- 6:0-rel  0:1-ARGM-ADV 4:1-ARG0 5:0-ARGM-MOD
+msnbc_0003.parse 541 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 541 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2 6:1-ARGM-TMP
+msnbc_0003.parse 542 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 542 4 predicted got-v got.- ----- 4:0-rel  3:1-ARG0
+msnbc_0003.parse 543 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 544 3 predicted back-v back.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 545 3 predicted stay-v stay.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 4:1-ARG3
+msnbc_0003.parse 547 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 547 5 predicted want-v want.01 ----- 5:0-rel  3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+msnbc_0003.parse 547 13 predicted spend-v spend.02 ----- 13:0-rel  2:1-ARGM-ADV 11:1-ARG0 12:0-ARGM-MOD 14:1-ARG1 16:1-ARG2
+msnbc_0003.parse 549 2 predicted spend-v spend.02 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 550 9 predicted murder-v murder.01 ----- 9:0-rel  4:1-ARGM-TMP 5:1-ARG1
+msnbc_0003.parse 551 1 predicted cover-v cover.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 552 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2 5:1-ARGM-TMP
+msnbc_0003.parse 553 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+msnbc_0003.parse 554 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 555 4 predicted lecture-v lecture.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 3:0-ARGM-NEG 5:1-ARG1 6:1-ARG2
+msnbc_0003.parse 556 2 predicted go-v go.02 ----- 2:0-rel  1:1-ARG0 3:1-ARG4
+msnbc_0003.parse 557 2 predicted want-v want.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 557 4 predicted get-v get.01 ----- 4:0-rel  1:1-ARG0
+msnbc_0003.parse 558 2 predicted talk-v talk.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG2
+msnbc_0003.parse 558 9 predicted tell-v tell.01 ----- 9:0-rel  6:1-ARG1 8:1-ARG0 10:1-ARG2
+msnbc_0003.parse 559 2 predicted get-v get.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 560 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 560 5 predicted take-v take.01 ----- 5:0-rel  2:1-ARG0 3:0-ARGM-MOD 4:0-ARGM-NEG 6:1-ARG1 8:1-ARGM-TMP
+msnbc_0003.parse 561 4 predicted say-v say.01 ----- 4:0-rel  1:1-ARG1 3:1-ARG0 5:1-ARG3
+msnbc_0003.parse 562 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2 6:1-ARGM-CAU
+msnbc_0003.parse 562 13 predicted improvise-v improvise.- ----- 13:0-rel  14:0-ARG1 15:0-C-ARG1
+msnbc_0003.parse 562 18 predicted go-v go.16 ----- 18:0-rel  16:1-R-ARG1 19:1-ARGM-DIR
+msnbc_0003.parse 562 21 predicted kill-v kill.01 ----- 21:0-rel  16:1-R-ARG2 22:1-ARG1
+msnbc_0003.parse 563 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 564 17 predicted kill-v kill.01 ----- 17:0-rel  9:2-ARG1 15:1-R-ARG1
+msnbc_0003.parse 564 26 predicted locate-v locate.01 ----- 26:0-rel  23:1-ARGM-LOC 24:1-ARG1
+msnbc_0003.parse 564 31 predicted have-v have.03 ----- 31:0-rel  28:1-ARG0
+msnbc_0003.parse 564 35 predicted hand-v hand.01 ----- 35:0-rel  36:1-ARG2 37:1-ARG1
+msnbc_0003.parse 564 40 predicted be-v be.03 ----- 40:0-rel  39:1-ARG1
+msnbc_0003.parse 564 45 predicted pass-v pass.10 ----- 45:0-rel  39:1-ARG0 47:1-ARG1
+msnbc_0003.parse 565 1 predicted talk-v talk.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2
+msnbc_0003.parse 566 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 566 6 predicted feed-v feed.01 ----- 6:0-rel  4:1-ARG0
+msnbc_0003.parse 566 8 predicted help-v help.01 ----- 8:0-rel  4:1-ARG0 9:2-ARG1
+msnbc_0003.parse 566 10 predicted train-v train.01 ----- 10:0-rel  4:1-ARG0
+msnbc_0003.parse 566 14 predicted take-v take.12 ----- 14:0-rel  11:1-ARG0 16:2-ARG1
+msnbc_0003.parse 567 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1
+msnbc_0003.parse 567 8 predicted be-v be.01 ----- 8:0-rel  7:1-ARG1 9:1-ARG2
+msnbc_0003.parse 567 12 predicted assume-v assume.01 ----- 12:0-rel  7:1-ARG1
+msnbc_0003.parse 568 2 predicted believe-v believe.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 568 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 570 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-NEG 4:1-ARG2
+msnbc_0003.parse 571 3 predicted want-v want.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+msnbc_0003.parse 571 5 predicted know-v know.01 ----- 5:0-rel  2:1-ARG0
+msnbc_0003.parse 571 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:2-ARG2
+msnbc_0003.parse 571 11 predicted win-v win.01 ----- 11:0-rel  7:1-ARG0 12:2-ARG1
+msnbc_0003.parse 571 14 predicted base-v base.02 ----- 14:0-rel  12:1-ARG1 15:1-ARG2
+msnbc_0003.parse 572 1 predicted see-v see.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 572 4 predicted describe-v describe.01 ----- 4:0-rel  3:1-ARG0
+msnbc_0003.parse 572 8 predicted know-v know.01 ----- 8:0-rel  6:1-ARG0 9:1-ARG1
+msnbc_0003.parse 572 16 predicted be-v be.01 ----- 16:0-rel  11:2-ARG1 17:2-ARG2
+msnbc_0003.parse 573 1 predicted run-v run.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-CAU
+msnbc_0003.parse 573 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+msnbc_0003.parse 574 3 predicted know-v know.01 ----- 3:0-rel  0:1-ARGM-MNR 2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 574 10 predicted grab-v grab.01 ----- 10:0-rel  5:1-ARG0 7:0-ARGM-MOD 8:0-ARGM-NEG 9:1-ARGM-TMP 11:1-ARG1 12:1-ARGM-TMP
+msnbc_0003.parse 574 16 predicted leave-v leave.01 ----- 16:0-rel  13:1-ARGM-TMP 15:1-ARG0 17:1-ARG1
+msnbc_0003.parse 575 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 575 8 predicted happen-v happen.01 ----- 8:0-rel  4:1-ARG1
+msnbc_0003.parse 577 3 predicted read-v read.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 578 4 predicted tell-v tell.01 ----- 4:0-rel  1:1-ARG1 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG2
+msnbc_0003.parse 578 6 predicted be-v be.01 ----- 6:0-rel  0:0-ARGM-DIS 1:2-ARG1 7:1-ARG2
+msnbc_0003.parse 578 10 predicted talk-v talk.01 ----- 10:0-rel  8:1-ARGM-TMP 9:1-ARG0 11:1-ARG2
+msnbc_0003.parse 578 19 predicted train-v train.01 ----- 19:0-rel  20:1-ARG1 21:1-ARG2
+msnbc_0003.parse 578 25 predicted tell-v tell.01 ----- 25:0-rel  8:2-ARGM-TMP 23:1-ARG0 26:1-ARG2 27:1-ARG1
+msnbc_0003.parse 579 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1 6:1-ARGM-LOC
+msnbc_0003.parse 580 7 predicted try-v try.01 ----- 7:0-rel  4:1-ARGM-LOC 5:1-ARG0 8:2-ARG1
+msnbc_0003.parse 580 9 predicted attain-v attain.- ----- 9:0-rel  5:1-ARG0 10:2-ARG1
+msnbc_0003.parse 581 3 predicted make-v make.04 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARGM-TMP
+msnbc_0003.parse 582 6 predicted be-v be.01 ----- 6:0-rel  0:0-ARGM-DIS 1:2-ARG1 7:1-ARG2
+msnbc_0003.parse 582 14 predicted kill-v kill.01 ----- 14:0-rel  12:1-ARG1
+msnbc_0003.parse 582 16 predicted blow-v blow.06 ----- 16:0-rel  12:1-ARG1 18:1-ARGM-DIS 19:1-ARG0
+msnbc_0003.parse 582 24 predicted come-v come.01 ----- 24:0-rel  23:1-ARG1 25:1-ARGM-DIR
+msnbc_0003.parse 582 32 predicted join-v join.01 ----- 32:0-rel  27:2-ARG0 33:1-ARG1 41:1-ARGM-TMP 46:1-ARGM-CAU
+msnbc_0003.parse 582 48 predicted want-v want.01 ----- 48:0-rel  47:1-ARG0 49:2-ARG1
+msnbc_0003.parse 582 51 predicted invest-v invest.01 ----- 51:0-rel  47:1-ARG1 52:1-ARG2 55:1-ARGM-LOC
+msnbc_0003.parse 583 3 predicted breathe-v breathe.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1 5:1-ARG2
+msnbc_0003.parse 583 10 predicted breathe-v breathe.01 ----- 10:0-rel  9:1-ARG0 11:1-ARG1 12:1-ARG2
+msnbc_0003.parse 583 13 predicted inhale-v inhale.- ----- 13:0-rel  14:1-ARG1
+msnbc_0003.parse 583 18 predicted want-v want.01 ----- 18:0-rel  9:1-ARG0 19:1-ARG1 20:2-ARGM-MNR
+msnbc_0003.parse 585 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 585 13 predicted happen-v happen.01 ----- 13:0-rel  9:1-ARG1 12:1-R-ARG1 14:1-ARGM-DIS 15:1-ARGM-TMP
+msnbc_0003.parse 586 4 predicted want-v want.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 5:2-ARG1
+msnbc_0003.parse 586 6 predicted kill-v kill.01 ----- 6:0-rel  1:1-ARG0
+msnbc_0003.parse 587 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 587 3 predicted take-v take.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+msnbc_0003.parse 588 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-LOC
+msnbc_0003.parse 589 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 591 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 592 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+msnbc_0003.parse 592 6 predicted continue-v continue.01 ----- 6:0-rel  2:1-ARG1
+msnbc_0003.parse 593 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 593 6 predicted be-v be.01 ----- 6:0-rel  3:1-ARG1 5:1-R-ARG1 7:2-ARG2
+msnbc_0003.parse 593 13 predicted have-v have.03 ----- 13:0-rel  3:2-ARG0 14:1-ARG1
+msnbc_0003.parse 593 20 predicted want-v want.01 ----- 20:0-rel  19:1-ARG0 21:2-ARG1
+msnbc_0003.parse 593 22 predicted call-v call.01 ----- 22:0-rel  19:1-ARG0 23:1-ARG1
+msnbc_0003.parse 593 27 predicted defeat-v defeat.01 ----- 27:0-rel  24:1-ARG0 28:1-ARG1 29:1-ARGM-TMP
+msnbc_0003.parse 594 5 predicted lose-v lose.03 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+msnbc_0003.parse 596 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 596 3 predicted think-v think.01 ----- 3:0-rel  2:1-ARG0 4:3-ARG1
+msnbc_0003.parse 596 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+msnbc_0003.parse 597 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1
+msnbc_0003.parse 597 7 predicted win-v win.01 ----- 7:0-rel  6:1-ARG0
+msnbc_0003.parse 597 11 predicted lose-v lose.03 ----- 11:0-rel  10:1-ARG0
+msnbc_0003.parse 598 2 predicted make-v make.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 598 7 predicted kill-v kill.01 ----- 7:0-rel  5:1-ARG0
+msnbc_0003.parse 599 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 599 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:2-ARG2
+msnbc_0003.parse 599 11 predicted answer-v answer.01 ----- 11:0-rel  8:1-ARG0
+msnbc_0003.parse 600 6 predicted see-v see.01 ----- 6:0-rel  4:1-ARG1 5:1-ARG0
+msnbc_0003.parse 600 10 predicted be-v be.03 ----- 10:0-rel  9:1-ARG1 11:1-ARG2
+msnbc_0003.parse 600 14 predicted make-v make.01 ----- 14:0-rel  9:1-ARG0 15:2-ARG1
+msnbc_0003.parse 600 20 predicted kill-v kill.01 ----- 20:0-rel  18:1-ARG0
+msnbc_0003.parse 601 2 predicted go-v go.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-DIR
+msnbc_0003.parse 602 3 predicted do-v do.02 ----- 3:0-rel  0:1-ARGM-MNR 2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 603 3 predicted see-v see.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0
+msnbc_0003.parse 604 13 predicted offer-v offer.01 ----- 13:0-rel  14:2-ARG1
+msnbc_0003.parse 604 22 predicted have-v have.03 ----- 22:0-rel  23:1-ARG1
+msnbc_0003.parse 604 31 predicted provide-v provide.01 ----- 31:0-rel  32:1-ARG1
+msnbc_0003.parse 605 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-NEG 4:1-ARG1
+msnbc_0003.parse 606 3 predicted got-v got.- ----- 3:0-rel  1:1-ARGM-TMP 2:1-ARG1 4:1-ARG2 6:1-ARGM-TMP
+msnbc_0003.parse 606 12 predicted provide-v provide.01 ----- 12:0-rel  0:0-ARGM-DIS 1:2-ARGM-TMP 9:1-ARG0 10:0-ARGM-MOD 11:0-ARGM-NEG 13:1-ARG1
+msnbc_0003.parse 606 16 predicted establish-v establish.01 ----- 16:0-rel  9:1-ARG0 17:1-ARG1
+msnbc_0003.parse 607 4 predicted play-v play.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 5:1-ARG1 6:1-ARGM-TMP
+msnbc_0003.parse 608 3 predicted go-v go.02 ----- 3:0-rel  0:0-ARGM-MOD 1:1-ARG0
+msnbc_0003.parse 608 9 predicted go-v go.02 ----- 9:0-rel  0:0-ARGM-MOD 1:1-ARG0 11:1-ARGM-MNR
+msnbc_0003.parse 609 5 predicted be-v be.01 ----- 5:0-rel  6:1-ARG1
+msnbc_0003.parse 610 3 predicted go-v go.02 ----- 3:0-rel  2:0-ARGM-NEG 4:1-ARGM-DIR
+msnbc_0003.parse 610 6 predicted go-v go.02 ----- 6:0-rel  2:0-ARGM-NEG 7:1-ARGM-DIR 8:1-ARGM-MNR
+msnbc_0003.parse 611 14 predicted go-v go.02 ----- 14:0-rel  13:1-ARG0 15:1-ARGM-DIR
+msnbc_0003.parse 612 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-TMP
+msnbc_0003.parse 613 4 predicted do-v do.02 ----- 4:0-rel  0:1-ARG1 1:0-ARGM-MOD 2:1-ARG0
+msnbc_0003.parse 614 1 predicted go-v go.02 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-DIR
+msnbc_0003.parse 617 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:5-ARG1
+msnbc_0003.parse 617 4 predicted go-v go.02 ----- 4:0-rel  2:1-ARGM-TMP 3:1-ARG0 5:1-ARG1
+msnbc_0003.parse 617 10 predicted commit-v commit.01 ----- 10:0-rel  8:1-ARGM-TMP 9:1-ARG1 11:1-ARG2
+msnbc_0003.parse 617 12 predicted do-v do.02 ----- 12:0-rel  9:1-ARG0 13:1-ARG1
+msnbc_0003.parse 617 17 predicted do-v do.02 ----- 17:0-rel  2:3-ARGM-TMP 14:1-ARG0 15:0-ARGM-MOD 18:1-ARG1 19:1-ARGM-MNR
+msnbc_0003.parse 618 3 predicted call-v call.03 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+msnbc_0003.parse 619 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+msnbc_0003.parse 619 4 predicted need-v need.01 ----- 4:0-rel  3:1-ARG0
+msnbc_0003.parse 620 4 predicted need-v need.01 ----- 4:0-rel  1:1-ARG1 2:1-ARG0 3:1-ARGM-ADV 5:1-ARGM-DIR
+msnbc_0003.parse 620 12 predicted be-v be.01 ----- 12:0-rel  0:0-ARGM-DIS 1:2-ARG1 13:1-ARG2
+msnbc_0003.parse 620 17 predicted be-v be.01 ----- 17:0-rel  18:1-ARG1 19:1-ARGM-TMP
+msnbc_0003.parse 620 27 predicted be-v be.01 ----- 27:0-rel  24:1-ARG1 28:1-ARG2
+msnbc_0003.parse 621 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 621 7 predicted go-v go.02 ----- 7:0-rel  3:1-ARGM-TMP 4:1-ARG1 6:1-ARG0 8:1-ARG4
+msnbc_0003.parse 621 11 predicted cheerleads-v cheerleads.- ----- 11:0-rel  3:1-ARGM-TMP 4:1-ARG1 6:1-ARG0
+msnbc_0003.parse 621 16 predicted provide-v provide.01 ----- 16:0-rel  3:1-ARGM-TMP 4:1-ARG0 6:1-ARG0 13:1-ARGM-ADV 15:0-ARGM-NEG
+msnbc_0003.parse 621 31 predicted be-v be.01 ----- 31:0-rel  30:1-ARG1 32:1-ARG2
+msnbc_0003.parse 622 10 predicted send-v send.01 ----- 10:0-rel  7:1-ARGM-DIS 8:0-ARGM-MOD 9:1-ARG0 11:1-ARG1 13:1-ARG2
+msnbc_0003.parse 622 16 predicted bring-v bring.01 ----- 16:0-rel  8:0-ARGM-MOD 9:1-ARG0 17:1-ARG1 18:1-ARG3
+msnbc_0003.parse 623 3 predicted do-v do.02 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 2:1-ARG0
+msnbc_0003.parse 624 1 predicted depend-v depend.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 624 5 predicted want-v want.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1
+msnbc_0003.parse 624 7 predicted achieve-v achieve.01 ----- 7:0-rel  3:1-ARG1 4:1-ARG0
+msnbc_0003.parse 625 4 predicted want-v want.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+msnbc_0003.parse 625 6 predicted achieve-v achieve.01 ----- 6:0-rel  3:1-ARG0
+msnbc_0003.parse 626 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 626 5 predicted want-v want.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1
+msnbc_0003.parse 626 7 predicted lock-v lock.06 ----- 7:0-rel  4:1-ARG0 9:1-ARG1
+msnbc_0003.parse 626 16 predicted take-v take.01 ----- 16:0-rel  12:1-ARG0 17:1-ARG1
+msnbc_0003.parse 628 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 628 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+msnbc_0003.parse 629 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 630 2 predicted hear-v hear.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 632 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 633 4 predicted think-v think.01 ----- 4:0-rel  0:2-ARG0 5:1-ARGM-DIS 6:1-C-ARG0 8:1-ARG1
+msnbc_0003.parse 634 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2
+msnbc_0003.parse 635 2 predicted watch-v watch.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 637 4 predicted get-v get.01 ----- 4:0-rel  1:1-ARGM-MNR 3:1-ARG0 5:2-ARG1
+msnbc_0003.parse 637 11 predicted happen-v happen.01 ----- 11:0-rel  9:1-ARG1 12:1-ARGM-LOC
+msnbc_0003.parse 637 16 predicted tell-v tell.01 ----- 16:0-rel  15:1-ARG0 17:1-ARG2 18:3-ARG1
+msnbc_0003.parse 637 19 predicted be-v be.02 ----- 19:0-rel  20:3-ARG1
+msnbc_0003.parse 637 24 predicted go-v go.02 ----- 24:0-rel  20:2-ARGM-MNR
+msnbc_0003.parse 637 31 predicted think-v think.01 ----- 31:0-rel  30:1-ARG0 32:3-ARG1
+msnbc_0003.parse 637 34 predicted confirm-v confirm.01 ----- 34:0-rel  32:1-ARG0 35:1-ARG1
+msnbc_0003.parse 637 38 predicted go-v go.02 ----- 38:0-rel  36:1-ARG0 37:1-ARGM-ADV 39:1-ARG4
+msnbc_0003.parse 637 42 predicted stay-v stay.01 ----- 42:0-rel  36:1-ARG1 43:1-ARG3
+msnbc_0003.parse 637 53 predicted be-v be.01 ----- 53:0-rel  52:1-R-ARG1 54:1-ARG2
+msnbc_0003.parse 637 58 predicted be-v be.01 ----- 58:0-rel  57:1-ARG1 59:1-ARGM-ADV 60:1-ARG2
+msnbc_0003.parse 637 64 predicted go-v go.17 ----- 64:0-rel  63:1-ARG1
+msnbc_0003.parse 637 77 predicted embed-v embed.01 ----- 77:0-rel  78:0-ARG1
+msnbc_0003.parse 638 3 predicted get-v get.04 ----- 3:0-rel  0:1-ARG0 1:1-ARGM-NEG 2:1-ARGM-ADV 4:2-ARG1
+msnbc_0003.parse 638 5 predicted mix-v mix.01 ----- 5:0-rel  0:1-ARG1 6:1-ARG2
+msnbc_0003.parse 639 4 predicted do-v do.02 ----- 4:0-rel  1:1-ARGM-MNR 3:1-ARG0 5:1-ARG1
+msnbc_0003.parse 639 7 predicted find-v find.03 ----- 7:0-rel  9:1-ARG1
+msnbc_0003.parse 639 13 predicted win-v win.01 ----- 13:0-rel  10:1-ARG0 12:1-ARGM-ADV
+msnbc_0003.parse 640 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1
+msnbc_0003.parse 640 6 predicted do-v do.02 ----- 6:0-rel  3:1-ARG1 5:1-ARG0
+msnbc_0003.parse 641 1 predicted go-v go.02 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 641 5 predicted visit-v visit.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+msnbc_0003.parse 642 2 predicted go-v go.02 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 642 13 predicted accuse-v accuse.01 ----- 13:0-rel  10:1-ARG0 14:1-ARG1 15:1-ARG2
+msnbc_0003.parse 642 16 predicted do-v do.02 ----- 16:0-rel  14:1-ARG0
+msnbc_0003.parse 643 6 predicted get-v get.05 ----- 6:0-rel  2:1-ARGM-MNR 5:1-ARG1 7:1-ARG2 9:1-ARGM-MNR
+msnbc_0003.parse 644 3 predicted get-v get.05 ----- 3:0-rel  2:1-ARG1 6:1-ARGM-MNR
+msnbc_0003.parse 645 1 predicted take-v take.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:2-ARGM-MNR
+msnbc_0003.parse 646 2 predicted get-v get.05 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 647 2 predicted hand-v hand.03 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+msnbc_0003.parse 648 2 predicted go-v go.02 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG4
+msnbc_0003.parse 649 2 predicted talk-v talk.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-DIS
+msnbc_0003.parse 649 5 predicted hold-v hold.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARG0 6:1-ARG1
+msnbc_0003.parse 649 8 predicted talk-v talk.01 ----- 8:0-rel  0:0-ARGM-DIS 1:1-ARG0 9:1-ARG2
+msnbc_0003.parse 649 14 predicted take-v take.01 ----- 14:0-rel  10:1-ARG0 12:1-R-ARG0 15:1-ARG1 16:1-ARG2
+msnbc_0003.parse 651 3 predicted speak-v speak.01 ----- 3:0-rel  0:0-ARGM-DIS 2:1-ARG0 4:1-ARGM-MNR 5:2-ARGM-TMP
+msnbc_0003.parse 651 7 predicted be-v be.02 ----- 7:0-rel  5:1-ARGM-TMP 8:2-ARG1
+msnbc_0003.parse 651 10 predicted stand-v stand.01 ----- 10:0-rel  8:1-ARG1 11:1-ARG2
+msnbc_0003.parse 653 1 predicted let-v let.01 ----- 1:0-rel  2:1-ARG1
+msnbc_0003.parse 656 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 3:2-ARG1
+msnbc_0003.parse 656 5 predicted say-v say.01 ----- 5:0-rel  3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+msnbc_0003.parse 657 4 predicted write-v write.01 ----- 4:0-rel  1:1-ARG0 5:1-ARGM-DIS 6:1-ARG1
+msnbc_0003.parse 657 9 predicted be-v be.01 ----- 9:0-rel  7:1-ARG1 10:2-ARG2
+msnbc_0003.parse 658 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 658 6 predicted crack-v crack.02 ----- 6:0-rel  4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+msnbc_0003.parse 659 2 predicted want-v want.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 659 4 predicted tell-v tell.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG2 6:1-ARG1
+msnbc_0003.parse 659 15 predicted be-v be.01 ----- 15:0-rel  12:1-ARG1 14:1-R-ARG1 16:1-ARG2
+msnbc_0003.parse 659 20 predicted want-v want.01 ----- 20:0-rel  19:1-ARG0 21:2-ARG1
+msnbc_0003.parse 659 22 predicted articulate-v articulate.01 ----- 22:0-rel  19:1-ARG0 23:1-ARGM-DIS
+msnbc_0003.parse 660 5 predicted live-v live.01 ----- 5:0-rel  0:1-ARG0
+msnbc_0003.parse 660 7 predicted die-v die.01 ----- 7:0-rel  0:1-ARG1 8:1-ARGM-MNR
+msnbc_0003.parse 661 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 662 2 predicted make-v make.04 ----- 2:0-rel  0:1-ARG0
+msnbc_0003.parse 663 2 predicted do-v do.02 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 663 8 predicted make-v make.02 ----- 8:0-rel  0:1-ARG0 9:1-ARG1
+msnbc_0003.parse 663 16 predicted put-v put.01 ----- 16:0-rel  12:1-ARG0 17:1-ARG2 18:1-ARG1
+msnbc_0003.parse 664 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 664 11 predicted tell-v tell.01 ----- 11:0-rel  7:1-ARG1 9:1-R-ARG1 10:1-ARG0 12:1-ARG2
+msnbc_0003.parse 664 21 predicted tell-v tell.01 ----- 21:0-rel  15:1-R-ARG1 16:1-ARG0 24:0-ARGM-DIS 25:1-ARGM-ADV
+msnbc_0003.parse 664 27 predicted engender-v engender.- ----- 27:0-rel  3:1-ARGM-PRD 7:2-ARG0 26:0-ARGM-MOD
+msnbc_0003.parse 665 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 665 3 predicted owe-v owe.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG2 6:1-ARG1
+msnbc_0003.parse 666 2 predicted ask-v ask.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG2 4:1-ARG1
+msnbc_0003.parse 667 3 predicted get-v get.01 ----- 3:0-rel  0:1-ARGM-MNR 2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 668 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0
+msnbc_0003.parse 668 5 predicted get-v get.04 ----- 5:0-rel  3:1-ARG0 4:1-ARGM-TMP 6:2-ARG1
+msnbc_0003.parse 668 7 predicted talk-v talk.01 ----- 7:0-rel  3:1-ARG0 8:1-ARG2
+msnbc_0003.parse 669 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-ADV 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 670 5 predicted deal-v deal.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+msnbc_0003.parse 671 4 predicted get-v get.01 ----- 4:0-rel  1:1-ARGM-MNR 3:1-ARG0 5:1-ARG1
+msnbc_0003.parse 672 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+msnbc_0003.parse 673 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 673 7 predicted insult-v insult.- ----- 7:0-rel  3:1-ARG0 6:1-ARGM-ADV
+msnbc_0003.parse 673 13 predicted be-v be.01 ----- 13:0-rel  11:1-R-ARG1 14:1-ARG2
+msnbc_0003.parse 673 16 predicted assume-v assume.02 ----- 16:0-rel  11:1-ARG0 17:1-ARG1
+msnbc_0003.parse 673 19 predicted go-v go.06 ----- 19:0-rel  20:1-ARGM-TMP
+msnbc_0003.parse 673 24 predicted take-v take.01 ----- 24:0-rel  25:2-ARG1
+msnbc_0003.parse 673 36 predicted got-v got.- ----- 36:0-rel  35:1-ARG0 37:2-ARG1
+msnbc_0003.parse 674 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+msnbc_0003.parse 674 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:1-ARG2
+msnbc_0003.parse 675 4 predicted want-v want.01 ----- 4:0-rel  2:1-ARG0 3:1-ARGM-DIS 5:2-ARG1
+msnbc_0003.parse 675 6 predicted do-v do.02 ----- 6:0-rel  2:1-ARG0 7:1-ARG1
+msnbc_0003.parse 675 12 predicted fly-v fly.01 ----- 12:0-rel  10:1-ARG1 11:0-ARGM-MOD 13:1-ARGM-DIR
+msnbc_0003.parse 676 2 predicted be-v be.02 ----- 2:0-rel  0:1-ARGM-TMP 3:1-ARG1
+msnbc_0003.parse 676 7 predicted get-v get.04 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD 8:2-ARG1
+msnbc_0003.parse 676 10 predicted cut-v cut.04 ----- 10:0-rel  8:1-ARG1
+msnbc_0003.parse 677 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+msnbc_0003.parse 677 7 predicted face-v face.01 ----- 7:0-rel  3:1-ARG1 5:1-R-ARG1 6:1-ARG0 8:1-ARGM-TMP
+msnbc_0003.parse 678 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-ADV
+msnbc_0003.parse 678 7 predicted do-v do.02 ----- 7:0-rel  3:1-ARGM-MNR 8:1-ARG1
+msnbc_0003.parse 678 9 predicted be-v be.01 ----- 9:0-rel  3:2-ARG1 10:2-ARG2
+msnbc_0003.parse 678 11 predicted talk-v talk.01 ----- 11:0-rel  12:1-ARG2
+msnbc_0003.parse 678 15 predicted come-v come.01 ----- 15:0-rel  13:1-ARG1 16:1-ARG4
+msnbc_0003.parse 680 6 predicted come-v come.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG4
+msnbc_0003.parse 680 13 predicted talk-v talk.01 ----- 13:0-rel  0:1-ARG0 14:1-ARG1
+msnbc_0003.parse 680 19 predicted try-v try.01 ----- 19:0-rel  0:1-ARG0 18:1-ARGM-ADV 20:2-ARG1
+msnbc_0003.parse 680 21 predicted educate-v educate.01 ----- 21:0-rel  0:1-ARG0 22:1-ARG1
+msnbc_0003.parse 681 1 predicted guess-v guess.01 ----- 1:0-rel  0:1-ARGM-DIS 2:2-ARG1
+msnbc_0003.parse 682 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+msnbc_0003.parse 682 5 predicted do-v do.02 ----- 5:0-rel  2:1-ARG1 4:1-ARG0
+msnbc_0003.parse 683 1 predicted stick-v stick.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARG2
+msnbc_0003.parse 684 2 predicted do-v do.02 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0
+msnbc_0003.parse 685 1 predicted stick-v stick.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 685 5 predicted let-v let.01 ----- 5:0-rel  0:1-ARG0 6:2-ARG1
+msnbc_0003.parse 685 7 predicted talk-v talk.01 ----- 7:0-rel  6:1-ARG0 8:1-ARGM-MNR 9:1-ARG2
+msnbc_0003.parse 686 1 predicted do-v do.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+msnbc_0003.parse 686 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+msnbc_0003.parse 687 2 predicted do-v do.02 ----- 2:0-rel  1:1-ARG0
+msnbc_0003.parse 687 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+msnbc_0003.parse 688 9 predicted have-v have.03 ----- 9:0-rel  2:1-ARG0 6:1-R-ARG0 8:0-ARGM-NEG 10:1-ARG1
+msnbc_0003.parse 689 4 predicted yell-v yell.01 ----- 4:0-rel  1:1-ARG0 5:1-ARGM-ADV 7:1-ARGM-TMP
+msnbc_0003.parse 690 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+msnbc_0003.parse 690 4 predicted respond-v respond.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+msnbc_0003.parse 694 1 predicted make-v make.04 ----- 1:0-rel  0:1-ARGM-DIS 2:1-ARG1
+msnbc_0003.parse 696 2 predicted please-v please.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+msnbc_0003.parse 698 2 predicted want-v want.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 698 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG1 1:1-ARG0
+msnbc_0003.parse 698 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+msnbc_0003.parse 698 8 predicted take-v take.01 ----- 8:0-rel  7:1-ARG0 9:1-ARG1 11:1-ARG2
+msnbc_0003.parse 699 3 predicted think-v think.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+msnbc_0003.parse 699 7 predicted hear-v hear.01 ----- 7:0-rel  5:1-ARG1 6:1-ARG0 8:1-ARG2
+msnbc_0003.parse 699 10 predicted be-v be.01 ----- 10:0-rel  5:2-ARG1 11:1-ARG2 12:1-ARGM-TMP
+msnbc_0003.parse 699 15 predicted accuse-v accuse.01 ----- 15:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 13:1-ARG0 16:1-ARG1 18:1-ARG2
+msnbc_0003.parse 699 19 predicted be-v be.01 ----- 19:0-rel  20:1-ARG2
+msnbc_0003.parse 699 32 predicted try-v try.01 ----- 32:0-rel  30:1-ARGM-MNR 33:2-ARG1
+msnbc_0003.parse 699 34 predicted massage-v massage.- ----- 34:0-rel  35:1-ARG1
+msnbc_0003.parse 700 1 predicted give-v give.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 3:1-ARG1 5:1-ARGM-TMP
+msnbc_0003.parse 700 7 predicted see-v see.01 ----- 7:0-rel  6:1-ARG0 8:1-ARG1
+msnbc_0003.parse 701 5 predicted believe-v believe.01 ----- 5:0-rel  2:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+msnbc_0003.parse 701 10 predicted do-v do.02 ----- 10:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 7:1-ARGM-ADV 8:1-ARG0
+msnbc_0003.parse 702 3 predicted go-v go.02 ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARGM-DIR
+msnbc_0003.parse 703 1 predicted let-v let.01 ----- 1:0-rel  0:1-ARGM-DIS 2:2-ARG1
+msnbc_0003.parse 703 3 predicted go-v go.02 ----- 3:0-rel  2:1-ARG0 4:1-ARGM-DIS 5:1-ARGM-TMP
+msnbc_0003.parse 703 7 predicted start-v start.01 ----- 7:0-rel  6:1-ARG0
+msnbc_0003.parse 704 2 predicted keep-v keep.02 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 704 3 predicted do-v do.02 ----- 3:0-rel  1:1-ARG0 4:1-ARGM-LOC
+msnbc_0003.parse 704 13 predicted come-v come.01 ----- 13:0-rel  7:2-ARG1 12:1-R-ARG1 14:1-ARG4
+msnbc_0003.parse 704 19 predicted rank-v rank.01 ----- 19:0-rel  17:0-ARG2 20:0-ARG1
+msnbc_0003.parse 704 21 predicted enlist-v enlist.01 ----- 21:0-rel  22:0-ARGM-DIS 24:0-ARG1
+msnbc_0003.parse 705 2 predicted get-v get.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-TMP 4:0-ARGM-NEG
+msnbc_0003.parse 705 14 predicted give-v give.01 ----- 14:0-rel  11:1-ARG1 13:1-ARG0 15:1-ARG2 16:1-ARGM-LOC
+msnbc_0003.parse 705 23 predicted give-v give.01 ----- 23:0-rel  20:1-ARG1 22:1-ARG0 24:1-ARG2 25:1-ARG1
+msnbc_0003.parse 706 3 predicted give-v give.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0 4:1-ARG2 5:2-ARGM-TMP
+msnbc_0003.parse 706 12 predicted gung-v gung.- ----- 12:0-rel  0:2-ARG1 13:2-ARG2
+msnbc_0003.parse 706 16 predicted do-v do.02 ----- 16:0-rel  13:1-ARGM-DIS 14:1-ARG0 17:1-ARG1
+msnbc_0003.parse 706 23 predicted move-v move.01 ----- 23:0-rel  21:1-ARG1 24:1-ARGM-DIR
+msnbc_0003.parse 707 3 predicted give-v give.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0 4:1-ARG2 5:1-ARGM-LOC
+msnbc_0003.parse 707 8 predicted be-v be.01 ----- 8:0-rel  0:2-ARG1
+msnbc_0003.parse 707 10 predicted be-v be.01 ----- 10:0-rel  9:1-ARG1
+msnbc_0003.parse 707 13 predicted be-v be.02 ----- 13:0-rel  14:0-ARGM-NEG 15:1-ARG1
+msnbc_0003.parse 707 22 predicted take-v take.01 ----- 22:0-rel  19:1-ARG0 21:0-ARGM-NEG 23:1-ARG1 24:1-ARGM-MNR
+msnbc_0003.parse 707 30 predicted be-v be.01 ----- 30:0-rel  27:1-ARG1 28:0-ARGM-MOD 29:0-ARGM-NEG 31:1-ARG2 32:1-ARGM-TMP
+msnbc_0003.parse 708 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARGM-TMP 4:1-ARG2
+msnbc_0003.parse 710 2 predicted go-v go.02 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG1
+msnbc_0003.parse 710 9 predicted want-v want.01 ----- 9:0-rel  8:1-ARG0 10:2-ARG1
+msnbc_0003.parse 710 11 predicted be-v be.01 ----- 11:0-rel  8:1-ARG1 12:1-ARG2
+msnbc_0003.parse 711 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 712 3 predicted be-v be.02 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 4:2-ARG1
+msnbc_0003.parse 712 13 predicted be-v be.01 ----- 13:0-rel  12:1-ARG1
+msnbc_0003.parse 713 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP 3:1-ARG2
+msnbc_0003.parse 714 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARG1
+msnbc_0003.parse 714 7 predicted go-v go.19 ----- 7:0-rel  5:1-ARG1 6:0-ARGM-MOD 8:1-ARGM-DIR 9:1-ARGM-ADV
+msnbc_0003.parse 714 12 predicted be-v be.01 ----- 12:0-rel  10:1-ARG1 13:1-ARG2
+msnbc_0003.parse 715 4 predicted want-v want.01 ----- 4:0-rel  2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+msnbc_0003.parse 715 6 predicted do-v do.02 ----- 6:0-rel  1:1-ARG1 2:1-ARG0
+msnbc_0003.parse 715 7 predicted be-v be.01 ----- 7:0-rel  0:0-ARGM-DIS 1:2-ARG1
+msnbc_0003.parse 715 8 predicted educate-v educate.01 ----- 8:0-rel  0:0-ARGM-DIS 9:1-ARG1
+msnbc_0003.parse 715 17 predicted happen-v happen.01 ----- 17:0-rel  15:1-ARG1 18:1-ARGM-LOC
+msnbc_0003.parse 716 2 predicted think-v think.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+msnbc_0003.parse 716 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1
+msnbc_0003.parse 716 11 predicted go-v go.02 ----- 11:0-rel  7:1-ARGM-TMP 8:2-ARG0 12:1-ARG4
+msnbc_0003.parse 716 15 predicted be-v be.02 ----- 15:0-rel  7:2-ARGM-TMP 16:2-ARG1
+msnbc_0003.parse 716 20 predicted stand-v stand.01 ----- 20:0-rel  16:1-ARG1 21:1-ARG2
+msnbc_0003.parse 717 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+msnbc_0003.parse 718 2 predicted want-v want.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+msnbc_0003.parse 718 4 predicted support-v support.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG1
+msnbc_0003.parse 719 4 predicted speak-v speak.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARGM-MNR
+msnbc_0003.parse 720 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+msnbc_0003.parse 721 5 predicted reprimand-v reprimand.- ----- 5:0-rel  0:1-ARG1 4:1-ARGM-ADV 6:1-ARGM-TMP 8:1-ARG2
+msnbc_0003.parse 722 2 predicted finish-v finish.01 ----- 2:0-rel  1:1-ARG0 3:1-ARGM-DIS 4:2-ARGM-TMP
+msnbc_0003.parse 722 6 predicted come-v come.01 ----- 6:0-rel  4:1-ARGM-TMP 5:1-ARG1 7:1-ARG4 8:1-ARG2
+msnbc_0003.parse 723 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2

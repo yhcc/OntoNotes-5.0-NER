@@ -1,0 +1,39 @@
+chtb_0004.parse 1 18 predicted accelerate-v accelerate.01 ----- 18:0-rel  0:1-ARGM-TMP 3:2-ARG1 17:1-ARG2
+chtb_0004.parse 2 8 predicted be-v be.02 ----- 8:0-rel  0:1-ARGM-ADV 5:1-ARGM-TMP 9:1-ARGM-TMP 10:2-ARG1
+chtb_0004.parse 2 15 predicted contract-v contract.02 ----- 15:0-rel  10:1-ARG0 13:1-R-ARG0 16:1-ARG1
+chtb_0004.parse 3 4 predicted contract-v contract.02 ----- 4:0-rel  0:1-ARG1 2:1-ARG0
+chtb_0004.parse 3 6 predicted reach-v reach.01 ----- 6:0-rel  0:2-ARG0
+chtb_0004.parse 3 17 predicted reach-v reach.01 ----- 17:0-rel  13:1-ARG0 18:2-ARG1
+chtb_0004.parse 4 12 predicted be-v be.01 ----- 12:0-rel  0:2-ARG1 13:1-ARG2
+chtb_0004.parse 5 11 predicted begin-v begin.01 ----- 11:0-rel  0:2-ARG1 12:1-ARGM-TMP
+chtb_0004.parse 6 9 predicted be-v be.02 ----- 9:0-rel  0:1-ARGM-TMP 8:1-ARGM-TMP
+chtb_0004.parse 6 12 predicted set-v set.03 ----- 12:0-rel  10:1-ARG1 14:1-ARGM-LOC 15:1-ARGM-MNR
+chtb_0004.parse 6 51 predicted enter-v enter.01 ----- 51:0-rel  49:1-R-ARG0 52:1-ARG1
+chtb_0004.parse 6 54 predicted carry-v carry.03 ----- 54:0-rel  49:1-R-ARG0 56:2-ARG1
+chtb_0004.parse 7 14 predicted enter-v enter.01 ----- 14:0-rel  9:2-ARG0 13:1-ARGM-TMP 15:1-ARG1
+chtb_0004.parse 7 24 predicted carry-v carry.03 ----- 24:0-rel  17:1-ARGM-LOC 19:2-ARG0 26:1-ARG1 27:1-ARGM-ADV 30:1-ARGM-MNR
+chtb_0004.parse 8 13 predicted set-v set.03 ----- 13:0-rel  9:1-ARG1 15:1-ARGM-LOC 16:1-ARGM-MNR
+chtb_0004.parse 8 20 predicted belong-v belong.01 ----- 20:0-rel  17:1-ARG0 19:1-R-ARG0 21:2-ARG1
+chtb_0004.parse 8 25 predicted fund-v fund.01 ----- 25:0-rel  22:1-ARG1 23:1-R-ARG1 26:1-ARG0
+chtb_0004.parse 8 33 predicted bid-v bid.01 ----- 33:0-rel  22:1-ARG1 23:1-R-ARG1 32:1-ARGM-ADV 34:1-ARGM-TMP
+chtb_0004.parse 8 42 predicted construct-v construct.01 ----- 42:0-rel  39:1-ARG1 40:1-R-ARG1 43:1-ARGM-EXT 44:2-ARGM-MNR
+chtb_0004.parse 8 44 predicted use-v use.01 ----- 44:0-rel  45:1-ARG1
+chtb_0004.parse 8 65 predicted be-v be.01 ----- 65:0-rel  62:1-ARG1 64:0-ARGM-MOD
+chtb_0004.parse 8 67 predicted press-v press.01 ----- 67:0-rel  62:1-ARG1 64:0-ARGM-MOD 66:1-ARGM-MNR
+chtb_0004.parse 8 70 predicted contract-v contract.02 ----- 70:0-rel  62:1-ARG0 69:1-ARGM-MNR 72:1-ARGM-ADV
+chtb_0004.parse 8 78 predicted obtain-v obtain.01 ----- 78:0-rel  77:1-ARG0 79:3-ARG1
+chtb_0004.parse 8 89 predicted contract-v contract.02 ----- 89:0-rel  85:1-ARG0 90:2-ARG1
+chtb_0004.parse 8 97 predicted permit-v permit.01 ----- 97:0-rel  0:1-ARGM-ADV 98:2-ARG1
+chtb_0004.parse 8 99 predicted enter-v enter.01 ----- 99:0-rel  100:2-ARG1
+chtb_0004.parse 9 6 predicted establish-v establish.01 ----- 6:0-rel  7:2-ARG1
+chtb_0004.parse 9 9 predicted invest-v invest.01 ----- 9:0-rel  7:0-ARG0 10:0-ARG2 11:0-ARG1
+chtb_0004.parse 9 15 predicted issue-v issue.01 ----- 15:0-rel  14:1-ARGM-MNR 16:1-ARG0
+chtb_0004.parse 9 33 predicted enable-v enable.01 ----- 33:0-rel  34:2-ARG2 38:2-ARG1
+chtb_0004.parse 9 39 predicted advance-v advance.01 ----- 39:0-rel  34:2-ARG1 40:1-ARG2
+chtb_0004.parse 9 42 predicted permit-v permit.01 ----- 42:0-rel  41:1-ARG0 43:2-ARG2
+chtb_0004.parse 9 45 predicted set-v set.03 ----- 45:0-rel  43:1-ARG1 47:1-ARGM-LOC 48:1-ARGM-MNR
+chtb_0004.parse 9 52 predicted come-v come.01 ----- 52:0-rel  53:1-ARG4
+chtb_0004.parse 9 62 predicted permit-v permit.01 ----- 62:0-rel  63:2-ARG2
+chtb_0004.parse 9 65 predicted set-v set.03 ----- 65:0-rel  63:1-ARG1 67:1-ARGM-LOC 68:1-ARGM-MNR
+chtb_0004.parse 9 72 predicted come-v come.01 ----- 72:0-rel  73:1-ARG4 75:2-ARGM-PRP
+chtb_0004.parse 9 76 predicted manage-v manage.01 ----- 76:0-rel  77:2-ARG1

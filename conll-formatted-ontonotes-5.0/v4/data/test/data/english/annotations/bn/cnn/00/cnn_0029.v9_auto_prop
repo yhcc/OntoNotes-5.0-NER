@@ -1,0 +1,9 @@
+cnn_0029.parse 0 3 predicted win-v win.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0029.parse 1 7 predicted give-v give.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1 10:1-ARG2
+cnn_0029.parse 2 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0029.parse 2 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:1-ARG2
+cnn_0029.parse 2 11 predicted used-v used.- ----- 11:0-rel  10:1-ARGM-MNR 12:1-ARGM-LOC
+cnn_0029.parse 2 13 predicted analyse-v analyse.- ----- 13:0-rel  14:1-ARG1
+cnn_0029.parse 3 2 predicted share-v share.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+cnn_0029.parse 4 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cnn_0029.parse 4 11 predicted announce-v announce.01 ----- 11:0-rel  10:1-ARG1 12:1-ARG0

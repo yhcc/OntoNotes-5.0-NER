@@ -1,0 +1,26 @@
+cnn_0353.parse 0 2 predicted talk-v talk.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+cnn_0353.parse 0 7 predicted claim-v claim.01 ----- 7:0-rel  4:1-ARG0
+cnn_0353.parse 0 12 predicted have-v have.03 ----- 12:0-rel  9:1-ARG0
+cnn_0353.parse 1 5 predicted come-v come.21 ----- 5:0-rel  0:1-ARG1 3:1-ARG0 6:1-ARGM-DIR 9:1-ARGM-TMP
+cnn_0353.parse 1 10 predicted do-v do.02 ----- 10:0-rel  11:1-ARG1
+cnn_0353.parse 2 5 predicted remain-v remain.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG3
+cnn_0353.parse 3 6 predicted tell-v tell.01 ----- 6:0-rel  0:1-ARG0
+cnn_0353.parse 3 16 predicted be-v be.01 ----- 16:0-rel  15:1-ARG1
+cnn_0353.parse 3 19 predicted have-v have.03 ----- 19:0-rel  15:1-ARG0
+cnn_0353.parse 3 25 predicted carry-v carry.01 ----- 25:0-rel  20:1-ARG1 22:1-ARG0 26:1-ARGM-TMP
+cnn_0353.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0353.parse 4 9 predicted work-v work.01 ----- 9:0-rel  10:1-ARGM-LOC 12:1-ARG1
+cnn_0353.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-TMP
+cnn_0353.parse 5 8 predicted be-v be.01 ----- 8:0-rel  3:2-ARG1 9:1-ARG2
+cnn_0353.parse 5 15 predicted live-v live.01 ----- 15:0-rel  14:1-ARG0 16:1-ARGM-LOC
+cnn_0353.parse 5 22 predicted work-v work.01 ----- 22:0-rel  14:1-ARG0 23:1-ARG1
+cnn_0353.parse 5 28 predicted have-v have.03 ----- 28:0-rel  14:1-ARG0 29:1-ARG1
+cnn_0353.parse 5 36 predicted be-v be.01 ----- 36:0-rel  34:1-ARG1
+cnn_0353.parse 5 40 predicted carry-v carry.01 ----- 40:0-rel  41:1-ARG1 42:1-ARGM-TMP
+cnn_0353.parse 5 47 predicted feel-v feel.01 ----- 47:0-rel  33:1-ARGM-TMP 39:1-ARGM-TMP 46:1-ARG0 48:1-ARG1
+cnn_0353.parse 6 2 predicted break-v break.13 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+cnn_0353.parse 7 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0353.parse 7 4 predicted do-v do.02 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0353.parse 7 8 predicted track-v track.02 ----- 8:0-rel  9:1-ARG1 12:1-ARGM-LOC
+cnn_0353.parse 7 19 predicted happen-v happen.01 ----- 19:0-rel  16:1-ARG1 18:0-ARGM-NEG
+cnn_0353.parse 7 25 predicted come-v come.01 ----- 25:0-rel  21:1-ARGM-TMP 22:1-ARG1 24:1-ARGM-ADV 26:1-ARGM-DIR

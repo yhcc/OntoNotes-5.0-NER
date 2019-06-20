@@ -1,0 +1,8 @@
+cnn_0203.parse 0 4 predicted report-v report.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0203.parse 0 9 predicted launch-v launch.01 ----- 9:0-rel  6:1-ARG0
+cnn_0203.parse 1 2 predicted brief-v brief.01 ----- 2:0-rel  0:1-ARG0
+cnn_0203.parse 1 5 predicted refuse-v refuse.01 ----- 5:0-rel  3:1-ARG0 4:1-R-ARG0 6:2-ARG1
+cnn_0203.parse 1 7 predicted comment-v comment.01 ----- 7:0-rel  4:1-ARG0 8:1-ARG1
+cnn_0203.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0203.parse 2 4 predicted make-v make.04 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1 6:1-ARGM-TMP
+cnn_0203.parse 2 10 predicted conduct-v conduct.01 ----- 10:0-rel  7:1-ARG1

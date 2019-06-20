@@ -1,0 +1,10 @@
+voa_0230.parse 0 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:1-ARGM-TMP
+voa_0230.parse 0 11 predicted ignore-v ignore.01 ----- 11:0-rel  10:1-ARG0 12:1-ARG1
+voa_0230.parse 0 15 predicted fail-v fail.01 ----- 15:0-rel  10:1-ARG1 16:2-ARG2
+voa_0230.parse 0 17 predicted prove-v prove.01 ----- 17:0-rel  10:1-ARG0 18:2-ARG1
+voa_0230.parse 1 5 predicted persuade-v persuade.01 ----- 5:0-rel  6:1-ARG1
+voa_0230.parse 1 14 predicted bomb-v bomb.- ----- 14:0-rel  10:1-ARG0 13:0-ARGM-NEG 15:2-ARG1
+voa_0230.parse 1 24 predicted say-v say.01 ----- 24:0-rel  0:1-ARGM-LOC 20:2-ARG0 25:4-ARG1
+voa_0230.parse 1 31 predicted fail-v fail.01 ----- 31:0-rel  25:2-ARG1 32:2-ARG2
+voa_0230.parse 1 33 predicted prove-v prove.01 ----- 33:0-rel  25:2-ARG0 34:1-ARG1
+voa_0230.parse 1 38 predicted involve-v involve.01 ----- 38:0-rel  35:1-ARG1 39:1-ARG2

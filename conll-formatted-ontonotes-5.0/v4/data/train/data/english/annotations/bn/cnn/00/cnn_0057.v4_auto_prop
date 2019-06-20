@@ -1,0 +1,5 @@
+cnn_0057.parse 0 7 predicted recover-v recover.02 ----- 7:0-rel  3:1-ARG1 8:1-ARG2
+cnn_0057.parse 0 14 predicted return-v return.01 ----- 14:0-rel  0:2-ARG1 15:1-ARG4 16:1-ARGM-TMP
+cnn_0057.parse 1 2 predicted carry-v carry.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0057.parse 1 5 predicted arrive-v arrive.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG4
+cnn_0057.parse 2 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2 14:2-ARGM-TMP

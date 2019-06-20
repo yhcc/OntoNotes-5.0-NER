@@ -1,0 +1,12 @@
+cnn_0140.parse 0 5 predicted blast-v blast.02 ----- 5:0-rel  3:1-ARG0 6:1-ARG1
+cnn_0140.parse 0 14 predicted be-v be.01 ----- 14:0-rel  0:2-ARGM-TMP 9:1-ARG1 15:1-ARG2
+cnn_0140.parse 1 4 predicted carry-v carry.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-DIR 7:1-ARGM-LOC
+cnn_0140.parse 2 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cnn_0140.parse 2 8 predicted attack-v attack.01 ----- 8:0-rel  4:1-ARGM-TMP 5:1-ARG1 9:1-ARG0 12:1-ARGM-LOC
+cnn_0140.parse 3 6 predicted make-v make.01 ----- 6:0-rel  0:1-ARG1 4:1-ARGM-TMP
+cnn_0140.parse 3 8 predicted cover-v cover.01 ----- 8:0-rel  0:1-ARG2 9:1-ARG1
+cnn_0140.parse 4 3 predicted weld-v weld.- ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 4:1-ARG2 7:1-ARGM-TMP
+cnn_0140.parse 4 10 predicted unload-v unload.01 ----- 10:0-rel  8:1-ARG1 11:1-ARG2
+cnn_0140.parse 5 4 predicted expect-v expect.01 ----- 4:0-rel  0:2-ARG1 5:2-C-ARG1
+cnn_0140.parse 5 6 predicted cost-v cost.01 ----- 6:0-rel  0:2-ARG1
+cnn_0140.parse 5 20 predicted build-v build.01 ----- 20:0-rel  18:0-ARG1 21:0-ARG0

@@ -1,0 +1,9 @@
+cnn_0179.parse 0 3 predicted go-v go.02 ----- 3:0-rel  0:1-ARG0
+cnn_0179.parse 0 8 predicted bid-v bid.01 ----- 8:0-rel  0:1-ARG0 9:1-ARG1
+cnn_0179.parse 0 14 predicted televise-v televise.01 ----- 14:0-rel  15:0-ARG1
+cnn_0179.parse 1 4 predicted bill-v bill.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+cnn_0179.parse 1 7 predicted thank-v thank.01 ----- 7:0-rel  9:1-ARG1
+cnn_0179.parse 1 15 predicted vote-v vote.01 ----- 15:0-rel  11:1-ARG0 13:1-R-ARG0 14:1-ARGM-TMP 16:1-ARG1 17:1-ARG2
+cnn_0179.parse 1 22 predicted support-v support.01 ----- 22:0-rel  11:1-ARG0 13:1-R-ARG0 23:1-ARG1 24:2-ARGM-TMP
+cnn_0179.parse 2 4 predicted speak-v speak.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 5:1-ARG2
+cnn_0179.parse 3 9 predicted make-v make.04 ----- 9:0-rel  5:1-ARG1 7:1-ARG0 10:1-ARGM-TMP 13:1-ARG1

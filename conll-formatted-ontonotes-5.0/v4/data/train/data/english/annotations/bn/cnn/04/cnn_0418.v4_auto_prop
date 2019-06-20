@@ -1,0 +1,8 @@
+cnn_0418.parse 0 15 predicted be-v be.01 ----- 15:0-rel  13:1-ARGM-LOC 14:1-ARG1 16:1-ARG2
+cnn_0418.parse 1 2 predicted rally-v rally.02 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP
+cnn_0418.parse 2 1 predicted ignore-v ignore.01 ----- 1:0-rel  0:1-ARG0
+cnn_0418.parse 3 7 predicted post-v post.01 ----- 7:0-rel  0:2-ARG0
+cnn_0418.parse 4 7 predicted slide-v slide.02 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARG1 8:1-ARGM-LOC
+cnn_0418.parse 5 2 predicted use-v use.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0418.parse 5 9 predicted cut-v cut.02 ----- 9:0-rel  6:2-ARG0 10:1-ARG1 13:1-ARG2
+cnn_0418.parse 7 6 predicted continue-v continue.01 ----- 6:0-rel  0:2-ARG1 7:1-ARGM-TMP

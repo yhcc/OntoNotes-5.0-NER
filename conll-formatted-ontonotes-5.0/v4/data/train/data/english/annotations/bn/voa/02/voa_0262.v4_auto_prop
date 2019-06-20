@@ -1,0 +1,24 @@
+voa_0262.parse 1 6 predicted welcome-v welcome.01 ----- 6:0-rel  0:2-ARG0 7:3-ARG1
+voa_0262.parse 1 20 predicted kill-v kill.01 ----- 20:0-rel  15:1-ARG0 19:1-R-ARG0 21:1-ARG1
+voa_0262.parse 1 26 predicted stand-v stand.04 ----- 26:0-rel  25:1-ARG1 27:0-ARG2
+voa_0262.parse 1 29 predicted demand-v demand.01 ----- 29:0-rel  25:1-ARG0 30:1-ARG1
+voa_0262.parse 1 32 predicted accept-v accept.01 ----- 32:0-rel  31:1-ARG0 33:1-ARG1
+voa_0262.parse 1 35 predicted compensate-v compensate.01 ----- 35:0-rel  31:1-ARG0 36:2-ARG2
+voa_0262.parse 3 3 predicted say-v say.01 ----- 3:0-rel  1:1-ARG0
+voa_0262.parse 3 11 predicted take-v take.01 ----- 11:0-rel  6:2-ARG0 10:0-ARGM-MOD
+voa_0262.parse 4 1 predicted mean-v mean.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+voa_0262.parse 4 2 predicted reveal-v reveal.01 ----- 2:0-rel  3:2-ARG1
+voa_0262.parse 4 5 predicted know-v know.01 ----- 5:0-rel  3:1-ARG1 4:1-ARG0 6:1-ARG2
+voa_0262.parse 4 11 predicted pay-v pay.01 ----- 11:0-rel  12:1-ARG1
+voa_0262.parse 4 17 predicted acknowledge-v acknowledge.- ----- 17:0-rel  14:1-ARG0
+voa_0262.parse 4 30 predicted demonstrate-v demonstrate.01 ----- 30:0-rel  26:1-ARG0 29:1-R-ARG0 31:3-ARG1
+voa_0262.parse 4 34 predicted understand-v understand.01 ----- 34:0-rel  31:1-ARG0 35:1-ARG1
+voa_0262.parse 5 8 predicted say-v say.01 ----- 8:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 9:3-ARG1
+voa_0262.parse 5 10 predicted be-v be.03 ----- 10:0-rel  9:1-ARG1 11:0-ARGM-NEG
+voa_0262.parse 5 13 predicted blame-v blame.01 ----- 13:0-rel  9:1-ARG1 14:1-ARG2
+voa_0262.parse 6 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+voa_0262.parse 6 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:2-ARG2
+voa_0262.parse 6 13 predicted have-v have.03 ----- 13:0-rel  11:1-ARG0 14:2-ARG1
+voa_0262.parse 7 6 predicted convict-v convict.01 ----- 6:0-rel  0:2-ARG0 7:2-ARG1
+voa_0262.parse 7 19 predicted bring-v bring.01 ----- 19:0-rel  15:1-ARG0 18:1-R-ARG0 21:2-ARG1
+voa_0262.parse 8 1 predicted kill-v kill.01 ----- 1:0-rel  0:1-ARG0

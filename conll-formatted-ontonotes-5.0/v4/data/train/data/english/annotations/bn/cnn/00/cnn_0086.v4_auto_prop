@@ -1,0 +1,9 @@
+cnn_0086.parse 0 4 predicted start-v start.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-MOD
+cnn_0086.parse 0 5 predicted chase-v chase.01 ----- 5:0-rel  0:1-ARG0 3:0-ARGM-MOD 6:1-ARG1
+cnn_0086.parse 0 8 predicted accuse-v accuse.01 ----- 8:0-rel  9:0-ARG1
+cnn_0086.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2 4:2-ARGM-PRP
+cnn_0086.parse 1 9 predicted hunt-v hunt.01 ----- 9:0-rel  8:1-ARG0
+cnn_0086.parse 1 15 predicted pair-v pair.01 ----- 15:0-rel  13:1-ARG0 14:0-ARGM-MOD 16:1-ARG1 17:1-ARGM-TMP 18:1-ARG2
+cnn_0086.parse 2 3 predicted team-v team.01 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-ADV 5:1-ARG2
+cnn_0086.parse 3 2 predicted play-v play.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD
+cnn_0086.parse 3 7 predicted lead-v lead.02 ----- 7:0-rel  3:1-ARG0 8:2-ARG1

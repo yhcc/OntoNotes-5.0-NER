@@ -1,0 +1,9 @@
+pri_0056.parse 0 5 predicted order-v order.01 ----- 5:0-rel  0:1-ARGM-TMP 2:1-ARG0 6:1-ARG1 7:2-ARG2
+pri_0056.parse 0 8 predicted stop-v stop.01 ----- 8:0-rel  6:1-ARG0
+pri_0056.parse 0 9 predicted shoot-v shoot.01 ----- 9:0-rel  10:1-ARG2
+pri_0056.parse 0 15 predicted control-v control.01 ----- 15:0-rel  14:0-ARG0 16:0-ARG1
+pri_0056.parse 0 24 predicted say-v say.01 ----- 24:0-rel  19:2-ARG0 25:3-ARG1
+pri_0056.parse 0 26 predicted be-v be.01 ----- 26:0-rel  25:1-ARG1 27:0-ARGM-NEG 28:1-ARG2
+pri_0056.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+pri_0056.parse 1 4 predicted wait-v wait.01 ----- 4:0-rel  2:1-ARG1 5:1-ARG2
+pri_0056.parse 3 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2

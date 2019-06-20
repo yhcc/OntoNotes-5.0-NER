@@ -1,0 +1,18 @@
+voa_0097.parse 1 2 predicted announce-v announce.01 ----- 2:0-rel  0:1-ARG0
+voa_0097.parse 2 6 predicted say-v say.01 ----- 6:0-rel  0:3-ARG0 7:1-ARG1
+voa_0097.parse 2 13 predicted cast-v cast.01 ----- 13:0-rel  8:2-ARG0
+voa_0097.parse 2 19 predicted receive-v receive.01 ----- 19:0-rel  14:2-ARG0 20:2-ARG1
+voa_0097.parse 3 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:1-ARG1
+voa_0097.parse 3 13 predicted consider-v consider.02 ----- 13:0-rel  5:1-ARGM-ADV 11:1-ARG0 12:0-ARGM-MOD
+voa_0097.parse 3 14 predicted amend-v amend.01 ----- 14:0-rel  11:1-ARG0 15:2-ARG1
+voa_0097.parse 3 17 predicted base-v base.02 ----- 17:0-rel  15:1-ARG1 18:1-ARG2
+voa_0097.parse 4 7 predicted confirm-v confirm.01 ----- 7:0-rel  3:2-ARG0 8:1-ARG1 10:1-ARGM-LOC
+voa_0097.parse 4 16 predicted require-v require.01 ----- 16:0-rel  0:1-ARGM-PRD 14:1-ARG0 17:2-ARG1
+voa_0097.parse 4 18 predicted write-v write.01 ----- 18:0-rel  19:0-ARG1
+voa_0097.parse 4 27 predicted cause-v cause.01 ----- 27:0-rel  21:1-ARG0 25:1-R-ARG0 26:0-ARGM-MOD
+voa_0097.parse 4 31 predicted believe-v believe.01 ----- 31:0-rel  28:1-ARG0 32:1-ARG1
+voa_0097.parse 4 37 predicted make-v make.04 ----- 37:0-rel  33:1-ARG1 35:0-ARGM-MOD 38:1-ARGM-TMP
+voa_0097.parse 5 1 predicted write-v write.01 ----- 1:0-rel  2:0-ARG1
+voa_0097.parse 5 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1
+voa_0097.parse 6 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG2
+voa_0097.parse 7 1 predicted win-v win.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1

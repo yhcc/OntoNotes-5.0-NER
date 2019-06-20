@@ -1,0 +1,10 @@
+cnn_0137.parse 0 8 predicted accept-v accept.01 ----- 8:0-rel  0:3-ARG0 9:1-ARG1
+cnn_0137.parse 1 2 predicted recognize-v recognize.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0137.parse 1 6 predicted end-v end.01 ----- 6:0-rel  7:2-ARG1
+cnn_0137.parse 2 4 predicted be-v be.01 ----- 4:0-rel  1:1-ARG1 5:1-ARGM-TMP 6:2-ARG2
+cnn_0137.parse 2 17 predicted meet-v meet.03 ----- 17:0-rel  0:1-ARGM-ADV 10:2-ARG0 25:2-ARGM-PRP
+cnn_0137.parse 2 26 predicted move-v move.01 ----- 26:0-rel  27:1-ARGM-DIR
+cnn_0137.parse 3 1 predicted accept-v accept.01 ----- 1:0-rel  2:1-ARG1
+cnn_0137.parse 3 13 predicted pledge-v pledge.01 ----- 13:0-rel  0:1-ARGM-PRD 6:1-ARG0 14:2-ARG2
+cnn_0137.parse 3 15 predicted continue-v continue.01 ----- 15:0-rel  6:1-ARG0 16:2-ARG1
+cnn_0137.parse 3 16 predicted fight-v fight.01 ----- 16:0-rel  17:1-ARG2

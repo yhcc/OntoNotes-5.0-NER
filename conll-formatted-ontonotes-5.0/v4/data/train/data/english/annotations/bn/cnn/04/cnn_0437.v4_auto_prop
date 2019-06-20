@@ -1,0 +1,8 @@
+cnn_0437.parse 0 4 predicted force-v force.01 ----- 4:0-rel  0:2-ARG0 5:2-ARG1
+cnn_0437.parse 1 8 predicted start-v start.01 ----- 8:0-rel  0:1-ARG1 3:1-ARGM-LOC 9:1-ARGM-TMP
+cnn_0437.parse 1 14 predicted haul-v haul.01 ----- 14:0-rel  10:1-ARGM-TMP 11:1-ARG1 15:1-ARG0
+cnn_0437.parse 1 19 predicted ignite-v ignite.01 ----- 19:0-rel  10:1-ARGM-TMP 11:2-ARG1 20:1-ARGM-LOC
+cnn_0437.parse 2 2 predicted consume-v consume.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0437.parse 2 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1
+cnn_0437.parse 2 12 predicted contain-v contain.01 ----- 12:0-rel  8:2-ARG0
+cnn_0437.parse 3 4 predicted report-v report.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-ADV 6:1-ARGM-TMP

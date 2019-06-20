@@ -1,0 +1,24 @@
+chtb_0215.parse 1 15 predicted work-v work.01 ----- 15:0-rel  16:0-ARG0
+chtb_0215.parse 1 24 predicted convene-v convene.01 ----- 24:0-rel  0:1-ARGM-ADV 15:2-ARG1 23:1-ARGM-TMP 25:1-ARGM-LOC
+chtb_0215.parse 2 2 predicted request-v request.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0215.parse 2 8 predicted calculate-v calculate.01 ----- 8:0-rel  4:2-ARG0 9:1-ARG1 11:1-ARGM-MNR
+chtb_0215.parse 2 13 predicted manage-v manage.01 ----- 13:0-rel  4:2-ARG0 14:1-ARGM-MNR
+chtb_0215.parse 2 16 predicted spend-v spend.01 ----- 16:0-rel  4:2-ARG0 17:1-ARGM-ADV
+chtb_0215.parse 2 22 predicted take-v take.01 ----- 22:0-rel  4:2-ARG0 23:1-ARG1
+chtb_0215.parse 2 26 predicted live-v live.01 ----- 26:0-rel  27:1-ARG1
+chtb_0215.parse 2 31 predicted ensure-v ensure.01 ----- 31:0-rel  32:1-ARG1
+chtb_0215.parse 2 40 predicted complete-v complete.01 ----- 40:0-rel  33:2-ARG1 39:1-ARGM-MNR
+chtb_0215.parse 3 16 predicted emphasize-v emphasize.01 ----- 16:0-rel  0:2-ARG0 17:1-ARG1
+chtb_0215.parse 3 27 predicted recognize-v recognize.02 ----- 27:0-rel  18:2-ARG1 24:0-ARGM-MOD 26:1-ARGM-MNR
+chtb_0215.parse 3 37 predicted take-v take.03 ----- 37:0-rel  31:2-ARG0 36:0-ARGM-MOD 38:1-ARG2 40:2-ARG1
+chtb_0215.parse 3 47 predicted bear-v bear.01 ----- 47:0-rel  31:2-ARG0 36:0-ARGM-MOD 48:2-ARG1
+chtb_0215.parse 3 54 predicted adjust-v adjust.01 ----- 54:0-rel  31:2-ARG0 36:0-ARGM-MOD 55:1-ARG1
+chtb_0215.parse 3 61 predicted plan-v plan.01 ----- 61:0-rel  31:2-ARG0 36:0-ARGM-MOD 62:1-ARG1
+chtb_0215.parse 3 65 predicted make-v make.03 ----- 65:0-rel  31:2-ARG0 36:0-ARGM-MOD 66:1-ARG1 67:2-ARGM-PRP
+chtb_0215.parse 3 68 predicted ensure-v ensure.01 ----- 68:0-rel  69:2-ARG1
+chtb_0215.parse 4 6 predicted take-v take.01 ----- 6:0-rel  0:2-ARG0 5:0-ARGM-MOD 7:1-ARG1
+chtb_0215.parse 4 10 predicted respond-v respond.01 ----- 10:0-rel  11:1-ARG1
+chtb_0215.parse 4 26 predicted consider-v consider.02 ----- 26:0-rel  0:2-ARG0 5:0-ARGM-MOD 27:2-ARG1
+chtb_0215.parse 4 31 predicted guarantee-v guarantee.01 ----- 31:0-rel  32:2-ARG1
+chtb_0215.parse 4 39 predicted strengthen-v strengthen.01 ----- 39:0-rel  0:2-ARG0 5:0-ARGM-MOD 40:1-ARG1
+chtb_0215.parse 4 43 predicted do-v do.02 ----- 43:0-rel  0:2-ARG0 5:0-ARGM-MOD 44:1-ARG1 48:1-ARGM-MNR

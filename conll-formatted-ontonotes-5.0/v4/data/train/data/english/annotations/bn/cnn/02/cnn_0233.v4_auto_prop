@@ -1,0 +1,13 @@
+cnn_0233.parse 0 2 predicted come-v come.03 ----- 2:0-rel  0:1-ARG1
+cnn_0233.parse 0 12 predicted retire-v retire.01 ----- 12:0-rel  13:0-ARG0
+cnn_0233.parse 0 14 predicted admit-v admit.01 ----- 14:0-rel  10:1-ARGM-LOC 11:1-ARG0 15:3-ARG1
+cnn_0233.parse 0 16 predicted hold-v hold.01 ----- 16:0-rel  15:1-ARG0 17:1-ARG1
+cnn_0233.parse 1 1 predicted plead-v plead.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-TMP 5:1-ARG2
+cnn_0233.parse 2 6 predicted get-v get.01 ----- 6:0-rel  0:1-ARGM-MNR 4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1 9:1-ARG2
+cnn_0233.parse 3 2 predicted arrest-v arrest.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP 5:1-ARG2
+cnn_0233.parse 4 3 predicted keep-v keep.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+cnn_0233.parse 4 12 predicted build-v build.01 ----- 12:0-rel  5:1-ARG1 11:1-ARG0 13:1-ARGM-LOC
+cnn_0233.parse 5 5 predicted found-v found.01 ----- 5:0-rel  0:1-ARGM-TMP 4:1-ARG0
+cnn_0233.parse 5 10 predicted say-v say.01 ----- 10:0-rel  6:1-ARG0 9:1-R-ARG0 11:3-ARG1
+cnn_0233.parse 5 13 predicted abduct-v abduct.- ----- 13:0-rel  11:1-ARG1 16:1-ARG0
+cnn_0233.parse 5 15 predicted rape-v rape.01 ----- 15:0-rel  11:1-ARG1 16:1-ARG0

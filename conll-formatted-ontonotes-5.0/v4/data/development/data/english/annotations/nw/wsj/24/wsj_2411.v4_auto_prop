@@ -1,0 +1,11 @@
+wsj_2411.parse 0 3 predicted announce-v announce.01 ----- 3:0-rel  0:1-ARG0
+wsj_2411.parse 0 16 predicted yield-v yield.01 ----- 16:0-rel  4:1-ARG0 14:1-R-ARG0 15:0-ARGM-MOD 17:1-ARG1
+wsj_2411.parse 1 13 predicted set-v set.01 ----- 13:0-rel  0:2-ARG1 11:0-ARGM-MOD 14:1-ARGM-TMP 17:2-ARGM-TMP
+wsj_2411.parse 1 24 predicted release-v release.01 ----- 24:0-rel  17:1-ARGM-TMP 18:2-ARG1
+wsj_2411.parse 2 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+wsj_2411.parse 2 8 predicted meet-v meet.01 ----- 8:0-rel  9:1-ARG1
+wsj_2411.parse 3 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0
+wsj_2411.parse 4 4 predicted permit-v permit.01 ----- 4:0-rel  0:1-ARG2 5:2-ARG1
+wsj_2411.parse 4 6 predicted buy-v buy.01 ----- 6:0-rel  0:1-ARG0
+wsj_2411.parse 4 14 predicted redeem-v redeem.01 ----- 14:0-rel  11:1-R-ARG1 12:0-ARGM-MOD 15:1-ARGM-TMP 17:1-ARGM-MNR
+wsj_2411.parse 5 2 predicted go-v go.15 ----- 2:0-rel  0:1-ARG1

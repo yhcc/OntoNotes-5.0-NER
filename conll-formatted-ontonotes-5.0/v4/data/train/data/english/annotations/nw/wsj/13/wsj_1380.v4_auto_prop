@@ -1,0 +1,21 @@
+wsj_1380.parse 0 10 predicted rise-v rise.01 ----- 10:0-rel  0:2-ARG1 8:1-ARGM-TMP 11:1-ARG4
+wsj_1380.parse 1 3 predicted amount-v amount.01 ----- 3:0-rel  0:1-ARG1
+wsj_1380.parse 1 26 predicted begin-v begin.01 ----- 26:0-rel  24:1-ARG1 27:2-C-ARG1
+wsj_1380.parse 1 27 predicted make-v make.03 ----- 27:0-rel  24:1-ARG0
+wsj_1380.parse 2 7 predicted trade-v trade.01 ----- 7:0-rel  0:2-ARG1 8:1-ARGM-MNR
+wsj_1380.parse 3 16 predicted trade-v trade.01 ----- 16:0-rel  8:1-ARGM-TMP 9:2-ARG1 17:1-ARGM-MNR
+wsj_1380.parse 5 2 predicted amount-v amount.01 ----- 2:0-rel  0:1-ARG1
+wsj_1380.parse 6 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1380.parse 6 6 predicted describe-v describe.01 ----- 6:0-rel  4:1-ARG0 7:2-ARG1
+wsj_1380.parse 6 11 predicted involve-v involve.01 ----- 11:0-rel  12:2-ARG1
+wsj_1380.parse 7 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:2-ARG2
+wsj_1380.parse 7 14 predicted buy-v buy.01 ----- 14:0-rel  11:1-ARGM-LOC 13:1-ARG0 17:2-ARG1
+wsj_1380.parse 7 16 predicted sell-v sell.01 ----- 16:0-rel  13:1-ARG0 17:2-ARG1
+wsj_1380.parse 7 21 predicted offset-v offset.01 ----- 21:0-rel  11:1-ARG2 13:1-ARG0 22:1-ARG1
+wsj_1380.parse 7 34 predicted lock-v lock.02 ----- 34:0-rel  35:1-ARG1
+wsj_1380.parse 8 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+wsj_1380.parse 8 12 predicted create-v create.01 ----- 12:0-rel  10:1-ARG0 11:0-ARGM-MOD 13:1-ARG1 16:1-ARGM-LOC
+wsj_1380.parse 9 18 predicted involve-v involve.01 ----- 18:0-rel  12:2-ARG2 19:3-ARG1
+wsj_1380.parse 10 3 predicted report-v report.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+wsj_1380.parse 12 16 predicted be-v be.01 ----- 16:0-rel  14:2-ARG1 17:1-ARG2
+wsj_1380.parse 13 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARGM-LOC 4:1-ARG1

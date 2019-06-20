@@ -1,0 +1,42 @@
+voa_0114.parse 0 2 predicted recall-v recall.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARG2 7:2-ARGM-ADV
+voa_0114.parse 0 7 predicted protest-v protest.01 ----- 7:0-rel  0:1-ARG0 8:2-ARG1
+voa_0114.parse 0 10 predicted call-v call.01 ----- 10:0-rel  8:1-ARG1 9:1-ARG0
+voa_0114.parse 1 6 predicted carry-v carry.01 ----- 6:0-rel  0:2-ARG0
+voa_0114.parse 1 12 predicted say-v say.01 ----- 12:0-rel  7:1-ARG0 11:1-R-ARG0 13:3-ARG1
+voa_0114.parse 1 16 predicted decide-v decide.01 ----- 16:0-rel  13:1-ARG0 17:2-ARG1
+voa_0114.parse 1 18 predicted recall-v recall.01 ----- 18:0-rel  13:1-ARG0 19:1-ARG1
+voa_0114.parse 1 25 predicted attack-v attack.01 ----- 25:0-rel  22:1-ARG0 32:1-ARGM-TMP
+voa_0114.parse 2 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+voa_0114.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+voa_0114.parse 4 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+voa_0114.parse 4 6 predicted be-v be.01 ----- 6:0-rel  4:1-ARG1 7:2-ARG2
+voa_0114.parse 4 11 predicted break-v break.01 ----- 11:0-rel  7:1-ARGM-MNR 12:2-ARG1
+voa_0114.parse 5 2 predicted shoot-v shoot.02 ----- 2:0-rel  0:1-ARG0 5:3-ARG1
+voa_0114.parse 5 4 predicted kill-v kill.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+voa_0114.parse 6 18 predicted say-v say.01 ----- 18:0-rel  0:1-ARGM-TMP 2:3-ARG0 19:4-ARG1
+voa_0114.parse 6 22 predicted send-v send.01 ----- 22:0-rel  19:1-ARG1 23:1-ARG2
+voa_0114.parse 6 30 predicted be-v be.01 ----- 30:0-rel  19:2-ARG1 29:0-ARGM-MOD 31:1-ARG2
+voa_0114.parse 7 5 predicted have-v have.03 ----- 5:0-rel  0:2-ARG0 6:2-ARG1
+voa_0114.parse 8 17 predicted dispute-v dispute.01 ----- 17:0-rel  0:2-R-ARG0 13:1-ARG0 18:1-ARG2
+voa_0114.parse 8 23 predicted accept-v accept.01 ----- 23:0-rel  20:1-ARG0 22:0-ARGM-MOD 24:2-ARG1
+voa_0114.parse 9 1 predicted stress-v stress.01 ----- 1:0-rel  0:1-ARG0
+voa_0114.parse 9 16 predicted compose-v compose.01 ----- 16:0-rel  12:1-ARG1
+voa_0114.parse 9 23 predicted deploy-v deploy.01 ----- 23:0-rel  24:1-ARGM-LOC
+voa_0114.parse 9 27 predicted occupy-v occupy.01 ----- 27:0-rel  25:1-ARG1 28:1-ARG0
+voa_0114.parse 10 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0
+voa_0114.parse 10 13 predicted have-v have.03 ----- 13:0-rel  5:2-ARG0 12:0-ARGM-MOD 14:1-ARG1
+voa_0114.parse 11 3 predicted be-v be.02 ----- 3:0-rel  2:1-ARGM-TMP 4:1-ARG1
+voa_0114.parse 11 8 predicted accept-v accept.01 ----- 8:0-rel  5:1-ARG0 7:0-ARGM-MOD 9:1-ARG1
+voa_0114.parse 12 3 predicted urge-v urge.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 8:2-ARG2
+voa_0114.parse 12 9 predicted adopt-v adopt.01 ----- 9:0-rel  4:1-ARG0
+voa_0114.parse 12 11 predicted propose-v propose.01 ----- 11:0-rel  12:0-ARG1
+voa_0114.parse 12 15 predicted send-v send.01 ----- 15:0-rel  10:1-ARG0 13:1-R-ARG0 14:0-ARGM-MOD 16:1-ARG1 19:1-ARG2
+voa_0114.parse 13 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:3-ARG1
+voa_0114.parse 13 8 predicted provide-v provide.01 ----- 8:0-rel  5:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+voa_0114.parse 14 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+voa_0114.parse 14 8 predicted support-v support.01 ----- 8:0-rel  5:1-ARG0 6:0-ARGM-MOD 7:0-ARGM-NEG 9:1-ARG1
+voa_0114.parse 14 19 predicted agree-v agree.01 ----- 19:0-rel  13:2-ARG0 20:1-ARG1
+voa_0114.parse 15 5 predicted reject-v reject.01 ----- 5:0-rel  0:1-ARGM-TMP 3:1-ARG0 6:1-ARG1
+voa_0114.parse 16 5 predicted talk-v talk.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG2
+voa_0114.parse 17 5 predicted have-v have.03 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+voa_0114.parse 17 12 predicted meet-v meet.03 ----- 12:0-rel  11:1-ARG0 13:1-ARG1

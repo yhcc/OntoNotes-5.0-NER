@@ -1,0 +1,29 @@
+chtb_0322.parse 1 12 predicted start-v start.01 ----- 12:0-rel  0:1-ARG1 13:1-ARGM-TMP 14:1-ARGM-LOC
+chtb_0322.parse 2 10 predicted defeat-v defeat.01 ----- 10:0-rel  0:1-ARGM-LOC 7:1-ARG0 11:1-ARG1
+chtb_0322.parse 3 8 predicted have-v have.03 ----- 8:0-rel  0:1-ARGM-LOC 9:2-ARG1
+chtb_0322.parse 3 12 predicted participate-v participate.01 ----- 12:0-rel  9:1-ARG0
+chtb_0322.parse 4 31 predicted defeat-v defeat.01 ----- 31:0-rel  0:3-ARG0 63:1-ARGM-ADV
+chtb_0322.parse 5 12 predicted achieve-v achieve.01 ----- 12:0-rel  3:3-ARG0 13:1-ARG1 14:1-ARGM-LOC
+chtb_0322.parse 6 2 predicted achieve-v achieve.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0322.parse 7 24 predicted defeat-v defeat.01 ----- 24:0-rel  0:3-ARG0 49:1-ARGM-ADV
+chtb_0322.parse 8 5 predicted achieve-v achieve.01 ----- 5:0-rel  0:1-ARGM-DIS 3:1-ARG0
+chtb_0322.parse 9 5 predicted achieve-v achieve.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+chtb_0322.parse 10 1 predicted receive-v receive.01 ----- 1:0-rel  0:1-ARGM-TMP 2:1-ARG1 3:1-ARG2
+chtb_0322.parse 10 14 predicted present-v present.01 ----- 14:0-rel  0:2-ARGM-TMP 6:2-ARG0 15:1-ARG1
+chtb_0322.parse 10 18 predicted speak-v speak.01 ----- 18:0-rel  17:1-ARGM-MNR
+chtb_0322.parse 11 5 predicted perform-v perform.01 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-TMP
+chtb_0322.parse 11 11 predicted achieve-v achieve.01 ----- 11:0-rel  0:1-ARGM-DIS 2:1-ARG0 10:1-ARGM-DIS 12:1-ARG1
+chtb_0322.parse 12 15 predicted defeat-v defeat.01 ----- 15:0-rel  16:2-ARG1 22:1-ARGM-LOC
+chtb_0322.parse 13 3 predicted win-v win.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1 9:1-ARGM-TMP
+chtb_0322.parse 14 2 predicted achieve-v achieve.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 12:1-ARGM-TMP
+chtb_0322.parse 15 8 predicted shift-v shift.01 ----- 8:0-rel  0:2-ARG1 7:0-ARGM-MOD 9:1-ARG2 11:1-ARGM-TMP
+chtb_0322.parse 15 17 predicted hold-v hold.04 ----- 17:0-rel  0:2-ARG0 16:0-ARGM-MOD 26:1-ARGM-TMP
+chtb_0322.parse 16 4 predicted discuss-v discuss.01 ----- 4:0-rel  2:1-ARG1 8:1-ARG0
+chtb_0322.parse 16 6 predicted agree-v agree.01 ----- 6:0-rel  2:1-ARG1 7:1-ARG1 8:1-ARG0
+chtb_0322.parse 16 16 predicted draw-v draw.02 ----- 16:0-rel  13:1-ARG0 17:1-ARGM-ADV
+chtb_0322.parse 16 28 predicted determine-v determine.01 ----- 28:0-rel  0:1-ARGM-ADV 12:1-ARGM-ADV 22:1-ARGM-TMP 23:1-ARG1 26:0-ARGM-MOD 29:1-ARG2
+chtb_0322.parse 17 8 predicted be-v be.01 ----- 8:0-rel  0:2-ARG1 6:1-ARGM-TMP 9:1-ARG2
+chtb_0322.parse 17 16 predicted win-v win.01 ----- 16:0-rel  13:1-ARG0 15:1-R-ARG0
+chtb_0322.parse 17 18 predicted get-v get.01 ----- 18:0-rel  17:0-ARGM-MOD 19:1-ARG1 23:1-ARGM-ADV
+chtb_0322.parse 17 27 predicted lose-v lose.03 ----- 27:0-rel  24:1-ARG0 26:1-R-ARG0
+chtb_0322.parse 17 29 predicted get-v get.01 ----- 29:0-rel  24:2-ARG0 28:0-ARGM-MOD 30:1-ARG1

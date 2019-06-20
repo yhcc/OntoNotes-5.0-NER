@@ -1,0 +1,21 @@
+wsj_2425.parse 0 3 predicted control-v control.01 ----- 3:0-rel  1:0-ARG0 4:0-ARG1
+wsj_2425.parse 0 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:3-ARG1
+wsj_2425.parse 0 12 predicted obtain-v obtain.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG1
+wsj_2425.parse 0 22 predicted hold-v hold.01 ----- 22:0-rel  23:0-ARG0
+wsj_2425.parse 1 4 predicted need-v need.01 ----- 4:0-rel  0:2-ARG1 5:2-ARGM-PNC
+wsj_2425.parse 1 6 predicted conform-v conform.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+wsj_2425.parse 1 10 predicted regard-v regard.01 ----- 10:0-rel  8:1-ARG0 11:2-ARG1
+wsj_2425.parse 1 16 predicted follow-v follow.01 ----- 16:0-rel  0:2-ARG0 17:2-ARG1
+wsj_2425.parse 1 20 predicted give-v give.01 ----- 20:0-rel  17:1-ARG1 21:1-ARGM-TMP 22:1-ARG2
+wsj_2425.parse 2 6 predicted increase-v increase.01 ----- 6:0-rel  0:2-ARG0 7:2-ARG1 12:1-ARGM-TMP
+wsj_2425.parse 2 17 predicted term-v term.01 ----- 17:0-rel  14:1-ARG1 15:1-ARG0 19:1-ARG3 23:1-ARGM-ADV
+wsj_2425.parse 2 28 predicted surround-v surround.01 ----- 28:0-rel  24:1-ARG1 32:1-ARGM-TMP
+wsj_2425.parse 3 3 predicted comment-v comment.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARGM-MNR 5:1-ARG1
+wsj_2425.parse 3 9 predicted seek-v seek.01 ----- 9:0-rel  10:1-ARG1
+wsj_2425.parse 3 19 predicted say-v say.01 ----- 19:0-rel  14:2-ARG0 20:3-ARG1
+wsj_2425.parse 3 22 predicted do-v do.02 ----- 22:0-rel  20:1-ARG0 23:2-ARG1
+wsj_2425.parse 3 24 predicted make-v make.04 ----- 24:0-rel  20:1-ARG0 25:0-ARG1
+wsj_2425.parse 3 29 predicted have-v have.03 ----- 29:0-rel  26:1-ARG0 28:0-ARGM-MOD
+wsj_2425.parse 3 44 predicted arise-v arise.01 ----- 44:0-rel  40:0-ARGM-MOD 41:1-ARG1
+wsj_2425.parse 4 4 predicted specify-v specify.01 ----- 4:0-rel  0:1-ARG0 6:1-ARGM-DIS
+wsj_2425.parse 4 20 predicted act-v act.01 ----- 20:0-rel  16:1-ARG0 18:0-ARGM-MOD 21:1-ARGM-MNR 23:1-ARG2

@@ -1,0 +1,13 @@
+cnn_0103.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:4-ARG1
+cnn_0103.parse 0 7 predicted used-v used.- ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+cnn_0103.parse 0 18 predicted buy-v buy.01 ----- 18:0-rel  5:2-ARG1 19:1-ARGM-LOC
+cnn_0103.parse 1 10 predicted kill-v kill.01 ----- 10:0-rel  0:3-ARG0 11:1-ARG1
+cnn_0103.parse 1 15 predicted injure-v injure.01 ----- 15:0-rel  0:3-ARG0 16:1-ARG1
+cnn_0103.parse 2 6 predicted tell-v tell.01 ----- 6:0-rel  0:1-ARGM-TMP 2:1-ARG0 7:2-ARG2
+cnn_0103.parse 2 12 predicted be-v be.01 ----- 12:0-rel  11:1-ARG1
+cnn_0103.parse 2 22 predicted be-v be.01 ----- 22:0-rel  14:1-ARG1 17:1-R-ARG1 23:2-ARG2
+cnn_0103.parse 2 29 predicted accuse-v accuse.01 ----- 29:0-rel  30:0-ARG1
+cnn_0103.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0103.parse 3 4 predicted suspect-v suspect.01 ----- 4:0-rel  3:1-ARG0 5:3-ARG1
+cnn_0103.parse 3 9 predicted order-v order.01 ----- 9:0-rel  5:1-ARG0 7:0-ARGM-MOD 10:3-ARG2
+cnn_0103.parse 3 20 predicted have-v have.03 ----- 20:0-rel  19:1-ARG0 21:1-ARG1

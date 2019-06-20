@@ -1,0 +1,15 @@
+pri_0004.parse 0 7 predicted hamper-v hamper.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+pri_0004.parse 1 4 predicted strand-v strand.01 ----- 4:0-rel  0:2-ARG1 5:1-ARGM-LOC
+pri_0004.parse 2 5 predicted die-v die.01 ----- 5:0-rel  0:2-ARG1 7:3-ARGM-ADV
+pri_0004.parse 3 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0
+pri_0004.parse 4 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1 8:1-ARGM-TMP 9:1-ARG2
+pri_0004.parse 5 13 predicted decline-v decline.01 ----- 13:0-rel  0:1-ARGM-LOC 9:1-ARG1
+pri_0004.parse 5 17 predicted do-v do.02 ----- 17:0-rel  15:1-ARG0 18:1-ARG1 19:1-ARGM-MNR
+pri_0004.parse 5 43 predicted spread-v spread.02 ----- 43:0-rel  40:1-ARG1 44:1-ARGM-EXT
+pri_0004.parse 5 51 predicted get-v get.03 ----- 51:0-rel  49:1-ARG1 52:1-ARG2
+pri_0004.parse 6 3 predicted start-v start.01 ----- 3:0-rel  0:1-ARG0
+pri_0004.parse 6 4 predicted build-v build.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+pri_0004.parse 6 8 predicted protect-v protect.01 ----- 8:0-rel  0:1-ARG0
+pri_0004.parse 7 3 predicted estimate-v estimate.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+pri_0004.parse 7 7 predicted stand-v stand.04 ----- 7:0-rel  6:1-ARG1
+pri_0004.parse 7 12 predicted be-v be.01 ----- 12:0-rel  5:1-ARGM-ADV 9:2-ARG1 13:1-ARG2

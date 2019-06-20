@@ -1,0 +1,203 @@
+nt_4511.parse 0 2 predicted ask-v ask.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0
+nt_4511.parse 0 7 predicted force-v force.01 ----- 7:0-rel  6:1-ARG0 8:1-ARG1 10:2-ARG2
+nt_4511.parse 0 11 predicted leave-v leave.01 ----- 11:0-rel  8:1-ARG0 12:1-ARG1
+nt_4511.parse 2 2 predicted be-v be.01 ----- 2:0-rel  0:2-ARG1 3:1-ARG2
+nt_4511.parse 3 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+nt_4511.parse 4 1 predicted choose-v choose.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+nt_4511.parse 4 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARG1 6:1-ARG2
+nt_4511.parse 4 11 predicted bear-v bear.02 ----- 11:0-rel  9:1-ARG1
+nt_4511.parse 5 4 predicted force-v force.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1 6:2-ARG2
+nt_4511.parse 5 7 predicted leave-v leave.01 ----- 7:0-rel  5:1-ARG0
+nt_4511.parse 6 2 predicted know-v know.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0
+nt_4511.parse 6 6 predicted say-v say.01 ----- 6:0-rel  3:1-ARG1 4:1-ARG0 7:1-ARG3
+nt_4511.parse 7 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nt_4511.parse 7 5 predicted pray-v pray.- ----- 5:0-rel  4:1-ARG0 6:1-ARGM-MNR 8:1-ARG1
+nt_4511.parse 8 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+nt_4511.parse 8 8 predicted kill-v kill.01 ----- 8:0-rel  4:1-ARG0 6:1-ARG0 9:1-ARG1
+nt_4511.parse 8 12 predicted destroy-v destroy.01 ----- 12:0-rel  0:1-ARG0 13:1-ARG1
+nt_4511.parse 9 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nt_4511.parse 9 6 predicted live-v live.01 ----- 6:0-rel  2:1-ARG0 5:0-ARGM-TMP
+nt_4511.parse 9 11 predicted try-v try.01 ----- 11:0-rel  9:1-ARG0 12:2-ARG1
+nt_4511.parse 9 13 predicted kill-v kill.01 ----- 13:0-rel  9:1-ARG0 14:1-ARG1 15:1-ARGM-TMP
+nt_4511.parse 10 5 predicted give-v give.01 ----- 5:0-rel  1:1-ARG1 4:1-ARG0 6:1-ARG2
+nt_4511.parse 11 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+nt_4511.parse 11 6 predicted keep-v keep.02 ----- 6:0-rel  4:1-ARG0 7:1-ARG1
+nt_4511.parse 11 15 predicted give-v give.01 ----- 15:0-rel  9:2-ARG0 12:1-R-ARG0 14:1-ARGM-NEG 16:1-ARG1 17:1-ARG2
+nt_4511.parse 12 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2 4:1-ARGM-TMP
+nt_4511.parse 13 2 predicted choose-v choose.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1 6:1-ARGM-MNR
+nt_4511.parse 14 3 predicted choose-v choose.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1 5:1-ARGM-MNR
+nt_4511.parse 14 10 predicted be-v be.01 ----- 10:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 8:1-ARGM-ADV 9:1-ARG1 11:0-ARGM-NEG 12:2-ARG2
+nt_4511.parse 14 15 predicted do-v do.02 ----- 15:0-rel  12:1-ARG1 13:1-ARG0 16:1-ARG1
+nt_4511.parse 14 17 predicted make-v make.02 ----- 17:0-rel  18:1-ARG1 19:1-ARG2
+nt_4511.parse 15 4 predicted make-v make.04 ----- 4:0-rel  1:1-ARG0 2:0-ARGM-MOD 5:1-ARG1 7:1-ARGM-MNR
+nt_4511.parse 15 10 predicted do-v do.02 ----- 10:0-rel  8:1-ARG1 9:1-ARG0
+nt_4511.parse 15 19 predicted be-v be.01 ----- 19:0-rel  0:1-ARGM-ADV 12:2-ARG1 16:0-ARGM-MOD 17:0-ARGM-NEG 18:1-ARGM-ADV 20:1-ARG2
+nt_4511.parse 16 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+nt_4511.parse 16 5 predicted happen-v happen.01 ----- 5:0-rel  3:1-ARG1
+nt_4511.parse 16 11 predicted want-v want.01 ----- 11:0-rel  7:2-ARG0 12:2-ARG1
+nt_4511.parse 16 21 predicted get-v get.01 ----- 21:0-rel  17:1-ARG0 19:0-ARGM-NEG 20:1-ARGM-ADV 22:1-ARG1
+nt_4511.parse 17 3 predicted choose-v choose.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0
+nt_4511.parse 17 5 predicted get-v get.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1
+nt_4511.parse 17 15 predicted refuse-v refuse.01 ----- 15:0-rel  10:1-ARG0 16:2-ARG1
+nt_4511.parse 17 17 predicted listen-v listen.01 ----- 17:0-rel  10:1-ARG0 18:1-ARG1
+nt_4511.parse 18 3 predicted say-v say.01 ----- 3:0-rel  1:1-ARG0
+nt_4511.parse 18 7 predicted cause-v cause.01 ----- 7:0-rel  0:1-ARGM-ADV 6:1-ARG0
+nt_4511.parse 18 11 predicted fall-v fall.01 ----- 11:0-rel  8:1-ARG1 12:1-ARG2
+nt_4511.parse 19 2 predicted close-v close.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+nt_4511.parse 19 10 predicted see-v see.01 ----- 10:0-rel  7:1-ARG0 8:0-ARGM-MOD 9:0-ARGM-NEG
+nt_4511.parse 19 14 predicted close-v close.01 ----- 14:0-rel  13:1-ARG0 15:1-ARG1
+nt_4511.parse 19 22 predicted hear-v hear.01 ----- 22:0-rel  19:1-ARG0 20:0-ARGM-MOD 21:0-ARGM-NEG
+nt_4511.parse 20 1 predicted continue-v continue.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP
+nt_4511.parse 21 2 predicted say-v say.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0
+nt_4511.parse 21 9 predicted catch-v catch.03 ----- 9:0-rel  6:1-ARG1 12:1-ARGM-LOC
+nt_4511.parse 21 11 predicted trap-v trap.01 ----- 11:0-rel  6:1-ARG0 12:1-ARG1
+nt_4511.parse 22 2 predicted fall-v fall.01 ----- 2:0-rel  1:1-ARG1
+nt_4511.parse 23 4 predicted close-v close.01 ----- 4:0-rel  1:1-ARG1 5:1-ARGM-PRP
+nt_4511.parse 23 10 predicted see-v see.01 ----- 10:0-rel  7:1-ARG0 8:0-ARGM-MOD 9:0-ARGM-NEG
+nt_4511.parse 24 1 predicted let-v let.01 ----- 1:0-rel  0:0-ARGM-DIS 2:2-ARG1
+nt_4511.parse 24 4 predicted trouble-v trouble.01 ----- 4:0-rel  2:1-ARG1 5:1-ARGM-TMP
+nt_4511.parse 25 2 predicted ask-v ask.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0
+nt_4511.parse 25 7 predicted fall-v fall.01 ----- 7:0-rel  4:1-ARGM-TMP 5:1-ARG1
+nt_4511.parse 25 11 predicted fall-v fall.01 ----- 11:0-rel  10:1-ARG1 12:2-ARG2
+nt_4511.parse 25 12 predicted destroy-v destroy.01 ----- 12:0-rel  13:1-ARG1
+nt_4511.parse 27 3 predicted bring-v bring.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARG2
+nt_4511.parse 27 8 predicted be-v be.01 ----- 8:0-rel  6:1-ARG1 7:1-R-ARG1 9:0-ARGM-NEG 10:1-ARG2
+nt_4511.parse 28 6 predicted make-v make.02 ----- 6:0-rel  0:2-ARG0 7:2-ARG1
+nt_4511.parse 29 2 predicted bring-v bring.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARG2
+nt_4511.parse 30 3 predicted lose-v lose.02 ----- 3:0-rel  2:1-ARG0
+nt_4511.parse 30 4 predicted bring-v bring.01 ----- 4:0-rel  1:1-ARG1 2:1-ARG0 5:1-ARG1 7:1-ARG2
+nt_4511.parse 31 5 predicted get-v get.01 ----- 5:0-rel  0:1-ARGM-ADV 2:1-ARG0 4:0-ARGM-MOD 6:2-ARG1
+nt_4511.parse 31 18 predicted want-v want.01 ----- 18:0-rel  17:1-ARG0
+nt_4511.parse 32 3 predicted speak-v speak.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 4:1-ARG2
+nt_4511.parse 32 8 predicted be-v be.01 ----- 8:0-rel  5:1-ARG1 7:1-R-ARG1 9:0-ARGM-NEG 10:1-ARG2
+nt_4511.parse 33 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nt_4511.parse 34 3 predicted have-v have.03 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+nt_4511.parse 34 9 predicted do-v do.02 ----- 9:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 7:1-ARG0 8:0-ARGM-MOD
+nt_4511.parse 35 1 predicted hope-v hope.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+nt_4511.parse 35 4 predicted make-v make.01 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+nt_4511.parse 36 6 predicted help-v help.01 ----- 6:0-rel  0:1-ARG0 3:1-ARGM-ADV 4:1-ARG0 5:0-ARGM-MOD 7:2-ARG1 10:2-ARG2
+nt_4511.parse 37 1 predicted turn-v turn.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-DIR
+nt_4511.parse 38 2 predicted happen-v happen.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG1
+nt_4511.parse 39 3 predicted accept-v accept.01 ----- 3:0-rel  1:1-ARGM-TMP 2:1-ARG0 4:1-ARG1
+nt_4511.parse 39 9 predicted be-v be.01 ----- 9:0-rel  0:0-ARGM-DIS 1:2-ARGM-TMP 7:1-ARG1 8:0-ARGM-MOD
+nt_4511.parse 39 11 predicted bring-v bring.01 ----- 11:0-rel  12:1-ARG1 13:1-ARG2
+nt_4511.parse 40 7 predicted offer-v offer.01 ----- 7:0-rel  1:2-ARG1 8:1-ARG3
+nt_4511.parse 40 16 predicted make-v make.01 ----- 16:0-rel  0:1-ARGM-ADV 11:1-ARGM-TMP 12:1-ARG1 17:2-C-ARG1
+nt_4511.parse 41 6 predicted be-v be.01 ----- 6:0-rel  1:2-ARG1 7:1-ARG2
+nt_4511.parse 41 13 predicted be-v be.01 ----- 13:0-rel  0:1-ARGM-ADV 9:2-ARG1 14:1-ARG2
+nt_4511.parse 42 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+nt_4511.parse 42 14 predicted break-v break.01 ----- 14:0-rel  4:2-ARG1
+nt_4511.parse 42 27 predicted join-v join.01 ----- 27:0-rel  18:2-ARG1 28:1-ARG4
+nt_4511.parse 43 2 predicted be-v be.01 ----- 2:0-rel  1:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+nt_4511.parse 43 8 predicted be-v be.01 ----- 8:0-rel  0:1-ARGM-ADV 7:1-ARG1 9:2-ARG2
+nt_4511.parse 43 19 predicted share-v share.01 ----- 19:0-rel  17:1-ARG0 18:1-ARGM-TMP 20:2-ARG1
+nt_4511.parse 44 3 predicted act-v act.01 ----- 3:0-rel  0:0-ARGM-DIS 2:0-ARGM-NEG
+nt_4511.parse 44 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:2-ARG2
+nt_4511.parse 44 14 predicted break-v break.01 ----- 14:0-rel  10:1-ARG1 12:1-R-ARG1
+nt_4511.parse 45 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+nt_4511.parse 45 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARGM-CAU 6:1-ARG2
+nt_4511.parse 45 14 predicted give-v give.01 ----- 14:0-rel  11:1-ARG0 13:0-ARGM-NEG 15:1-ARG1 16:1-ARG2
+nt_4511.parse 46 2 predicted give-v give.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 4:1-ARG2
+nt_4511.parse 47 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD
+nt_4511.parse 47 7 predicted break-v break.01 ----- 7:0-rel  5:1-ARG1 9:1-ARGM-PRP
+nt_4511.parse 47 14 predicted join-v join.01 ----- 14:0-rel  11:1-ARG1 12:0-ARGM-MOD 15:1-ARG2
+nt_4511.parse 48 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+nt_4511.parse 49 4 predicted break-v break.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 6:1-ARGM-CAU
+nt_4511.parse 49 10 predicted believe-v believe.01 ----- 10:0-rel  7:1-ARG0 9:0-ARGM-NEG
+nt_4511.parse 50 2 predicted continue-v continue.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+nt_4511.parse 50 4 predicted be-v be.01 ----- 4:0-rel  1:1-ARG1 5:2-ARG2
+nt_4511.parse 50 12 predicted believe-v believe.01 ----- 12:0-rel  11:1-ARG0
+nt_4511.parse 51 2 predicted be-v be.01 ----- 2:0-rel  1:0-ARGM-NEG 3:1-ARG2
+nt_4511.parse 51 6 predicted be-v be.01 ----- 6:0-rel  7:1-ARG2
+nt_4511.parse 52 4 predicted let-v let.01 ----- 4:0-rel  1:1-ARG0 3:0-ARGM-NEG 5:3-ARG1
+nt_4511.parse 52 11 predicted stay-v stay.01 ----- 11:0-rel  5:2-ARG1
+nt_4511.parse 52 16 predicted let-v let.01 ----- 16:0-rel  0:1-ARGM-ADV 13:1-ARG0 14:0-ARGM-MOD 15:0-ARGM-NEG 17:2-ARG1
+nt_4511.parse 52 18 predicted stay-v stay.01 ----- 18:0-rel  17:1-ARG1 19:1-ARGM-ADV
+nt_4511.parse 52 21 predicted stop-v stop.01 ----- 21:0-rel  20:1-ARG0 22:2-ARG1
+nt_4511.parse 52 22 predicted believe-v believe.01 ----- 22:0-rel  20:1-ARG0
+nt_4511.parse 53 2 predicted see-v see.01 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+nt_4511.parse 53 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+nt_4511.parse 53 12 predicted be-v be.01 ----- 12:0-rel  9:1-ARG1 10:0-ARGM-MOD 11:1-ARGM-ADV 13:1-ARG2
+nt_4511.parse 54 1 predicted punish-v punish.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+nt_4511.parse 54 4 predicted stop-v stop.01 ----- 4:0-rel  2:1-ARG0 3:1-R-ARG0 5:2-ARG1
+nt_4511.parse 54 5 predicted follow-v follow.01 ----- 5:0-rel  6:1-ARG2
+nt_4511.parse 55 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+nt_4511.parse 55 9 predicted continue-v continue.01 ----- 9:0-rel  8:1-ARG0
+nt_4511.parse 55 10 predicted trust-v trust.02 ----- 10:0-rel  8:1-ARG0 11:1-ARGM-LOC
+nt_4511.parse 56 4 predicted continue-v continue.01 ----- 4:0-rel  1:1-ARG0 3:0-ARGM-NEG 5:2-ARG1
+nt_4511.parse 56 5 predicted depend-v depend.01 ----- 5:0-rel  1:1-ARG0 6:1-ARG1
+nt_4511.parse 56 12 predicted cut-v cut.04 ----- 12:0-rel  0:1-ARGM-ADV 9:1-ARG0 10:0-ARGM-MOD 14:1-ARG1
+nt_4511.parse 57 5 predicted believe-v believe.01 ----- 5:0-rel  2:1-ARG0 4:0-ARGM-MOD 6:1-ARG1 8:1-ARGM-TMP
+nt_4511.parse 57 12 predicted accept-v accept.01 ----- 12:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 10:1-ARG0 11:0-ARGM-MOD 13:1-ARG1 14:1-ARGM-DIR
+nt_4511.parse 58 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+nt_4511.parse 58 4 predicted put-v put.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 6:1-ARG2
+nt_4511.parse 58 9 predicted be-v be.01 ----- 9:0-rel  7:1-ARG2 8:1-ARG1
+nt_4511.parse 59 1 predicted be-v be.01 ----- 1:0-rel  2:0-ARGM-NEG 3:1-ARG2 4:1-ARG1
+nt_4511.parse 60 4 predicted be-v be.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 5:1-ARG2
+nt_4511.parse 60 8 predicted cut-v cut.01 ----- 8:0-rel  6:1-ARG1 9:1-ARG2
+nt_4511.parse 61 3 predicted join-v join.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+nt_4511.parse 62 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1
+nt_4511.parse 62 8 predicted grow-v grow.01 ----- 8:0-rel  5:1-ARG1 7:1-R-ARG1 9:1-ARG2
+nt_4511.parse 63 5 predicted join-v join.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 3:0-ARGM-MOD 6:1-ARG4 10:1-ARGM-TMP
+nt_4511.parse 64 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+nt_4511.parse 64 4 predicted understand-v understand.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+nt_4511.parse 65 3 predicted help-v help.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:2-ARG1
+nt_4511.parse 65 5 predicted understand-v understand.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+nt_4511.parse 65 10 predicted know-v know.01 ----- 10:0-rel  7:1-ARG0 9:0-ARGM-NEG 11:1-ARG1
+nt_4511.parse 66 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+nt_4511.parse 66 10 predicted make-v make.04 ----- 10:0-rel  5:2-ARG0 11:2-ARG1
+nt_4511.parse 66 16 predicted change-v change.01 ----- 16:0-rel  14:1-ARG1 15:0-ARGM-MOD 17:2-ARGM-TMP
+nt_4511.parse 66 22 predicted come-v come.01 ----- 22:0-rel  17:1-ARGM-TMP 18:2-ARG1 23:1-ARG4
+nt_4511.parse 67 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+nt_4511.parse 67 8 predicted save-v save.02 ----- 8:0-rel  3:1-ARGM-MNR 5:1-ARG1 6:0-ARGM-MOD
+nt_4511.parse 68 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0
+nt_4511.parse 68 8 predicted come-v come.03 ----- 8:0-rel  5:1-ARG1 7:0-ARGM-MOD 9:1-ARG2
+nt_4511.parse 68 14 predicted take-v take.01 ----- 14:0-rel  12:1-ARG0 13:0-ARGM-MOD 16:1-ARG1
+nt_4511.parse 69 3 predicted make-v make.04 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1 6:1-ARG2 9:2-ARGM-TMP
+nt_4511.parse 69 11 predicted take-v take.01 ----- 11:0-rel  9:1-ARGM-TMP 10:1-ARG0 13:1-ARG1
+nt_4511.parse 70 2 predicted refuse-v refuse.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+nt_4511.parse 70 4 predicted accept-v accept.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+nt_4511.parse 70 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:2-ARG2
+nt_4511.parse 71 2 predicted happen-v happen.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+nt_4511.parse 71 4 predicted help-v help.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+nt_4511.parse 71 7 predicted be-v be.01 ----- 7:0-rel  5:1-ARG1 6:1-R-ARG1 8:0-ARGM-NEG 9:1-ARG2
+nt_4511.parse 72 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-TMP 4:2-ARG2
+nt_4511.parse 72 6 predicted choose-v choose.01 ----- 6:0-rel  7:0-ARG1
+nt_4511.parse 72 11 predicted love-v love.01 ----- 11:0-rel  10:1-ARG0 12:1-ARG1 13:1-ARGM-CAU
+nt_4511.parse 72 18 predicted make-v make.03 ----- 18:0-rel  15:1-ARG1 17:1-ARG0 19:1-ARG2
+nt_4511.parse 73 2 predicted change-v change.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-NEG 3:1-ARG1
+nt_4511.parse 73 9 predicted call-v call.01 ----- 9:0-rel  6:1-ARG1 8:1-ARG0
+nt_4511.parse 74 2 predicted decide-v decide.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-NEG 3:2-ARG1
+nt_4511.parse 74 4 predicted take-v take.01 ----- 4:0-rel  0:1-ARG0
+nt_4511.parse 74 10 predicted give-v give.01 ----- 10:0-rel  6:1-ARG1 8:1-ARG0 11:1-ARG2
+nt_4511.parse 75 4 predicted refuse-v refuse.01 ----- 4:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:2-ARG1
+nt_4511.parse 75 6 predicted obey-v obey.01 ----- 6:0-rel  3:1-ARG0 7:1-ARG1
+nt_4511.parse 76 4 predicted receive-v receive.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0 5:1-ARG1 7:1-ARGM-CAU
+nt_4511.parse 76 10 predicted refuse-v refuse.01 ----- 10:0-rel  8:1-ARG0 11:2-ARG1
+nt_4511.parse 76 12 predicted obey-v obey.01 ----- 12:0-rel  8:1-ARG0
+nt_4511.parse 77 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG1 4:2-ARG2
+nt_4511.parse 77 7 predicted refuse-v refuse.01 ----- 7:0-rel  4:1-ARG0 6:1-R-ARG0 8:2-ARG1
+nt_4511.parse 77 9 predicted obey-v obey.01 ----- 9:0-rel  6:1-ARG0
+nt_4511.parse 77 13 predicted show-v show.01 ----- 13:0-rel  12:1-ARG0 14:1-ARG1 15:1-ARG2
+nt_4511.parse 78 2 predicted happen-v happen.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARGM-PRP
+nt_4511.parse 78 8 predicted receive-v receive.01 ----- 8:0-rel  5:1-ARG0 6:0-ARGM-MOD 7:1-ARGM-DIS 9:1-ARG1 10:1-ARG2
+nt_4511.parse 79 3 predicted refuse-v refuse.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+nt_4511.parse 79 5 predicted obey-v obey.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+nt_4511.parse 80 3 predicted put-v put.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1 6:1-ARG2 7:1-ARGM-PRD
+nt_4511.parse 80 12 predicted obey-v obey.01 ----- 12:0-rel  8:1-ARG0 9:1-R-ARG0 11:0-ARGM-NEG 13:1-ARG1 14:1-ARG2
+nt_4511.parse 80 18 predicted show-v show.01 ----- 18:0-rel  16:1-ARG0 17:0-ARGM-MOD 19:1-ARG1 20:1-ARG2
+nt_4511.parse 81 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-DIS 2:2-ARG1 6:1-ARG2
+nt_4511.parse 82 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+nt_4511.parse 83 3 predicted explain-v explain.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:2-ARG1
+nt_4511.parse 83 6 predicted decide-v decide.01 ----- 6:0-rel  4:1-ARG1 5:1-ARG0
+nt_4511.parse 84 3 predicted understand-v understand.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+nt_4511.parse 85 3 predicted say-v say.01 ----- 3:0-rel  1:1-ARG0
+nt_4511.parse 85 8 predicted know-v know.01 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+nt_4511.parse 85 10 predicted be-v be.01 ----- 10:0-rel  9:1-ARG1 11:1-ARG2
+nt_4511.parse 86 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+nt_4511.parse 86 4 predicted give-v give.01 ----- 4:0-rel  5:1-ARG2 6:1-ARG1
+nt_4511.parse 87 4 predicted give-v give.01 ----- 4:0-rel  1:1-ARG0 3:1-ARGM-TMP 5:1-ARG2 6:1-ARG1
+nt_4511.parse 88 1 predicted owe-v owe.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARG2
+nt_4511.parse 89 3 predicted make-v make.03 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+nt_4511.parse 90 2 predicted continue-v continue.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+nt_4511.parse 91 2 predicted be-v be.01 ----- 2:0-rel  1:1-ARG1 3:1-ARG2 5:1-ARGM-TMP

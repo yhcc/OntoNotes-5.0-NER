@@ -1,0 +1,15 @@
+wsj_2439.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:4-ARG1
+wsj_2439.parse 0 24 predicted result-v result.01 ----- 24:0-rel  5:2-ARG1 23:0-ARGM-MOD 25:1-ARG2
+wsj_2439.parse 1 4 predicted elaborate-v elaborate.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG
+wsj_2439.parse 2 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARG0 7:2-ARG1
+wsj_2439.parse 2 12 predicted be-v be.01 ----- 12:0-rel  8:1-ARG1 13:1-ARG2
+wsj_2439.parse 2 28 predicted reactivate-v reactivate.01 ----- 28:0-rel  24:1-ARG1 26:0-ARGM-MOD 29:1-ARGM-MNR 30:2-ARGM-TMP
+wsj_2439.parse 2 33 predicted improve-v improve.01 ----- 33:0-rel  30:1-ARGM-TMP 31:1-ARG1
+wsj_2439.parse 3 10 predicted produce-v produce.01 ----- 10:0-rel  0:3-ARG1 11:1-ARGM-LOC 14:1-ARGM-TMP
+wsj_2439.parse 4 13 predicted produce-v produce.01 ----- 13:0-rel  12:1-R-ARG0
+wsj_2439.parse 4 23 predicted continue-v continue.01 ----- 23:0-rel  0:3-ARG1 22:0-ARGM-MOD 24:2-C-ARG1
+wsj_2439.parse 5 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_2439.parse 5 8 predicted affect-v affect.01 ----- 8:0-rel  4:1-ARG0 6:0-ARGM-MOD 7:0-ARGM-NEG 9:2-ARG1
+wsj_2439.parse 5 27 predicted reduce-v reduce.01 ----- 27:0-rel  4:1-ARG0 26:0-ARGM-MOD 28:2-ARG1
+wsj_2439.parse 5 32 predicted sell-v sell.01 ----- 32:0-rel  31:1-ARG1 33:1-ARGM-LOC
+wsj_2439.parse 6 15 predicted receive-v receive.01 ----- 15:0-rel  0:2-ARG0 16:1-ARG1

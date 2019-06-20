@@ -1,0 +1,21 @@
+wsj_1466.parse 0 14 predicted enter-v enter.01 ----- 14:0-rel  0:3-ARG0 15:1-ARG1
+wsj_1466.parse 0 18 predicted stem-v stem.01 ----- 18:0-rel  16:1-ARG1 19:1-ARG2
+wsj_1466.parse 0 25 predicted sponsor-v sponsor.01 ----- 25:0-rel  23:0-ARGM-MNR 26:0-ARG1 27:0-C-ARG1
+wsj_1466.parse 0 28 predicted publish-v publish.01 ----- 28:0-rel  23:2-ARG1 29:1-ARG0
+wsj_1466.parse 1 2 predicted stem-v stem.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+wsj_1466.parse 1 12 predicted make-v make.03 ----- 12:0-rel  6:2-ARG0 13:1-ARG1 14:1-ARGM-LOC
+wsj_1466.parse 1 15 predicted sell-v sell.01 ----- 15:0-rel  16:1-ARG1
+wsj_1466.parse 2 1 predicted admit-v admit.01 ----- 1:0-rel  2:1-ARG1
+wsj_1466.parse 2 7 predicted agree-v agree.01 ----- 7:0-rel  0:1-ARGM-ADV 5:1-ARG0 8:1-ARG1
+wsj_1466.parse 2 14 predicted contract-v contract.02 ----- 14:0-rel  12:1-ARG0 13:1-ARGM-TMP 15:1-ARG2 19:2-ARG1
+wsj_1466.parse 2 20 predicted publish-v publish.01 ----- 20:0-rel  21:1-ARG1
+wsj_1466.parse 3 2 predicted include-v include.01 ----- 2:0-rel  0:1-ARG2
+wsj_1466.parse 3 4 predicted misrepresent-v misrepresent.01 ----- 4:0-rel  3:0-ARGM-NEG 5:2-ARG1
+wsj_1466.parse 3 10 predicted distribute-v distribute.01 ----- 10:0-rel  5:1-ARGM-MNR 6:1-ARG1 8:0-ARGM-MOD
+wsj_1466.parse 3 13 predicted agree-v agree.01 ----- 13:0-rel  14:2-ARG1
+wsj_1466.parse 3 23 predicted be-v be.01 ----- 23:0-rel  21:1-ARG1 24:1-ARG2
+wsj_1466.parse 4 6 predicted spark-v spark.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG0 11:1-ARG0
+wsj_1466.parse 4 18 predicted swindle-v swindle.01 ----- 18:0-rel  16:1-ARG2 19:1-ARGM-LOC
+wsj_1466.parse 4 23 predicted sponsor-v sponsor.01 ----- 23:0-rel  21:0-ARG0 24:0-ARG1 25:0-C-ARG1
+wsj_1466.parse 4 26 predicted contract-v contract.02 ----- 26:0-rel  20:1-ARG1 27:1-ARG0
+wsj_1466.parse 5 2 predicted lead-v lead.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG2 13:1-ARGM-TMP

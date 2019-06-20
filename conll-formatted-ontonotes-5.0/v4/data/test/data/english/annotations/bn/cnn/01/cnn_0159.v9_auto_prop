@@ -1,0 +1,13 @@
+cnn_0159.parse 0 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARGM-ADV 5:1-ARG1 7:2-ARG2
+cnn_0159.parse 1 1 predicted estimate-v estimate.01 ----- 1:0-rel  0:1-ARG0
+cnn_0159.parse 1 7 predicted head-v head.02 ----- 7:0-rel  2:2-ARG0 5:0-ARGM-MOD
+cnn_0159.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+cnn_0159.parse 3 6 predicted flock-v flock.02 ----- 6:0-rel  0:2-ARG0 7:1-ARG1 9:1-ARGM-TMP
+cnn_0159.parse 3 12 predicted complete-v complete.01 ----- 12:0-rel  13:1-ARG1
+cnn_0159.parse 3 16 predicted find-v find.01 ----- 16:0-rel  17:2-ARG1
+cnn_0159.parse 4 7 predicted spend-v spend.01 ----- 7:0-rel  4:1-R-ARG1 5:1-ARG0 8:1-ARG3 9:1-ARG1
+cnn_0159.parse 4 18 predicted say-v say.01 ----- 18:0-rel  0:1-ARGM-ADV 12:2-ARG0 19:3-ARG1
+cnn_0159.parse 4 22 predicted turn-v turn.02 ----- 22:0-rel  19:1-ARG1 21:0-ARGM-MOD 23:1-ARGM-LOC
+cnn_0159.parse 5 3 predicted meet-v meet.03 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 10:1-ARGM-TMP 11:2-ARGM-PRP
+cnn_0159.parse 5 12 predicted decide-v decide.01 ----- 12:0-rel  1:1-ARG0 13:1-ARG1 16:1-ARGM-MNR
+cnn_0159.parse 5 17 predicted push-v push.02 ----- 17:0-rel  18:1-ARG2

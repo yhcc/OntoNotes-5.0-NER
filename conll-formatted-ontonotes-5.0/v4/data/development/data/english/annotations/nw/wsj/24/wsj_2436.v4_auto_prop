@@ -1,0 +1,24 @@
+wsj_2436.parse 0 11 predicted resign-v resign.- ----- 11:0-rel  0:2-ARG0 12:1-ARGM-TMP 13:1-ARG1
+wsj_2436.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_2436.parse 1 4 predicted resign-v resign.- ----- 4:0-rel  3:1-ARG0 5:1-ARGM-CAU
+wsj_2436.parse 2 4 predicted miss-v miss.02 ----- 4:0-rel  1:1-ARGM-DIS 3:1-ARG0 5:1-ARG1
+wsj_2436.parse 2 9 predicted say-v say.01 ----- 9:0-rel  10:1-ARG0
+wsj_2436.parse 3 9 predicted advertise-v advertise.01 ----- 9:0-rel  10:0-ARG0
+wsj_2436.parse 3 14 predicted grow-v grow.01 ----- 14:0-rel  0:1-ARGM-LOC 6:3-ARG1 15:1-ARG2
+wsj_2436.parse 4 5 predicted pay-v pay.01 ----- 5:0-rel  4:0-ARGM-MNR 6:0-ARG1
+wsj_2436.parse 4 11 predicted rank-v rank.01 ----- 11:0-rel  0:0-ARGM-DIS 1:1-ARGM-LOC 8:1-ARG1 10:1-ARGM-TMP 12:1-ARG2 33:1-ARG1
+wsj_2436.parse 5 10 predicted say-v say.01 ----- 10:0-rel  0:2-ARG0 11:3-ARG1
+wsj_2436.parse 5 15 predicted succeed-v succeed.02 ----- 15:0-rel  11:1-ARG1 13:0-ARGM-MOD
+wsj_2436.parse 5 16 predicted start-v start.01 ----- 16:0-rel  17:1-ARGM-TMP
+wsj_2436.parse 6 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+wsj_2436.parse 7 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_2436.parse 7 6 predicted maintain-v maintain.01 ----- 6:0-rel  3:1-ARG0 5:0-ARGM-MOD
+wsj_2436.parse 7 12 predicted be-v be.01 ----- 12:0-rel  11:1-R-ARG1
+wsj_2436.parse 7 23 predicted orient-v orient.01 ----- 23:0-rel  21:0-ARG2
+wsj_2436.parse 8 10 predicted join-v join.01 ----- 10:0-rel  11:2-ARG1
+wsj_2436.parse 8 17 predicted say-v say.01 ----- 17:0-rel  0:2-ARG0 18:3-ARG1
+wsj_2436.parse 8 19 predicted have-v have.03 ----- 19:0-rel  18:1-ARG0 20:2-ARG1
+wsj_2436.parse 9 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+wsj_2436.parse 9 4 predicted work-v work.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+wsj_2436.parse 10 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_2436.parse 10 5 predicted consider-v consider.02 ----- 5:0-rel  2:1-ARG0 3:0-ARGM-MOD 4:1-ARGM-TMP 6:1-ARG1

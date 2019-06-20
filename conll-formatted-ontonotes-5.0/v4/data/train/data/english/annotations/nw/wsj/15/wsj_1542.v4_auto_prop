@@ -1,0 +1,27 @@
+wsj_1542.parse 0 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG0 6:3-ARG1
+wsj_1542.parse 0 10 predicted agree-v agree.01 ----- 10:0-rel  6:1-ARG0 11:2-ARG1
+wsj_1542.parse 0 12 predicted recall-v recall.01 ----- 12:0-rel  6:1-ARG0 13:2-ARG1
+wsj_1542.parse 0 18 predicted produce-v produce.01 ----- 18:0-rel  13:1-ARG1 16:1-R-ARG1 19:1-ARG0
+wsj_1542.parse 1 1 predicted stop-v stop.01 ----- 1:0-rel  0:1-ARG0
+wsj_1542.parse 1 2 predicted ship-v ship.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-TMP
+wsj_1542.parse 1 8 predicted follow-v follow.01 ----- 8:0-rel  9:2-ARG2
+wsj_1542.parse 1 12 predicted regard-v regard.01 ----- 12:0-rel  9:1-ARG0
+wsj_1542.parse 1 16 predicted supply-v supply.01 ----- 16:0-rel  14:1-ARG0 17:2-ARGM-PNC
+wsj_1542.parse 1 18 predicted obtain-v obtain.01 ----- 18:0-rel  14:1-ARG0 19:1-ARG1
+wsj_1542.parse 2 2 predicted request-v request.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_1542.parse 2 21 predicted say-v say.01 ----- 21:0-rel  20:1-ARG0
+wsj_1542.parse 2 29 predicted submit-v submit.01 ----- 29:0-rel  23:2-ARG1
+wsj_1542.parse 2 40 predicted misrepresent-v misrepresent.01 ----- 40:0-rel  38:1-ARG1 41:3-ARG2
+wsj_1542.parse 3 4 predicted base-v base.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-LOC
+wsj_1542.parse 3 9 predicted agree-v agree.01 ----- 9:0-rel  0:2-ARG0
+wsj_1542.parse 3 11 predicted recall-v recall.01 ----- 11:0-rel  0:2-ARG0 12:2-ARG1
+wsj_1542.parse 3 29 predicted submit-v submit.01 ----- 29:0-rel  28:1-ARG1 30:1-ARGM-LOC
+wsj_1542.parse 4 7 predicted know-v know.01 ----- 7:0-rel  0:2-ARG1
+wsj_1542.parse 4 11 predicted say-v say.01 ----- 11:0-rel  0:3-ARG1 9:1-ARG0 12:0-C-ARG1
+wsj_1542.parse 5 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1542.parse 5 6 predicted be-v be.01 ----- 6:0-rel  4:1-ARG1 7:1-ARGM-TMP 8:1-ARG2
+wsj_1542.parse 6 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG0 7:3-ARG1
+wsj_1542.parse 6 9 predicted suspend-v suspend.01 ----- 9:0-rel  7:1-ARG0
+wsj_1542.parse 6 22 predicted pend-v pend.- ----- 22:0-rel  23:2-ARG1
+wsj_1542.parse 7 3 predicted close-v close.01 ----- 3:0-rel  0:1-ARG0 1:1-ARGM-DIS 2:1-ARGM-TMP 4:1-ARG1 6:1-ARGM-CAU
+wsj_1542.parse 8 11 predicted rise-v rise.01 ----- 11:0-rel  0:1-ARGM-LOC 8:1-ARG1 12:1-ARG2 14:1-ARG4 17:1-ARGM-TMP

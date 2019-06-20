@@ -1,0 +1,17 @@
+cnn_0051.parse 0 5 predicted focus-v focus.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG2
+cnn_0051.parse 1 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:4-ARG1
+cnn_0051.parse 1 10 predicted shake-v shake.01 ----- 10:0-rel  5:2-ARG0 11:1-ARG1 15:1-ARGM-TMP
+cnn_0051.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0051.parse 2 5 predicted tap-v tap.03 ----- 5:0-rel  6:1-ARG1 12:2-ARGM-PRP
+cnn_0051.parse 2 13 predicted meet-v meet.01 ----- 13:0-rel  14:1-ARG1
+cnn_0051.parse 2 14 predicted anticipate-v anticipate.01 ----- 14:0-rel  15:0-ARG1
+cnn_0051.parse 2 16 predicted be-v be.01 ----- 16:0-rel  2:1-ARG1 17:1-ARG2
+cnn_0051.parse 3 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:0-ARGM-NEG 5:1-ARG2
+cnn_0051.parse 4 4 predicted lower-v lower.01 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1 7:1-ARGM-TMP
+cnn_0051.parse 4 15 predicted make-v make.02 ----- 15:0-rel  13:1-ARG0 14:0-ARGM-MOD 16:2-ARG1
+cnn_0051.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0051.parse 5 6 predicted fail-v fail.01 ----- 6:0-rel  2:1-ARG1 7:2-ARG2
+cnn_0051.parse 5 8 predicted develop-v develop.02 ----- 8:0-rel  2:1-ARG0 9:1-ARG1
+cnn_0051.parse 5 14 predicted lead-v lead.03 ----- 14:0-rel  15:1-ARG2
+cnn_0051.parse 5 16 predicted increase-v increase.01 ----- 16:0-rel  17:0-ARG1
+cnn_0051.parse 5 19 predicted import-v import.01 ----- 19:0-rel  20:0-ARG1

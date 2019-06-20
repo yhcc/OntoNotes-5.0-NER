@@ -1,0 +1,14 @@
+wsj_2334.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_2334.parse 0 5 predicted file-v file.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1 13:1-ARG2
+wsj_2334.parse 0 26 predicted include-v include.01 ----- 26:0-rel  22:1-ARG2 25:0-ARGM-NEG 27:2-ARG1
+wsj_2334.parse 1 7 predicted operate-v operate.01 ----- 7:0-rel  0:1-ARG1 8:1-ARGM-MNR
+wsj_2334.parse 1 14 predicted say-v say.01 ----- 14:0-rel  0:2-ARG0 15:3-ARG1
+wsj_2334.parse 1 16 predicted tell-v tell.01 ----- 16:0-rel  15:1-ARG0 17:1-ARG2 19:3-ARG1
+wsj_2334.parse 1 22 predicted provide-v provide.01 ----- 22:0-rel  19:1-ARG0 20:0-ARGM-MOD 21:0-ARGM-NEG 23:1-ARG1
+wsj_2334.parse 2 2 predicted ask-v ask.02 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 12:2-ARGM-TMP
+wsj_2334.parse 2 16 predicted be-v be.01 ----- 16:0-rel  12:1-ARGM-TMP 13:1-ARG1 17:1-ARG2
+wsj_2334.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_2334.parse 3 3 predicted plan-v plan.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+wsj_2334.parse 3 5 predicted amend-v amend.01 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+wsj_2334.parse 3 9 predicted provide-v provide.01 ----- 9:0-rel  10:1-ARG1
+wsj_2334.parse 3 18 predicted complete-v complete.01 ----- 18:0-rel  15:1-ARG1

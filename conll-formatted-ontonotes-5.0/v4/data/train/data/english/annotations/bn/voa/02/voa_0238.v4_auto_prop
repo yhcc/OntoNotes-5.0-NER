@@ -1,0 +1,12 @@
+voa_0238.parse 0 5 predicted resume-v resume.01 ----- 5:0-rel  0:2-ARG0 4:0-ARGM-MOD 6:1-ARG1 8:1-ARGM-TMP 9:1-ARGM-TMP
+voa_0238.parse 0 12 predicted cause-v cause.01 ----- 12:0-rel  10:1-ARG1
+voa_0238.parse 1 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+voa_0238.parse 1 8 predicted be-v be.01 ----- 8:0-rel  5:1-ARG1 7:0-ARGM-MOD 9:2-ARG2
+voa_0238.parse 1 15 predicted hold-v hold.04 ----- 15:0-rel  14:1-ARG1 16:1-ARGM-TMP 17:2-ARGM-PNC
+voa_0238.parse 1 18 predicted discuss-v discuss.01 ----- 18:0-rel  19:3-ARG1
+voa_0238.parse 1 24 predicted propose-v propose.01 ----- 24:0-rel  19:2-ARG1 25:1-ARG0
+voa_0238.parse 2 5 predicted describe-v describe.01 ----- 5:0-rel  0:2-ARG0 6:2-ARG1 9:1-ARG2
+voa_0238.parse 3 1 predicted call-v call.05 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 7:2-ARG1
+voa_0238.parse 3 8 predicted put-v put.03 ----- 8:0-rel  9:1-ARG1 11:1-ARG2
+voa_0238.parse 3 16 predicted say-v say.01 ----- 16:0-rel  0:1-ARG0 17:3-ARG1
+voa_0238.parse 3 20 predicted serve-v serve.01 ----- 20:0-rel  17:1-ARG0 19:0-ARGM-NEG 21:1-ARG2

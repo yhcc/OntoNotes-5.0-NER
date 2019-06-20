@@ -1,0 +1,11 @@
+cnn_0197.parse 0 1 predicted hear-v hear.01 ----- 1:0-rel  0:1-ARG0
+cnn_0197.parse 0 7 predicted accuse-v accuse.01 ----- 7:0-rel  5:1-ARG1 8:1-ARGM-LOC
+cnn_0197.parse 0 17 predicted expect-v expect.01 ----- 17:0-rel  18:2-ARG1
+cnn_0197.parse 0 19 predicted announce-v announce.01 ----- 19:0-rel  0:2-ARG0 20:1-ARGM-TMP 22:2-ARG1
+cnn_0197.parse 0 25 predicted reach-v reach.01 ----- 25:0-rel  22:1-ARGM-TMP 23:1-ARG0 24:0-ARGM-MOD 26:1-ARG1
+cnn_0197.parse 1 7 predicted end-v end.02 ----- 7:0-rel  0:2-ARG1 8:2-ARGM-TMP
+cnn_0197.parse 2 3 predicted accuse-v accuse.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+cnn_0197.parse 2 5 predicted plant-v plant.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+cnn_0197.parse 2 12 predicted explode-v explode.01 ----- 12:0-rel  9:1-ARG1 11:1-R-ARG1 13:1-ARGM-LOC 18:1-ARGM-TMP
+cnn_0197.parse 3 2 predicted die-v die.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0197.parse 4 5 predicted hear-v hear.01 ----- 5:0-rel  0:1-ARG0 6:2-ARG1

@@ -1,0 +1,7 @@
+cnn_0318.parse 0 5 predicted lead-v lead.03 ----- 5:0-rel  0:1-ARG0 3:1-R-ARG0 4:0-ARGM-MOD 6:1-ARG2
+cnn_0318.parse 1 2 predicted back-v back.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-PRD
+cnn_0318.parse 2 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG1 3:1-ARG0 5:1-C-ARG1
+cnn_0318.parse 3 4 predicted vote-v vote.01 ----- 4:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:0-ARGM-MOD
+cnn_0318.parse 3 16 predicted present-v present.01 ----- 16:0-rel  13:1-ARG0
+cnn_0318.parse 4 3 predicted stand-v stand.05 ----- 3:0-rel  0:1-ARG1
+cnn_0318.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2 2:1-ARG1

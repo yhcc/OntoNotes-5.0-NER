@@ -1,0 +1,13 @@
+pri_0098.parse 0 12 predicted result-v result.01 ----- 12:0-rel  0:1-ARGM-DIS 2:2-ARG1 13:1-ARG2
+pri_0098.parse 1 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-DIR
+pri_0098.parse 2 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARG0
+pri_0098.parse 2 6 predicted strap-v strap.01 ----- 6:0-rel  5:1-ARG1 7:1-ARG2
+pri_0098.parse 3 1 predicted blow-v blow.06 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARGM-LOC
+pri_0098.parse 3 8 predicted frequent-v frequent.01 ----- 8:0-rel  5:1-ARG1 9:1-ARG0
+pri_0098.parse 4 3 predicted wounded-v wounded.- ----- 3:0-rel  0:1-ARG1
+pri_0098.parse 5 8 predicted shoot-v shoot.02 ----- 8:0-rel  4:1-ARG1 9:0-ARGM-PRD
+pri_0098.parse 5 27 predicted shoot-v shoot.02 ----- 27:0-rel  20:2-ARG1 28:1-ARG0 31:1-ARGM-TMP
+pri_0098.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+pri_0098.parse 6 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:2-ARG2
+pri_0098.parse 6 23 predicted ban-v ban.01 ----- 23:0-rel  20:1-ARG0 24:2-ARG1
+pri_0098.parse 6 36 predicted pray-v pray.- ----- 36:0-rel  37:1-ARGM-LOC

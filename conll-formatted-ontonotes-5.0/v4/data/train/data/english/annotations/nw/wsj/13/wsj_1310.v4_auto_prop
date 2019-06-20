@@ -1,0 +1,20 @@
+wsj_1310.parse 0 6 predicted enter-v enter.02 ----- 6:0-rel  0:2-ARG0 7:2-ARG1
+wsj_1310.parse 0 9 predicted require-v require.01 ----- 9:0-rel  7:1-ARG0 10:1-ARG2
+wsj_1310.parse 0 16 predicted pay-v pay.01 ----- 16:0-rel  17:1-ARG2
+wsj_1310.parse 0 22 predicted represent-v represent.01 ----- 22:0-rel  23:2-ARG1
+wsj_1310.parse 0 26 predicted gain-v gain.02 ----- 26:0-rel  23:1-ARG1 25:1-ARG0 27:1-ARG2
+wsj_1310.parse 1 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+wsj_1310.parse 1 16 predicted obtain-v obtain.01 ----- 16:0-rel  13:1-ARG0 17:1-ARG1
+wsj_1310.parse 1 21 predicted organize-v organize.01 ----- 21:0-rel  22:0-ARG1
+wsj_1310.parse 1 24 predicted indict-v indict.01 ----- 24:0-rel  25:1-ARGM-LOC
+wsj_1310.parse 2 6 predicted allege-v allege.01 ----- 6:0-rel  3:1-ARG1 4:1-ARG0
+wsj_1310.parse 3 4 predicted file-v file.01 ----- 4:0-rel  1:1-ARG1 5:1-ARGM-TMP
+wsj_1310.parse 3 11 predicted accuse-v accuse.01 ----- 11:0-rel  0:1-ARGM-LOC 9:1-ARG0 12:2-ARG1
+wsj_1310.parse 3 17 predicted deprive-v deprive.01 ----- 17:0-rel  18:2-ARG2 25:1-ARGM-MNR
+wsj_1310.parse 4 6 predicted claim-v claim.01 ----- 6:0-rel  0:1-ARGM-ADV 4:1-ARG0 7:1-ARG1
+wsj_1310.parse 4 8 predicted organize-v organize.01 ----- 8:0-rel  9:0-ARG1
+wsj_1310.parse 4 13 predicted hand-pick-v hand-pick.- ----- 13:0-rel  8:2-ARG0 12:1-ARGM-MNR 14:2-ARG1
+wsj_1310.parse 5 7 predicted enjoin-v enjoin.01 ----- 7:0-rel  0:2-ARG0 5:1-ARGM-DIS 6:1-ARGM-MNR 8:1-ARG1 10:1-ARG2
+wsj_1310.parse 6 9 predicted settle-v settle.02 ----- 9:0-rel  10:1-ARG1
+wsj_1310.parse 6 13 predicted agree-v agree.01 ----- 13:0-rel  0:2-ARG0 14:2-ARG1
+wsj_1310.parse 6 15 predicted pay-v pay.01 ----- 15:0-rel  0:2-ARG0 16:1-ARG2

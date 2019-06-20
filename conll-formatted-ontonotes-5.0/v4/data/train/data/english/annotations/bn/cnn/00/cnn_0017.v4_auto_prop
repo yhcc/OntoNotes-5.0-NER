@@ -1,0 +1,9 @@
+cnn_0017.parse 0 12 predicted get-v get.01 ----- 12:0-rel  0:2-ARG0 13:2-ARG1
+cnn_0017.parse 1 4 predicted invade-v invade.01 ----- 4:0-rel  0:2-ARG0 5:1-ARG1 8:2-ARGM-ADV
+cnn_0017.parse 1 8 predicted make-v make.02 ----- 8:0-rel  0:2-ARG0 9:2-ARG1
+cnn_0017.parse 1 12 predicted eat-v eat.01 ----- 12:0-rel  13:1-ARG1 14:1-ARGM-LOC
+cnn_0017.parse 1 16 predicted get-v get.05 ----- 16:0-rel  17:1-ARG2
+cnn_0017.parse 2 3 predicted trace-v trace.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+cnn_0017.parse 3 5 predicted give-v give.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG2 8:1-ARGM-TMP 10:2-ARGM-PRP
+cnn_0017.parse 3 11 predicted remove-v remove.01 ----- 11:0-rel  12:1-ARG1
+cnn_0017.parse 3 15 predicted face-v face.01 ----- 15:0-rel  16:1-ARG1

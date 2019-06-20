@@ -1,0 +1,55 @@
+chtb_0136.parse 1 4 predicted announce-v announce.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-LOC
+chtb_0136.parse 1 6 predicted indicate-v indicate.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1
+chtb_0136.parse 1 11 predicted invest-v invest.01 ----- 11:0-rel  8:1-ARG0 10:1-R-ARG0 12:1-ARG2
+chtb_0136.parse 1 14 predicted achieve-v achieve.01 ----- 14:0-rel  8:2-ARG0 15:1-ARG1 18:1-ARGM-TMP
+chtb_0136.parse 2 10 predicted start-v start.01 ----- 10:0-rel  1:1-ARG0 9:1-R-ARG0 11:1-ARG1 12:1-ARGM-TMP
+chtb_0136.parse 2 25 predicted reach-v reach.01 ----- 25:0-rel  0:1-ARGM-ADV 15:1-ARGM-TMP 23:1-ARG0 26:2-ARG1
+chtb_0136.parse 3 28 predicted approve-v approve.01 ----- 28:0-rel  20:2-ARG0 27:1-ARG0
+chtb_0136.parse 3 30 predicted establish-v establish.01 ----- 30:0-rel  27:1-ARG0
+chtb_0136.parse 3 32 predicted reach-v reach.01 ----- 32:0-rel  33:1-ARG1
+chtb_0136.parse 3 36 predicted agree-v agree.01 ----- 36:0-rel  37:0-ARG1 38:0-C-ARG1
+chtb_0136.parse 3 39 predicted be-v be.01 ----- 39:0-rel  35:1-ARG1 40:2-ARG2
+chtb_0136.parse 3 48 predicted agree-v agree.01 ----- 48:0-rel  49:0-ARG1 50:0-C-ARG1
+chtb_0136.parse 3 51 predicted be-v be.01 ----- 51:0-rel  47:1-ARG1 52:2-ARG2
+chtb_0136.parse 4 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0
+chtb_0136.parse 4 28 predicted list-v list.01 ----- 28:0-rel  4:1-ARGM-TMP 12:2-ARG1 29:1-ARG2
+chtb_0136.parse 5 9 predicted be-v be.01 ----- 9:0-rel  3:1-ARG1 8:1-R-ARG1
+chtb_0136.parse 5 14 predicted produce-v produce.01 ----- 14:0-rel  15:1-ARG1
+chtb_0136.parse 5 22 predicted have-v have.03 ----- 22:0-rel  0:1-ARGM-LOC
+chtb_0136.parse 5 26 predicted reach-v reach.01 ----- 26:0-rel  23:1-ARG0 27:2-ARG1
+chtb_0136.parse 6 5 predicted start-v start.01 ----- 5:0-rel  0:1-ARG1 4:1-R-ARG1 6:1-ARGM-LOC
+chtb_0136.parse 6 16 predicted implement-v implement.01 ----- 16:0-rel  0:2-ARG0 15:1-ARGM-MNR
+chtb_0136.parse 6 25 predicted own-v own.01 ----- 25:0-rel  23:0-ARG0 26:0-ARG1
+chtb_0136.parse 6 35 predicted chart-v chart.01 ----- 35:0-rel  0:2-ARG0 36:2-ARG1
+chtb_0136.parse 6 39 predicted expand-v expand.01 ----- 39:0-rel  40:1-ARG2
+chtb_0136.parse 6 42 predicted develop-v develop.01 ----- 42:0-rel  43:1-ARGM-MNR
+chtb_0136.parse 6 45 predicted become-v become.01 ----- 45:0-rel  46:1-ARG2
+chtb_0136.parse 6 52 predicted commend-v commend.- ----- 52:0-rel  51:1-ARGM-MNR 53:1-ARGM-LOC
+chtb_0136.parse 7 10 predicted say-v say.01 ----- 10:0-rel  0:3-ARG0 11:2-ARG1
+chtb_0136.parse 7 44 predicted approve-v approve.01 ----- 44:0-rel  43:0-ARGM-TMP 47:0-C-ARG1
+chtb_0136.parse 7 51 predicted agree-v agree.01 ----- 51:0-rel  52:0-ARG1 53:0-C-ARG1
+chtb_0136.parse 7 54 predicted reach-v reach.01 ----- 54:0-rel  49:1-ARG0
+chtb_0136.parse 7 60 predicted be-v be.01 ----- 60:0-rel  59:1-R-ARG1
+chtb_0136.parse 7 65 predicted achieve-v achieve.01 ----- 65:0-rel  64:1-ARG1 66:4-ARGM-TMP
+chtb_0136.parse 7 80 predicted have-v have.03 ----- 80:0-rel  81:1-ARG1
+chtb_0136.parse 8 9 predicted invest-v invest.01 ----- 9:0-rel  6:2-ARG0 10:1-ARG2
+chtb_0136.parse 8 14 predicted reach-v reach.01 ----- 14:0-rel  0:1-ARGM-TMP 2:2-ARG0 13:1-ARGM-TMP 15:2-ARG1
+chtb_0136.parse 8 25 predicted increase-v increase.01 ----- 25:0-rel  21:2-ARG1 26:1-ARG2
+chtb_0136.parse 9 1 predicted show-v show.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+chtb_0136.parse 9 11 predicted stabilize-v stabilize.01 ----- 11:0-rel  3:2-ARG1
+chtb_0136.parse 9 19 predicted improve-v improve.01 ----- 19:0-rel  14:1-ARG1 18:1-ARGM-ADV
+chtb_0136.parse 9 25 predicted possess-v possess.01 ----- 25:0-rel  21:1-ARG0 24:1-ARGM-TMP
+chtb_0136.parse 10 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:0-ARG1
+chtb_0136.parse 10 7 predicted adopt-v adopt.01 ----- 7:0-rel  3:2-ARG0 8:2-ARG1
+chtb_0136.parse 10 13 predicted improve-v improve.01 ----- 13:0-rel  14:2-ARG1
+chtb_0136.parse 11 9 predicted implement-v implement.01 ----- 9:0-rel  0:1-ARGM-TMP 3:2-ARG0
+chtb_0136.parse 11 22 predicted relate-v relate.01 ----- 22:0-rel  20:0-ARG2 23:0-ARG1
+chtb_0136.parse 11 30 predicted implement-v implement.01 ----- 30:0-rel  31:3-ARG1
+chtb_0136.parse 11 44 predicted promote-v promote.01 ----- 44:0-rel  45:2-ARG1
+chtb_0136.parse 11 59 predicted invest-v invest.01 ----- 59:0-rel  53:2-ARG0 60:1-ARG2
+chtb_0136.parse 11 63 predicted enjoy-v enjoy.01 ----- 63:0-rel  64:2-ARG1
+chtb_0136.parse 12 7 predicted establish-v establish.01 ----- 7:0-rel  0:1-ARG1 8:1-ARGM-LOC
+chtb_0136.parse 12 22 predicted invest-v invest.01 ----- 22:0-rel  20:1-ARG0 23:1-ARG2
+chtb_0136.parse 13 2 predicted establish-v establish.01 ----- 2:0-rel  0:1-ARG0
+chtb_0136.parse 13 16 predicted handle-v handle.01 ----- 16:0-rel  15:1-ARG1 17:2-ARG2
+chtb_0136.parse 14 2 predicted increase-v increase.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1 7:1-ARG2

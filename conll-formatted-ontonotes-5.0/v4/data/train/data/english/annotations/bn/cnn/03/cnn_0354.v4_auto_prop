@@ -1,0 +1,30 @@
+cnn_0354.parse 0 13 predicted acknowledge-v acknowledge.- ----- 13:0-rel  0:1-ARGM-LOC 6:1-ARG0 14:3-ARG1
+cnn_0354.parse 0 26 predicted sleep-v sleep.02 ----- 26:0-rel  16:1-ARG0 25:1-R-ARG0 27:1-ARG1
+cnn_0354.parse 1 1 predicted tell-v tell.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 6:2-ARG1
+cnn_0354.parse 1 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG2
+cnn_0354.parse 2 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0354.parse 2 3 predicted take-v take.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0354.parse 2 7 predicted stand-v stand.01 ----- 7:0-rel  8:1-ARG2 9:1-ARG1
+cnn_0354.parse 2 12 predicted proclaim-v proclaim.01 ----- 12:0-rel  13:1-ARG1
+cnn_0354.parse 3 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+cnn_0354.parse 3 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARG2 3:1-ARG1
+cnn_0354.parse 3 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARG1 8:1-ARGM-DIS 11:1-ARG2 12:1-ARGM-PRD
+cnn_0354.parse 4 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0354.parse 4 6 predicted sleep-v sleep.02 ----- 6:0-rel  4:1-ARG0 5:1-ARGM-DIS 7:1-ARG1
+cnn_0354.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0354.parse 6 2 predicted bear-v bear.02 ----- 2:0-rel  0:1-ARG1
+cnn_0354.parse 6 9 predicted sleep-v sleep.02 ----- 9:0-rel  0:1-ARG0 10:1-ARG1
+cnn_0354.parse 7 4 predicted quibble-v quibble.01 ----- 4:0-rel  3:1-ARGM-PRP 5:1-ARG2
+cnn_0354.parse 8 10 predicted sleep-v sleep.02 ----- 10:0-rel  8:1-ARG0 9:1-ARGM-DIS 11:1-ARG1
+cnn_0354.parse 10 5 predicted have-v have.01 ----- 5:0-rel  2:1-ARG0 3:0-ARGM-MOD 4:0-ARGM-NEG
+cnn_0354.parse 10 8 predicted protest-v protest.02 ----- 8:0-rel  7:1-ARG0
+cnn_0354.parse 12 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG
+cnn_0354.parse 12 5 predicted live-v live.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+cnn_0354.parse 13 5 predicted obsess-v obsess.- ----- 5:0-rel  4:0-ARG1 6:0-ARG0
+cnn_0354.parse 13 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1 8:4-ARG2
+cnn_0354.parse 13 16 predicted sleep-v sleep.02 ----- 16:0-rel  8:2-ARG0 11:1-ARGM-MNR 17:1-ARG1
+cnn_0354.parse 14 3 predicted admit-v admit.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1 5:1-ARG2 7:2-ARGM-MNR
+cnn_0354.parse 14 16 predicted begin-v begin.01 ----- 16:0-rel  0:2-ARGM-TMP 12:0-ARGM-MOD 13:1-ARG1
+cnn_0354.parse 15 3 predicted end-v end.01 ----- 3:0-rel  0:1-ARG1 5:1-ARGM-TMP
+cnn_0354.parse 16 2 predicted be-v be.01 ----- 2:0-rel  3:1-ARG2 5:1-ARGM-TMP
+cnn_0354.parse 18 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARG1 6:1-ARG2

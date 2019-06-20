@@ -1,0 +1,24 @@
+wsj_1078.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 3:1-ARG0 5:3-ARG1
+wsj_1078.parse 0 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1 7:0-ARGM-NEG
+wsj_1078.parse 0 26 predicted face-v face.01 ----- 26:0-rel  25:1-R-ARG0 27:2-ARG1
+wsj_1078.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1078.parse 1 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2
+wsj_1078.parse 2 2 predicted know-v know.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+wsj_1078.parse 2 6 predicted look-v look.01 ----- 6:0-rel  4:1-ARG0 7:1-ARG1
+wsj_1078.parse 2 18 predicted say-v say.01 ----- 18:0-rel  17:1-ARG0 19:0-ARG1
+wsj_1078.parse 3 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:0-ARGM-NEG 6:1-ARG2
+wsj_1078.parse 4 4 predicted confirm-v confirm.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+wsj_1078.parse 4 8 predicted discuss-v discuss.01 ----- 8:0-rel  6:1-ARG0 9:2-ARG1
+wsj_1078.parse 4 15 predicted decline-v decline.02 ----- 15:0-rel  0:1-ARG0 16:2-ARG1
+wsj_1078.parse 4 17 predicted comment-v comment.01 ----- 17:0-rel  0:1-ARG0 18:1-ARG1
+wsj_1078.parse 4 23 predicted plan-v plan.01 ----- 23:0-rel  21:1-ARG0 24:2-ARG1
+wsj_1078.parse 4 25 predicted buy-v buy.01 ----- 25:0-rel  21:1-ARG0 26:2-ARG1
+wsj_1078.parse 5 7 predicted mean-v mean.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+wsj_1078.parse 5 14 predicted announce-v announce.01 ----- 14:0-rel  9:1-ARG0 13:1-R-ARG0 15:1-ARGM-TMP 17:1-ARG1
+wsj_1078.parse 5 26 predicted plummet-v plummet.01 ----- 26:0-rel  18:2-ARG1 27:1-ARG2
+wsj_1078.parse 5 31 predicted have-v have.02 ----- 31:0-rel  30:0-ARGM-MOD
+wsj_1078.parse 5 33 predicted look-v look.01 ----- 33:0-rel  9:2-ARG0 34:1-ARG1
+wsj_1078.parse 5 49 predicted turn-v turn.05 ----- 49:0-rel  42:2-ARG0 51:1-ARG1
+wsj_1078.parse 6 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-TMP 4:1-ARG1
+wsj_1078.parse 6 7 predicted try-v try.01 ----- 7:0-rel  5:1-ARG0 8:2-ARG1
+wsj_1078.parse 6 9 predicted start-v start.01 ----- 9:0-rel  5:1-ARG0 10:2-ARG1

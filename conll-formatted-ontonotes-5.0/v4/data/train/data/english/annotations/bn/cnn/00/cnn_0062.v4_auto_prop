@@ -1,0 +1,5 @@
+cnn_0062.parse 0 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:2-ARG2
+cnn_0062.parse 1 11 predicted join-v join.01 ----- 11:0-rel  0:1-ARGM-ADV 9:1-ARG1 12:1-ARG0
+cnn_0062.parse 3 3 predicted stop-v stop.01 ----- 3:0-rel  0:1-ARG0
+cnn_0062.parse 4 3 predicted hold-v hold.04 ----- 3:0-rel  0:1-ARGM-TMP 2:1-ARG0 4:2-ARG1
+cnn_0062.parse 4 6 predicted call-v call.01 ----- 6:0-rel  4:1-ARG1 7:1-ARG2

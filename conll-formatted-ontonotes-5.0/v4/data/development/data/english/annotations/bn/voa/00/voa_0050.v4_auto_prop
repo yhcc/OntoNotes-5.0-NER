@@ -1,0 +1,9 @@
+voa_0050.parse 0 4 predicted found-v found.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+voa_0050.parse 0 15 predicted kill-v kill.01 ----- 15:0-rel  10:1-ARG1 13:1-R-ARG1 16:2-ARGM-TMP
+voa_0050.parse 0 21 predicted sink-v sink.01 ----- 21:0-rel  16:1-ARGM-TMP 17:2-ARG1 22:1-ARGM-LOC
+voa_0050.parse 1 2 predicted enter-v enter.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+voa_0050.parse 1 12 predicted cut-v cut.02 ----- 12:0-rel  6:1-ARG0
+voa_0050.parse 1 20 predicted enter-v enter.01 ----- 20:0-rel  18:1-ARG0 21:1-ARG1
+voa_0050.parse 2 5 predicted take-v take.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+voa_0050.parse 3 4 predicted expect-v expect.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+voa_0050.parse 3 11 predicted recover-v recover.02 ----- 11:0-rel  6:1-ARG1 9:0-ARGM-MOD

@@ -1,0 +1,8 @@
+cnn_0079.parse 0 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG2
+cnn_0079.parse 0 9 predicted arrive-v arrive.01 ----- 9:0-rel  0:1-ARG1 10:1-ARG4 12:1-ARGM-TMP
+cnn_0079.parse 1 2 predicted carry-v carry.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+cnn_0079.parse 1 4 predicted damage-v damage.01 ----- 4:0-rel  5:0-ARG1 6:0-C-ARG1
+cnn_0079.parse 2 8 predicted kill-v kill.01 ----- 8:0-rel  0:2-ARG0 9:1-ARG1
+cnn_0079.parse 3 10 predicted arrive-v arrive.01 ----- 10:0-rel  0:2-ARG1 11:1-ARG4
+cnn_0079.parse 4 2 predicted assist-v assist.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG2
+cnn_0079.parse 5 3 predicted review-v review.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-DIS 4:2-ARG1

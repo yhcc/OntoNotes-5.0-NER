@@ -1,0 +1,14 @@
+wsj_1054.parse 1 1 predicted work-v work.01 ----- 1:0-rel  2:1-ARGM-MNR
+wsj_1054.parse 1 4 predicted play-v play.01 ----- 4:0-rel  5:1-ARGM-MNR
+wsj_1054.parse 1 10 predicted take-v take.01 ----- 10:0-rel  8:1-ARG1 9:1-ARGM-MNR 11:1-ARGM-MNR
+wsj_1054.parse 1 18 predicted bring-v bring.01 ----- 18:0-rel  16:1-ARG0 17:0-ARGM-MOD 19:2-ARG1
+wsj_1054.parse 4 2 predicted pay-v pay.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2 5:1-ARGM-LOC
+wsj_1054.parse 4 13 predicted depart-v depart.01 ----- 13:0-rel  12:1-ARG0 14:3-ARG1
+wsj_1054.parse 4 15 predicted notice-v notice.01 ----- 15:0-rel  14:1-ARG0 16:2-ARG1
+wsj_1054.parse 4 18 predicted say-v say.01 ----- 18:0-rel  16:1-ARG0
+wsj_1054.parse 4 23 predicted leave-v leave.02 ----- 23:0-rel  22:1-ARG0 24:1-ARG1
+wsj_1054.parse 5 2 predicted go-v go.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-DIR
+wsj_1054.parse 5 5 predicted speak-v speak.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG2
+wsj_1054.parse 5 14 predicted be-v be.01 ----- 14:0-rel  12:1-ARG1 15:1-ARG2
+wsj_1054.parse 5 19 predicted say-v say.01 ----- 19:0-rel  18:1-ARG0
+wsj_1054.parse 6 3 predicted read-v read.01 ----- 3:0-rel  1:1-ARG1 2:0-ARGM-MOD

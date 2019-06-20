@@ -1,0 +1,10 @@
+voa_0134.parse 0 3 predicted turn-v turn.05 ----- 3:0-rel  0:1-ARG0 5:2-ARG1
+voa_0134.parse 1 2 predicted declare-v declare.02 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-TMP
+voa_0134.parse 1 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1 7:1-ARG2
+voa_0134.parse 1 9 predicted recognize-v recognize.01 ----- 9:0-rel  5:1-ARG0 10:1-ARG1
+voa_0134.parse 1 16 predicted add-v add.01 ----- 16:0-rel  17:1-ARG1
+voa_0134.parse 1 29 predicted set-v set.01 ----- 29:0-rel  18:2-ARG1 27:0-ARGM-MOD 30:1-ARG2 31:1-ARGM-TMP
+voa_0134.parse 2 2 predicted reject-v reject.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+voa_0134.parse 2 6 predicted call-v call.01 ----- 6:0-rel  0:1-ARG0 7:1-ARG1
+voa_0134.parse 2 12 predicted fail-v fail.01 ----- 12:0-rel  8:1-ARG1 11:1-R-ARG1 13:2-ARG2
+voa_0134.parse 2 14 predicted address-v address.02 ----- 14:0-rel  11:1-ARG0 15:1-ARG1

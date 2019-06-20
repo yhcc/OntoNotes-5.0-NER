@@ -1,0 +1,27 @@
+cnn_0283.parse 0 1 predicted try-v try.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0283.parse 0 3 predicted bring-v bring.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG2 5:2-ARG1
+cnn_0283.parse 0 12 predicted apply-v apply.02 ----- 12:0-rel  8:1-ARG0 10:1-R-ARG0
+cnn_0283.parse 1 5 predicted look-v look.01 ----- 5:0-rel  6:1-ARG1
+cnn_0283.parse 1 10 predicted do-v do.02 ----- 10:0-rel  7:1-ARG1 8:1-ARG0 11:1-ARGM-TMP
+cnn_0283.parse 2 4 predicted have-v have.03 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+cnn_0283.parse 2 10 predicted need-v need.01 ----- 10:0-rel  9:1-ARG0 11:2-ARGM-PRP
+cnn_0283.parse 2 12 predicted be-v be.01 ----- 12:0-rel  9:1-ARG1 13:1-ARG2
+cnn_0283.parse 3 9 predicted be-v be.01 ----- 9:0-rel  6:1-ARG2 7:1-ARG1
+cnn_0283.parse 4 4 predicted bear-v bear.02 ----- 4:0-rel  0:1-ARG1 2:0-ARGM-LOC
+cnn_0283.parse 5 1 predicted grow-v grow.04 ----- 1:0-rel  0:1-ARG1 3:1-ARGM-LOC
+cnn_0283.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0283.parse 7 9 predicted have-v have.03 ----- 9:0-rel  6:1-ARG0 8:1-R-ARG0 10:2-ARG1
+cnn_0283.parse 7 16 predicted be-v be.01 ----- 16:0-rel  15:1-ARG1 17:1-ARG2
+cnn_0283.parse 7 22 predicted drive-v drive.01 ----- 22:0-rel  20:1-ARG0 23:1-ARGM-LOC
+cnn_0283.parse 7 28 predicted bump-v bump.- ----- 28:0-rel  27:1-ARG0 29:1-ARG1
+cnn_0283.parse 7 32 predicted go-v go.02 ----- 32:0-rel  30:1-ARG0 33:1-ARGM-DIR
+cnn_0283.parse 8 1 predicted recognize-v recognize.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-CAU
+cnn_0283.parse 10 3 predicted see-v see.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1 5:1-ARGM-LOC
+cnn_0283.parse 11 3 predicted feel-v feel.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+cnn_0283.parse 12 3 predicted realize-v realize.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+cnn_0283.parse 13 6 predicted have-v have.03 ----- 6:0-rel  2:1-ARG0 5:1-R-ARG0 7:1-ARG1
+cnn_0283.parse 14 2 predicted stop-v stop.01 ----- 2:0-rel  3:2-ARG1
+cnn_0283.parse 15 2 predicted believe-v believe.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+cnn_0283.parse 16 2 predicted take-v take.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0283.parse 18 2 predicted go-v go.02 ----- 2:0-rel  3:1-ARGM-DIR
+cnn_0283.parse 19 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 3:1-ARG1

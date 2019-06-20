@@ -1,0 +1,7 @@
+wsj_1081.parse 0 9 predicted select-v select.01 ----- 9:0-rel  0:3-ARG1
+wsj_1081.parse 0 11 predicted design-v design.01 ----- 11:0-rel  0:3-ARG0
+wsj_1081.parse 0 13 predicted build-v build.01 ----- 13:0-rel  0:3-ARG0
+wsj_1081.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+wsj_1081.parse 2 7 predicted be-v be.01 ----- 7:0-rel  0:2-ARG1 6:0-ARGM-MOD
+wsj_1081.parse 3 9 predicted construct-v construct.01 ----- 9:0-rel  0:1-ARG1 7:0-ARGM-MOD 10:1-ARGM-LOC
+wsj_1081.parse 4 6 predicted reach-v reach.02 ----- 6:0-rel  0:2-ARG1 3:0-ARGM-MOD 4:0-ARGM-NEG 7:1-ARGM-PNC

@@ -1,0 +1,49 @@
+wsj_1258.parse 0 2 predicted take-v take.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_1258.parse 0 9 predicted take-v take.01 ----- 9:0-rel  7:1-ARG0 10:1-ARG1
+wsj_1258.parse 0 15 predicted mount-v mount.02 ----- 15:0-rel  14:1-ARG1 16:1-C-ARG1
+wsj_1258.parse 1 5 predicted fall-v fall.01 ----- 5:0-rel  0:1-ARG1 6:1-ARG2 8:1-ARG4 10:1-ARGM-LOC
+wsj_1258.parse 2 6 predicted stage-v stage.01 ----- 6:0-rel  0:0-ARGM-DIS 1:2-ARG0 7:1-ARG1
+wsj_1258.parse 2 16 predicted rise-v rise.01 ----- 16:0-rel  12:2-ARG1
+wsj_1258.parse 3 2 predicted sag-v sag.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-MNR 7:1-ARGM-LOC
+wsj_1258.parse 4 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:4-ARG1
+wsj_1258.parse 4 12 predicted be-v be.01 ----- 12:0-rel  4:2-ARG1 13:2-ARG2
+wsj_1258.parse 4 16 predicted grow-v grow.01 ----- 16:0-rel  17:1-ARG1
+wsj_1258.parse 5 1 predicted sink-v sink.01 ----- 1:0-rel  2:0-ARG1
+wsj_1258.parse 5 3 predicted depress-v depress.02 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+wsj_1258.parse 5 13 predicted buoy-v buoy.01 ----- 13:0-rel  12:1-ARG0 14:1-ARG1 16:1-ARGM-TMP
+wsj_1258.parse 5 19 predicted fall-v fall.01 ----- 19:0-rel  17:1-ARG1
+wsj_1258.parse 6 3 predicted expect-v expect.01 ----- 3:0-rel  0:1-ARG1 4:2-C-ARG1
+wsj_1258.parse 6 5 predicted grow-v grow.01 ----- 5:0-rel  0:1-ARG1 6:1-ARGM-TMP
+wsj_1258.parse 6 10 predicted report-v report.01 ----- 10:0-rel  7:1-ARGM-TMP 8:1-ARG0 11:1-ARG1
+wsj_1258.parse 6 30 predicted release-v release.01 ----- 30:0-rel  19:1-ARGM-TMP 20:2-ARG1
+wsj_1258.parse 7 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+wsj_1258.parse 7 3 predicted think-v think.01 ----- 3:0-rel  2:1-ARG0 4:4-ARG1
+wsj_1258.parse 7 7 predicted fall-v fall.01 ----- 7:0-rel  4:2-ARG1 8:2-ARG2
+wsj_1258.parse 7 12 predicted compare-v compare.01 ----- 12:0-rel  13:1-ARG2
+wsj_1258.parse 7 28 predicted slow-v slow.02 ----- 28:0-rel  23:2-ARG1
+wsj_1258.parse 8 6 predicted come-v come.01 ----- 6:0-rel  0:2-ARG1 7:1-ARGM-TMP
+wsj_1258.parse 8 16 predicted surprise-v surprise.01 ----- 16:0-rel  0:3-ARG0 17:1-ARG1
+wsj_1258.parse 9 11 predicted say-v say.01 ----- 11:0-rel  0:0-ARGM-DIS 1:2-ARG0 12:4-ARG1
+wsj_1258.parse 10 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0
+wsj_1258.parse 10 11 predicted be-v be.01 ----- 11:0-rel  0:1-ARGM-ADV 5:2-ARG1 10:0-ARGM-MOD
+wsj_1258.parse 10 16 predicted weaken-v weaken.01 ----- 16:0-rel  14:1-ARG1
+wsj_1258.parse 11 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+wsj_1258.parse 11 8 predicted look-v look.01 ----- 8:0-rel  9:1-ARG1
+wsj_1258.parse 11 10 predicted renew-v renew.01 ----- 10:0-rel  11:0-ARG1 12:0-C-ARG1
+wsj_1258.parse 11 16 predicted say-v say.01 ----- 16:0-rel  15:1-ARG0 17:0-ARG1
+wsj_1258.parse 12 6 predicted decrease-v decrease.01 ----- 6:0-rel  1:1-ARG1 7:2-ARGM-MNR
+wsj_1258.parse 12 12 predicted fall-v fall.01 ----- 12:0-rel  9:1-ARG1 11:0-ARGM-MOD
+wsj_1258.parse 12 17 predicted be-v be.01 ----- 17:0-rel  15:1-ARG1 18:1-ARG2
+wsj_1258.parse 12 21 predicted see-v see.01 ----- 21:0-rel  19:1-ARG0 20:0-ARGM-MOD 22:1-ARG1
+wsj_1258.parse 13 11 predicted agree-v agree.01 ----- 11:0-rel  0:2-ARG0 12:1-ARG1
+wsj_1258.parse 13 14 predicted deteriorate-v deteriorate.01 ----- 14:0-rel  15:0-ARG1
+wsj_1258.parse 13 16 predicted be-v be.01 ----- 16:0-rel  13:1-ARG1 17:1-ARG2
+wsj_1258.parse 13 21 predicted say-v say.01 ----- 21:0-rel  20:1-ARG0 22:4-ARG1
+wsj_1258.parse 13 28 predicted be-v be.01 ----- 28:0-rel  22:2-ARG1 29:1-ARG2
+wsj_1258.parse 14 7 predicted slump-v slump.01 ----- 7:0-rel  0:1-ARGM-LOC 5:1-ARG1 8:1-ARGM-LOC
+wsj_1258.parse 15 7 predicted total-v total.01 ----- 7:0-rel  0:2-ARG1 8:2-ARG2
+wsj_1258.parse 16 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG2
+wsj_1258.parse 17 2 predicted rally-v rally.02 ----- 2:0-rel  0:1-ARG1
+wsj_1258.parse 18 11 predicted slip-v slip.01 ----- 11:0-rel  0:2-ARG1 12:1-ARG4
+wsj_1258.parse 19 2 predicted weaken-v weaken.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-ADV
+wsj_1258.parse 20 9 predicted quoted-v quoted.- ----- 9:0-rel  6:1-ARG1

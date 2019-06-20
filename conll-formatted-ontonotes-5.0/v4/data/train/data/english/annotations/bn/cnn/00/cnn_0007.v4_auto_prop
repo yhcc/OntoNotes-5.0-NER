@@ -1,0 +1,8 @@
+cnn_0007.parse 0 1 predicted study-v study.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0007.parse 1 3 predicted get-v get.01 ----- 3:0-rel  0:2-ARG0 4:1-ARG1
+cnn_0007.parse 2 3 predicted bring-v bring.01 ----- 3:0-rel  1:1-ARG0 4:1-ARG1 5:1-ARG2
+cnn_0007.parse 2 7 predicted infect-v infect.01 ----- 7:0-rel  1:1-ARG0 8:1-ARG1
+cnn_0007.parse 2 15 predicted help-v help.01 ----- 15:0-rel  0:1-ARGM-ADV 12:1-ARG0 16:2-ARG1
+cnn_0007.parse 2 16 predicted reduce-v reduce.01 ----- 16:0-rel  17:1-ARG1 19:1-ARG2
+cnn_0007.parse 3 2 predicted reduce-v reduce.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0007.parse 4 2 predicted publish-v publish.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-LOC

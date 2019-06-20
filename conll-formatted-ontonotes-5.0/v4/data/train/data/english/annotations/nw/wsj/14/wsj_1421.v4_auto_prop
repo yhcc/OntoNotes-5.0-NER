@@ -1,0 +1,112 @@
+wsj_1421.parse 0 5 predicted deny-v deny.01 ----- 5:0-rel  0:2-ARG0 4:1-ARGM-MNR 6:2-ARG1
+wsj_1421.parse 0 6 predicted play-v play.02 ----- 6:0-rel  0:2-ARG0
+wsj_1421.parse 1 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:3-ARG1
+wsj_1421.parse 1 17 predicted suggest-v suggest.01 ----- 17:0-rel  10:1-ARG0 13:0-ARGM-NEG 14:1-ARGM-MNR 18:1-ARG2
+wsj_1421.parse 1 23 predicted stay-v stay.01 ----- 23:0-rel  22:1-ARG1
+wsj_1421.parse 1 29 predicted leveraged-v leveraged.- ----- 29:0-rel  26:1-ARG1 30:2-ARG2
+wsj_1421.parse 2 5 predicted suggest-v suggest.01 ----- 5:0-rel  0:1-ARG0 3:1-ARGM-TMP 4:1-ARGM-DIS 6:1-ARG1
+wsj_1421.parse 2 9 predicted be-v be.01 ----- 9:0-rel  7:1-ARG1 10:1-ARG2
+wsj_1421.parse 2 21 predicted say-v say.01 ----- 21:0-rel  18:0-ARG1 19:1-ARG0 22:0-C-ARG1
+wsj_1421.parse 3 2 predicted be-v be.02 ----- 2:0-rel  3:3-ARG1
+wsj_1421.parse 3 12 predicted send-v send.01 ----- 12:0-rel  10:1-R-ARG0 11:1-ARG0 13:2-ARG1
+wsj_1421.parse 3 20 predicted declare-v declare.02 ----- 20:0-rel  19:1-ARG0 21:1-ARGM-LOC
+wsj_1421.parse 4 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+wsj_1421.parse 4 7 predicted detail-v detail.01 ----- 7:0-rel  6:0-ARGM-TMP 8:0-ARG1 9:0-C-ARG1
+wsj_1421.parse 4 23 predicted think-v think.01 ----- 23:0-rel  21:1-ARG0 22:0-ARGM-MOD 24:3-ARG1
+wsj_1421.parse 4 26 predicted use-v use.01 ----- 26:0-rel  24:1-ARG0 27:1-ARG1 31:2-ARG2
+wsj_1421.parse 4 32 predicted control-v control.01 ----- 32:0-rel  24:1-ARG0 33:2-ARG1
+wsj_1421.parse 5 7 predicted lead-v lead.03 ----- 7:0-rel  5:1-ARG0 8:1-ARG2
+wsj_1421.parse 5 21 predicted accuse-v accuse.01 ----- 21:0-rel  0:2-ARG0 22:1-ARG1 24:1-ARG2
+wsj_1421.parse 6 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+wsj_1421.parse 6 9 predicted do-v do.02 ----- 9:0-rel  3:1-ARG1 5:1-ARG0 8:1-ARGM-TMP
+wsj_1421.parse 6 11 predicted ask-v ask.01 ----- 11:0-rel  3:2-ARG0
+wsj_1421.parse 6 26 predicted leveraged-v leveraged.- ----- 26:0-rel  12:3-ARG0 27:1-ARG1
+wsj_1421.parse 7 2 predicted inquired-v inquired.- ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_1421.parse 7 10 predicted decline-v decline.02 ----- 10:0-rel  8:1-ARG0 11:2-ARG1
+wsj_1421.parse 7 12 predicted identify-v identify.01 ----- 12:0-rel  7:1-ARG1 8:1-ARG0
+wsj_1421.parse 7 28 predicted criticize-v criticize.01 ----- 28:0-rel  15:2-ARG1 27:1-ARGM-MNR 29:1-ARGM-LOC
+wsj_1421.parse 7 42 predicted grasp-v grasp.01 ----- 42:0-rel  40:1-ARG0 43:1-ARG1
+wsj_1421.parse 8 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1421.parse 8 6 predicted make-v make.03 ----- 6:0-rel  2:1-ARG1 5:0-ARGM-NEG 7:1-ARGM-MNR
+wsj_1421.parse 8 15 predicted interpret-v interpret.01 ----- 15:0-rel  8:1-ARG1 10:1-R-ARG1 11:1-ARG0 13:0-ARGM-MOD 16:1-ARG2
+wsj_1421.parse 8 18 predicted encourage-v encourage.02 ----- 18:0-rel  11:1-ARG0 17:1-ARGM-ADV 21:1-ARG1
+wsj_1421.parse 8 20 predicted discourage-v discourage.- ----- 20:0-rel  11:1-ARG0 21:1-ARG1
+wsj_1421.parse 8 25 predicted add-v add.01 ----- 25:0-rel  24:1-ARG0 26:1-ARG1
+wsj_1421.parse 8 32 predicted change-v change.01 ----- 32:0-rel  27:2-ARG0 33:1-ARG1 35:1-ARG2 38:1-ARGM-CAU
+wsj_1421.parse 9 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:3-ARG1
+wsj_1421.parse 9 7 predicted be-v be.01 ----- 7:0-rel  4:1-ARG1 8:1-ARG2
+wsj_1421.parse 9 10 predicted participate-v participate.01 ----- 10:0-rel  4:1-ARG0 11:1-ARG1
+wsj_1421.parse 9 23 predicted suggest-v suggest.01 ----- 23:0-rel  17:1-ARG0 21:1-R-ARG0 22:0-ARGM-MOD 24:1-ARGM-DIS
+wsj_1421.parse 9 30 predicted be-v be.01 ----- 30:0-rel  29:1-ARG1 31:0-ARGM-NEG 32:1-ARG2
+wsj_1421.parse 9 35 predicted back-v back.02 ----- 35:0-rel  33:1-ARG1
+wsj_1421.parse 10 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG1 2:0-C-ARG1 3:1-ARG0
+wsj_1421.parse 10 10 predicted become-v become.01 ----- 10:0-rel  7:1-ARG1 11:1-ARG2
+wsj_1421.parse 11 4 predicted have-v have.03 ----- 4:0-rel  1:1-ARG0 5:2-ARG1
+wsj_1421.parse 11 22 predicted say-v say.01 ----- 22:0-rel  21:1-ARG0 23:0-ARG1
+wsj_1421.parse 12 3 predicted become-v become.01 ----- 3:0-rel  0:0-ARG1 1:1-ARG1 4:1-ARG2
+wsj_1421.parse 13 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+wsj_1421.parse 14 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+wsj_1421.parse 14 8 predicted decide-v decide.01 ----- 8:0-rel  4:1-ARG0 7:1-R-ARG0 9:1-ARG1
+wsj_1421.parse 14 11 predicted participate-v participate.01 ----- 11:0-rel  7:1-ARG0 9:0-ARGM-NEG 12:1-ARG1
+wsj_1421.parse 15 4 predicted deny-v deny.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+wsj_1421.parse 15 9 predicted play-v play.02 ----- 9:0-rel  6:1-ARG0 10:1-ARG1 12:1-ARGM-LOC
+wsj_1421.parse 16 2 predicted make-v make.03 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+wsj_1421.parse 16 9 predicted say-v say.01 ----- 9:0-rel  8:1-ARG0 10:0-ARG1
+wsj_1421.parse 17 5 predicted have-v have.03 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-MOD
+wsj_1421.parse 17 9 predicted convince-v convince.01 ----- 9:0-rel  2:1-ARG0
+wsj_1421.parse 17 13 predicted have-v have.03 ----- 13:0-rel  12:1-R-ARG0
+wsj_1421.parse 17 17 predicted believe-v believe.01 ----- 17:0-rel  10:1-ARG0 12:1-R-ARG0 14:1-ARGM-MNR 18:1-ARG1
+wsj_1421.parse 17 21 predicted play-v play.02 ----- 21:0-rel  19:1-ARG0
+wsj_1421.parse 18 4 predicted be-v be.02 ----- 4:0-rel  0:1-ARG1 5:2-ARG1
+wsj_1421.parse 19 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1421.parse 19 7 predicted grow-v grow.02 ----- 7:0-rel  3:1-ARG1
+wsj_1421.parse 19 18 predicted get-v get.03 ----- 18:0-rel  16:1-ARG1 20:1-ARG2
+wsj_1421.parse 20 5 predicted think-v think.01 ----- 5:0-rel  1:1-ARG0 6:3-ARG1
+wsj_1421.parse 20 10 predicted know-v know.01 ----- 10:0-rel  6:1-ARG0 9:0-ARGM-NEG 11:2-ARG1
+wsj_1421.parse 20 14 predicted do-v do.02 ----- 14:0-rel  11:1-ARG1 12:1-ARG0
+wsj_1421.parse 20 18 predicted have-v have.03 ----- 18:0-rel  17:1-ARG0
+wsj_1421.parse 20 24 predicted cope-v cope.01 ----- 24:0-rel  22:1-ARGM-MNR 25:1-ARG1
+wsj_1421.parse 20 29 predicted say-v say.01 ----- 29:0-rel  30:2-ARG0
+wsj_1421.parse 20 35 predicted ask-v ask.02 ----- 35:0-rel  30:1-ARG0 34:1-R-ARG0 36:1-ARG1
+wsj_1421.parse 20 39 predicted identify-v identify.01 ----- 39:0-rel  34:1-ARG1 36:0-ARGM-NEG
+wsj_1421.parse 21 5 predicted want-v want.01 ----- 5:0-rel  1:1-ARG0 6:2-ARG1
+wsj_1421.parse 21 7 predicted see-v see.01 ----- 7:0-rel  1:1-ARG0 8:2-ARG1
+wsj_1421.parse 21 11 predicted pull-v pull.01 ----- 11:0-rel  8:1-ARG0 12:1-ARG2 13:1-ARG1 16:1-ARGM-ADV
+wsj_1421.parse 21 23 predicted add-v add.01 ----- 23:0-rel  22:1-ARG0 24:0-ARG1
+wsj_1421.parse 22 6 predicted involve-v involve.01 ----- 6:0-rel  3:1-ARG1 7:1-ARG2
+wsj_1421.parse 22 10 predicted propose-v propose.01 ----- 10:0-rel  11:0-ARG1
+wsj_1421.parse 22 14 predicted bow-v bow.06 ----- 14:0-rel  1:2-ARG0 16:1-ARGM-CAU
+wsj_1421.parse 22 18 predicted found-v found.01 ----- 18:0-rel  17:1-ARG0 19:2-ARG1
+wsj_1421.parse 22 25 predicted say-v say.01 ----- 25:0-rel  0:1-ARGM-ADV 23:2-ARG0 26:3-ARG1
+wsj_1421.parse 22 27 predicted have-v have.03 ----- 27:0-rel  26:1-ARG0 28:2-ARG1
+wsj_1421.parse 22 31 predicted believe-v believe.01 ----- 31:0-rel  26:1-ARG0 32:1-ARG1
+wsj_1421.parse 22 35 predicted be-v be.01 ----- 35:0-rel  33:1-ARG1 36:1-ARG2
+wsj_1421.parse 23 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+wsj_1421.parse 23 13 predicted say-v say.01 ----- 13:0-rel  0:2-ARG1 11:1-ARG0 14:0-C-ARG1
+wsj_1421.parse 24 3 predicted point-v point.02 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 5:1-ARG1
+wsj_1421.parse 24 8 predicted have-v have.03 ----- 8:0-rel  6:1-ARG0 9:2-ARG1
+wsj_1421.parse 24 15 predicted be-v be.01 ----- 15:0-rel  13:1-ARG1 14:1-R-ARG1 16:0-ARGM-NEG 17:1-ARG2
+wsj_1421.parse 24 21 predicted offer-v offer.01 ----- 21:0-rel  20:1-ARG0 22:1-ARG1
+wsj_1421.parse 24 25 predicted build-v build.02 ----- 25:0-rel  26:1-ARG1
+wsj_1421.parse 24 29 predicted cement-v cement.01 ----- 29:0-rel  30:1-ARG1
+wsj_1421.parse 24 35 predicted curry-v curry.01 ----- 35:0-rel  36:1-ARG1 37:1-ARG2
+wsj_1421.parse 25 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-ADV 2:1-ARG1 6:1-ARG2
+wsj_1421.parse 26 13 predicted caution-v caution.01 ----- 13:0-rel  0:1-ARGM-LOC 7:2-ARG0 14:1-ARG2 15:2-ARG1
+wsj_1421.parse 26 16 predicted take-v take.01 ----- 16:0-rel  14:1-ARG0 17:2-ARG1
+wsj_1421.parse 26 22 predicted regard-v regard.01 ----- 22:0-rel  17:1-ARG0 23:2-ARG1
+wsj_1421.parse 26 24 predicted leveraged-v leveraged.- ----- 24:0-rel  23:0-ARGM-MNR 25:0-ARG1
+wsj_1421.parse 27 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-ADV 6:1-ARG1 8:2-ARG2
+wsj_1421.parse 27 18 predicted make-v make.01 ----- 18:0-rel  13:1-ARG0 17:1-R-ARG0 19:1-ARG1
+wsj_1421.parse 28 4 predicted cool-v cool.01 ----- 4:0-rel  1:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+wsj_1421.parse 28 8 predicted leveraged-v leveraged.- ----- 8:0-rel  9:0-ARG1
+wsj_1421.parse 28 16 predicted be-v be.01 ----- 16:0-rel  0:1-ARGM-ADV 14:1-ARG1 17:0-ARGM-NEG 18:1-ARG2
+wsj_1421.parse 28 20 predicted walk-v walk.01 ----- 20:0-rel  14:1-ARG0
+wsj_1421.parse 29 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-ADV 4:1-ARG1 6:0-ARGM-MOD 8:2-ARG2
+wsj_1421.parse 29 15 predicted increase-v increase.01 ----- 15:0-rel  12:1-ARG0 16:2-ARG1
+wsj_1421.parse 29 25 predicted say-v say.01 ----- 25:0-rel  23:1-ARG0 26:0-ARG1
+wsj_1421.parse 30 11 predicted lend-v lend.01 ----- 11:0-rel  8:1-ARG2 12:1-ARG1
+wsj_1421.parse 30 16 predicted be-v be.01 ----- 16:0-rel  14:1-ARG1 17:1-ARG2
+wsj_1421.parse 30 19 predicted expand-v expand.01 ----- 19:0-rel  14:1-ARG0 20:1-ARGM-LOC
+wsj_1421.parse 31 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:2-ARG2
+wsj_1421.parse 31 11 predicted leap-frog-v leap-frog.- ----- 11:0-rel  6:1-ARG0 12:2-ARG1
+wsj_1421.parse 31 16 predicted have-v have.03 ----- 16:0-rel  15:0-ARGM-NEG 17:1-ARG1

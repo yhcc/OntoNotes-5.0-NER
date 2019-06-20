@@ -1,0 +1,12 @@
+chtb_0172.parse 0 3 predicted prepare-v prepare.02 ----- 3:0-rel  0:1-ARG0 4:2-ARG2
+chtb_0172.parse 0 5 predicted withdraw-v withdraw.01 ----- 5:0-rel  0:1-ARG0 6:2-ARG1
+chtb_0172.parse 0 8 predicted station-v station.01 ----- 8:0-rel  6:1-ARG1 9:1-ARG2
+chtb_0172.parse 0 11 predicted start-v start.01 ----- 11:0-rel  12:1-ARGM-TMP
+chtb_0172.parse 0 18 predicted withdraw-v withdraw.01 ----- 18:0-rel  19:1-ARGM-EXT
+chtb_0172.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+chtb_0172.parse 1 4 predicted put-v put.03 ----- 4:0-rel  2:1-ARG1 5:1-ARGM-DIR 6:1-ARG0
+chtb_0172.parse 1 15 predicted hold-v hold.04 ----- 15:0-rel  10:2-ARG1 16:1-ARGM-LOC 18:1-ARGM-ADV
+chtb_0172.parse 1 24 predicted withdraw-v withdraw.01 ----- 24:0-rel  19:2-ARG0 25:1-ARG1
+chtb_0172.parse 1 32 predicted go-v go.02 ----- 32:0-rel  27:2-ARG0 33:1-ARGM-DIR
+chtb_0172.parse 2 3 predicted be-v be.02 ----- 3:0-rel  0:1-ARGM-TMP 4:3-ARG1
+chtb_0172.parse 2 8 predicted station-v station.01 ----- 8:0-rel  4:2-ARG1 9:1-ARG2

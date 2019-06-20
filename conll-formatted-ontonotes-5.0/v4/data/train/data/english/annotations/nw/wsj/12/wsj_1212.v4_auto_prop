@@ -1,0 +1,12 @@
+wsj_1212.parse 1 12 predicted sell-v sell.01 ----- 12:0-rel  10:1-ARG0
+wsj_1212.parse 1 14 predicted buy-v buy.01 ----- 14:0-rel  10:1-ARG0 15:1-ARGM-MNR
+wsj_1212.parse 1 27 predicted behave-v behave.01 ----- 27:0-rel  26:1-ARG0 28:1-ARG1
+wsj_1212.parse 4 2 predicted learn-v learn.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARG2
+wsj_1212.parse 4 12 predicted do-v do.02 ----- 12:0-rel  8:1-ARG1 10:1-ARGM-MNR
+wsj_1212.parse 4 20 predicted answer-v answer.01 ----- 20:0-rel  15:1-ARG1 17:0-ARGM-MOD 18:0-ARGM-NEG
+wsj_1212.parse 4 23 predicted answer-v answer.01 ----- 23:0-rel  14:1-ARGM-ADV 22:1-ARGM-MNR 24:1-ARG1
+wsj_1212.parse 7 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+wsj_1212.parse 7 3 predicted get-v get.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+wsj_1212.parse 7 7 predicted set-v set.03 ----- 7:0-rel  4:1-ARG1 9:1-ARGM-TMP
+wsj_1212.parse 7 15 predicted want-v want.01 ----- 15:0-rel  11:1-ARGM-ADV 14:1-ARG0 16:2-ARG1
+wsj_1212.parse 7 17 predicted step-v step.01 ----- 17:0-rel  14:1-ARG0 19:1-ARGM-PNC

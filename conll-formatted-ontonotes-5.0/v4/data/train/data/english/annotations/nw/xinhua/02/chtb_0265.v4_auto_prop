@@ -1,0 +1,24 @@
+chtb_0265.parse 1 2 predicted learn-v learn.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+chtb_0265.parse 1 18 predicted select-v select.01 ----- 18:0-rel  12:1-ARG0 17:1-ARGM-TMP
+chtb_0265.parse 1 30 predicted entrust-v entrust.01 ----- 30:0-rel  28:1-R-ARG1 31:1-ARG0
+chtb_0265.parse 2 3 predicted start-v start.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1 5:1-ARGM-TMP
+chtb_0265.parse 2 9 predicted construct-v construct.01 ----- 9:0-rel  8:1-ARGM-TMP 10:2-ARG1
+chtb_0265.parse 3 5 predicted start-v start.01 ----- 5:0-rel  0:2-ARG1 6:1-ARGM-DIR 8:1-ARGM-LOC
+chtb_0265.parse 3 12 predicted end-v end.02 ----- 12:0-rel  0:2-ARG1 13:1-ARGM-LOC 15:1-ARGM-LOC
+chtb_0265.parse 3 29 predicted estimate-v estimate.01 ----- 29:0-rel  30:0-ARG1
+chtb_0265.parse 4 5 predicted list-v list.01 ----- 5:0-rel  6:1-ARG2 12:1-ARG0 15:1-ARGM-TMP
+chtb_0265.parse 4 19 predicted be-v be.01 ----- 19:0-rel  0:1-ARG1 20:2-ARG2
+chtb_0265.parse 5 3 predicted travel-v travel.01 ----- 3:0-rel  4:0-ARG0
+chtb_0265.parse 5 7 predicted consult-v consult.01 ----- 7:0-rel  0:2-ARG0 6:1-ARGM-MNR 10:1-ARG1
+chtb_0265.parse 5 9 predicted negotiate-v negotiate.01 ----- 9:0-rel  0:2-ARG0 6:1-ARGM-MNR 10:1-ARG1
+chtb_0265.parse 5 23 predicted hand-v hand.01 ----- 23:0-rel  18:2-ARG0
+chtb_0265.parse 6 8 predicted be-v be.01 ----- 8:0-rel  0:3-ARG1 9:2-ARG2
+chtb_0265.parse 6 15 predicted enter-v enter.01 ----- 15:0-rel  9:1-ARG0 14:1-R-ARG0 16:1-ARG1 17:1-ARGM-TMP
+chtb_0265.parse 7 12 predicted be-v be.01 ----- 12:0-rel  0:2-ARG1 13:3-ARG2
+chtb_0265.parse 8 10 predicted promise-v promise.01 ----- 10:0-rel  0:3-ARG0 11:2-ARG2
+chtb_0265.parse 8 13 predicted invest-v invest.01 ----- 13:0-rel  0:3-ARG0 12:1-ARGM-MNR 14:1-ARG2
+chtb_0265.parse 8 22 predicted be-v be.01 ----- 22:0-rel  0:3-ARG1 23:1-ARG2
+chtb_0265.parse 8 25 predicted carry-v carry.03 ----- 25:0-rel  0:3-ARG0 27:2-ARG1
+chtb_0265.parse 9 10 predicted invest-v invest.01 ----- 10:0-rel  0:1-ARGM-TMP 4:2-ARG1 8:0-ARGM-MOD 11:2-ARGM-PRP
+chtb_0265.parse 9 12 predicted complete-v complete.01 ----- 12:0-rel  13:3-ARG1
+chtb_0265.parse 9 37 predicted sign-v sign.02 ----- 37:0-rel  25:1-ARGM-TMP 29:2-ARG1 35:0-ARGM-MOD 38:1-ARG2

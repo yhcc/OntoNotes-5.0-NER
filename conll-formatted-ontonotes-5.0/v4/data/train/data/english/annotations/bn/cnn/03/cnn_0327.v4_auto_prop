@@ -1,0 +1,18 @@
+cnn_0327.parse 0 4 predicted come-v come.01 ----- 4:0-rel  0:2-ARG1 6:1-ARGM-LOC
+cnn_0327.parse 0 16 predicted land-v land.01 ----- 16:0-rel  0:2-ARG0 17:2-ARG1
+cnn_0327.parse 0 17 predicted hit-v hit.01 ----- 17:0-rel  0:2-ARG0 18:1-ARG1
+cnn_0327.parse 1 8 predicted take-v take.14 ----- 8:0-rel  2:1-ARG1 6:1-R-ARG1 9:1-ARG2 10:1-ARGM-LOC
+cnn_0327.parse 2 3 predicted come-v come.01 ----- 3:0-rel  1:1-ARG1 4:1-ARG4
+cnn_0327.parse 2 8 predicted spend-v spend.02 ----- 8:0-rel  0:1-ARGM-TMP 5:0-ARGM-DIS 6:1-ARG0 7:1-ARGM-TMP 9:2-ARG1
+cnn_0327.parse 2 14 predicted talk-v talk.01 ----- 14:0-rel  15:1-ARG2
+cnn_0327.parse 2 28 predicted take-v take.01 ----- 28:0-rel  29:1-ARG1 30:1-ARG2
+cnn_0327.parse 2 34 predicted wear-v wear.01 ----- 34:0-rel  33:1-ARGM-TMP 35:1-ARG1
+cnn_0327.parse 2 44 predicted talk-v talk.01 ----- 44:0-rel  45:1-ARG2
+cnn_0327.parse 2 55 predicted issue-v issue.01 ----- 55:0-rel  52:1-ARG0 53:0-ARGM-MOD 56:1-ARG1
+cnn_0327.parse 2 63 predicted regard-v regard.01 ----- 63:0-rel  60:1-ARG0 64:2-ARG1
+cnn_0327.parse 3 3 predicted call-v call.01 ----- 3:0-rel  0:2-ARG0 4:1-ARG1
+cnn_0327.parse 4 3 predicted take-v take.01 ----- 3:0-rel  4:2-ARG1
+cnn_0327.parse 4 15 predicted go-v go.02 ----- 15:0-rel  0:1-ARGM-TMP 13:1-ARG0 14:1-ARGM-ADV 17:1-ARG4
+cnn_0327.parse 4 23 predicted observe-v observe.01 ----- 23:0-rel  0:1-ARGM-TMP 13:1-ARG0 24:2-ARG1
+cnn_0327.parse 4 38 predicted leave-v leave.01 ----- 38:0-rel  32:1-ARG0 35:1-R-ARG0 37:1-ARGM-TMP
+cnn_0327.parse 4 42 predicted head-v head.02 ----- 42:0-rel  39:1-ARG1 43:1-ARG4 45:1-ARGM-TMP

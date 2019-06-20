@@ -1,0 +1,8 @@
+wsj_1235.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1235.parse 0 5 predicted receive-v receive.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+wsj_1235.parse 0 12 predicted provide-v provide.01 ----- 12:0-rel  13:1-ARG1 16:1-ARG2
+wsj_1235.parse 1 3 predicted provide-v provide.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:1-ARG1
+wsj_1235.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1235.parse 2 3 predicted expect-v expect.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+wsj_1235.parse 2 5 predicted expand-v expand.01 ----- 5:0-rel  2:1-ARG0 6:2-ARG1
+wsj_1235.parse 2 13 predicted add-v add.02 ----- 13:0-rel  12:1-ARG0 14:2-ARG1

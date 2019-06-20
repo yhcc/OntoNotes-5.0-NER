@@ -1,0 +1,11 @@
+pri_0067.parse 0 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:1-ARGM-TMP 7:1-ARG1
+pri_0067.parse 0 9 predicted be-v be.01 ----- 9:0-rel  8:1-ARG1 10:1-ARG2
+pri_0067.parse 0 12 predicted hold-v hold.04 ----- 12:0-rel  8:1-ARG0 13:1-ARG1
+pri_0067.parse 0 18 predicted come-v come.01 ----- 18:0-rel  16:1-ARG1
+pri_0067.parse 0 24 predicted sink-v sink.01 ----- 24:0-rel  20:2-ARG1 25:1-ARGM-LOC 28:1-ARGM-TMP
+pri_0067.parse 1 3 predicted expect-v expect.01 ----- 3:0-rel  0:1-ARG1 4:2-C-ARG1
+pri_0067.parse 1 5 predicted negotiate-v negotiate.01 ----- 5:0-rel  0:1-ARG0
+pri_0067.parse 2 3 predicted recommend-v recommend.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+pri_0067.parse 2 7 predicted set-v set.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+pri_0067.parse 3 3 predicted mean-v mean.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+pri_0067.parse 3 12 predicted end-v end.02 ----- 12:0-rel  5:3-ARG1 11:0-ARGM-MOD 13:3-ARGM-TMP

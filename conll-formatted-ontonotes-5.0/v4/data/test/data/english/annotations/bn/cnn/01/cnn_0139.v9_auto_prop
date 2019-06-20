@@ -1,0 +1,12 @@
+cnn_0139.parse 0 6 predicted come-v come.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG4 8:1-ARGM-TMP
+cnn_0139.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0139.parse 1 4 predicted arrive-v arrive.01 ----- 4:0-rel  5:1-ARG4 10:1-ARGM-TMP
+cnn_0139.parse 2 3 predicted christen-v christen.- ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC 5:2-ARGM-TMP
+cnn_0139.parse 3 2 predicted expect-v expect.01 ----- 2:0-rel  0:1-ARG1 3:2-C-ARG1
+cnn_0139.parse 3 4 predicted cost-v cost.01 ----- 4:0-rel  0:1-ARG1 5:2-ARG2
+cnn_0139.parse 4 6 predicted investigate-v investigate.01 ----- 6:0-rel  0:2-ARG0 5:1-ARGM-TMP 7:1-ARG1
+cnn_0139.parse 5 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1
+cnn_0139.parse 6 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:5-ARG1
+cnn_0139.parse 6 10 predicted go-v go.08 ----- 10:0-rel  5:3-ARG0 9:0-ARGM-MOD
+cnn_0139.parse 7 2 predicted suspect-v suspect.01 ----- 2:0-rel  0:1-ARG2 3:1-ARG1
+cnn_0139.parse 7 4 predicted belong-v belong.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1

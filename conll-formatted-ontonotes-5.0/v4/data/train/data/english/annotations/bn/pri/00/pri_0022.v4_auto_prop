@@ -1,0 +1,18 @@
+pri_0022.parse 0 4 predicted claim-v claim.01 ----- 4:0-rel  0:1-ARG0
+pri_0022.parse 1 2 predicted die-v die.01 ----- 2:0-rel  0:1-ARG1 3:2-ARGM-TMP
+pri_0022.parse 1 6 predicted rip-v rip.01 ----- 6:0-rel  3:1-ARGM-TMP 4:1-ARG0 18:1-ARGM-TMP
+pri_0022.parse 2 5 predicted report-v report.01 ----- 5:0-rel  0:2-ARG0
+pri_0022.parse 3 4 predicted call-v call.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 6:1-ARG2
+pri_0022.parse 3 14 predicted say-v say.01 ----- 14:0-rel  0:2-ARG0 15:3-ARG1
+pri_0022.parse 3 17 predicted bomb-v bomb.- ----- 17:0-rel  15:1-ARG0 18:1-ARG1
+pri_0022.parse 3 22 predicted defend-v defend.01 ----- 22:0-rel  15:1-ARG0 23:1-ARG1
+pri_0022.parse 3 27 predicted avenge-v avenge.01 ----- 27:0-rel  15:1-ARG0 28:2-ARG1
+pri_0022.parse 3 32 predicted kill-v kill.01 ----- 32:0-rel  31:1-ARG1 33:1-ARG0
+pri_0022.parse 4 14 predicted direct-v direct.01 ----- 14:0-rel  0:2-ARG1 13:1-ARGM-ADV 15:1-ARG2
+pri_0022.parse 4 22 predicted see-v see.01 ----- 22:0-rel  16:1-ARGM-LOC 20:1-R-ARG1 23:1-ARGM-ADV
+pri_0022.parse 4 32 predicted associate-v associate.01 ----- 32:0-rel  29:1-ARG1 31:1-ARGM-TMP 33:1-ARG2
+pri_0022.parse 5 3 predicted call-v call.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+pri_0022.parse 5 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:4-ARG1
+pri_0022.parse 5 11 predicted carry-v carry.03 ----- 11:0-rel  10:1-ARG0 13:1-ARG1
+pri_0022.parse 5 23 predicted plan-v plan.01 ----- 23:0-rel  22:1-ARG0 24:2-ARG1
+pri_0022.parse 5 25 predicted bomb-v bomb.- ----- 25:0-rel  22:1-ARG0 26:1-ARG1

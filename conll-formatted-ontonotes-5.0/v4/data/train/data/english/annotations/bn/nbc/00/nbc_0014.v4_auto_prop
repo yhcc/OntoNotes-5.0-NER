@@ -1,0 +1,39 @@
+nbc_0014.parse 0 6 predicted assess-v assess.01 ----- 6:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARGM-TMP 7:2-ARG1
+nbc_0014.parse 0 9 predicted make-v make.01 ----- 9:0-rel  7:1-ARG1 10:1-ARG2
+nbc_0014.parse 1 3 predicted call-v call.03 ----- 3:0-rel  0:1-ARG0
+nbc_0014.parse 1 21 predicted target-v target.01 ----- 21:0-rel  0:1-ARG0 20:1-ARGM-MNR 22:2-ARG1 26:1-ARGM-LOC
+nbc_0014.parse 2 1 predicted come-v come.03 ----- 1:0-rel  0:1-ARG1
+nbc_0014.parse 2 9 predicted see-v see.01 ----- 9:0-rel  10:1-ARGM-LOC
+nbc_0014.parse 2 21 predicted threaten-v threaten.01 ----- 21:0-rel  17:1-ARG0 20:1-R-ARG0
+nbc_0014.parse 2 27 predicted release-v release.01 ----- 27:0-rel  20:1-ARG1
+nbc_0014.parse 2 37 predicted hit-v hit.01 ----- 37:0-rel  32:1-ARG1
+nbc_0014.parse 4 7 predicted want-v want.01 ----- 7:0-rel  0:1-ARGM-TMP 2:1-ARGM-LOC 6:1-ARG0
+nbc_0014.parse 4 9 predicted know-v know.01 ----- 9:0-rel  6:1-ARG0
+nbc_0014.parse 4 13 predicted refuel-v refuel.- ----- 13:0-rel  10:1-ARGM-CAU 11:1-ARG1 14:1-ARGM-LOC 16:1-ARGM-ADV
+nbc_0014.parse 4 22 predicted know-v know.01 ----- 22:0-rel  20:1-ARG1 23:1-ARG2
+nbc_0014.parse 5 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:3-ARG1
+nbc_0014.parse 5 8 predicted make-v make.04 ----- 8:0-rel  7:1-ARG0
+nbc_0014.parse 5 12 predicted improve-v improve.01 ----- 12:0-rel  13:2-ARG1
+nbc_0014.parse 5 29 predicted be-v be.01 ----- 29:0-rel  20:3-ARG1 30:2-ARG2
+nbc_0014.parse 5 41 predicted say-v say.01 ----- 41:0-rel  37:1-ARG0 42:4-ARG1
+nbc_0014.parse 5 50 predicted be-v be.02 ----- 50:0-rel  42:1-ARGM-TMP 51:1-ARG1
+nbc_0014.parse 5 60 predicted be-v be.01 ----- 60:0-rel  59:1-ARG1 61:3-ARG2
+nbc_0014.parse 5 75 predicted increase-v increase.01 ----- 75:0-rel  69:1-R-ARGM-LOC 70:2-ARG1
+nbc_0014.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nbc_0014.parse 7 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARG1
+nbc_0014.parse 8 7 predicted launch-v launch.01 ----- 7:0-rel  0:1-ARGM-TMP 5:1-ARG0 8:1-ARG1
+nbc_0014.parse 8 12 predicted determine-v determine.01 ----- 12:0-rel  13:3-ARG1
+nbc_0014.parse 8 18 predicted go-v go.08 ----- 18:0-rel  13:2-ARG1 19:1-ARG2
+nbc_0014.parse 9 3 predicted have-v have.03 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-NEG 4:2-ARG1
+nbc_0014.parse 9 12 predicted need-v need.01 ----- 12:0-rel  11:1-ARG0 13:2-ARG1
+nbc_0014.parse 9 14 predicted make-v make.02 ----- 14:0-rel  11:1-ARG0 15:2-ARG1
+nbc_0014.parse 9 22 predicted be-v be.01 ----- 22:0-rel  20:1-ARG1 21:0-ARGM-MOD
+nbc_0014.parse 11 5 predicted finish-v finish.01 ----- 5:0-rel  0:1-ARGM-TMP 2:1-ARG0 6:2-ARG1
+nbc_0014.parse 11 6 predicted recover-v recover.02 ----- 6:0-rel  2:1-ARG0 7:2-ARG1
+nbc_0014.parse 11 13 predicted kill-v kill.01 ----- 13:0-rel  10:1-ARG1 14:1-ARGM-LOC
+nbc_0014.parse 11 16 predicted sneak-v sneak.01 ----- 16:0-rel  17:0-ARG1
+nbc_0014.parse 12 2 predicted know-v know.01 ----- 2:0-rel  0:2-ARG0 3:1-ARG1
+nbc_0014.parse 12 7 predicted warn-v warn.01 ----- 7:0-rel  4:1-ARG0 8:1-ARGM-TMP
+nbc_0014.parse 12 14 predicted attack-v attack.01 ----- 14:0-rel  9:1-ARG1
+nbc_0014.parse 13 3 predicted consider-v consider.02 ----- 3:0-rel  0:1-ARG1 4:2-C-ARG1
+nbc_0014.parse 13 11 predicted put-v put.03 ----- 11:0-rel  7:1-ARG1 10:0-ARGM-NEG 12:1-ARG2

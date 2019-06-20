@@ -1,0 +1,25 @@
+cnn_0129.parse 0 5 predicted put-v put.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG1 9:1-ARG2
+cnn_0129.parse 1 2 predicted look-v look.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0129.parse 2 8 predicted elect-v elect.01 ----- 8:0-rel  0:1-ARGM-TMP 5:1-ARG1
+cnn_0129.parse 3 1 predicted head-v head.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0129.parse 3 6 predicted run-v run.01 ----- 6:0-rel  4:0-ARG0 7:0-ARG1 8:0-C-ARG1
+cnn_0129.parse 3 17 predicted climb-v climb.02 ----- 17:0-rel  13:1-ARG0 18:1-ARG1 21:1-ARGM-MNR
+cnn_0129.parse 4 1 predicted used-v used.- ----- 1:0-rel  0:1-ARG0
+cnn_0129.parse 4 3 predicted rise-v rise.01 ----- 3:0-rel  4:0-ARG1
+cnn_0129.parse 4 10 predicted oust-v oust.01 ----- 10:0-rel  11:2-ARG1
+cnn_0129.parse 4 16 predicted take-v take.12 ----- 16:0-rel  18:1-ARG1
+cnn_0129.parse 5 4 predicted create-v create.01 ----- 4:0-rel  5:1-ARG1
+cnn_0129.parse 5 8 predicted dominate-v dominate.01 ----- 8:0-rel  6:0-ARG0 9:0-ARG1
+cnn_0129.parse 5 10 predicted earn-v earn.01 ----- 10:0-rel  0:1-ARG0 11:1-ARG2 12:2-ARG1
+cnn_0129.parse 6 1 predicted speculate-v speculate.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0129.parse 6 9 predicted commit-v commit.02 ----- 9:0-rel  5:1-ARG0 10:1-ARG1
+cnn_0129.parse 6 13 predicted be-v be.01 ----- 13:0-rel  3:2-ARG1 12:0-ARGM-MOD
+cnn_0129.parse 7 1 predicted bar-v bar.01 ----- 1:0-rel  0:1-ARGM-MNR 2:1-ARG2
+cnn_0129.parse 7 3 predicted serve-v serve.01 ----- 3:0-rel  4:1-ARG1 7:1-ARGM-PRD
+cnn_0129.parse 7 12 predicted cling-v cling.01 ----- 12:0-rel  11:1-ARG0 13:1-ARG1 15:1-ARGM-MNR
+cnn_0129.parse 7 20 predicted elect-v elect.01 ----- 20:0-rel  17:1-ARG0 21:1-ARG1 22:3-ARG2
+cnn_0129.parse 8 2 predicted defeat-v defeat.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG0
+cnn_0129.parse 8 15 predicted refuse-v refuse.01 ----- 15:0-rel  0:1-ARG0 16:2-ARG1
+cnn_0129.parse 8 17 predicted accept-v accept.01 ----- 17:0-rel  0:1-ARG0 18:1-ARG1
+cnn_0129.parse 9 12 predicted agree-v agree.01 ----- 12:0-rel  0:2-R-ARG0 11:1-ARG0 13:2-ARG1
+cnn_0129.parse 9 14 predicted step-v step.04 ----- 14:0-rel  11:1-ARG0 16:1-ARGM-TMP

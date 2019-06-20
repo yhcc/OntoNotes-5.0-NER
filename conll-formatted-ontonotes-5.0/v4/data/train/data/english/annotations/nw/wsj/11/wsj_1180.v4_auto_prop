@@ -1,0 +1,7 @@
+wsj_1180.parse 0 4 predicted increase-v increase.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 8:1-ARG4 15:1-ARG3
+wsj_1180.parse 1 2 predicted represent-v represent.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_1180.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+wsj_1180.parse 3 4 predicted control-v control.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-EXT 7:1-ARG0
+wsj_1180.parse 4 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+wsj_1180.parse 5 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0
+wsj_1180.parse 6 11 predicted close-v close.02 ----- 11:0-rel  0:1-ARGM-LOC 7:1-ARGM-TMP 9:1-ARG1 12:1-ARGM-EXT

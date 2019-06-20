@@ -1,0 +1,53 @@
+chtb_0070.parse 1 1 predicted receive-v receive.01 ----- 1:0-rel  2:2-ARG1 7:1-ARGM-TMP
+chtb_0070.parse 1 28 predicted introduce-v introduce.02 ----- 28:0-rel  0:1-ARGM-TMP 9:2-ARG0
+chtb_0070.parse 1 47 predicted handle-v handle.01 ----- 47:0-rel  48:1-ARG1 53:1-ARGM-TMP
+chtb_0070.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+chtb_0070.parse 2 29 predicted assist-v assist.01 ----- 29:0-rel  25:1-ARG0 30:1-ARG1
+chtb_0070.parse 2 36 predicted participate-v participate.01 ----- 36:0-rel  32:1-ARG0 37:1-ARG1
+chtb_0070.parse 2 62 predicted agree-v agree.01 ----- 62:0-rel  58:1-ARG1 63:1-ARGM-LOC
+chtb_0070.parse 2 70 predicted negotiate-v negotiate.01 ----- 70:0-rel  71:1-ARG1
+chtb_0070.parse 2 107 predicted help-v help.01 ----- 107:0-rel  108:2-ARG1
+chtb_0070.parse 2 112 predicted resolve-v resolve.01 ----- 112:0-rel  108:1-ARG0 113:1-ARG1
+chtb_0070.parse 2 115 predicted concern-v concern.02 ----- 115:0-rel  116:1-ARG1
+chtb_0070.parse 2 126 predicted implement-v implement.01 ----- 126:0-rel  127:2-ARG1
+chtb_0070.parse 2 131 predicted make-v make.01 ----- 131:0-rel  127:1-ARG1 132:1-ARG0
+chtb_0070.parse 2 138 predicted assist-v assist.01 ----- 138:0-rel  139:2-ARG1
+chtb_0070.parse 2 147 predicted organize-v organize.01 ----- 147:0-rel  148:2-ARG1
+chtb_0070.parse 2 163 predicted give-v give.01 ----- 163:0-rel  164:1-ARG1
+chtb_0070.parse 2 174 predicted visit-v visit.01 ----- 174:0-rel  173:1-ARG0
+chtb_0070.parse 2 183 predicted visit-v visit.01 ----- 183:0-rel  184:1-ARGM-LOC
+chtb_0070.parse 3 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0070.parse 3 6 predicted do-v do.02 ----- 6:0-rel  4:1-ARG1 7:1-ARG0
+chtb_0070.parse 3 11 predicted be-v be.01 ----- 11:0-rel  4:2-ARG1 12:1-ARG2
+chtb_0070.parse 3 14 predicted maintain-v maintain.01 ----- 14:0-rel  4:2-ARG0 15:2-ARG1 19:1-ARGM-MNR
+chtb_0070.parse 3 35 predicted be-v be.01 ----- 35:0-rel  4:2-ARG1 36:1-ARG2
+chtb_0070.parse 3 38 predicted improve-v improve.01 ----- 38:0-rel  39:2-ARG1
+chtb_0070.parse 3 47 predicted be-v be.01 ----- 47:0-rel  4:2-ARG1
+chtb_0070.parse 3 50 predicted develop-v develop.02 ----- 50:0-rel  51:2-ARG1
+chtb_0070.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+chtb_0070.parse 4 6 predicted have-v have.03 ----- 6:0-rel  3:1-ARG0
+chtb_0070.parse 4 9 predicted coordinate-v coordinate.01 ----- 9:0-rel  3:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-MNR 10:1-ARG2
+chtb_0070.parse 4 19 predicted contact-v contact.01 ----- 19:0-rel  18:1-ARGM-MNR
+chtb_0070.parse 4 21 predicted cooperate-v cooperate.01 ----- 21:0-rel  3:1-ARG0 16:0-ARGM-LOC 18:1-ARGM-MNR 22:1-ARG1
+chtb_0070.parse 4 33 predicted handle-v handle.01 ----- 33:0-rel  34:2-ARG1
+chtb_0070.parse 4 39 predicted involve-v involve.01 ----- 39:0-rel  34:1-ARG2 40:2-ARG1
+chtb_0070.parse 4 60 predicted overturn-v overturn.01 ----- 60:0-rel  61:0-ARG1 62:0-C-ARG1
+chtb_0070.parse 4 72 predicted detain-v detain.01 ----- 72:0-rel  67:2-ARG1 70:1-R-ARG1 73:1-ARG0
+chtb_0070.parse 5 7 predicted solve-v solve.01 ----- 7:0-rel  0:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+chtb_0070.parse 6 9 predicted forward-v forward.- ----- 9:0-rel  0:1-ARGM-LOC 7:1-ARG0 8:1-ARGM-MNR
+chtb_0070.parse 6 11 predicted provide-v provide.01 ----- 11:0-rel  10:1-ARG1 12:1-ARG0
+chtb_0070.parse 6 22 predicted concern-v concern.02 ----- 22:0-rel  20:1-ARG0 23:2-ARG1 26:1-ARG2
+chtb_0070.parse 6 33 predicted feed-v feed.01 ----- 33:0-rel  0:1-ARGM-LOC 7:1-ARG0 8:1-ARGM-MNR 32:1-ARGM-MNR 35:2-ARG1
+chtb_0070.parse 7 2 predicted stress-v stress.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0070.parse 7 17 predicted enjoy-v enjoy.01 ----- 17:0-rel  4:1-ARGM-ADV 14:1-ARG0 18:2-ARG1
+chtb_0070.parse 8 11 predicted abide-v abide.01 ----- 11:0-rel  0:1-ARGM-ADV 7:1-ARG0 10:1-ARGM-MNR 12:1-ARG1
+chtb_0070.parse 8 19 predicted provide-v provide.01 ----- 19:0-rel  0:1-ARGM-ADV 7:1-ARG0 18:1-ARGM-ADV 20:1-ARG1
+chtb_0070.parse 8 28 predicted play-v play.02 ----- 28:0-rel  29:1-ARG1
+chtb_0070.parse 8 39 predicted be-v be.01 ----- 39:0-rel  36:1-ARG1 40:1-ARG2
+chtb_0070.parse 9 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+chtb_0070.parse 9 3 predicted safeguard-v safeguard.01 ----- 3:0-rel  4:3-ARG1 12:1-ARGM-LOC
+chtb_0070.parse 9 13 predicted be-v be.01 ----- 13:0-rel  3:2-ARG1 14:2-ARG2
+chtb_0070.parse 10 4 predicted come-v come.01 ----- 4:0-rel  1:1-ARG1
+chtb_0070.parse 10 11 predicted strengthen-v strengthen.01 ----- 11:0-rel  0:1-ARGM-TMP 6:1-ARG0 9:0-ARGM-MOD 10:1-ARGM-EXT 12:2-ARG1
+chtb_0070.parse 10 19 predicted improve-v improve.01 ----- 19:0-rel  0:1-ARGM-TMP 6:1-ARG0 9:0-ARGM-MOD 20:3-ARG1
+chtb_0070.parse 10 32 predicted safeguard-v safeguard.01 ----- 32:0-rel  0:1-ARGM-TMP 6:1-ARG0 9:0-ARGM-MOD 31:1-ARGM-ADV 33:2-ARG1 42:1-ARGM-LOC

@@ -1,0 +1,6 @@
+cnn_0378.parse 0 4 predicted raise-v raise.01 ----- 4:0-rel  0:0-ARGM-DIS 1:2-ARG0
+cnn_0378.parse 1 5 predicted kill-v kill.01 ----- 5:0-rel  0:2-ARG1
+cnn_0378.parse 2 3 predicted determine-v determine.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0378.parse 2 6 predicted have-v have.03 ----- 6:0-rel  4:1-ARG0 7:2-ARG1
+cnn_0378.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0378.parse 3 6 predicted be-v be.01 ----- 6:0-rel  2:1-ARG1 4:0-ARGM-MOD 7:2-ARG2

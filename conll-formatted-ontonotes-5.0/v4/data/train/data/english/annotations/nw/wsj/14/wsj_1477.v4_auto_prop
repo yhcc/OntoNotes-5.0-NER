@@ -1,0 +1,13 @@
+wsj_1477.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+wsj_1477.parse 0 6 predicted sign-v sign.02 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+wsj_1477.parse 0 11 predicted acquire-v acquire.01 ----- 11:0-rel  5:1-ARG0 12:3-ARG1
+wsj_1477.parse 0 19 predicted base-v base.01 ----- 19:0-rel  16:1-ARGM-LOC 20:0-ARG1 21:0-C-ARG1
+wsj_1477.parse 1 4 predicted hold-v hold.01 ----- 4:0-rel  3:0-ARG1 5:0-ARG0
+wsj_1477.parse 1 10 predicted disclose-v disclose.01 ----- 10:0-rel  0:2-ARG1 9:0-ARGM-NEG
+wsj_1477.parse 2 1 predicted involve-v involve.01 ----- 1:0-rel  0:1-ARG2 2:2-ARG1
+wsj_1477.parse 3 2 predicted base-v base.01 ----- 2:0-rel  0:1-ARG1 1:0-C-ARG1 3:1-ARGM-LOC
+wsj_1477.parse 3 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:4-ARG1
+wsj_1477.parse 3 8 predicted have-v have.03 ----- 8:0-rel  7:1-ARG0 9:3-ARG1
+wsj_1477.parse 3 14 predicted factor-v factor.01 ----- 14:0-rel  15:0-ARG1
+wsj_1477.parse 3 22 predicted have-v have.03 ----- 22:0-rel  18:1-ARG0
+wsj_1477.parse 4 5 predicted work-v work.01 ----- 5:0-rel  0:2-ARG0

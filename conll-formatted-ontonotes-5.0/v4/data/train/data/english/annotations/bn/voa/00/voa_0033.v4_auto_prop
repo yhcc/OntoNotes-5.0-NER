@@ -1,0 +1,26 @@
+voa_0033.parse 0 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARGM-TMP 3:2-ARG1
+voa_0033.parse 0 4 predicted get-v get.01 ----- 4:0-rel  3:1-ARG0
+voa_0033.parse 1 6 predicted launch-v launch.01 ----- 6:0-rel  0:1-ARGM-DIS 1:1-ARG0
+voa_0033.parse 1 11 predicted suspect-v suspect.01 ----- 11:0-rel  12:0-ARG1 13:0-C-ARG1
+voa_0033.parse 1 15 predicted kill-v kill.01 ----- 15:0-rel  10:1-ARG0 14:1-R-ARG0 16:3-ARG1
+voa_0033.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+voa_0033.parse 2 5 predicted explode-v explode.01 ----- 5:0-rel  2:1-ARG1 6:1-ARGM-LOC 11:1-ARGM-TMP
+voa_0033.parse 2 13 predicted refuel-v refuel.- ----- 13:0-rel  12:1-ARG1 14:1-ARGM-TMP 16:1-ARGM-LOC
+voa_0033.parse 3 2 predicted tear-v tear.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+voa_0033.parse 4 6 predicted miss-v miss.01 ----- 6:0-rel  0:3-ARG1 7:4-ARG2
+voa_0033.parse 4 11 predicted injure-v injure.01 ----- 11:0-rel  7:2-ARG1
+voa_0033.parse 5 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+voa_0033.parse 5 9 predicted show-v show.01 ----- 9:0-rel  6:1-ARG0 10:3-ARG1
+voa_0033.parse 6 3 predicted learn-v learn.01 ----- 3:0-rel  1:1-ARG0 4:2-ARG1
+voa_0033.parse 7 2 predicted test-v test.01 ----- 2:0-rel  0:1-ARG0 1:1-R-ARG0 3:1-ARG1
+voa_0033.parse 7 8 predicted occur-v occur.01 ----- 8:0-rel  6:1-ARG1
+voa_0033.parse 7 10 predicted have-v have.03 ----- 10:0-rel  6:1-ARG0
+voa_0033.parse 7 11 predicted occur-v occur.01 ----- 11:0-rel  0:2-ARG1 12:1-ARGM-TMP
+voa_0033.parse 8 2 predicted pass-v pass.07 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+voa_0033.parse 8 6 predicted measure-v measure.01 ----- 6:0-rel  0:1-ARG0 8:1-ARG1
+voa_0033.parse 8 14 predicted pass-v pass.07 ----- 14:0-rel  12:1-ARG1 13:0-ARGM-MOD 15:1-ARG2 17:1-ARGM-TMP 19:1-ARGM-TMP
+voa_0033.parse 9 7 predicted say-v say.01 ----- 7:0-rel  0:3-ARG0 8:3-ARG1
+voa_0033.parse 9 10 predicted be-v be.01 ----- 10:0-rel  8:1-ARG1
+voa_0033.parse 9 17 predicted assist-v assist.01 ----- 17:0-rel  12:1-ARG0 15:1-R-ARG0 18:1-ARGM-LOC 24:1-ARGM-LOC
+voa_0033.parse 10 3 predicted claim-v claim.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+voa_0033.parse 11 8 predicted place-v place.01 ----- 8:0-rel  0:2-ARG1 9:1-ARG2

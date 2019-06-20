@@ -1,0 +1,40 @@
+cnn_0185.parse 0 20 predicted scramble-v scramble.01 ----- 20:0-rel  16:2-ARG0 21:2-ARG1
+cnn_0185.parse 0 22 predicted contain-v contain.01 ----- 22:0-rel  16:2-ARG0 23:1-ARG1
+cnn_0185.parse 0 26 predicted save-v save.02 ----- 26:0-rel  16:2-ARG0 27:1-ARG1
+cnn_0185.parse 1 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0
+cnn_0185.parse 2 3 predicted leak-v leak.01 ----- 3:0-rel  0:1-ARG1
+cnn_0185.parse 2 8 predicted run-v run.01 ----- 8:0-rel  5:1-ARG1 7:1-R-ARG1
+cnn_0185.parse 3 12 predicted spill-v spill.01 ----- 12:0-rel  0:1-ARGM-TMP 5:3-ARG1 13:1-ARG2
+cnn_0185.parse 4 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0185.parse 4 4 predicted contain-v contain.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+cnn_0185.parse 4 8 predicted float-v float.01 ----- 8:0-rel  9:0-ARG1
+cnn_0185.parse 4 14 predicted spread-v spread.02 ----- 14:0-rel  11:1-ARG1 13:1-ARGM-TMP 15:1-ARGM-DIR
+cnn_0185.parse 4 18 predicted affect-v affect.01 ----- 18:0-rel  16:1-ARG0 19:1-ARG1
+cnn_0185.parse 5 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0185.parse 5 4 predicted clean-v clean.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0185.parse 5 12 predicted be-v be.01 ----- 12:0-rel  8:1-ARG1 10:1-R-ARG1 13:1-ARG2
+cnn_0185.parse 6 1 predicted estimate-v estimate.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0185.parse 6 5 predicted cover-v cover.02 ----- 5:0-rel  2:1-ARG2 4:1-ARGM-TMP 6:3-ARG1
+cnn_0185.parse 7 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+cnn_0185.parse 8 2 predicted research-v research.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-LOC 4:2-ARGM-TMP 7:2-ARGM-TMP
+cnn_0185.parse 8 8 predicted develop-v develop.02 ----- 8:0-rel  7:1-ARGM-TMP 9:2-ARG1
+cnn_0185.parse 9 6 predicted isolate-v isolate.01 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG1 7:1-ARG2 10:1-ARGM-CAU
+cnn_0185.parse 9 14 predicted restrict-v restrict.01 ----- 14:0-rel  11:2-ARG1
+cnn_0185.parse 10 5 predicted draft-v draft.01 ----- 5:0-rel  0:1-ARG1 7:2-ARGM-PRP
+cnn_0185.parse 10 8 predicted help-v help.01 ----- 8:0-rel  0:1-ARG0
+cnn_0185.parse 11 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:3-ARG2
+cnn_0185.parse 11 6 predicted sink-v sink.01 ----- 6:0-rel  3:1-ARG1 5:0-ARGM-MOD 7:1-ARG4
+cnn_0185.parse 11 12 predicted destroy-v destroy.01 ----- 12:0-rel  3:1-ARG0 5:0-ARGM-MOD 13:1-ARG1
+cnn_0185.parse 12 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+cnn_0185.parse 12 7 predicted get-v get.05 ----- 7:0-rel  6:1-ARG1 8:1-ARG2
+cnn_0185.parse 12 14 predicted be-v be.01 ----- 14:0-rel  5:1-ARGM-PRD 13:1-ARG1 17:3-ARG1
+cnn_0185.parse 12 18 predicted remove-v remove.01 ----- 18:0-rel  19:1-ARG1
+cnn_0185.parse 12 21 predicted contain-v contain.01 ----- 21:0-rel  22:1-ARG1 23:1-ARGM-LOC
+cnn_0185.parse 13 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARGM-ADV 3:3-ARG1
+cnn_0185.parse 14 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0185.parse 14 4 predicted remove-v remove.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0185.parse 14 6 predicted remain-v remain.01 ----- 6:0-rel  7:0-ARG1
+cnn_0185.parse 15 4 predicted blame-v blame.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG2 7:1-ARG1 12:2-ARGM-ADV
+cnn_0185.parse 15 12 predicted say-v say.01 ----- 12:0-rel  0:1-ARG0 13:3-ARG1
+cnn_0185.parse 15 14 predicted run-v run.02 ----- 14:0-rel  13:1-ARG1 15:1-ARG2
+cnn_0185.parse 15 19 predicted navigate-v navigate.- ----- 19:0-rel  17:1-ARG0 20:1-ARG2 23:1-ARGM-MNR

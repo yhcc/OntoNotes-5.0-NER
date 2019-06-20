@@ -1,0 +1,11 @@
+wsj_1503.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1503.parse 0 5 predicted file-v file.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1 9:1-ARG2 15:1-C-ARG1
+wsj_1503.parse 1 6 predicted base-v base.01 ----- 6:0-rel  7:0-ARG1
+wsj_1503.parse 1 8 predicted say-v say.01 ----- 8:0-rel  0:1-ARG0 9:3-ARG1
+wsj_1503.parse 1 11 predicted have-v have.03 ----- 11:0-rel  9:1-ARG0 10:0-ARGM-MOD
+wsj_1503.parse 2 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG0 6:4-ARG1
+wsj_1503.parse 2 11 predicted lead-v lead.02 ----- 11:0-rel  6:2-ARG0 10:0-ARGM-MOD 12:1-ARG1
+wsj_1503.parse 3 6 predicted used-v used.- ----- 6:0-rel  0:2-ARG1 4:0-ARGM-MOD
+wsj_1503.parse 3 8 predicted remodel-v remodel.01 ----- 8:0-rel  11:1-ARG1
+wsj_1503.parse 3 10 predicted refurbish-v refurbish.01 ----- 10:0-rel  11:1-ARG1
+wsj_1503.parse 3 18 predicted plan-v plan.01 ----- 18:0-rel  21:0-ARG1 23:0-C-ARG1

@@ -1,0 +1,33 @@
+wsj_2340.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_2340.parse 0 5 predicted cancel-v cancel.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1
+wsj_2340.parse 0 15 predicted resume-v resume.01 ----- 15:0-rel  4:1-ARG0 14:0-ARGM-MOD 16:2-ARG1
+wsj_2340.parse 0 24 predicted add-v add.01 ----- 24:0-rel  0:1-ARG0 25:1-ARG1
+wsj_2340.parse 0 27 predicted expect-v expect.01 ----- 27:0-rel  26:1-ARG0 28:2-ARG1
+wsj_2340.parse 0 30 predicted offer-v offer.01 ----- 30:0-rel  26:1-ARG0 29:1-ARGM-MNR 31:2-ARG1
+wsj_2340.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_2340.parse 1 4 predicted plan-v plan.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+wsj_2340.parse 1 6 predicted offer-v offer.01 ----- 6:0-rel  3:1-ARG0
+wsj_2340.parse 2 5 predicted establish-v establish.01 ----- 5:0-rel  0:1-ARG1 4:1-ARGM-TMP
+wsj_2340.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_2340.parse 3 4 predicted lead-v lead.03 ----- 4:0-rel  2:1-ARG0 5:1-ARG2
+wsj_2340.parse 3 10 predicted plan-v plan.01 ----- 10:0-rel  11:0-ARG1
+wsj_2340.parse 4 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG0 7:1-ARGM-DIS
+wsj_2340.parse 4 16 predicted resume-v resume.01 ----- 16:0-rel  10:1-ARGM-TMP 14:1-ARG0 15:0-ARGM-MOD 17:2-ARG1
+wsj_2340.parse 5 1 predicted suspend-v suspend.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 7:1-ARGM-TMP
+wsj_2340.parse 5 11 predicted say-v say.01 ----- 11:0-rel  0:1-ARG0 12:3-ARG1
+wsj_2340.parse 5 13 predicted have-v have.03 ----- 13:0-rel  12:1-ARG0 14:0-ARGM-NEG 15:1-ARG1
+wsj_2340.parse 5 18 predicted catch-v catch.04 ----- 18:0-rel  12:1-ARG0
+wsj_2340.parse 5 31 predicted do-v do.02 ----- 31:0-rel  12:1-ARG0 30:0-ARGM-MOD 32:1-ARG1 33:1-ARGM-TMP 35:1-ARGM-TMP
+wsj_2340.parse 6 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 5:3-ARG1
+wsj_2340.parse 6 6 predicted file-v file.01 ----- 6:0-rel  5:1-ARG0 7:1-ARG2
+wsj_2340.parse 6 15 predicted propose-v propose.01 ----- 15:0-rel  16:0-ARG1
+wsj_2340.parse 6 25 predicted expect-v expect.01 ----- 25:0-rel  26:2-ARG1
+wsj_2340.parse 6 28 predicted offer-v offer.01 ----- 28:0-rel  29:1-ARGM-TMP
+wsj_2340.parse 7 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:5-ARG1
+wsj_2340.parse 7 22 predicted grant-v grant.01 ----- 22:0-rel  3:3-ARG0 23:1-ARG1
+wsj_2340.parse 7 26 predicted buy-v buy.01 ----- 26:0-rel  27:2-ARG1
+wsj_2340.parse 7 36 predicted cover-v cover.01 ----- 36:0-rel  37:1-ARG1
+wsj_2340.parse 8 3 predicted used-v used.- ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD
+wsj_2340.parse 8 5 predicted eliminate-v eliminate.01 ----- 5:0-rel  0:1-ARG0
+wsj_2340.parse 8 7 predicted restructure-v restructure.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1
+wsj_2340.parse 9 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-TMP 3:3-ARG1

@@ -1,0 +1,77 @@
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 0 11 gold mission-n mission.01 ----- 11:0-rel 10:0-ARGM-MNR
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 0 13 gold collect-v collect.01 ----- 13:0-rel 9:1-ARG0 12:1-ARGM-TMP 14:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 0 20 gold retrieve-v retrieve.01 ----- 20:0-rel 12:1-ARGM-TMP 21:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 0 23 gold bury-v bury.01 ----- 23:0-rel 22:1-ARGM-ADV 21:1-ARG1 24:1-ARGM-MNR
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 1 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 8:2-ARGM-TMP
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 1 11 gold strike-v strike.01 ----- 11:0-rel 9:1-ARG0
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 2 1 gold be-v be.03 ----- 1:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 2 2 gold injure-v injure.01 ----- 2:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 3 1 gold be-v be.03 ----- 1:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 3 2 gold kill-v kill.01 ----- 2:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 4 1 gold coverage-n coverage.03 ----- 1:0-rel 0:0-ARG0
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 4 2 gold begin-v begin.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 5 2 gold carry-v carry.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 5 16 gold arrive-v arrive.01 ----- 16:0-rel 0:2-ARG1 17:1-ARGM-TMP 18:1-ARG4 24:1-ARGM-TMP
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 5 27 gold wave-n wave.01 ----- 27:0-rel 26:0-ARGM-TMP 28:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 5 41 gold arrive-v arrive.01 ----- 41:0-rel 25:2-ARG1 42:1-ARG4
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 6 1 gold mission-n mission.01 ----- 1:0-rel 0:0-ARG0 3:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 6 4 gold continue-v continue.01 ----- 4:0-rel 5:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 6 6 gold search-n search.01 ----- 6:0-rel 7:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 6 13 gold explosion-n explosion.01 ----- 13:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 7 7 gold lift-v lift.01 ----- 7:0-rel 8:1-ARG1 12:1-ARG3 5:1-LINK-SLC
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 7 19 gold help-v help.01 ----- 19:0-rel 20:2-ARG1 17:1-LINK-SLC
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 7 20 gold retrieve-v retrieve.01 ----- 20:0-rel 21:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 7 25 gold trap-v trap.01 ----- 25:0-rel 24:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 7 27 gold presume-v presume.01 ----- 27:0-rel 28:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 8 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 8 3 gold be-v be.02 ----- 3:0-rel 4:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 8 6 gold be-v be.01 ----- 6:0-rel 7:1-ARG2 4:1-LINK-SLC
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 9 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 9 3 gold be-v be.02 ----- 3:0-rel 4:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 10 1 gold need-v need.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 10 3 gold get-v get.05 ----- 3:0-rel 4:1-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 10 7 gold locate-v locate.02 ----- 7:0-rel 8:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 10 12 gold anticipate-v anticipate.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 10 13 gold find-v find.01 ----- 13:0-rel 14:1-ARGM-LOC
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 11 2 gold work-n work.01 ----- 2:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 11 3 gold be-v be.03 ----- 3:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 11 5 gold begin-v begin.01 ----- 5:0-rel 1:1-ARG1 4:1-ARGM-ADV
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 11 14 gold predict-v predict.01 ----- 14:0-rel 0:1-ARGM-ADV 7:2-ARG0 15:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 12 6 gold be-v be.01 ----- 6:0-rel 4:1-ARG1 5:0-ARGM-MOD 7:1-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 12 9 gold determine-v determine.01 ----- 9:0-rel 10:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 12 11 gold be-v be.01 ----- 11:0-rel 12:1-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 12 24 gold be-v be.03 ----- 24:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 12 25 gold hold-v hold.03 ----- 25:0-rel 23:0-ARGM-MOD 26:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 12 30 gold be-v be.03 ----- 30:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 12 31 gold punish-v punish.01 ----- 31:0-rel 29:0-ARGM-MOD
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 13 7 gold be-v be.03 ----- 7:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 13 8 gold conduct-v conduct.01 ----- 8:0-rel 6:0-ARGM-MOD 9:1-ARGM-LOC 15:1-ARGM-MNR
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 14 2 gold want-v want.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1 8:1-ARGM-CAU
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 14 4 gold get-v get.05 ----- 4:0-rel 5:1-ARG2 7:1-ARGM-MNR
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 14 16 gold deal-v deal.01 ----- 16:0-rel 14:1-ARG0 17:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 14 19 gold be-v be.01 ----- 19:0-rel 9:2-ARG1 13:2-ARGM-TMP 20:1-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 14 23 gold have-v have.04 ----- 23:0-rel 21:1-ARG0 22:0-ARGM-MOD 24:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 15 2 gold speed-v speed.02 ----- 2:0,3:1-rel 1:1-ARGM-ADV 4:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 15 5 gold process-n process.01 ----- 5:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 15 9 gold have-v have.01 ----- 9:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 15 11 gold activate-v activate.01 ----- 11:0-rel 0:2-ARGM-PRP 7:1-ARG0 10:1-ARGM-TMP 12:3-ARG1 34:2-ARGM-ADV
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 15 21 gold conceive-v conceive.01 ----- 21:0-rel 12:2-ARG1 22:1-ARGM-TMP
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 15 34 gold ensure-v ensure.01 ----- 34:0-rel 35:2-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 15 38 gold exchange-n exchange.01 ----- 38:0-rel 36:1-ARGM-MNR 39:1-ARG1 41:1-ARG0
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 16 7 gold say-v say.01 ----- 7:0-rel 0:1-ARGM-LOC 5:1-ARG0 8:4-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 16 12 gold be-v be.03 ----- 12:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 16 13 gold cooperate-v cooperate.01 ----- 13:0-rel 8:2-ARG0 14:1-ARG2 18:1-ARGM-ADV
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 16 23 gold dispute-v dispute.01 ----- 23:0-rel 19:2-ARG0 24:1-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 16 24 gold charge-n charge.03 ----- 24:0-rel 25:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 16 28 gold be-v be.01 ----- 28:0-rel 26:1-ARG1 29:2-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1 16:1-ARGM-ADV
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 8 gold have-v have.01 ----- 8:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 9 gold be-v be.03 ----- 9:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 10 gold rule-v rule.02 ----- 10:0,11:1-rel 12:1-ARG2
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 18 gold expect-v expect.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 21 gold get-v get.01 ----- 21:0-rel 22:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 23 gold blame-n blame.01 ----- 23:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 26 gold be-v be.03 ----- 26:0-rel
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 17 27 gold tie-v tie.01 ----- 27:0-rel 24:0-ARGM-MOD 25:1-ARGM-TMP 28:1-ARG1
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 18 3 gold continue-v continue.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARGM-TMP 5:1-ARGM-LOC
+bn/nbc/00/nbc_0010@0010@nbc@bn@en@on 19 5 gold remember-v remember.01 ----- 5:0-rel 6:2-ARG1

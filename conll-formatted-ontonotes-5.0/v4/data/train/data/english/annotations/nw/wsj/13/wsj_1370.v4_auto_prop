@@ -1,0 +1,6 @@
+wsj_1370.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1370.parse 0 5 predicted sell-v sell.01 ----- 5:0-rel  4:1-ARG0
+wsj_1370.parse 1 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+wsj_1370.parse 1 7 predicted sell-v sell.01 ----- 7:0-rel  3:1-ARG1 8:1-ARGM-MNR
+wsj_1370.parse 2 4 predicted list-v list.02 ----- 4:0-rel  0:1-ARG1 3:1-R-ARG1 5:1-ARG2
+wsj_1370.parse 2 12 predicted install-v install.01 ----- 12:0-rel  0:2-ARG1 10:0-ARGM-MOD 13:1-ARGM-TMP

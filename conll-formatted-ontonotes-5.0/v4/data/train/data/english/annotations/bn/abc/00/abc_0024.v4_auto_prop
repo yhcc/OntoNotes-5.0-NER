@@ -1,0 +1,6 @@
+abc_0024.parse 0 11 predicted tear-v tear.01 ----- 11:0-rel  0:1-ARGM-LOC 3:2-ARG1 12:1-ARGM-PRD
+abc_0024.parse 1 2 predicted drive-v drive.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARG2
+abc_0024.parse 1 12 predicted fight-v fight.01 ----- 12:0-rel  8:1-ARG0 13:2-ARG2
+abc_0024.parse 1 14 predicted fill-v fill.01 ----- 14:0-rel  8:1-ARG0 15:1-ARG1
+abc_0024.parse 2 5 predicted fight-v fight.01 ----- 5:0-rel  0:2-ARG0 6:1-ARG2 8:1-ARGM-LOC
+abc_0024.parse 3 6 predicted kill-v kill.01 ----- 6:0-rel  0:3-ARG1 7:1-ARGM-TMP

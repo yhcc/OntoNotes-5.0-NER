@@ -1,0 +1,17 @@
+cnn_0280.parse 0 11 predicted be-v be.01 ----- 11:0-rel  0:1-ARGM-TMP 4:2-ARG1 12:1-ARG2 14:1-ARGM-TMP
+cnn_0280.parse 1 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1
+cnn_0280.parse 1 10 predicted be-v be.01 ----- 10:0-rel  9:1-ARG1
+cnn_0280.parse 1 16 predicted hit-v hit.01 ----- 16:0-rel  14:1-ARG1 17:1-ARG2
+cnn_0280.parse 1 24 predicted burn-v burn.01 ----- 24:0-rel  9:1-ARG1 23:1-ARGM-TMP 27:1-ARG0
+cnn_0280.parse 1 26 predicted loot-v loot.- ----- 26:0-rel  9:1-ARG1 27:1-ARG0
+cnn_0280.parse 2 14 predicted launch-v launch.01 ----- 14:0-rel  11:1-ARGM-TMP 12:1-ARG1 15:3-ARGM-TMP
+cnn_0280.parse 3 4 predicted float-v float.01 ----- 4:0-rel  0:1-ARGM-TMP 1:1-ARG1 5:1-ARGM-MNR
+cnn_0280.parse 4 3 predicted celebrate-v celebrate.01 ----- 3:0-rel  0:2-ARG0 4:2-ARG1
+cnn_0280.parse 4 11 predicted be-v be.01 ----- 11:0-rel  9:1-ARG1 12:1-ARG2
+cnn_0280.parse 5 3 predicted talk-v talk.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 4:1-ARG2
+cnn_0280.parse 5 18 predicted be-v be.01 ----- 18:0-rel  16:1-ARG1 19:1-ARG2
+cnn_0280.parse 5 27 predicted be-v be.01 ----- 27:0-rel  28:1-ARG1
+cnn_0280.parse 6 9 predicted cover-v cover.02 ----- 9:0-rel  6:1-ARG0 8:1-R-ARG0 10:2-ARG1 15:1-ARG2
+cnn_0280.parse 6 23 predicted have-v have.03 ----- 23:0-rel  20:1-ARG0 22:0-ARGM-MOD 24:2-ARG1
+cnn_0280.parse 6 42 predicted question-v question.01 ----- 42:0-rel  37:1-ARG0 41:1-ARGM-TMP 43:2-ARG1
+cnn_0280.parse 6 51 predicted have-v have.03 ----- 51:0-rel  50:1-ARG0 52:2-ARG1

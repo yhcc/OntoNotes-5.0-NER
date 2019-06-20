@@ -1,0 +1,22 @@
+cnn_0156.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+cnn_0156.parse 1 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2 5:1-ARGM-ADV
+cnn_0156.parse 2 5 predicted gather-v gather.01 ----- 5:0-rel  0:1-ARG0 3:0-ARGM-MOD 6:1-ARG1 7:1-ARGM-LOC
+cnn_0156.parse 2 22 predicted control-v control.01 ----- 22:0-rel  20:0-ARG0 23:0-ARG1
+cnn_0156.parse 2 24 predicted be-v be.01 ----- 24:0-rel  11:2-ARG1 25:1-ARG2
+cnn_0156.parse 3 6 predicted take-v take.14 ----- 6:0-rel  0:2-ARG1 7:1-ARG2 8:1-ARGM-TMP
+cnn_0156.parse 3 13 predicted follow-v follow.01 ----- 13:0-rel  14:2-ARG2
+cnn_0156.parse 3 30 predicted shoot-v shoot.02 ----- 30:0-rel  21:2-ARG1 33:1-ARGM-LOC
+cnn_0156.parse 3 32 predicted kill-v kill.01 ----- 32:0-rel  21:2-ARG1 33:1-ARG2
+cnn_0156.parse 4 5 predicted kill-v kill.01 ----- 5:0-rel  0:1-ARG1 4:1-ARGM-ADV 6:1-ARGM-LOC 8:1-ARGM-TMP
+cnn_0156.parse 5 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG2 3:3-ARG1
+cnn_0156.parse 5 5 predicted shoot-v shoot.02 ----- 5:0-rel  3:1-ARG1 6:0-ARGM-PRD
+cnn_0156.parse 6 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0156.parse 6 5 predicted try-v try.01 ----- 5:0-rel  4:1-ARG0 6:2-ARG1
+cnn_0156.parse 6 13 predicted kill-v kill.01 ----- 13:0-rel  11:1-ARG1
+cnn_0156.parse 7 26 predicted leave-v leave.02 ----- 26:0-rel  19:1-R-ARG0 21:1-ARGM-DIS 24:1-ARGM-TMP 25:0-ARG0 27:1-ARG1 30:2-ARG2
+cnn_0156.parse 8 10 predicted kill-v kill.01 ----- 10:0-rel  0:3-ARG1 11:1-ARG2
+cnn_0156.parse 9 2 predicted say-v say.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cnn_0156.parse 9 6 predicted continue-v continue.01 ----- 6:0-rel  4:1-ARG1 7:1-C-ARG1
+cnn_0156.parse 9 15 predicted create-v create.01 ----- 15:0-rel  16:1-ARG1
+cnn_0156.parse 9 28 predicted go-v go.06 ----- 28:0-rel  24:1-ARG1 29:1-ARG2
+cnn_0156.parse 10 6 predicted report-v report.01 ----- 6:0-rel  4:1-ARG0 7:1-ARGM-DIR

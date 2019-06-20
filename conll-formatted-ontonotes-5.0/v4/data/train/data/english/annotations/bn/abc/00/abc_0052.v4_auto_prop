@@ -1,0 +1,44 @@
+abc_0052.parse 0 6 predicted blame-v blame.01 ----- 6:0-rel  0:1-ARG0 7:2-ARG1
+abc_0052.parse 0 15 predicted link-v link.01 ----- 15:0-rel  12:1-ARG1 16:1-ARG1
+abc_0052.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+abc_0052.parse 2 9 predicted be-v be.01 ----- 9:0-rel  0:2-ARG1 10:1-ARG2
+abc_0052.parse 3 3 predicted blame-v blame.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+abc_0052.parse 3 6 predicted underinflate-v underinflate.- ----- 6:0-rel  4:1-ARG0 5:1-R-ARG0 7:1-ARG1
+abc_0052.parse 4 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2 7:1-ARGM-TMP
+abc_0052.parse 5 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+abc_0052.parse 5 10 predicted close-v close.01 ----- 10:0-rel  0:1-ARG1 3:1-ARGM-LOC 7:1-ARGM-TMP 9:1-ARGM-ADV 11:1-ARGM-TMP 16:1-ARGM-CAU
+abc_0052.parse 5 20 predicted plummet-v plummet.01 ----- 20:0-rel  17:1-ARG1
+abc_0052.parse 6 2 predicted find-v find.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+abc_0052.parse 6 13 predicted bring-v bring.05 ----- 13:0-rel  11:1-ARG0 12:1-R-ARG0 15:1-ARG1
+abc_0052.parse 6 18 predicted bring-v bring.01 ----- 18:0-rel  4:2-ARG0 19:2-ARG1
+abc_0052.parse 7 1 predicted fear-v fear.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+abc_0052.parse 7 5 predicted close-v close.01 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD 6:2-ARG1
+abc_0052.parse 8 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-TMP 4:1-ARG2
+abc_0052.parse 8 8 predicted point-v point.01 ----- 8:0-rel  9:1-ARG2
+abc_0052.parse 8 11 predicted single-v single.01 ----- 11:0-rel  13:1-ARG3
+abc_0052.parse 9 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+abc_0052.parse 10 8 predicted lay-v lay.02 ----- 8:0-rel  1:2-ARG1
+abc_0052.parse 10 14 predicted employ-v employ.01 ----- 14:0-rel  0:1-ARGM-ADV 11:1-ARG0 13:1-ARGM-TMP 15:1-ARG1
+abc_0052.parse 11 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+abc_0052.parse 12 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+abc_0052.parse 13 5 predicted lobby-v lobby.01 ----- 5:0-rel  0:3-ARG0 6:1-ARG2 7:2-ARG1
+abc_0052.parse 13 8 predicted keep-v keep.02 ----- 8:0-rel  0:3-ARG0 6:1-ARG0 11:2-ARG1
+abc_0052.parse 14 9 predicted infuse-v infuse.01 ----- 9:0-rel  0:1-ARGM-ADV 8:1-ARG0 16:1-ARG2
+abc_0052.parse 15 10 predicted live-v live.01 ----- 10:0-rel  7:1-ARGM-LOC 8:1-ARG0
+abc_0052.parse 15 17 predicted do-v do.02 ----- 17:0-rel  0:0-ARGM-DIS 1:1-ARGM-LOC 12:1-ARG1 15:1-ARGM-TMP
+abc_0052.parse 18 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0
+abc_0052.parse 18 9 predicted lay-v lay.02 ----- 9:0-rel  7:1-ARG1 11:1-ARGM-TMP
+abc_0052.parse 19 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1
+abc_0052.parse 19 17 predicted follow-v follow.02 ----- 17:0-rel  18:1-ARG2
+abc_0052.parse 20 2 predicted mean-v mean.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+abc_0052.parse 21 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+abc_0052.parse 22 2 predicted like-v like.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+abc_0052.parse 22 4 predicted finish-v finish.01 ----- 4:0-rel  0:1-ARG0 6:1-ARGM-TMP
+abc_0052.parse 22 17 predicted quit-v quit.01 ----- 17:0-rel  12:1-ARG0
+abc_0052.parse 22 24 predicted have-v have.03 ----- 24:0-rel  23:1-ARG0 25:1-ARG1
+abc_0052.parse 23 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+abc_0052.parse 24 2 predicted absolve-v absolve.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+abc_0052.parse 24 7 predicted know-v know.01 ----- 7:0-rel  6:1-ARG0
+abc_0052.parse 24 12 predicted be-v be.01 ----- 12:0-rel  8:1-ARG1 10:0-ARGM-MOD 11:1-ARGM-ADV 13:1-ARG2 14:1-ARGM-ADV
+abc_0052.parse 24 16 predicted restore-v restore.01 ----- 16:0-rel  15:1-ARG0 17:2-ARG1
+abc_0052.parse 24 22 predicted sell-v sell.01 ----- 22:0-rel  15:1-ARG0 23:1-ARG1

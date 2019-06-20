@@ -1,0 +1,4 @@
+wsj_1292.parse 0 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+wsj_1292.parse 0 8 predicted add-v add.02 ----- 8:0-rel  6:1-ARG0 7:0-ARGM-MOD
+wsj_1292.parse 1 13 predicted delete-v delete.01 ----- 13:0-rel  0:2-ARG1 11:0-ARGM-MOD 14:1-ARG2 17:1-ARGM-TMP
+wsj_1292.parse 2 4 predicted acquire-v acquire.01 ----- 4:0-rel  0:1-ARG1

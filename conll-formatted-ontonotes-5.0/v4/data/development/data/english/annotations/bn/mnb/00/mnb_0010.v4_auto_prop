@@ -1,0 +1,59 @@
+mnb_0010.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 1:0-ARGM-MOD 3:2-ARG2
+mnb_0010.parse 1 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 2:1-ARGM-ADV 4:1-ARG2
+mnb_0010.parse 2 2 predicted continue-v continue.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1 17:2-C-ARG1
+mnb_0010.parse 2 18 predicted win-v win.01 ----- 18:0-rel  19:1-ARG1
+mnb_0010.parse 4 3 predicted fight-v fight.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-MNR
+mnb_0010.parse 5 8 predicted get-v get.05 ----- 8:0-rel  4:1-ARGM-MNR 5:1-ARG1 9:1-ARG2 12:1-ARGM-LOC
+mnb_0010.parse 7 9 predicted wield-v wield.01 ----- 9:0-rel  4:1-ARGM-LOC 6:1-R-ARGM-LOC 7:1-ARG0 10:1-ARG1
+mnb_0010.parse 8 4 predicted make-v make.02 ----- 4:0-rel  1:1-ARG0 5:1-ARG1 8:1-ARG3
+mnb_0010.parse 8 26 predicted be-v be.01 ----- 26:0-rel  0:1-ARGM-ADV 27:0-ARGM-NEG
+mnb_0010.parse 8 30 predicted draw-v draw.02 ----- 30:0-rel  28:1-ARG0 31:2-ARG1 37:1-ARG2
+mnb_0010.parse 9 2 predicted list-v list.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+mnb_0010.parse 9 7 predicted come-v come.01 ----- 7:0-rel  8:1-ARGM-DIR
+mnb_0010.parse 10 1 predicted show-v show.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+mnb_0010.parse 10 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARGM-TMP
+mnb_0010.parse 11 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+mnb_0010.parse 12 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARGM-DIS 3:1-ARG1
+mnb_0010.parse 12 7 predicted dare-v dare.- ----- 7:0-rel  6:1-ARG1 8:2-ARG2
+mnb_0010.parse 13 3 predicted dare-v dare.- ----- 3:0-rel  0:2-ARG0 4:2-ARG1
+mnb_0010.parse 13 8 predicted spend-v spend.01 ----- 8:0-rel  4:1-ARG0 9:1-ARG1
+mnb_0010.parse 13 18 predicted be-v be.01 ----- 18:0-rel  17:1-ARG1 19:1-ARG2
+mnb_0010.parse 14 15 predicted vote-v vote.01 ----- 15:0-rel  13:1-ARG0 14:1-ARGM-ADV 16:2-ARG1
+mnb_0010.parse 15 8 predicted go-v go.02 ----- 8:0-rel  7:1-ARG1 9:1-ARG4
+mnb_0010.parse 15 14 predicted expect-v expect.01 ----- 14:0-rel  0:1-ARGM-LOC 15:2-ARG1
+mnb_0010.parse 15 16 predicted be-v be.01 ----- 16:0-rel  4:2-ARG1 17:1-ARG2
+mnb_0010.parse 17 7 predicted strengthen-v strengthen.01 ----- 7:0-rel  8:1-ARG1
+mnb_0010.parse 17 11 predicted cut-v cut.02 ----- 11:0-rel  12:2-ARG1
+mnb_0010.parse 17 18 predicted save-v save.02 ----- 18:0-rel  19:1-ARG1
+mnb_0010.parse 22 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARGM-CAU 2:1-ARG0 5:1-ARG1 7:2-ARGM-TMP
+mnb_0010.parse 22 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARGM-TMP 8:1-ARG1 11:1-ARG2
+mnb_0010.parse 24 5 predicted confirm-v confirm.01 ----- 5:0-rel  0:1-ARG0 3:1-ARG0
+mnb_0010.parse 24 10 predicted set-v set.01 ----- 10:0-rel  6:2-ARG0 11:1-ARG2
+mnb_0010.parse 24 16 predicted strengthen-v strengthen.01 ----- 16:0-rel  17:1-ARG1
+mnb_0010.parse 25 3 predicted talk-v talk.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-TMP 4:1-ARG1
+mnb_0010.parse 25 14 predicted be-v be.02 ----- 14:0-rel  12:1-ARGM-LOC
+mnb_0010.parse 25 19 predicted bear-v bear.02 ----- 19:0-rel  15:2-ARG1 20:1-ARGM-TMP
+mnb_0010.parse 25 24 predicted drive-v drive.02 ----- 24:0-rel  23:1-ARG0 25:1-ARG1
+mnb_0010.parse 26 1 predicted show-v show.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+mnb_0010.parse 26 13 predicted influence-v influence.01 ----- 13:0-rel  2:2-ARG0 12:0-ARGM-MOD 14:2-ARG1
+mnb_0010.parse 26 16 predicted choose-v choose.01 ----- 16:0-rel  14:1-ARG1 15:1-ARG0
+mnb_0010.parse 27 14 predicted court-v court.01 ----- 14:0-rel  12:1-ARG0 15:1-ARG1 17:1-ARGM-MNR
+mnb_0010.parse 27 20 predicted see-v see.01 ----- 20:0-rel  18:1-ARG1 19:0-ARGM-NEG 21:1-ARGM-LOC
+mnb_0010.parse 28 7 predicted grant-v grant.01 ----- 7:0-rel  0:1-ARGM-TMP 4:2-ARG0 8:1-ARG1 13:1-ARG2
+mnb_0010.parse 30 2 predicted get-v get.03 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+mnb_0010.parse 30 9 predicted let-v let.01 ----- 9:0-rel  10:2-ARG1
+mnb_0010.parse 30 11 predicted suppose-v suppose.02 ----- 11:0-rel  10:1-ARG0 12:1-ARG1
+mnb_0010.parse 30 19 predicted decide-v decide.01 ----- 19:0-rel  13:2-ARG0 18:0-ARGM-MOD 20:1-ARG1
+mnb_0010.parse 31 6 predicted decide-v decide.01 ----- 6:0-rel  0:1-ARGM-ADV 2:1-ARGM-ADV 3:1-ARG0 5:0-ARGM-MOD 8:1-ARGM-ADV
+mnb_0010.parse 31 12 predicted be-v be.01 ----- 12:0-rel  10:1-ARG1 11:0-ARGM-MOD 13:2-ARG2
+mnb_0010.parse 32 16 predicted cross-v cross.02 ----- 16:0-rel  10:1-ARG0 17:1-ARG1
+mnb_0010.parse 33 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+mnb_0010.parse 33 10 predicted stay-v stay.01 ----- 10:0-rel  2:1-ARG1 7:1-ARG0 11:1-ARGM-LOC
+mnb_0010.parse 34 2 predicted bring-v bring.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+mnb_0010.parse 34 9 predicted get-v get.05 ----- 9:0-rel  5:1-ARG0 6:1-ARGM-ADV 7:0-ARGM-MOD 10:1-ARG2 11:1-ARGM-ADV
+mnb_0010.parse 36 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARG2 6:1-ARG1 8:1-ARG2
+mnb_0010.parse 37 9 predicted expect-v expect.01 ----- 9:0-rel  5:1-ARG1 8:1-ARGM-TMP 10:2-C-ARG1
+mnb_0010.parse 37 11 predicted deliver-v deliver.01 ----- 11:0-rel  5:1-ARG0 12:1-ARG1 14:1-ARGM-TMP
+mnb_0010.parse 38 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:1-ARGM-TMP
+mnb_0010.parse 38 15 predicted determine-v determine.01 ----- 15:0-rel  10:1-ARG1 12:0-ARGM-MOD 13:1-ARGM-ADV 16:1-ARG0
+mnb_0010.parse 38 18 predicted get-v get.01 ----- 18:0-rel  17:1-R-ARG0 19:1-ARG1 21:1-ARG2

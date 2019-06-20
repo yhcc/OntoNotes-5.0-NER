@@ -1,0 +1,19 @@
+chtb_0176.parse 1 5 predicted decide-v decide.01 ----- 5:0-rel  0:1-ARG0 6:1-ARGM-TMP 9:2-ARG1
+chtb_0176.parse 1 10 predicted hold-v hold.04 ----- 10:0-rel  0:1-ARG0 11:1-ARG1
+chtb_0176.parse 1 18 predicted discuss-v discuss.01 ----- 18:0-rel  0:1-ARG0 19:1-ARG1
+chtb_0176.parse 2 14 predicted ask-v ask.02 ----- 14:0-rel  0:1-ARGM-TMP 4:2-ARG0 15:1-ARG2 16:2-ARG1
+chtb_0176.parse 2 17 predicted hold-v hold.04 ----- 17:0-rel  4:2-ARG0 15:1-ARG0 18:1-ARG1
+chtb_0176.parse 3 1 predicted believe-v believe.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+chtb_0176.parse 3 5 predicted make-v make.03 ----- 5:0-rel  3:1-ARG1 6:1-ARGM-LOC 8:1-ARG0
+chtb_0176.parse 3 11 predicted head-v head.01 ----- 11:0-rel  9:1-ARG1 12:1-ARG0
+chtb_0176.parse 3 15 predicted exceed-v exceed.01 ----- 15:0-rel  3:2-ARG0 16:2-ARG1
+chtb_0176.parse 4 12 predicted be-v be.01 ----- 12:0-rel  0:1-ARGM-DIS 13:1-ARG2
+chtb_0176.parse 4 14 predicted hold-v hold.04 ----- 14:0-rel  15:1-ARG1
+chtb_0176.parse 5 3 predicted hold-v hold.04 ----- 3:0-rel  4:1-ARG1
+chtb_0176.parse 5 8 predicted bring-v bring.01 ----- 8:0-rel  0:1-ARG1 9:1-ARGM-DIR 10:1-ARG0
+chtb_0176.parse 7 9 predicted vote-v vote.01 ----- 9:0-rel  0:3-ARG0 10:1-ARG1
+chtb_0176.parse 7 15 predicted abstain-v abstain.01 ----- 15:0-rel  14:1-ARG0
+chtb_0176.parse 8 8 predicted say-v say.01 ----- 8:0-rel  0:1-ARG0 2:2-ARG0 9:5-ARG1
+chtb_0176.parse 8 11 predicted bring-v bring.01 ----- 11:0-rel  9:1-ARGM-TMP 10:1-ARG0 12:1-ARGM-DIR 13:1-ARG1
+chtb_0176.parse 8 31 predicted hold-v hold.04 ----- 31:0-rel  25:1-ARG1 29:0-ARGM-MOD 32:1-ARGM-MNR
+chtb_0176.parse 8 39 predicted deliberate-v deliberate.01 ----- 39:0-rel  35:1-ARG0 38:0-ARGM-MOD 40:1-ARGM-ADV 47:1-ARGM-ADV

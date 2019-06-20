@@ -1,0 +1,16 @@
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 0 5 gold say-v say.01 ----- 5:0-rel 0:1-ARG0 6:3-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 0 8 gold spend-v spend.01 ----- 8:0-rel 6:1-ARG0 7:0-ARGM-MOD 9:2-ARG3 12:2-ARGM-PNC
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 0 13 gold build-v build.01 ----- 13:0-rel 14:2-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 0 22 gold make-v make.01 ----- 22:0-rel 23:2-ARG1 14:1-LINK-SLC
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 1 10 gold begin-v begin.01 ----- 10:0-rel 0:2-ARG1 9:0-ARGM-MOD 11:1-ARGM-TMP 14:1-ARGM-ADV
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 1 15 gold production-n production.01 ----- 15:0-rel
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 1 16 gold expect-v expect.01 ----- 16:0-rel 15:1,17:2-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 1 18 gold start-v start.01 ----- 18:0-rel 19:1-ARGM-TMP
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 2 8 gold employ-v employ.01 ----- 8:0-rel 0:2-ARGM-TMP 4:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 2 13 gold have-v have.03 ----- 13:0-rel 0:2-ARGM-TMP 4:1-ARG0 7:0-ARGM-MOD 14:2-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 3 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 3 9 gold make-v make.01 ----- 9:0-rel 5:1-ARG0 8:0-ARGM-MOD 10:2-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 4 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:3-ARG1
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 4 11 gold make-v make.01 ----- 11:0-rel 12:1-ARG1 3:2-LINK-SLC
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 5 2 gold purchase-v purchase.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:2-ARG1 6:1-ARG2
+nw/wsj/13/wsj_1343@1343@wsj@nw@en@on 5 9 gold base-v base.01 ----- 9:0-rel 10:1-ARGM-LOC 7:1-LINK-PCR

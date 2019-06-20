@@ -1,0 +1,15 @@
+wsj_1265.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1265.parse 0 8 predicted agree-v agree.01 ----- 8:0-rel  3:1-ARG0 9:2-ARG1
+wsj_1265.parse 0 10 predicted buy-v buy.01 ----- 10:0-rel  3:1-ARG0 11:3-ARG1
+wsj_1265.parse 1 4 predicted disclose-v disclose.01 ----- 4:0-rel  0:1-ARG1 3:0-ARGM-NEG
+wsj_1265.parse 1 18 predicted say-v say.01 ----- 18:0-rel  7:3-ARG0 19:3-ARG1
+wsj_1265.parse 1 21 predicted hold-v hold.01 ----- 21:0-rel  20:0-ARGM-MNR 22:0-ARG1 23:0-C-ARG1
+wsj_1265.parse 1 24 predicted have-v have.03 ----- 24:0-rel  19:1-ARG0 25:2-ARG1
+wsj_1265.parse 2 10 predicted base-v base.01 ----- 10:0-rel  0:1-ARG1 11:1-ARGM-LOC
+wsj_1265.parse 2 15 predicted design-v design.01 ----- 15:0-rel  0:2-ARG0 18:1-ARG1
+wsj_1265.parse 2 17 predicted develop-v develop.02 ----- 17:0-rel  0:2-ARG0 18:1-ARG1 19:1-ARGM-MNR
+wsj_1265.parse 2 34 predicted say-v say.01 ----- 34:0-rel  33:1-ARG0 35:0-ARG1
+wsj_1265.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1265.parse 3 3 predicted expect-v expect.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+wsj_1265.parse 3 5 predicted propose-v propose.01 ----- 5:0-rel  6:0-ARG1
+wsj_1265.parse 3 9 predicted complete-v complete.01 ----- 9:0-rel  4:1-ARG1

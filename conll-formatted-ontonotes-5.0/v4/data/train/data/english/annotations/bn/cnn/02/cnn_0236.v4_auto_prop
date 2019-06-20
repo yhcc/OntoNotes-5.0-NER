@@ -1,0 +1,10 @@
+cnn_0236.parse 0 4 predicted try-v try.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+cnn_0236.parse 0 6 predicted find-v find.01 ----- 6:0-rel  0:1-ARG0 8:2-ARG1
+cnn_0236.parse 0 9 predicted cause-v cause.01 ----- 9:0-rel  8:1-ARG0 10:1-ARG1
+cnn_0236.parse 1 4 predicted capsize-v capsize.- ----- 4:0-rel  0:1-ARG0 5:1-ARGM-LOC 8:1-ARGM-TMP 11:2-ARGM-PRD
+cnn_0236.parse 1 11 predicted kill-v kill.01 ----- 11:0-rel  12:1-ARG1
+cnn_0236.parse 2 3 predicted miss-v miss.01 ----- 3:0-rel  0:1-ARG1
+cnn_0236.parse 2 5 predicted presume-v presume.01 ----- 5:0-rel  0:1-ARG1 6:2-C-ARG1
+cnn_0236.parse 3 2 predicted survive-v survive.01 ----- 2:0-rel  0:1-ARG0
+cnn_0236.parse 4 1 predicted believe-v believe.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0236.parse 4 7 predicted flip-v flip.01 ----- 7:0-rel  2:1-ARG0 5:0-ARGM-MOD 8:1-ARG1 10:1-ARG2

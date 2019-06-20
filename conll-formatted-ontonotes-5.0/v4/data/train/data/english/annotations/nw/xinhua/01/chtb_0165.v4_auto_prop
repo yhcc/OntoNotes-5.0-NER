@@ -1,0 +1,34 @@
+chtb_0165.parse 1 4 predicted move-v move.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 5:2-ARG1
+chtb_0165.parse 1 21 predicted become-v become.01 ----- 21:0-rel  22:2-ARG2
+chtb_0165.parse 1 29 predicted approve-v approve.01 ----- 29:0-rel  22:1-ARG1 30:2-ARG2
+chtb_0165.parse 1 31 predicted operate-v operate.01 ----- 31:0-rel  32:1-ARG1
+chtb_0165.parse 1 35 predicted shift-v shift.01 ----- 35:0-rel  36:1-ARG2
+chtb_0165.parse 2 6 predicted have-v have.03 ----- 6:0-rel  0:1-ARGM-TMP 4:1-ARG0 5:1-ARGM-TMP
+chtb_0165.parse 2 11 predicted approve-v approve.01 ----- 11:0-rel  7:1-ARG1 12:2-ARG2
+chtb_0165.parse 2 13 predicted operate-v operate.01 ----- 13:0-rel  7:1-ARG0 14:1-ARG1
+chtb_0165.parse 3 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+chtb_0165.parse 4 9 predicted move-v move.01 ----- 9:0-rel  0:1-ARGM-ADV 4:1-ARG1 7:0-ARGM-MOD 10:1-ARG2 12:1-ARGM-TMP
+chtb_0165.parse 5 5 predicted announce-v announce.01 ----- 5:0-rel  1:1-ARG1 4:1-ARGM-MNR 6:1-C-ARG1
+chtb_0165.parse 5 14 predicted allow-v allow.01 ----- 14:0-rel  7:1-ARG0 15:3-ARG1
+chtb_0165.parse 5 19 predicted operate-v operate.01 ----- 19:0-rel  15:2-ARG0 20:1-ARG1
+chtb_0165.parse 5 33 predicted submit-v submit.01 ----- 33:0-rel  34:0-ARG1
+chtb_0165.parse 5 36 predicted establish-v establish.01 ----- 36:0-rel  37:1-ARG1 38:1-ARGM-LOC
+chtb_0165.parse 6 1 predicted select-v select.01 ----- 1:0-rel  0:1-ARGM-TMP 2:2-ARG1
+chtb_0165.parse 6 12 predicted mind-v mind.01 ----- 12:0-rel  0:2-ARGM-TMP 6:1-ARG0 11:0-ARGM-NEG 13:1-ARG1
+chtb_0165.parse 6 19 predicted focus-v focus.01 ----- 19:0-rel  0:2-ARGM-TMP 6:1-ARG0 20:1-ARGM-EXT 21:1-ARG2
+chtb_0165.parse 6 28 predicted be-v be.01 ----- 28:0-rel  23:2-ARG1 29:1-ARG2
+chtb_0165.parse 7 7 predicted be-v be.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+chtb_0165.parse 7 16 predicted register-v register.02 ----- 16:0-rel  14:1-R-ARG1 17:2-ARG1
+chtb_0165.parse 7 28 predicted decide-v decide.01 ----- 28:0-rel  0:2-ARG0 29:2-ARG1
+chtb_0165.parse 7 30 predicted establish-v establish.01 ----- 30:0-rel  0:2-ARG0 31:2-ARG1
+chtb_0165.parse 8 11 predicted survey-v survey.01 ----- 11:0-rel  0:3-ARG0 10:1-ARGM-MNR 12:1-ARG1
+chtb_0165.parse 8 14 predicted decide-v decide.01 ----- 14:0-rel  0:3-ARG0 10:1-ARGM-MNR 15:2-ARG1
+chtb_0165.parse 8 16 predicted choose-v choose.01 ----- 16:0-rel  0:3-ARG0
+chtb_0165.parse 8 26 predicted have-v have.03 ----- 26:0-rel  25:1-R-ARG0 27:2-ARG1
+chtb_0165.parse 9 7 predicted sign-v sign.02 ----- 7:0-rel  0:1-ARGM-TMP 2:1-ARG0 6:1-ARGM-MNR 8:1-ARG1
+chtb_0165.parse 9 12 predicted buy-v buy.01 ----- 12:0-rel  0:1-ARGM-TMP 2:1-ARG0 6:1-ARGM-MNR
+chtb_0165.parse 10 42 predicted settle-v settle.03 ----- 42:0-rel  0:1-ARGM-TMP 41:1-ARGM-MNR 44:1-ARG4
+chtb_0165.parse 11 17 predicted come-v come.01 ----- 17:0-rel  0:1-ARGM-TMP 2:2-ARG1 15:0-ARGM-MOD 16:1-ARGM-ADV
+chtb_0165.parse 11 24 predicted settle-v settle.03 ----- 24:0-rel  25:1-ARGM-DIR
+chtb_0165.parse 12 8 predicted form-v form.01 ----- 8:0-rel  2:1-ARG1 5:1-R-ARG1 7:1-ARGM-TMP 9:1-ARGM-LOC
+chtb_0165.parse 12 19 predicted be-v be.01 ----- 19:0-rel  0:2-ARGM-ADV 14:1-ARG1 20:1-ARG2

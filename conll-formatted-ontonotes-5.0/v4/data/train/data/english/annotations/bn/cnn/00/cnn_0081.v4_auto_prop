@@ -1,0 +1,9 @@
+cnn_0081.parse 0 3 predicted encourage-v encourage.02 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0081.parse 0 9 predicted bring-v bring.01 ----- 9:0-rel  0:2-ARG0 10:1-ARG1 12:1-ARG2
+cnn_0081.parse 1 7 predicted transform-v transform.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG2
+cnn_0081.parse 2 2 predicted absorb-v absorb.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+cnn_0081.parse 2 7 predicted heat-v heat.02 ----- 7:0-rel  0:1-ARG0 1:1-ARGM-ADV
+cnn_0081.parse 2 15 predicted make-v make.02 ----- 15:0-rel  12:1-ARG0 13:1-R-ARG0 14:0-ARGM-MOD 16:2-ARG1
+cnn_0081.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+cnn_0081.parse 3 10 predicted see-v see.01 ----- 10:0-rel  11:1-ARG1
+cnn_0081.parse 3 15 predicted have-v have.04 ----- 15:0-rel  12:1-ARG0 14:0-ARGM-MOD 16:1-ARG1

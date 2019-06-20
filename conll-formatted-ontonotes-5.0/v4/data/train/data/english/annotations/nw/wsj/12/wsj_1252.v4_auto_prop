@@ -1,0 +1,15 @@
+wsj_1252.parse 1 5 predicted spell-v spell.03 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+wsj_1252.parse 1 15 predicted say-v say.01 ----- 15:0-rel  16:3-ARG1
+wsj_1252.parse 1 17 predicted be-v be.01 ----- 17:0-rel  16:1-ARG1
+wsj_1252.parse 1 19 predicted spell-v spell.03 ----- 19:0-rel  20:0-ARG0
+wsj_1252.parse 1 22 predicted prefer-v prefer.01 ----- 22:0-rel  18:1-ARG0 21:1-ARGM-TMP
+wsj_1252.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+wsj_1252.parse 3 9 predicted match-v match.01 ----- 9:0-rel  6:1-ARG1 8:0-ARGM-MOD
+wsj_1252.parse 3 15 predicted find-v find.01 ----- 15:0-rel  13:1-ARG0 14:1-R-ARG0
+wsj_1252.parse 3 18 predicted lag-v lag.01 ----- 18:0-rel  16:1-ARG0 19:1-ARG1
+wsj_1252.parse 3 22 predicted take-v take.01 ----- 22:0-rel  20:0-ARGM-MOD 21:1-ARGM-TMP 23:1-ARG1 24:1-ARG2
+wsj_1252.parse 6 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG2 4:2-ARG1
+wsj_1252.parse 6 5 predicted attack-v attack.01 ----- 5:0-rel  6:2-ARG1
+wsj_1252.parse 6 11 predicted set-v set.01 ----- 11:0-rel  10:1-ARGM-TMP
+wsj_1252.parse 9 2 predicted make-v make.01 ----- 2:0-rel  0:0-ARG1 3:0-ARG0
+wsj_1252.parse 9 7 predicted work-v work.01 ----- 7:0-rel  5:0-ARG1

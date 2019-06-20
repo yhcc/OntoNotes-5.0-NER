@@ -1,0 +1,11 @@
+wsj_1517.parse 0 9 predicted name-v name.01 ----- 9:0-rel  0:2-ARG1 10:3-ARG2
+wsj_1517.parse 1 1 predicted make-v make.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+wsj_1517.parse 1 8 predicted describe-v describe.01 ----- 8:0-rel  7:1-ARG0 9:1-ARG2
+wsj_1517.parse 2 1 predicted operate-v operate.01 ----- 1:0-rel  2:0-ARG1
+wsj_1517.parse 2 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+wsj_1517.parse 3 7 predicted be-v be.01 ----- 7:0-rel  5:1-R-ARG1 8:1-ARG2
+wsj_1517.parse 3 11 predicted name-v name.01 ----- 11:0-rel  0:3-ARG1 12:2-ARG2
+wsj_1517.parse 4 1 predicted remain-v remain.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG3
+wsj_1517.parse 6 4 predicted expand-v expand.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG1 5:1-ARG4
+wsj_1517.parse 7 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 4:3-ARG1
+wsj_1517.parse 7 6 predicted place-v place.01 ----- 6:0-rel  4:1-ARG0 5:1-ARGM-MNR 7:1-ARG1

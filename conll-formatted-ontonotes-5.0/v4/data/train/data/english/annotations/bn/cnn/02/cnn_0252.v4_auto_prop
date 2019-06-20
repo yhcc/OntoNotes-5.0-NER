@@ -1,0 +1,29 @@
+cnn_0252.parse 0 2 predicted hear-v hear.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0252.parse 0 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARG1 11:1-ARG2
+cnn_0252.parse 1 21 predicted thwart-v thwart.01 ----- 21:0-rel  22:1-ARG1
+cnn_0252.parse 2 3 predicted mean-v mean.01 ----- 3:0-rel  0:1-ARG1 2:1-ARG0 4:1-ARGM-ADV
+cnn_0252.parse 2 7 predicted travel-v travel.01 ----- 7:0-rel  5:1-ARG0 8:3-ARG1
+cnn_0252.parse 2 10 predicted ask-v ask.01 ----- 10:0-rel  8:1-ARG0 9:0-ARGM-MOD
+cnn_0252.parse 4 1 predicted be-v be.01 ----- 1:0-rel  2:2-ARG1
+cnn_0252.parse 4 4 predicted do-v do.02 ----- 4:0-rel  2:1-ARG0
+cnn_0252.parse 4 13 predicted do-v do.02 ----- 13:0-rel  2:1-ARG0 11:0-ARGM-NEG
+cnn_0252.parse 6 4 predicted mean-v mean.01 ----- 4:0-rel  2:1-ARG1 3:1-ARG0
+cnn_0252.parse 6 5 predicted be-v be.01 ----- 5:0-rel  6:2-ARG2
+cnn_0252.parse 6 18 predicted slow-v slow.03 ----- 18:0-rel  15:1-ARG0 16:0-ARGM-MOD 17:1-ARGM-ADV 19:1-ARG1
+cnn_0252.parse 7 4 predicted want-v want.01 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+cnn_0252.parse 7 6 predicted do-v do.02 ----- 6:0-rel  2:1-ARG0 7:1-ARG1
+cnn_0252.parse 7 14 predicted get-v get.05 ----- 14:0-rel  0:2-ARG1 9:1-ARGM-TMP 12:0-ARGM-ADV 13:1-ARGM-ADV 15:1-ARG2 16:2-ARGM-TMP
+cnn_0252.parse 8 7 predicted describe-v describe.01 ----- 7:0-rel  0:1-ARGM-TMP 2:3-ARG0 8:2-ARG1
+cnn_0252.parse 8 20 predicted be-v be.01 ----- 20:0-rel  17:1-ARG1 19:1-R-ARG1 21:1-ARGM-TMP 22:1-ARG2
+cnn_0252.parse 10 3 predicted got-v got.- ----- 3:0-rel  0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1
+cnn_0252.parse 10 5 predicted harden-v harden.- ----- 5:0-rel  6:0-ARG1 7:0-C-ARG1
+cnn_0252.parse 11 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0252.parse 12 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0252.parse 13 1 predicted come-v come.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-DIR
+cnn_0252.parse 13 8 predicted have-v have.03 ----- 8:0-rel  7:1-ARG0 9:2-ARG1
+cnn_0252.parse 14 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+cnn_0252.parse 14 3 predicted train-v train.01 ----- 3:0-rel  4:0-ARG2
+cnn_0252.parse 15 1 predicted enhance-v enhance.01 ----- 1:0-rel  0:1-ARG0 4:1-ARGM-LOC
+cnn_0252.parse 16 2 predicted be-v be.02 ----- 2:0-rel  1:0-ARGM-MOD
+cnn_0252.parse 16 11 predicted depend-v depend.01 ----- 11:0-rel  12:1-ARG1
+cnn_0252.parse 18 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP

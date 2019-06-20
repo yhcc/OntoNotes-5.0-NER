@@ -1,0 +1,29 @@
+cnn_0145.parse 0 3 predicted consider-v consider.02 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0145.parse 0 12 predicted come-v come.09 ----- 12:0-rel  8:1-ARG1 14:1-ARGM-TMP
+cnn_0145.parse 1 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0145.parse 2 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 4:1-ARG2 7:1-ARGM-TMP
+cnn_0145.parse 3 9 predicted meet-v meet.03 ----- 9:0-rel  0:1-ARGM-TMP 3:1-ARG0 10:1-ARGM-TMP 14:1-ARG1
+cnn_0145.parse 3 17 predicted discuss-v discuss.01 ----- 17:0-rel  18:1-ARG1
+cnn_0145.parse 4 3 predicted indicate-v indicate.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+cnn_0145.parse 4 7 predicted slow-v slow.01 ----- 7:0-rel  4:1-ARG1
+cnn_0145.parse 4 12 predicted believe-v believe.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG1
+cnn_0145.parse 4 19 predicted ease-v ease.02 ----- 19:0-rel  14:1-ARG0 16:0-ARGM-MOD 17:1-ARGM-ADV 20:1-ARG1
+cnn_0145.parse 4 23 predicted fight-v fight.01 ----- 23:0-rel  21:0-ARG1 24:0-ARG0
+cnn_0145.parse 4 26 predicted take-v take.01 ----- 26:0-rel  14:1-ARG0 16:0-ARGM-MOD 17:1-ARGM-ADV 27:1-ARG1
+cnn_0145.parse 5 5 predicted hold-v hold.03 ----- 5:0-rel  0:1-ARGM-DIS 2:1-ARG0 8:1-ARGM-LOC
+cnn_0145.parse 6 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-DIS 1:3-ARG1
+cnn_0145.parse 7 3 predicted expect-v expect.01 ----- 3:0-rel  0:1-ARG1 4:2-C-ARG1
+cnn_0145.parse 7 5 predicted drop-v drop.01 ----- 5:0-rel  0:1-ARG1
+cnn_0145.parse 8 6 predicted start-v start.01 ----- 6:0-rel  4:1-ARG1
+cnn_0145.parse 8 10 predicted forecast-v forecast.01 ----- 10:0-rel  8:1-R-ARG1 11:2-ARG1
+cnn_0145.parse 8 12 predicted hold-v hold.03 ----- 12:0-rel  8:1-R-ARG1 13:2-ARG2
+cnn_0145.parse 8 17 predicted revise-v revise.01 ----- 17:0-rel  23:0-ARG1
+cnn_0145.parse 8 25 predicted expect-v expect.01 ----- 25:0-rel  16:1-ARG1 26:2-C-ARG1
+cnn_0145.parse 8 27 predicted remain-v remain.01 ----- 27:0-rel  16:1-ARG1 28:1-ARG3
+cnn_0145.parse 9 10 predicted figure-v figure.01 ----- 10:0-rel  0:2-ARG1 5:2-ARG0
+cnn_0145.parse 10 4 predicted be-v be.03 ----- 4:0-rel  0:2-ARG1
+cnn_0145.parse 10 6 predicted expect-v expect.01 ----- 6:0-rel  7:2-ARG1
+cnn_0145.parse 10 8 predicted rise-v rise.01 ----- 8:0-rel  0:2-ARG1
+cnn_0145.parse 10 16 predicted climb-v climb.02 ----- 16:0-rel  11:2-ARG1 15:0-ARGM-MOD 17:1-ARGM-EXT
+cnn_0145.parse 11 1 predicted stay-v stay.01 ----- 1:0-rel  10:1-ARGM-TMP
+cnn_0145.parse 11 12 predicted watch-v watch.01 ----- 12:0-rel  0:2-ARGM-PRP 13:1-ARG1 19:1-ARGM-MNR

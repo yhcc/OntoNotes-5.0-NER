@@ -1,0 +1,12 @@
+cnn_0269.parse 0 3 predicted determine-v determine.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0269.parse 0 7 predicted be-v be.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+cnn_0269.parse 1 8 predicted be-v be.01 ----- 8:0-rel  0:1-ARG1 3:1-ARGM-ADV 9:1-ARGM-TMP 10:1-ARG2
+cnn_0269.parse 2 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+cnn_0269.parse 2 13 predicted limit-v limit.01 ----- 13:0-rel  6:2-ARG0 14:1-ARG1 15:1-ARGM-LOC
+cnn_0269.parse 2 19 predicted know-v know.01 ----- 19:0-rel  18:1-ARG0
+cnn_0269.parse 2 21 predicted be-v be.02 ----- 21:0-rel  22:3-ARG1
+cnn_0269.parse 2 31 predicted be-v be.01 ----- 31:0-rel  26:1-ARG1 29:1-R-ARG1 30:0-ARGM-MOD 32:1-ARG2
+cnn_0269.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+cnn_0269.parse 3 8 predicted surrender-v surrender.01 ----- 8:0-rel  3:1-ARG0 9:1-ARG2
+cnn_0269.parse 4 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0269.parse 4 8 predicted be-v be.01 ----- 8:0-rel  3:1-ARG1 9:1-ARGM-TMP 11:1-ARG2

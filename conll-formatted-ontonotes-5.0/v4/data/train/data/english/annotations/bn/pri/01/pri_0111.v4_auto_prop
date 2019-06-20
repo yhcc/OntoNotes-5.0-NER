@@ -1,0 +1,16 @@
+pri_0111.parse 0 7 predicted resume-v resume.01 ----- 7:0-rel  0:2-ARG1 8:1-ARGM-LOC
+pri_0111.parse 0 22 predicted suspend-v suspend.01 ----- 22:0-rel  18:2-ARG0 23:1-ARG1 24:1-ARGM-TMP
+pri_0111.parse 0 24 predicted follow-v follow.01 ----- 24:0-rel  23:1-ARG0 25:2-ARG2
+pri_0111.parse 0 43 predicted give-v give.07 ----- 43:0-rel  45:2-ARG1
+pri_0111.parse 0 57 predicted seem-v seem.01 ----- 57:0-rel  58:2-ARG1
+pri_0111.parse 1 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0
+pri_0111.parse 2 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARGM-TMP 2:1-ARG1
+pri_0111.parse 2 11 predicted follow-v follow.01 ----- 11:0-rel  12:2-ARG2
+pri_0111.parse 2 28 predicted stop-v stop.01 ----- 28:0-rel  24:1-ARG1 27:0-ARGM-NEG
+pri_0111.parse 3 3 predicted die-v die.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-TMP
+pri_0111.parse 3 6 predicted shoot-v shoot.02 ----- 6:0-rel  0:1-ARG1 7:1-ARG0 10:1-ARGM-LOC
+pri_0111.parse 3 22 predicted collapse-v collapse.01 ----- 22:0-rel  18:1-ARG1 20:0-ARGM-MOD 21:0-ARGM-NEG 23:1-ARGM-ADV
+pri_0111.parse 4 7 predicted say-v say.01 ----- 7:0-rel  0:3-ARG0 8:3-ARG1
+pri_0111.parse 4 9 predicted see-v see.01 ----- 9:0-rel  8:1-ARG0 10:2-ARG1
+pri_0111.parse 5 2 predicted state-v state.01 ----- 2:0-rel  1:0-ARGM-MNR 6:0-ARG1
+pri_0111.parse 5 25 predicted be-v be.01 ----- 25:0-rel  26:1-ARGM-TMP

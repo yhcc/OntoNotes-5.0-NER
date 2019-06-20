@@ -1,0 +1,10 @@
+pri_0091.parse 0 5 predicted agree-v agree.01 ----- 5:0-rel  0:1-ARG0 6:2-ARG1
+pri_0091.parse 0 7 predicted impose-v impose.01 ----- 7:0-rel  0:1-ARG0 14:1-ARGM-LOC
+pri_0091.parse 1 4 predicted include-v include.01 ----- 4:0-rel  0:1-ARG2 5:1-ARG1
+pri_0091.parse 1 10 predicted propose-v propose.01 ----- 10:0-rel  0:2-ARG1 11:1-ARG0
+pri_0091.parse 2 1 predicted accuse-v accuse.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARG2
+pri_0091.parse 2 5 predicted support-v support.01 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+pri_0091.parse 3 2 predicted want-v want.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:2-ARG1
+pri_0091.parse 3 5 predicted hand-v hand.02 ----- 5:0-rel  3:1-ARG0
+pri_0091.parse 3 9 predicted bear-v bear.02 ----- 9:0-rel  8:0-ARGM-LOC 10:0-ARG1
+pri_0091.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2

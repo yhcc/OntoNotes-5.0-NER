@@ -1,0 +1,27 @@
+cnn_0237.parse 0 5 predicted end-v end.03 ----- 5:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:0-ARG1 3:1-ARG0 7:1-ARG2
+cnn_0237.parse 0 14 predicted commit-v commit.02 ----- 14:0-rel  10:1-ARG1 11:1-ARG0 13:0-ARGM-NEG
+cnn_0237.parse 1 10 predicted be-v be.01 ----- 10:0-rel  0:2-ARG1 11:1-ARG2
+cnn_0237.parse 3 4 predicted arrest-v arrest.01 ----- 4:0-rel  1:1-ARG1
+cnn_0237.parse 3 7 predicted be-v be.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG2
+cnn_0237.parse 4 5 predicted base-v base.02 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+cnn_0237.parse 5 1 predicted claim-v claim.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0237.parse 5 3 predicted buy-v buy.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG1 5:1-ARG2
+cnn_0237.parse 5 10 predicted offer-v offer.01 ----- 10:0-rel  0:1-ARG0 11:2-ARG1
+cnn_0237.parse 5 14 predicted support-v support.01 ----- 14:0-rel  15:0-ARG0
+cnn_0237.parse 6 6 predicted end-v end.02 ----- 6:0-rel  4:1-ARG1 7:1-ARG2
+cnn_0237.parse 6 18 predicted plead-v plead.02 ----- 18:0-rel  0:1-ARGM-TMP 13:2-ARG0 19:0-ARG1
+cnn_0237.parse 6 21 predicted avoid-v avoid.01 ----- 21:0-rel  13:2-ARG0 22:1-ARG1
+cnn_0237.parse 7 19 predicted get-v get.03 ----- 19:0-rel  20:1-ARG2
+cnn_0237.parse 8 3 predicted stop-v stop.01 ----- 3:0-rel  0:1-ARG1 4:2-ARGM-TMP
+cnn_0237.parse 8 12 predicted agree-v agree.01 ----- 12:0-rel  4:1-ARGM-TMP 5:2-ARG0 13:1-ARG1
+cnn_0237.parse 8 15 predicted lie-v lie.02 ----- 15:0-rel  14:1-ARG0 16:1-ARGM-MNR
+cnn_0237.parse 8 19 predicted be-v be.01 ----- 19:0-rel  14:1-ARG1 20:1-ARG2
+cnn_0237.parse 9 2 predicted do-v do.02 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0237.parse 10 1 predicted take-v take.10 ----- 1:0-rel  9:2-ARG0
+cnn_0237.parse 10 10 predicted clear-v clear.01 ----- 10:0-rel  11:2-ARG1
+cnn_0237.parse 10 24 predicted catch-v catch.04 ----- 24:0-rel  22:1-ARG1 26:1-ARGM-LOC
+cnn_0237.parse 10 30 predicted be-v be.01 ----- 30:0-rel  19:2-ARG1 31:1-ARGM-TMP 32:1-ARG2
+cnn_0237.parse 10 32 predicted convict-v convict.01 ----- 32:0-rel  31:1-ARGM-TMP 33:0-ARG1
+cnn_0237.parse 11 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG1
+cnn_0237.parse 11 14 predicted parole-v parole.- ----- 14:0-rel  0:1-ARGM-TMP 1:1-ARG1 15:2-ARG2
+cnn_0237.parse 11 17 predicted clear-v clear.01 ----- 17:0-rel  16:1-ARGM-MNR 18:1-ARG1

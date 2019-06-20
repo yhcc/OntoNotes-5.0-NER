@@ -1,0 +1,9 @@
+pri_0059.parse 0 1 predicted continue-v continue.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP 3:1-ARGM-LOC
+pri_0059.parse 1 2 predicted fire-v fire.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-DIR 7:2-ARGM-PRD
+pri_0059.parse 1 7 predicted kill-v kill.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1
+pri_0059.parse 2 4 predicted guard-v guard.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+pri_0059.parse 2 8 predicted shoot-v shoot.02 ----- 8:0-rel  2:2-ARG0
+pri_0059.parse 2 10 predicted kill-v kill.01 ----- 10:0-rel  0:2-ARGM-TMP 2:2-ARG0 11:2-ARG1
+pri_0059.parse 2 17 predicted identify-v identify.01 ----- 17:0-rel  11:1-ARG1 14:1-R-ARG1 16:1-ARGM-TMP 18:1-ARG2
+pri_0059.parse 3 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+pri_0059.parse 3 8 predicted approach-v approach.01 ----- 8:0-rel  4:1-ARG1 9:1-ARG2 12:1-ARGM-MNR

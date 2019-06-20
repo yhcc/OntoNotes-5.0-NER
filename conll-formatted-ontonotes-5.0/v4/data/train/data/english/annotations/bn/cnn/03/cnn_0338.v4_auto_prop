@@ -1,0 +1,75 @@
+cnn_0338.parse 1 1 predicted liberate-v liberate.- ----- 1:0-rel  0:1-ARG0 2:2-ARG1 6:1-ARG2
+cnn_0338.parse 2 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 3 1 predicted bring-v bring.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARG2
+cnn_0338.parse 4 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0338.parse 4 3 predicted thank-v thank.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 6:2-ARG2
+cnn_0338.parse 4 17 predicted speak-v speak.01 ----- 17:0-rel  16:1-ARG0
+cnn_0338.parse 4 32 predicted grow-v grow.02 ----- 32:0-rel  30:1-ARG1 33:1-ARG2
+cnn_0338.parse 5 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 6 2 predicted offer-v offer.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1
+cnn_0338.parse 6 19 predicted lose-v lose.02 ----- 19:0-rel  18:1-R-ARG0 20:1-ARG1 22:1-ARGM-TMP
+cnn_0338.parse 6 23 predicted cover-v cover.03 ----- 23:0-rel  24:1-ARG1
+cnn_0338.parse 7 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 8 6 predicted be-v be.01 ----- 6:0-rel  0:1-ARG1 7:1-ARG2
+cnn_0338.parse 9 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 10 2 predicted show-v show.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-MNR
+cnn_0338.parse 10 6 predicted send-v send.01 ----- 6:0-rel  0:1-ARG0 7:2-ARG1 11:2-ARGM-PRP
+cnn_0338.parse 10 12 predicted help-v help.01 ----- 12:0-rel  13:2-ARG2
+cnn_0338.parse 11 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 12 2 predicted thank-v thank.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARG2
+cnn_0338.parse 13 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 14 4 predicted move-v move.02 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 5:2-ARG1
+cnn_0338.parse 14 6 predicted ease-v ease.02 ----- 6:0-rel  2:1-ARG0 7:3-ARG1
+cnn_0338.parse 14 8 predicted impose-v impose.01 ----- 8:0-rel  7:1-ARG1 9:1-ARG0
+cnn_0338.parse 15 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 16 1 predicted base-v base.02 ----- 1:0-rel  0:1-ARGM-DIS 2:1-ARG2
+cnn_0338.parse 16 6 predicted give-v give.01 ----- 6:0-rel  3:1-ARG1 5:1-ARGM-TMP 7:1-ARG2 9:1-ARG0
+cnn_0338.parse 16 13 predicted suspend-v suspend.01 ----- 13:0-rel  0:1-ARGM-DIS 1:1-ARGM-ADV 11:1-ARG0 14:2-ARG1
+cnn_0338.parse 16 21 predicted restrict-v restrict.01 ----- 21:0-rel  20:1-R-ARG0 22:2-ARG1
+cnn_0338.parse 17 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 18 3 predicted direct-v direct.01 ----- 3:0-rel  0:1-ARGM-DIS
+cnn_0338.parse 18 7 predicted relax-v relax.01 ----- 7:0-rel  4:1-ARG0
+cnn_0338.parse 18 14 predicted conduct-v conduct.01 ----- 14:0-rel  10:1-ARG0 15:1-ARG1 16:1-ARGM-LOC
+cnn_0338.parse 18 19 predicted contribute-v contribute.01 ----- 19:0-rel  18:1-ARG0 20:1-ARG2
+cnn_0338.parse 19 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 20 17 predicted introduce-v introduce.02 ----- 17:0-rel  0:1-ARGM-TMP 2:1-ARGM-LOC 8:2-ARG0 16:0-ARGM-MOD 18:1-ARG1
+cnn_0338.parse 20 22 predicted lift-v lift.02 ----- 22:0-rel  8:2-ARG0 23:2-ARG1
+cnn_0338.parse 20 25 predicted impose-v impose.01 ----- 25:0-rel  23:1-ARG1 26:1-ARG0
+cnn_0338.parse 21 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 22 6 predicted direct-v direct.01 ----- 6:0-rel  0:1-ARG1 2:1-R-ARG1 3:1-ARG0 7:1-ARG2
+cnn_0338.parse 23 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 24 7 predicted support-v support.01 ----- 7:0-rel  0:0-ARGM-DIS 1:2-ARG0 6:0-ARGM-MOD 8:2-ARG1
+cnn_0338.parse 24 8 predicted use-v use.01 ----- 8:0-rel  9:1-ARG1
+cnn_0338.parse 24 11 predicted hold-v hold.07 ----- 11:0-rel  13:2-ARG1
+cnn_0338.parse 25 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 26 8 predicted continue-v continue.01 ----- 8:0-rel  0:1-ARGM-LOC 4:2-ARG0 7:0-ARGM-MOD 9:1-ARGM-MNR
+cnn_0338.parse 27 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 28 5 predicted take-v take.01 ----- 5:0-rel  0:1-ARGM-TMP 2:1-ARG0
+cnn_0338.parse 28 8 predicted cut-v cut.04 ----- 8:0-rel  6:1-ARG0 10:2-ARG1
+cnn_0338.parse 29 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 30 1 predicted believe-v believe.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0338.parse 30 7 predicted like-v like.01 ----- 7:0-rel  3:2-ARG0
+cnn_0338.parse 30 9 predicted have-v have.03 ----- 9:0-rel  3:2-ARG0 8:1-ARGM-LOC 10:1-ARG1
+cnn_0338.parse 30 13 predicted live-v live.01 ----- 13:0-rel  3:2-ARG0 14:1-ARGM-MNR
+cnn_0338.parse 31 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 32 3 predicted work-v work.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-DIS 4:1-ARG2
+cnn_0338.parse 33 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 34 4 predicted expand-v expand.01 ----- 4:0-rel  0:1-ARG0
+cnn_0338.parse 34 7 predicted build-v build.02 ----- 7:0-rel  5:1-ARG0 6:1-R-ARG0 8:2-ARG1
+cnn_0338.parse 35 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 36 2 predicted work-v work.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARGM-MNR 4:2-ARG1
+cnn_0338.parse 36 5 predicted address-v address.02 ----- 5:0-rel  0:1-ARG0
+cnn_0338.parse 37 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 38 6 predicted stand-v stand.04 ----- 6:0-rel  0:2-ARG1 5:0-ARGM-MOD
+cnn_0338.parse 38 13 predicted strive-v strive.01 ----- 13:0-rel  11:1-ARG0 12:1-ARGM-LOC 14:1-ARG1
+cnn_0338.parse 39 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 40 4 predicted help-v help.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+cnn_0338.parse 41 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 42 6 predicted permit-v permit.01 ----- 6:0-rel  0:3-ARG0
+cnn_0338.parse 42 13 predicted develop-v develop.02 ----- 13:0-rel  14:1-ARG1
+cnn_0338.parse 43 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 44 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+cnn_0338.parse 44 8 predicted take-v take.01 ----- 8:0-rel  0:2-ARG0 9:1-ARG1
+cnn_0338.parse 45 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 47 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0
+cnn_0338.parse 47 5 predicted speak-v speak.01 ----- 5:0-rel  6:1-ARG1

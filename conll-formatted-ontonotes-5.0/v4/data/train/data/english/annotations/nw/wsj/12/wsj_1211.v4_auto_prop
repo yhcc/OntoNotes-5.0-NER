@@ -1,0 +1,6 @@
+wsj_1211.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1211.parse 0 6 predicted offer-v offer.01 ----- 6:0-rel  4:1-ARG0
+wsj_1211.parse 0 8 predicted purchase-v purchase.01 ----- 8:0-rel  4:1-ARG0
+wsj_1211.parse 0 31 predicted accrue-v accrue.01 ----- 31:0-rel  32:0-ARG1
+wsj_1211.parse 1 7 predicted say-v say.01 ----- 7:0-rel  0:1-ARG0 8:3-ARG1
+wsj_1211.parse 1 11 predicted require-v require.01 ----- 11:0-rel  8:1-ARG1 12:1-ARGM-LOC 17:1-ARGM-CAU

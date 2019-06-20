@@ -1,0 +1,21 @@
+wsj_1032.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 3:1-ARG0 5:1-ARG1
+wsj_1032.parse 0 7 predicted plan-v plan.01 ----- 7:0-rel  6:1-ARG0 8:2-ARG1
+wsj_1032.parse 0 9 predicted sell-v sell.01 ----- 9:0-rel  6:1-ARG0 10:1-ARG1 14:1-ARGM-TMP 19:1-ARGM-ADV
+wsj_1032.parse 0 11 predicted remain-v remain.01 ----- 11:0-rel  12:0-ARG1 13:0-C-ARG1
+wsj_1032.parse 0 25 predicted refocus-v refocus.01 ----- 25:0-rel  26:1-ARG2
+wsj_1032.parse 0 31 predicted lower-v lower.01 ----- 31:0-rel  32:1-ARG1
+wsj_1032.parse 1 8 predicted disclose-v disclose.01 ----- 8:0-rel  0:2-ARG0 7:1-ARGM-DIS
+wsj_1032.parse 1 25 predicted exclude-v exclude.01 ----- 25:0-rel  26:1-ARG1
+wsj_1032.parse 1 26 predicted nonrecurring-v nonrecurring.- ----- 26:0-rel  27:0-ARG1
+wsj_1032.parse 2 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1032.parse 2 8 predicted do-v do.02 ----- 8:0-rel  4:1-ARG1 6:0-ARGM-MOD 9:1-ARGM-MNR
+wsj_1032.parse 2 14 predicted raise-v raise.02 ----- 14:0-rel  4:1-ARG0 13:0-ARGM-MOD 15:2-ARG1
+wsj_1032.parse 3 2 predicted include-v include.01 ----- 2:0-rel  0:1-ARG2 1:0-ARGM-MOD 3:2-ARG1
+wsj_1032.parse 4 5 predicted enter-v enter.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1 8:1-ARGM-TMP
+wsj_1032.parse 4 12 predicted acquire-v acquire.01 ----- 12:0-rel  0:1-ARG0 13:1-ARG1
+wsj_1032.parse 5 7 predicted see-v see.01 ----- 7:0-rel  0:2-ARG0 6:0-ARGM-MOD
+wsj_1032.parse 5 11 predicted sell-v sell.01 ----- 11:0-rel  8:1-ARG0 12:2-ARG1
+wsj_1032.parse 5 37 predicted control-v control.01 ----- 37:0-rel  34:1-R-ARG1 36:1-ARGM-DIS 38:1-ARG0
+wsj_1032.parse 6 10 predicted sell-v sell.01 ----- 10:0-rel  0:0-ARGM-DIS 1:1-ARGM-LOC 6:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+wsj_1032.parse 6 12 predicted remain-v remain.01 ----- 12:0-rel  15:0-ARG1
+wsj_1032.parse 6 20 predicted hold-v hold.01 ----- 20:0-rel  21:0-ARG0

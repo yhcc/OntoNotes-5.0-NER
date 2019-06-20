@@ -1,0 +1,22 @@
+cnn_0190.parse 0 9 predicted derail-v derail.01 ----- 9:0-rel  0:2-ARGM-TMP 3:1-ARGM-TMP 5:2-ARG0 8:1-ARGM-ADV 10:2-ARG1
+cnn_0190.parse 1 2 predicted track-v track.01 ----- 2:0-rel  0:1-ARG0
+cnn_0190.parse 2 6 predicted claim-v claim.01 ----- 6:0-rel  0:1-ARGM-TMP 4:1-ARG0 7:3-ARG1
+cnn_0190.parse 2 8 predicted have-v have.03 ----- 8:0-rel  7:1-ARG0 9:1-ARG1
+cnn_0190.parse 3 14 predicted threaten-v threaten.01 ----- 14:0-rel  0:1-ARG0 11:2-ARG1 15:2-ARG2
+cnn_0190.parse 3 16 predicted torpedo-v torpedo.01 ----- 16:0-rel  11:2-ARG0 17:2-ARG1
+cnn_0190.parse 4 3 predicted deny-v deny.01 ----- 3:0-rel  1:1-ARG0 4:2-ARG1
+cnn_0190.parse 4 4 predicted have-v have.03 ----- 4:0-rel  1:1-ARG0 5:2-ARG1
+cnn_0190.parse 4 12 predicted speak-v speak.01 ----- 12:0-rel  0:1-ARGM-ADV 10:1-ARG0
+cnn_0190.parse 4 14 predicted bring-v bring.01 ----- 14:0-rel  10:1-ARG0 16:1-ARG1 18:1-ARG2
+cnn_0190.parse 5 1 predicted go-v go.06 ----- 1:0-rel  0:1-ARG1 10:1-ARGM-LOC
+cnn_0190.parse 6 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0190.parse 6 3 predicted feel-v feel.01 ----- 3:0-rel  2:1-ARG0
+cnn_0190.parse 6 4 predicted vindicate-v vindicate.- ----- 4:0-rel  2:1-ARG1
+cnn_0190.parse 6 7 predicted admit-v admit.01 ----- 7:0-rel  5:1-ARGM-TMP 6:1-ARG0 8:1-ARGM-MNR
+cnn_0190.parse 6 13 predicted have-v have.03 ----- 13:0-rel  11:1-ARG0 14:2-ARG1 18:1-ARGM-TMP
+cnn_0190.parse 6 19 predicted deny-v deny.01 ----- 19:0-rel  20:1-ARG1 21:1-ARGM-TMP
+cnn_0190.parse 7 2 predicted write-v write.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0190.parse 7 9 predicted be-v be.01 ----- 9:0-rel  6:1-R-ARG1 10:1-ARG2 12:1-ARGM-LOC
+cnn_0190.parse 7 23 predicted sign-v sign.02 ----- 23:0-rel  24:0-ARG1
+cnn_0190.parse 8 4 predicted dismiss-v dismiss.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-TMP 5:2-ARG1
+cnn_0190.parse 8 9 predicted bring-v bring.01 ----- 9:0-rel  5:1-ARG1 8:1-ARG0

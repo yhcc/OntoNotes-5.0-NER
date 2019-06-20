@@ -1,0 +1,32 @@
+abc_0021.parse 0 15 predicted begin-v begin.01 ----- 15:0-rel  0:3-ARG1 13:0-ARGM-MOD 14:1-ARGM-TMP
+abc_0021.parse 0 16 predicted receive-v receive.01 ----- 16:0-rel  0:3-ARG0
+abc_0021.parse 1 4 predicted have-v have.03 ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+abc_0021.parse 2 8 predicted back-v back.01 ----- 8:0-rel  6:0-ARG0 9:0-ARG1
+abc_0021.parse 3 17 predicted receive-v receive.01 ----- 17:0-rel  0:2-ARGM-TMP 10:1-ARG0 15:0-ARGM-MOD 16:1-ARGM-TMP 18:3-ARG1 23:1-ARG2
+abc_0021.parse 4 2 predicted be-v be.01 ----- 2:0-rel  1:1-ARG1 3:2-ARG2
+abc_0021.parse 4 8 predicted send-v send.01 ----- 8:0-rel  3:1-ARGM-MNR 5:1-R-ARGM-MNR 6:1-ARG0 7:0-ARGM-MOD 9:1-ARG1
+abc_0021.parse 4 13 predicted need-v need.01 ----- 13:0-rel  12:1-ARG0 14:2-ARG1
+abc_0021.parse 4 16 predicted hold-v hold.03 ----- 16:0-rel  12:1-ARG1 17:2-ARG2
+abc_0021.parse 4 21 predicted do-v do.02 ----- 21:0-rel  19:1-ARG1 20:1-ARG0
+abc_0021.parse 4 24 predicted be-v be.01 ----- 24:0-rel  0:1-ARGM-ADV 23:1-ARG1 25:2-ARG2
+abc_0021.parse 4 27 predicted be-v be.01 ----- 27:0-rel  26:1-ARG1 28:1-ARG2
+abc_0021.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+abc_0021.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+abc_0021.parse 7 4 predicted spend-v spend.02 ----- 4:0-rel  0:1-ARG0 3:1-R-ARG0 5:2-ARG1 8:1-ARG2
+abc_0021.parse 7 15 predicted get-v get.01 ----- 15:0-rel  0:2-ARG0 14:0-ARGM-MOD 16:2-ARG1
+abc_0021.parse 8 5 predicted spend-v spend.01 ----- 5:0-rel  1:1-ARG0 4:1-R-ARG0 6:1-ARG3
+abc_0021.parse 8 10 predicted be-v be.01 ----- 10:0-rel  0:0-ARGM-DIS 1:2-ARG1 8:1-ARG1 11:1-ARG2
+abc_0021.parse 10 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+abc_0021.parse 10 8 predicted sue-v sue.01 ----- 8:0-rel  0:2-ARG0 9:1-ARG1
+abc_0021.parse 10 17 predicted pass-v pass.01 ----- 17:0-rel  16:1-ARG1 18:1-ARGM-TMP
+abc_0021.parse 10 25 predicted get-v get.01 ----- 25:0-rel  15:1-ARGM-LOC 21:1-ARG0 23:0-ARGM-MOD 24:1-ARGM-ADV 26:1-ARG1
+abc_0021.parse 11 9 predicted come-v come.03 ----- 9:0-rel  0:1-ARG1 3:2-ARGM-TMP 7:0-ARGM-ADV 8:0-ARGM-MOD 10:1-ARG2
+abc_0021.parse 12 2 predicted expect-v expect.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+abc_0021.parse 12 4 predicted get-v get.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+abc_0021.parse 12 11 predicted hold-v hold.04 ----- 11:0-rel  8:1-ARG1 12:1-ARGM-LOC
+abc_0021.parse 13 1 predicted send-v send.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+abc_0021.parse 14 3 predicted get-v get.08 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 5:1-ARG1
+abc_0021.parse 15 4 predicted pay-v pay.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+abc_0021.parse 16 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP 4:1-ARG2
+abc_0021.parse 17 2 predicted expect-v expect.01 ----- 2:0-rel  0:1-ARG1 3:2-C-ARG1
+abc_0021.parse 17 4 predicted sign-v sign.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1

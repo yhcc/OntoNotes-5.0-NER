@@ -1,0 +1,22 @@
+chtb_0210.parse 1 5 predicted announce-v announce.01 ----- 5:0-rel  0:2-ARG0 6:1-ARGM-TMP 9:1-ARG1
+chtb_0210.parse 1 13 predicted send-v send.01 ----- 13:0-rel  10:1-ARG0 12:0-ARGM-MOD 14:2-ARG1
+chtb_0210.parse 1 25 predicted join-v join.01 ----- 25:0-rel  26:3-ARG1
+chtb_0210.parse 1 29 predicted lead-v lead.02 ----- 29:0-rel  26:1-ARG1 30:1-ARG0
+chtb_0210.parse 2 15 predicted agree-v agree.01 ----- 15:0-rel  4:1-ARGM-TMP 6:2-ARG0 14:1-ARGM-TMP 16:1-ARG1 19:2-ARGM-PRP
+chtb_0210.parse 2 20 predicted send-v send.01 ----- 20:0-rel  6:2-ARG0 21:2-ARG1 25:1-ARG2
+chtb_0210.parse 2 22 predicted total-v total.01 ----- 22:0-rel  21:1-ARG1 23:1-ARG2
+chtb_0210.parse 2 28 predicted join-v join.01 ----- 28:0-rel  29:2-ARG1
+chtb_0210.parse 2 33 predicted have-v have.03 ----- 33:0-rel  29:1-ARG0 32:1-R-ARG0 34:2-ARG1
+chtb_0210.parse 3 11 predicted express-v express.01 ----- 11:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 6:3-ARG0 12:1-ARGM-TMP 15:1-ARG1
+chtb_0210.parse 3 23 predicted try-v try.01 ----- 23:0-rel  21:1-ARG0 24:2-ARG1
+chtb_0210.parse 3 25 predicted persuade-v persuade.01 ----- 25:0-rel  26:1-ARG1 30:2-ARG2
+chtb_0210.parse 3 31 predicted step-v step.04 ----- 31:0-rel  26:1-ARG1
+chtb_0210.parse 3 35 predicted fail-v fail.01 ----- 35:0-rel  17:2-ARG1 34:1-ARGM-TMP 36:1-ARGM-CAU
+chtb_0210.parse 3 42 predicted refuse-v refuse.01 ----- 42:0-rel  37:2-ARG0 43:2-ARG1
+chtb_0210.parse 3 44 predicted meet-v meet.03 ----- 44:0-rel  37:2-ARG0 45:1-ARG1
+chtb_0210.parse 4 13 predicted say-v say.01 ----- 13:0-rel  0:1-ARGM-TMP 5:2-ARG0 14:1-ARG1
+chtb_0210.parse 4 20 predicted invade-v invade.01 ----- 20:0-rel  15:1-ARG0 18:0-ARGM-MOD 19:1-ARGM-TMP 21:1-ARG1
+chtb_0210.parse 4 28 predicted arrive-v arrive.01 ----- 28:0-rel  24:1-ARG1 27:1-ARGM-TMP
+chtb_0210.parse 5 2 predicted make-v make.04 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:1-ARGM-TMP 10:2-C-ARG1
+chtb_0210.parse 5 18 predicted regain-v regain.01 ----- 18:0-rel  19:2-ARG1
+chtb_0210.parse 5 27 predicted overthrow-v overthrow.01 ----- 27:0-rel  22:1-ARG1 25:1-R-ARG1 28:1-ARG0

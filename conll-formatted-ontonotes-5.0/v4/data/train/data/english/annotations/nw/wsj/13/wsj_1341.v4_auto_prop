@@ -1,0 +1,9 @@
+wsj_1341.parse 1 9 predicted name-v name.01 ----- 9:0-rel  0:2-ARG1 10:3-ARG2
+wsj_1341.parse 2 1 predicted succeed-v succeed.02 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+wsj_1341.parse 2 9 predicted retire-v retire.01 ----- 9:0-rel  7:1-ARG0 8:0-ARGM-MOD 10:1-ARGM-TMP
+wsj_1341.parse 3 2 predicted decline-v decline.02 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_1341.parse 3 4 predicted give-v give.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+wsj_1341.parse 3 10 predicted say-v say.01 ----- 10:0-rel  9:1-ARG0 11:3-ARG1
+wsj_1341.parse 3 13 predicted be-v be.01 ----- 13:0-rel  11:1-ARG1 14:1-ARG2
+wsj_1341.parse 4 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2 10:1-ARGM-TMP
+wsj_1341.parse 5 3 predicted make-v make.01 ----- 3:0-rel  0:1-ARG0 2:1-R-ARG0 4:2-ARG1

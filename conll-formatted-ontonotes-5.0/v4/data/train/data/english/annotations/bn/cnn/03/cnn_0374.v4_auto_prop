@@ -1,0 +1,28 @@
+cnn_0374.parse 0 4 predicted hear-v hear.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-TMP 6:1-ARGM-LOC
+cnn_0374.parse 2 2 predicted argue-v argue.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0374.parse 2 12 predicted include-v include.01 ----- 12:0-rel  13:2-ARG1
+cnn_0374.parse 2 14 predicted allege-v allege.01 ----- 14:0-rel  15:0-ARG1
+cnn_0374.parse 2 22 predicted taint-v taint.01 ----- 22:0-rel  20:1-ARG0 23:1-ARG1
+cnn_0374.parse 3 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2
+cnn_0374.parse 3 12 predicted be-v be.01 ----- 12:0-rel  6:2-ARG1
+cnn_0374.parse 3 20 predicted argue-v argue.01 ----- 20:0-rel  19:1-ARG0 21:1-ARG1
+cnn_0374.parse 3 27 predicted be-v be.01 ----- 27:0-rel  22:2-ARG1 28:1-ARGM-ADV 29:2-ARG2
+cnn_0374.parse 3 40 predicted disqualify-v disqualify.01 ----- 40:0-rel  41:1-ARG2
+cnn_0374.parse 3 42 predicted serve-v serve.01 ----- 42:0-rel  43:1-ARG1
+cnn_0374.parse 4 3 predicted argue-v argue.01 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+cnn_0374.parse 5 1 predicted call-v call.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+cnn_0374.parse 6 2 predicted be-v be.01 ----- 2:0-rel  1:1-ARG1 3:1-ARG2
+cnn_0374.parse 6 9 predicted have-v have.03 ----- 9:0-rel  0:1-ARGM-ADV 6:1-ARG0 8:0-ARGM-MOD 10:1-ARG1
+cnn_0374.parse 7 4 predicted move-v move.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-DIR 9:1-ARGM-TMP
+cnn_0374.parse 8 2 predicted be-v be.02 ----- 2:0-rel  1:1-ARGM-DIS 3:1-ARG1
+cnn_0374.parse 8 6 predicted dismiss-v dismiss.01 ----- 6:0-rel  7:1-ARG1
+cnn_0374.parse 9 2 predicted argue-v argue.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+cnn_0374.parse 9 9 predicted charge-v charge.05 ----- 9:0-rel  4:1-ARG1 6:0-ARGM-MOD 7:0-ARGM-NEG 10:1-ARGM-LOC 17:1-ARG2
+cnn_0374.parse 10 3 predicted argue-v argue.01 ----- 3:0-rel  0:1-ARG0 1:1-ARGM-TMP 2:0-ARGM-MOD 4:1-ARG1
+cnn_0374.parse 12 11 predicted relate-v relate.01 ----- 11:0-rel  8:1-ARG1 12:1-ARG2
+cnn_0374.parse 12 13 predicted get-v get.01 ----- 13:0-rel  14:2-ARG1
+cnn_0374.parse 12 16 predicted relate-v relate.01 ----- 16:0-rel  14:1-ARG1 17:1-ARG2
+cnn_0374.parse 13 19 predicted gun-v gun.01 ----- 19:0-rel  14:1-ARG1 17:1-R-ARG1 20:1-ARGM-DIR 21:1-ARGM-LOC
+cnn_0374.parse 14 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+cnn_0374.parse 15 3 predicted hear-v hear.01 ----- 3:0-rel  0:2-ARG0 4:2-ARG1
+cnn_0374.parse 16 5 predicted get-v get.03 ----- 5:0-rel  0:1-ARG1 3:0-ARGM-MOD 6:1-ARG2 8:1-ARGM-TMP

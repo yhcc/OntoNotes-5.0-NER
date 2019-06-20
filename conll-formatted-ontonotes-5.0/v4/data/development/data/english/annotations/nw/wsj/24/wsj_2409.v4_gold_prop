@@ -1,0 +1,12 @@
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 0 5 gold say-v say.01 ----- 5:0-rel 0:1-ARG0 6:3-ARG1
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 0 7 gold purchase-v purchase.01 ----- 7:0-rel 6:1-ARG0 8:3-ARG1 16:1-ARG3 21:1-ARG2
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 1 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 1 5 gold replace-v replace.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-DIS 6:2-ARG1
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 2 1 gold provide-v provide.01 ----- 1:0-rel 0:1-ARG0 2:1,4:0,5:1-ARG1 7:1-ARG2
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 2 6 gold service-n service.01 ----- 6:0-rel 5:0-ARG1 7:1-ARG2
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 3 2 gold base-v base.01 ----- 2:0-rel 3:1-ARGM-LOC 0:1-LINK-PCR
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 3 8 gold provide-v provide.01 ----- 8:0-rel 0:2-ARG0 9:1-ARG1 11:1-ARG2
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 3 10 gold service-n service.01 ----- 10:0-rel 9:0-ARG1
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 4 3 gold end-v end.01 ----- 3:0-rel 1:1-ARG1 4:1-ARGM-TMP
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 4 8 gold have-v have.03 ----- 8:0-rel 0:1-ARGM-TMP 7:1-ARG0 9:2-ARG1
+nw/wsj/24/wsj_2409@2409@wsj@nw@en@on 4 17 gold sale-n sale.01 ----- 17:0-rel 18:1-ARG3

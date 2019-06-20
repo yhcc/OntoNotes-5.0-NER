@@ -1,0 +1,23 @@
+chtb_0101.parse 1 11 predicted show-v show.01 ----- 11:0-rel  0:2-ARG0 12:2-ARG1
+chtb_0101.parse 2 34 predicted account-v account.01 ----- 34:0-rel  29:2-ARG0 35:1-ARG1
+chtb_0101.parse 2 50 predicted increase-v increase.01 ----- 50:0-rel  51:1-ARG2 53:1-ARGM-ADV
+chtb_0101.parse 2 69 predicted be-v be.01 ----- 69:0-rel  70:2-ARG2
+chtb_0101.parse 2 75 predicted increase-v increase.01 ----- 75:0-rel  76:1-ARG2 78:1-ARGM-ADV
+chtb_0101.parse 2 93 predicted be-v be.01 ----- 93:0-rel  94:2-ARG2
+chtb_0101.parse 2 99 predicted decrease-v decrease.01 ----- 99:0-rel  100:1-ARG2
+chtb_0101.parse 3 19 predicted say-v say.01 ----- 19:0-rel  0:3-ARG0 20:1-ARG1
+chtb_0101.parse 3 78 predicted be-v be.01 ----- 78:0-rel  22:5-ARG1 79:2-ARG2
+chtb_0101.parse 4 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-TMP 3:1-ARG1 6:2-ARG2
+chtb_0101.parse 5 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-ADV 3:1-ARG1 6:1-ARGM-TMP 7:2-ARG2
+chtb_0101.parse 5 13 predicted attract-v attract.01 ----- 13:0-rel  11:1-ARG1 14:1-ARG0
+chtb_0101.parse 6 10 predicted absorb-v absorb.01 ----- 10:0-rel  8:1-ARG0
+chtb_0101.parse 6 14 predicted invest-v invest.01 ----- 14:0-rel  8:1-ARG0 11:2-ARGM-MNR 15:1-ARG0
+chtb_0101.parse 6 36 predicted agree-v agree.01 ----- 36:0-rel  37:0-ARG1
+chtb_0101.parse 6 48 predicted account-v account.01 ----- 48:0-rel  35:2-ARG0
+chtb_0101.parse 7 2 predicted contract-v contract.02 ----- 2:0-rel  1:0-ARGM-MNR 3:0-ARG1
+chtb_0101.parse 7 14 predicted be-v be.01 ----- 14:0-rel  0:1-ARGM-ADV 10:1-ARG1 15:1-ARGM-TMP 16:2-ARG2
+chtb_0101.parse 8 10 predicted sign-v sign.02 ----- 10:0-rel  0:1-ARGM-TMP 8:1-ARG0
+chtb_0101.parse 8 16 predicted contract-v contract.02 ----- 16:0-rel  15:0-ARGM-MNR 17:0-ARG1 19:0-C-ARG1
+chtb_0101.parse 8 32 predicted contract-v contract.02 ----- 32:0-rel  33:0-ARG1
+chtb_0101.parse 8 41 predicted complete-v complete.01 ----- 41:0-rel  42:0-ARG1
+chtb_0101.parse 8 56 predicted send-v send.01 ----- 56:0-rel  40:2-ARG0 57:1-ARG2

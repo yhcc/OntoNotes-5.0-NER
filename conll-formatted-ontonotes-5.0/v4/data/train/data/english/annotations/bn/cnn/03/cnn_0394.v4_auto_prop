@@ -1,0 +1,22 @@
+cnn_0394.parse 1 9 predicted attack-v attack.01 ----- 9:0-rel  0:1-ARGM-LOC 3:2-ARG0 11:2-ARG1
+cnn_0394.parse 1 15 predicted threaten-v threaten.01 ----- 15:0-rel  11:1-ARG0 13:1-R-ARG0 16:2-ARG1
+cnn_0394.parse 1 17 predicted derail-v derail.01 ----- 17:0-rel  13:1-ARG0 18:2-ARG1
+cnn_0394.parse 1 27 predicted call-v call.01 ----- 27:0-rel  25:1-ARG1
+cnn_0394.parse 2 7 predicted carry-v carry.01 ----- 7:0-rel  5:1-ARG0 8:3-ARG1
+cnn_0394.parse 2 23 predicted target-v target.01 ----- 23:0-rel  0:1-ARGM-LOC 5:2-ARG1
+cnn_0394.parse 3 1 predicted survive-v survive.01 ----- 1:0-rel  0:1-ARG0 3:1-ARGM-MNR
+cnn_0394.parse 3 10 predicted kill-v kill.01 ----- 10:0-rel  7:1-ARG1
+cnn_0394.parse 4 3 predicted injure-v injure.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-LOC
+cnn_0394.parse 5 3 predicted occur-v occur.01 ----- 3:0-rel  0:1-ARG1
+cnn_0394.parse 5 8 predicted aim-v aim.02 ----- 8:0-rel  5:1-ARG1 10:1-ARGM-ADV
+cnn_0394.parse 6 2 predicted check-v check.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0394.parse 7 3 predicted unfold-v unfold.02 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-ADV
+cnn_0394.parse 8 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0
+cnn_0394.parse 8 9 predicted quoted-v quoted.- ----- 9:0-rel  6:1-ARG1 8:1-ARGM-MNR
+cnn_0394.parse 8 11 predicted say-v say.01 ----- 11:0-rel  6:1-ARG0
+cnn_0394.parse 11 3 predicted quoted-v quoted.- ----- 3:0-rel  0:1-ARG1 4:1-ARG0
+cnn_0394.parse 11 12 predicted say-v say.01 ----- 12:0-rel  0:2-ARG0 13:3-ARG1
+cnn_0394.parse 11 14 predicted be-v be.01 ----- 14:0-rel  13:1-ARG1
+cnn_0394.parse 11 19 predicted undermine-v undermine.01 ----- 19:0-rel  16:1-ARG0 18:0-ARGM-MOD
+cnn_0394.parse 11 25 predicted bring-v bring.01 ----- 25:0-rel  26:1-ARG1 28:1-ARG2
+cnn_0394.parse 11 34 predicted contribute-v contribute.01 ----- 34:0-rel  33:0-ARGM-NEG 35:1-ARG2

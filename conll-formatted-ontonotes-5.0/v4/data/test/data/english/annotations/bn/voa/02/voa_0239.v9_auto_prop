@@ -1,0 +1,6 @@
+voa_0239.parse 0 8 predicted assassinate-v assassinate.01 ----- 8:0-rel  0:2-ARG1
+voa_0239.parse 1 2 predicted gun-v gun.01 ----- 2:0-rel  0:1-ARG0 4:1-ARG1 6:1-ARGM-LOC
+voa_0239.parse 2 3 predicted accuse-v accuse.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1 8:1-ARG2
+voa_0239.parse 2 9 predicted kill-v kill.01 ----- 9:0-rel  10:1-ARG1
+voa_0239.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+voa_0239.parse 3 7 predicted involve-v involve.01 ----- 7:0-rel  2:1-ARG1 6:0-ARGM-NEG

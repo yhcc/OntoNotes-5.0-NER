@@ -1,0 +1,11 @@
+wsj_2423.parse 0 8 predicted say-v say.01 ----- 8:0-rel  0:2-ARG0 9:3-ARG1
+wsj_2423.parse 0 13 predicted extend-v extend.01 ----- 13:0-rel  9:1-ARG0 14:2-ARG1
+wsj_2423.parse 0 23 predicted purchase-v purchase.01 ----- 23:0-rel  20:1-ARG0 21:0-ARGM-MOD 22:0-ARGM-NEG 24:2-ARG1
+wsj_2423.parse 1 3 predicted expire-v expire.01 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-TMP
+wsj_2423.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+wsj_2423.parse 2 19 predicted continue-v continue.01 ----- 19:0-rel  3:2-ARG1
+wsj_2423.parse 2 31 predicted be-v be.01 ----- 31:0-rel  23:2-ARG1 32:1-ARG2
+wsj_2423.parse 3 2 predicted increase-v increase.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1 7:1-ARG4 10:1-ARGM-TMP
+wsj_2423.parse 4 1 predicted make-v make.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-LOC
+wsj_2423.parse 4 8 predicted lead-v lead.03 ----- 8:0-rel  0:2-ARG0 9:1-ARG1 10:2-ARG2
+wsj_2423.parse 4 11 predicted request-v request.01 ----- 11:0-rel  0:2-ARG0 9:1-ARG0 12:1-ARG1

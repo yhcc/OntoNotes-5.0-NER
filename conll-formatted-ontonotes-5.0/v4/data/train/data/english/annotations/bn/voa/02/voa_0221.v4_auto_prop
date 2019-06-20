@@ -1,0 +1,12 @@
+voa_0221.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:4-ARG1
+voa_0221.parse 0 7 predicted oversee-v oversee.01 ----- 7:0-rel  4:1-ARG0 8:2-ARG1
+voa_0221.parse 0 20 predicted recommend-v recommend.01 ----- 20:0-rel  4:2-ARG0 21:1-ARG1
+voa_0221.parse 0 25 predicted punish-v punish.01 ----- 25:0-rel  22:1-ARG1 26:1-ARGM-ADV
+voa_0221.parse 1 11 predicted kill-v kill.01 ----- 11:0-rel  0:2-ARG0 12:1-ARG1
+voa_0221.parse 1 15 predicted wounded-v wounded.- ----- 15:0-rel  0:2-ARG0 16:2-ARG1
+voa_0221.parse 2 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+voa_0221.parse 2 15 predicted reject-v reject.01 ----- 15:0-rel  4:2-ARG0 16:2-ARG1
+voa_0221.parse 2 21 predicted rank-v rank.01 ----- 21:0-rel  20:0-ARG2 23:0-ARG1
+voa_0221.parse 2 22 predicted investigate-v investigate.01 ----- 22:0-rel  23:0-C-ARG0
+voa_0221.parse 2 25 predicted determine-v determine.01 ----- 25:0-rel  19:1-ARG0 24:1-R-ARG0 26:1-ARG1
+voa_0221.parse 2 33 predicted take-v take.01 ----- 33:0-rel  27:1-ARG1 30:0-ARGM-MOD

@@ -1,0 +1,23 @@
+nbc_0013.parse 0 12 predicted head-v head.02 ----- 12:0-rel  0:1-ARGM-TMP 2:3-ARG0 13:1-ARG1
+nbc_0013.parse 0 17 predicted supervise-v supervise.01 ----- 17:0-rel  16:1-ARGM-MNR 18:2-ARG1
+nbc_0013.parse 0 35 predicted make-v make.04 ----- 35:0-rel  31:1-ARG1
+nbc_0013.parse 1 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+nbc_0013.parse 2 6 predicted try-v try.01 ----- 6:0-rel  0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-TMP 7:2-ARG1
+nbc_0013.parse 2 8 predicted figure-v figure.05 ----- 8:0-rel  0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 10:2-ARG1
+nbc_0013.parse 2 16 predicted cause-v cause.01 ----- 16:0-rel  10:1-ARG0 15:0-ARGM-MOD 17:2-ARG1
+nbc_0013.parse 3 2 predicted focus-v focus.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+nbc_0013.parse 3 5 predicted abandon-v abandon.01 ----- 5:0-rel  6:0-ARG1
+nbc_0013.parse 3 10 predicted make-v make.01 ----- 10:0-rel  8:0-ARG1 11:0-ARG2
+nbc_0013.parse 3 13 predicted found-v found.01 ----- 13:0-rel  4:1-ARGM-LOC 7:1-R-ARGM-LOC 8:2-ARG1
+nbc_0013.parse 3 21 predicted claim-v claim.01 ----- 21:0-rel  16:1-ARGM-TMP 18:1-ARG0 22:1-ARG1
+nbc_0013.parse 3 25 predicted found-v found.01 ----- 25:0-rel  23:1-ARG0
+nbc_0013.parse 3 28 predicted come-v come.03 ----- 28:0-rel  26:0-ARGM-MOD 27:1-ARGM-ADV 29:1-ARG2
+nbc_0013.parse 3 35 predicted imply-v imply.01 ----- 35:0-rel  36:1-ARG1
+nbc_0013.parse 3 43 predicted be-v be.01 ----- 43:0-rel  37:2-ARG1 42:1-ARG1 44:1-ARG2
+nbc_0013.parse 3 46 predicted make-v make.01 ----- 46:0-rel  44:0-ARGM-LOC
+nbc_0013.parse 4 7 predicted confirm-v confirm.01 ----- 7:0-rel  0:1-ARG0 5:0-ARGM-MOD 6:0-ARGM-NEG 8:1-ARG1
+nbc_0013.parse 5 2 predicted discover-v discover.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1
+nbc_0013.parse 5 9 predicted determine-v determine.01 ----- 9:0-rel  0:1-ARG0 1:1-ARGM-DIS 8:1-ARGM-MNR 10:3-ARG1
+nbc_0013.parse 5 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1
+nbc_0013.parse 5 22 predicted say-v say.01 ----- 22:0-rel  21:1-R-ARG0 23:4-ARG1
+nbc_0013.parse 5 29 predicted be-v be.01 ----- 29:0-rel  23:2-ARG1 30:1-ARG2

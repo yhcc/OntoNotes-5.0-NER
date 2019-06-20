@@ -1,0 +1,22 @@
+c2e_0041.parse 0 5 predicted make-v make.04 ----- 5:0-rel  1:2-ARG0 6:1-ARG1
+c2e_0041.parse 1 3 predicted work-v work.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG2
+c2e_0041.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+c2e_0041.parse 2 10 predicted think-v think.01 ----- 10:0-rel  8:1-ARG0 9:1-ARGM-TMP 11:4-ARG1
+c2e_0041.parse 2 14 predicted have-v have.03 ----- 14:0-rel  13:1-ARG0
+c2e_0041.parse 2 21 predicted imagine-v imagine.01 ----- 21:0-rel  20:1-ARG0
+c2e_0041.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-ADV 1:1-ARG1 3:1-ARG2
+c2e_0041.parse 3 9 predicted establish-v establish.01 ----- 9:0-rel  4:2-ARG0 8:1-ARGM-TMP 10:2-ARG1
+c2e_0041.parse 4 2 predicted like-v like.02 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+c2e_0041.parse 4 4 predicted ask-v ask.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG2
+c2e_0041.parse 4 8 predicted pass-v pass.07 ----- 8:0-rel  5:1-ARG1 6:1-R-ARG1 9:1-ARG2 11:1-ARGM-LOC
+c2e_0041.parse 4 17 predicted make-v make.04 ----- 17:0-rel  15:1-ARG0 18:1-ARG1
+c2e_0041.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV 3:1-ARG2 5:1-ARG1
+c2e_0041.parse 5 8 predicted pass-v pass.07 ----- 8:0-rel  6:1-ARG1 9:1-ARG2 12:1-ARGM-LOC
+c2e_0041.parse 6 8 predicted find-v find.01 ----- 8:0-rel  2:1-ARGM-LOC 6:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+c2e_0041.parse 6 13 predicted study-v study.01 ----- 13:0-rel  9:1-ARGM-LOC 14:1-ARG1
+c2e_0041.parse 6 30 predicted prepare-v prepare.02 ----- 30:0-rel  26:1-ARG0 31:1-ARG2
+c2e_0041.parse 7 6 predicted certify-v certify.01 ----- 6:0-rel  7:0-ARG1 8:0-C-ARG1
+c2e_0041.parse 7 9 predicted be-v be.01 ----- 9:0-rel  0:1-ARGM-DIS 4:2-ARG1 10:1-ARG2
+c2e_0041.parse 8 4 predicted be-v be.02 ----- 4:0-rel  6:2-ARG1
+c2e_0041.parse 8 8 predicted certify-v certify.01 ----- 8:0-rel  9:0-ARG1 10:0-C-ARG1
+c2e_0041.parse 9 6 predicted do-v do.02 ----- 6:0-rel  1:2-ARG1 7:1-ARG0 10:1-ARGM-DIS

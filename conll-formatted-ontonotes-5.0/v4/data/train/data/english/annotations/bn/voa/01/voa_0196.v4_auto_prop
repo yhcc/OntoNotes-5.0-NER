@@ -1,0 +1,12 @@
+voa_0196.parse 0 6 predicted edge-v edge.02 ----- 6:0-rel  0:1-ARGM-LOC 4:1-ARG0 7:1-ARG1 11:1-ARGM-TMP
+voa_0196.parse 1 1 predicted trail-v trail.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 3:1-ARGM-EXT 6:1-ARGM-TMP
+voa_0196.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+voa_0196.parse 2 4 predicted finish-v finish.02 ----- 4:0-rel  3:1-ARG1
+voa_0196.parse 2 9 predicted jump-v jump.03 ----- 9:0-rel  3:1-ARG0 10:1-ARG1 11:1-ARGM-LOC
+voa_0196.parse 3 3 predicted overtake-v overtake.- ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0
+voa_0196.parse 3 8 predicted place-v place.01 ----- 8:0-rel  4:1-ARG0 7:1-R-ARG0 9:1-ARGM-ADV 10:1-ARGM-LOC 14:1-ARGM-TMP
+voa_0196.parse 4 4 predicted approach-v approach.01 ----- 4:0-rel  0:2-ARGM-LOC 3:1-ARG1 5:1-ARG2
+voa_0196.parse 4 8 predicted sky-v sky.- ----- 8:0-rel  7:1-ARG0 9:1-ARGM-MNR 10:2-ARG1
+voa_0196.parse 5 12 predicted be-v be.01 ----- 12:0-rel  10:1-R-ARG1 13:1-ARG2 17:1-ARGM-TMP
+voa_0196.parse 6 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+voa_0196.parse 6 6 predicted be-v be.01 ----- 6:0-rel  5:1-ARG1 7:1-ARG2

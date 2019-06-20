@@ -1,0 +1,11 @@
+wsj_2447.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_2447.parse 0 5 predicted reach-v reach.01 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+wsj_2447.parse 0 10 predicted manufacture-v manufacture.01 ----- 10:0-rel  11:1-ARG1
+wsj_2447.parse 1 1 predicted estimate-v estimate.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1 7:1-ARG2
+wsj_2447.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_2447.parse 2 3 predicted plan-v plan.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+wsj_2447.parse 2 5 predicted begin-v begin.01 ----- 5:0-rel  2:1-ARG0 6:2-ARG1 11:1-ARGM-TMP
+wsj_2447.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_2447.parse 3 6 predicted be-v be.01 ----- 6:0-rel  2:1-ARG1 7:1-ARG2
+wsj_2447.parse 3 17 predicted produce-v produce.01 ----- 17:0-rel  2:1-ARG1 15:1-ARGM-TMP 18:1-ARG3
+wsj_2447.parse 3 27 predicted base-v base.01 ----- 27:0-rel  23:1-ARGM-LOC 28:0-ARG1 29:0-C-ARG1

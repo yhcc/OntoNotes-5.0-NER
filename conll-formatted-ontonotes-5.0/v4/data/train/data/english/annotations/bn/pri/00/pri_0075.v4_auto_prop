@@ -1,0 +1,25 @@
+pri_0075.parse 0 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-ADV 6:1-ARG1 8:2-ARG2
+pri_0075.parse 1 5 predicted hold-v hold.04 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+pri_0075.parse 1 9 predicted decide-v decide.01 ----- 9:0-rel  0:1-ARG0 10:1-ARG1
+pri_0075.parse 1 12 predicted intervene-v intervene.01 ----- 12:0-rel  13:1-ARG1
+pri_0075.parse 2 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+pri_0075.parse 2 8 predicted be-v be.01 ----- 8:0-rel  4:1-ARG1 7:1-R-ARG1 9:1-ARG2
+pri_0075.parse 3 17 predicted argue-v argue.02 ----- 17:0-rel  0:1-ARGM-LOC 7:2-ARG0
+pri_0075.parse 3 36 predicted press-v press.01 ----- 36:0-rel  33:1-ARG0 37:2-ARG1
+pri_0075.parse 3 41 predicted explain-v explain.01 ----- 41:0-rel  42:2-ARG1
+pri_0075.parse 3 48 predicted intervene-v intervene.01 ----- 48:0-rel  42:1-ARGM-PRP 43:1-ARG0 47:0-ARGM-MOD 49:1-ARG1
+pri_0075.parse 3 57 predicted extend-v extend.01 ----- 57:0-rel  58:2-ARG1
+pri_0075.parse 3 61 predicted finish-v finish.01 ----- 61:0-rel  62:1-ARG1
+pri_0075.parse 4 2 predicted read-v read.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG1
+pri_0075.parse 4 10 predicted read-v read.01 ----- 10:0-rel  0:2-ARGM-TMP 8:1-ARG0 9:0-ARGM-MOD 11:1-ARG1 12:1-ARGM-MNR
+pri_0075.parse 5 8 predicted suggest-v suggest.01 ----- 8:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 4:1-ARG0 9:3-ARG1
+pri_0075.parse 5 14 predicted be-v be.01 ----- 14:0-rel  9:1-ARG1 12:0-ARGM-MOD 15:1-ARG2
+pri_0075.parse 6 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG0 3:1-ARGM-MNR
+pri_0075.parse 6 8 predicted know-v know.01 ----- 8:0-rel  7:1-ARG0
+pri_0075.parse 6 15 predicted be-v be.01 ----- 15:0-rel  14:1-ARG1 16:2-ARG2
+pri_0075.parse 6 22 predicted look-v look.02 ----- 22:0-rel  19:1-ARG0 20:1-ARGM-ADV 23:1-ARG1
+pri_0075.parse 6 27 predicted make-v make.01 ----- 27:0-rel  24:2-ARG1 28:1-ARG0
+pri_0075.parse 7 5 predicted rule-v rule.01 ----- 5:0-rel  0:1-ARG0 4:0-ARGM-MOD 6:1-ARG1 9:2-ARGM-TMP
+pri_0075.parse 8 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARGM-ADV 4:1-ARG1 6:2-ARG2
+pri_0075.parse 9 7 predicted reject-v reject.01 ----- 7:0-rel  0:1-ARGM-TMP 2:1-ARG0 8:2-ARG1 14:1-ARGM-PRP
+pri_0075.parse 9 21 predicted dispute-v dispute.01 ----- 21:0-rel  22:0-ARG2

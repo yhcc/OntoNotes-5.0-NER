@@ -1,0 +1,16 @@
+wsj_2445.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_2445.parse 0 5 predicted expect-v expect.01 ----- 5:0-rel  4:1-ARG0
+wsj_2445.parse 0 23 predicted compare-v compare.01 ----- 23:0-rel  24:1-ARG2
+wsj_2445.parse 1 3 predicted project-v project.02 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+wsj_2445.parse 1 10 predicted be-v be.01 ----- 10:0-rel  5:2-ARG1 9:0-ARGM-MOD 11:1-ARG2
+wsj_2445.parse 2 8 predicted amount-v amount.01 ----- 8:0-rel  0:1-ARG1 9:1-ARG2
+wsj_2445.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+wsj_2445.parse 3 11 predicted reduce-v reduce.01 ----- 11:0-rel  3:2-ARG0 12:2-ARG1
+wsj_2445.parse 3 19 predicted relate-v relate.01 ----- 19:0-rel  17:0-ARG2 20:0-ARG1
+wsj_2445.parse 4 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARGM-DIS 1:0-C-ARG1 2:1-ARG0 5:3-C-ARG1
+wsj_2445.parse 4 9 predicted fail-v fail.01 ----- 9:0-rel  5:1-ARG1 10:2-ARG2
+wsj_2445.parse 4 11 predicted meet-v meet.01 ----- 11:0-rel  5:1-ARG0 12:1-ARG1
+wsj_2445.parse 5 14 predicted say-v say.01 ----- 14:0-rel  0:2-ARG0 15:3-ARG1
+wsj_2445.parse 5 16 predicted expect-v expect.01 ----- 16:0-rel  15:1-ARG0 17:2-ARG1
+wsj_2445.parse 5 23 predicted be-v be.01 ----- 23:0-rel  17:1-ARG1 24:1-ARG2
+wsj_2445.parse 5 33 predicted be-v be.01 ----- 33:0-rel  32:1-R-ARG1

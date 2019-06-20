@@ -1,0 +1,8 @@
+wsj_1559.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1559.parse 0 4 predicted complete-v complete.01 ----- 4:0-rel  3:1-ARG0
+wsj_1559.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1559.parse 1 4 predicted be-v be.01 ----- 4:0-rel  2:1-ARG1 5:2-ARG2
+wsj_1559.parse 1 9 predicted announce-v announce.01 ----- 9:0-rel  8:0-ARGM-TMP 10:0-ARG1
+wsj_1559.parse 1 12 predicted sell-v sell.01 ----- 12:0-rel  13:2-ARG1
+wsj_1559.parse 1 20 predicted focus-v focus.01 ----- 20:0-rel  21:1-ARG2
+wsj_1559.parse 1 28 predicted produce-v produce.01 ----- 28:0-rel  29:1-ARG1

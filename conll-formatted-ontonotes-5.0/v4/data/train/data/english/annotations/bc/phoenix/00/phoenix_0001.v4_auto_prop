@@ -1,0 +1,581 @@
+phoenix_0001.parse 0 12 predicted establish-v establish.01 ----- 12:0-rel  0:1-ARGM-TMP 5:1-ARG1 11:1-ARGM-MNR
+phoenix_0001.parse 0 16 predicted have-v have.03 ----- 16:0-rel  14:1-ARG0 15:1-ARGM-TMP 17:1-ARG1
+phoenix_0001.parse 1 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG1 4:2-ARG2
+phoenix_0001.parse 1 11 predicted register-v register.02 ----- 11:0-rel  10:1-ARGM-MNR
+phoenix_0001.parse 1 13 predicted designate-v designate.01 ----- 13:0-rel  14:1-ARG1 17:1-ARGM-TMP
+phoenix_0001.parse 2 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+phoenix_0001.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+phoenix_0001.parse 3 8 predicted be-v be.01 ----- 8:0-rel  7:1-ARG1 9:1-ARGM-TMP
+phoenix_0001.parse 3 10 predicted call-v call.01 ----- 10:0-rel  7:1-ARG0 11:1-ARG1 12:2-ARG2
+phoenix_0001.parse 4 7 predicted set-v set.03 ----- 7:0-rel  1:1-ARGM-TMP 3:1-ARG1 6:1-ARGM-ADV
+phoenix_0001.parse 4 11 predicted run-v run.07 ----- 11:0-rel  0:1-ARGM-TMP 10:1-ARG1 12:1-ARG2
+phoenix_0001.parse 5 2 predicted test-v test.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+phoenix_0001.parse 5 8 predicted deal-v deal.01 ----- 8:0-rel  9:1-ARG1
+phoenix_0001.parse 6 2 predicted build-v build.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+phoenix_0001.parse 6 7 predicted put-v put.01 ----- 7:0-rel  0:1-ARG0 8:1-ARG1 10:1-ARG2
+phoenix_0001.parse 7 1 predicted invest-v invest.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+phoenix_0001.parse 7 8 predicted be-v be.01 ----- 8:0-rel  7:1-ARG1 9:1-ARG2
+phoenix_0001.parse 7 15 predicted make-v make.01 ----- 15:0-rel  6:1-ARGM-ADV 11:2-ARG0 16:1-ARG1
+phoenix_0001.parse 8 2 predicted telephone-v telephone.01 ----- 2:0-rel  0:1-ARG0
+phoenix_0001.parse 8 7 predicted get-v get.03 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+phoenix_0001.parse 8 8 predicted involve-v involve.01 ----- 8:0-rel  5:1-ARG1
+phoenix_0001.parse 8 10 predicted resolve-v resolve.01 ----- 10:0-rel  4:0-ARGM-MOD 5:1-ARG0 11:1-ARG1
+phoenix_0001.parse 9 2 predicted put-v put.11 ----- 2:0-rel  0:2-ARG0 4:1-ARG1
+phoenix_0001.parse 9 12 predicted put-v put.05 ----- 12:0-rel  8:1-ARGM-ADV 11:1-ARG0 13:1-ARGM-PRD 14:1-ARG1
+phoenix_0001.parse 9 19 predicted go-v go.05 ----- 19:0-rel  18:1-ARG0 20:2-ARG1
+phoenix_0001.parse 9 21 predicted negotiate-v negotiate.01 ----- 21:0-rel  18:1-ARG0 22:1-ARG1
+phoenix_0001.parse 10 6 predicted come-v come.01 ----- 6:0-rel  0:1-ARGM-TMP 4:1-ARG1 7:1-ARGM-DIR
+phoenix_0001.parse 10 9 predicted let-v let.01 ----- 9:0-rel  0:1-ARGM-TMP 4:1-ARG0 10:2-ARG1
+phoenix_0001.parse 10 12 predicted go-v go.02 ----- 12:0-rel  10:1-ARG0 13:1-ARG4 16:2-ARGM-PRP
+phoenix_0001.parse 10 17 predicted attend-v attend.01 ----- 17:0-rel  18:1-ARG1
+phoenix_0001.parse 11 4 predicted resolve-v resolve.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-MNR
+phoenix_0001.parse 11 10 predicted increase-v increase.01 ----- 10:0-rel  8:1-ARG0 9:1-ARGM-ADV 17:1-ARGM-ADV
+phoenix_0001.parse 12 6 predicted get-v get.03 ----- 6:0-rel  1:1-ARGM-CAU 3:1-ARG1
+phoenix_0001.parse 12 7 predicted involve-v involve.01 ----- 7:0-rel  1:1-ARGM-CAU 3:1-ARG1 8:1-ARG2
+phoenix_0001.parse 12 15 predicted resolve-v resolve.01 ----- 15:0-rel  9:1-ARG1 11:1-R-ARG1 12:0-ARGM-MOD 16:1-ARG0
+phoenix_0001.parse 14 8 predicted come-v come.01 ----- 8:0-rel  0:1-ARGM-PRD 6:1-ARG1 9:1-ARG4 13:2-ARGM-PRP
+phoenix_0001.parse 14 14 predicted get-v get.01 ----- 14:0-rel  15:1-ARG1
+phoenix_0001.parse 15 4 predicted hear-v hear.01 ----- 4:0-rel  0:1-ARGM-ADV 2:1-ARG0
+phoenix_0001.parse 16 3 predicted see-v see.01 ----- 3:0-rel  1:1-ARGM-TMP 2:1-ARG0 4:1-ARG1
+phoenix_0001.parse 16 7 predicted feel-v feel.02 ----- 7:0-rel  0:0-ARGM-DIS 1:2-ARGM-TMP 6:1-ARG0
+phoenix_0001.parse 16 13 predicted want-v want.01 ----- 13:0-rel  10:1-ARG0 11:1-R-ARG0 12:1-ARGM-ADV 14:2-ARG1
+phoenix_0001.parse 16 15 predicted be-v be.01 ----- 15:0-rel  11:1-ARG1 16:1-ARG2
+phoenix_0001.parse 17 3 predicted meet-v meet.02 ----- 3:0-rel  0:1-ARGM-TMP 2:1-ARG0 4:1-ARG1
+phoenix_0001.parse 17 7 predicted tell-v tell.01 ----- 7:0-rel  0:2-ARGM-TMP 6:1-ARG0 8:1-ARG2
+phoenix_0001.parse 17 12 predicted do-v do.02 ----- 12:0-rel  10:1-ARG1 11:1-ARG0
+phoenix_0001.parse 17 23 predicted look-v look.01 ----- 23:0-rel  22:1-ARG0 24:1-ARG1
+phoenix_0001.parse 18 2 predicted speak-v speak.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+phoenix_0001.parse 18 14 predicted look-v look.02 ----- 14:0-rel  13:1-ARG0 15:2-ARG1
+phoenix_0001.parse 19 4 predicted sigh-v sigh.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:1-ARGM-TMP
+phoenix_0001.parse 20 8 predicted come-v come.13 ----- 8:0-rel  1:1-ARGM-TMP 2:2-ARG1
+phoenix_0001.parse 20 13 predicted talk-v talk.01 ----- 13:0-rel  12:1-ARGM-TMP 14:1-ARG1
+phoenix_0001.parse 20 18 predicted organize-v organize.01 ----- 18:0-rel  15:1-ARGM-MNR 16:1-ARG0 19:1-ARG1
+phoenix_0001.parse 20 21 predicted help-v help.01 ----- 21:0-rel  16:1-ARG0 22:2-ARG1
+phoenix_0001.parse 20 23 predicted improve-v improve.01 ----- 23:0-rel  22:1-ARG0 24:2-ARG1
+phoenix_0001.parse 20 34 predicted be-v be.01 ----- 34:0-rel  0:0-ARGM-DIS 32:1-ARG1 35:1-ARG2
+phoenix_0001.parse 20 40 predicted dazzle-v dazzle.- ----- 40:0-rel  41:0-ARG2
+phoenix_0001.parse 21 2 predicted go-v go.02 ----- 2:0-rel  1:1-ARG0 3:2-ARG4
+phoenix_0001.parse 21 12 predicted come-v come.01 ----- 12:0-rel  0:1-ARGM-ADV 11:1-ARG1 13:1-ARG4
+phoenix_0001.parse 22 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+phoenix_0001.parse 23 7 predicted run-v run.01 ----- 7:0-rel  0:1-ARGM-TMP 2:2-ARG0 8:1-ARG1 12:1-ARGM-LOC
+phoenix_0001.parse 24 4 predicted donate-v donate.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 5:1-ARG1 8:1-ARG2
+phoenix_0001.parse 25 7 predicted think-v think.01 ----- 7:0-rel  4:1-ARGM-CAU 6:1-ARG0 8:1-ARG1
+phoenix_0001.parse 25 9 predicted give-v give.01 ----- 9:0-rel  10:1-ARG1 12:1-ARG2
+phoenix_0001.parse 27 8 predicted run-v run.01 ----- 8:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 6:1-ARG0 10:1-ARGM-DIS
+phoenix_0001.parse 27 26 predicted provide-v provide.01 ----- 26:0-rel  25:1-R-ARG0 27:2-ARG1 31:1-ARG2
+phoenix_0001.parse 28 3 predicted help-v help.01 ----- 3:0-rel  1:1-ARG0 4:1-ARG2
+phoenix_0001.parse 28 8 predicted discover-v discover.01 ----- 8:0-rel  0:1-ARGM-TMP 7:1-ARG0 9:1-ARG1
+phoenix_0001.parse 28 13 predicted invest-v invest.01 ----- 13:0-rel  10:1-ARG0 14:1-ARG1
+phoenix_0001.parse 28 17 predicted buy-v buy.01 ----- 17:0-rel  10:1-ARG0 18:1-ARG1 19:1-ARGM-MNR
+phoenix_0001.parse 29 7 predicted come-v come.01 ----- 7:0-rel  4:1-ARG1 6:1-R-ARG1 8:1-ARG4 11:2-ARGM-PRP
+phoenix_0001.parse 29 12 predicted buy-v buy.01 ----- 12:0-rel  6:1-ARG0 13:1-ARG1
+phoenix_0001.parse 29 17 predicted come-v come.01 ----- 17:0-rel  0:1-ARGM-DIS 15:1-ARG1 16:0-ARGM-MOD 18:1-ARG4
+phoenix_0001.parse 29 27 predicted have-v have.03 ----- 27:0-rel  23:1-ARG0 24:1-ARGM-ADV 26:0-ARGM-NEG 28:1-ARG1
+phoenix_0001.parse 29 34 predicted think-v think.01 ----- 34:0-rel  32:1-ARG0 33:0-ARGM-MOD
+phoenix_0001.parse 29 42 predicted buy-v buy.01 ----- 42:0-rel  37:2-ARG0 43:1-ARG1
+phoenix_0001.parse 29 48 predicted buy-v buy.01 ----- 48:0-rel  46:1-ARG0 47:0-ARGM-MOD 49:1-ARG1
+phoenix_0001.parse 29 56 predicted know-v know.01 ----- 56:0-rel  52:1-ARG0 53:1-ARGM-ADV 55:0-ARGM-NEG
+phoenix_0001.parse 29 61 predicted go-v go.05 ----- 61:0-rel  58:1-ARG0 60:0-ARGM-NEG
+phoenix_0001.parse 29 63 predicted choose-v choose.01 ----- 63:0-rel  58:1-ARG0 60:0-ARGM-NEG
+phoenix_0001.parse 29 65 predicted base-v base.02 ----- 65:0-rel  64:1-ARG1 66:1-ARG2
+phoenix_0001.parse 29 71 predicted need-v need.01 ----- 71:0-rel  67:1-ARG1 68:1-ARG0
+phoenix_0001.parse 30 7 predicted come-v come.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG4 11:2-ARGM-PRP
+phoenix_0001.parse 30 12 predicted give-v give.01 ----- 12:0-rel  5:1-ARG0 13:1-ARG1
+phoenix_0001.parse 33 4 predicted organize-v organize.01 ----- 4:0-rel  0:1-ARGM-TMP 5:1-ARG1
+phoenix_0001.parse 34 7 predicted ask-v ask.02 ----- 7:0-rel  3:1-ARG0 8:1-ARG2
+phoenix_0001.parse 34 11 predicted come-v come.01 ----- 11:0-rel  8:1-ARG1
+phoenix_0001.parse 34 17 predicted come-v come.01 ----- 17:0-rel  13:1-ARG1 15:0-ARGM-MOD 16:0-ARGM-NEG 18:2-ARGM-PRP
+phoenix_0001.parse 34 19 predicted hear-v hear.01 ----- 19:0-rel  13:1-ARG0 20:1-ARG2
+phoenix_0001.parse 34 27 predicted run-v run.02 ----- 27:0-rel  24:1-ARGM-TMP 26:1-ARG0 28:1-ARG1
+phoenix_0001.parse 34 34 predicted go-v go.02 ----- 34:0-rel  23:1-ARGM-TMP 33:1-ARG0 35:1-ARG1
+phoenix_0001.parse 35 1 predicted spend-v spend.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:2-ARG2
+phoenix_0001.parse 35 4 predicted run-v run.02 ----- 4:0-rel  0:1-ARG0 5:1-ARGM-DIR 6:1-ARG1
+phoenix_0001.parse 35 11 predicted surround-v surround.01 ----- 11:0-rel  7:1-ARG1 10:1-R-ARG1 12:1-ARG2
+phoenix_0001.parse 36 9 predicted go-v go.02 ----- 9:0-rel  3:1-ARGM-LOC 7:1-ARG0 8:0-ARGM-MOD 10:1-ARGM-DIR 11:2-ARGM-PRP
+phoenix_0001.parse 36 11 predicted try-v try.01 ----- 11:0-rel  7:1-ARG0 12:2-ARG1
+phoenix_0001.parse 36 13 predicted find-v find.03 ----- 13:0-rel  7:1-ARG0 15:2-ARG1
+phoenix_0001.parse 36 16 predicted have-v have.03 ----- 16:0-rel  15:1-ARG0 17:1-ARG1
+phoenix_0001.parse 37 3 predicted go-v go.02 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 2:0-ARGM-MOD 4:1-ARGM-DIR
+phoenix_0001.parse 37 6 predicted face-v face.01 ----- 6:0-rel  7:1-ARG1
+phoenix_0001.parse 37 10 predicted say-v say.01 ----- 10:0-rel  1:1-ARG0
+phoenix_0001.parse 37 14 predicted plan-v plan.01 ----- 14:0-rel  12:1-ARG0 15:2-ARG1
+phoenix_0001.parse 37 16 predicted hold-v hold.04 ----- 16:0-rel  12:1-ARG0 17:1-ARG1
+phoenix_0001.parse 37 23 predicted be-v be.01 ----- 23:0-rel  21:0-ARGM-MOD 22:1-ARG1 24:1-ARG2
+phoenix_0001.parse 37 26 predicted come-v come.01 ----- 26:0-rel  22:1-ARG1
+phoenix_0001.parse 38 8 predicted choose-v choose.01 ----- 8:0-rel  0:1-ARGM-TMP 2:1-ARG2 7:1-ARG0 9:1-ARG1
+phoenix_0001.parse 39 2 predicted got-v got.- ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+phoenix_0001.parse 39 5 predicted bring-v bring.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG1 7:1-ARG4
+phoenix_0001.parse 39 8 predicted surround-v surround.01 ----- 8:0-rel  9:0-ARG1
+phoenix_0001.parse 40 6 predicted get-v get.05 ----- 6:0-rel  2:1-ARG1 3:1-R-ARG1 4:0-ARGM-MOD 5:0-ARGM-NEG 7:1-ARG2 8:1-C-ARG2
+phoenix_0001.parse 41 4 predicted come-v come.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG4 8:1-ARGM-TMP
+phoenix_0001.parse 42 2 predicted go-v go.02 ----- 2:0-rel  0:1-ARGM-DIS 1:1-ARG0 3:1-ARG4
+phoenix_0001.parse 42 18 predicted bring-v bring.01 ----- 18:0-rel  16:2-ARG0 19:1-ARG1 20:1-ARG4
+phoenix_0001.parse 42 22 predicted surround-v surround.01 ----- 22:0-rel  23:0-ARG1
+phoenix_0001.parse 43 2 predicted go-v go.15 ----- 2:0-rel  0:1-ARG1 4:1-ARGM-DIR 6:1-ARGM-TMP 11:1-ARGM-TMP
+phoenix_0001.parse 44 12 predicted have-v have.03 ----- 12:0-rel  0:1-ARGM-DIS 2:2-ARGM-TMP 8:2-ARG0 13:2-ARG1
+phoenix_0001.parse 45 5 predicted go-v go.06 ----- 5:0-rel  0:1-ARGM-DIS 3:1-ARG1 6:1-ARGM-MNR
+phoenix_0001.parse 46 2 predicted earn-v earn.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+phoenix_0001.parse 46 9 predicted expect-v expect.01 ----- 9:0-rel  7:1-ARG0
+phoenix_0001.parse 47 3 predicted hear-v hear.01 ----- 3:0-rel  0:2-ARG0
+phoenix_0001.parse 47 9 predicted dig-v dig.01 ----- 9:0-rel  5:1-ARG0 8:1-R-ARG0 10:2-ARG1
+phoenix_0001.parse 47 16 predicted provide-v provide.01 ----- 16:0-rel  8:1-ARG0 17:1-ARG1
+phoenix_0001.parse 48 3 predicted love-v love.01 ----- 3:0-rel  0:0-ARGM-DIS 1:2-ARG0
+phoenix_0001.parse 48 4 predicted come-v come.01 ----- 4:0-rel  1:2-ARG1 5:1-ARG4 10:2-ARGM-PRP
+phoenix_0001.parse 48 11 predicted buy-v buy.01 ----- 11:0-rel  12:1-ARG1
+phoenix_0001.parse 49 10 predicted take-v take.01 ----- 10:0-rel  0:1-ARGM-TMP 4:2-ARG0 12:2-ARG1
+phoenix_0001.parse 50 14 predicted surround-v surround.01 ----- 14:0-rel  15:0-ARG1
+phoenix_0001.parse 51 3 predicted run-v run.07 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+phoenix_0001.parse 51 12 predicted like-v like.01 ----- 12:0-rel  0:2-ARGM-TMP 10:2-ARG0 13:2-ARG1
+phoenix_0001.parse 51 14 predicted come-v come.01 ----- 14:0-rel  10:2-ARG1 15:1-ARG4 16:2-ARGM-PRP
+phoenix_0001.parse 51 17 predicted look-v look.01 ----- 17:0-rel  18:1-ARG1
+phoenix_0001.parse 52 10 predicted hold-v hold.04 ----- 10:0-rel  0:2-ARGM-TMP 9:1-ARG0 11:1-ARG1
+phoenix_0001.parse 53 9 predicted hold-v hold.04 ----- 9:0-rel  0:1-ARGM-TMP 7:1-ARG0 10:2-ARG1
+phoenix_0001.parse 54 3 predicted need-v need.01 ----- 3:0-rel  1:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+phoenix_0001.parse 54 5 predicted provide-v provide.01 ----- 5:0-rel  1:1-ARG0
+phoenix_0001.parse 56 15 predicted spend-v spend.01 ----- 15:0-rel  0:1-ARGM-TMP 14:1-ARG0 16:1-ARG1
+phoenix_0001.parse 57 7 predicted count-v count.01 ----- 7:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 4:1-ARG1 6:1-ARG0
+phoenix_0001.parse 58 3 predicted do-v do.02 ----- 3:0-rel  2:1-ARG0
+phoenix_0001.parse 58 14 predicted earn-v earn.01 ----- 14:0-rel  0:1-ARGM-DIS 1:1-ARGM-ADV 11:1-ARG0 13:0-ARGM-NEG 15:2-ARG1
+phoenix_0001.parse 58 21 predicted spend-v spend.01 ----- 21:0-rel  18:1-ARG0
+phoenix_0001.parse 59 6 predicted go-v go.02 ----- 6:0-rel  0:1-ARGM-TMP 2:1-ARGM-TMP 4:0-ARGM-DIS 5:1-ARG0
+phoenix_0001.parse 59 25 predicted attend-v attend.01 ----- 25:0-rel  23:1-ARG0 26:1-ARG1
+phoenix_0001.parse 59 29 predicted be-v be.01 ----- 29:0-rel  21:2-ARG1 30:1-ARG2
+phoenix_0001.parse 60 2 predicted go-v go.02 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG4
+phoenix_0001.parse 60 9 predicted think-v think.01 ----- 9:0-rel  8:1-ARG0
+phoenix_0001.parse 60 16 predicted have-v have.03 ----- 16:0-rel  13:1-ARG0 17:1-ARG1
+phoenix_0001.parse 60 25 predicted provide-v provide.01 ----- 25:0-rel  22:1-ARG0 26:1-ARG1 27:1-ARG2
+phoenix_0001.parse 61 2 predicted start-v start.01 ----- 2:0-rel  3:1-ARGM-TMP
+phoenix_0001.parse 61 19 predicted liaise-v liaise.- ----- 19:0-rel  18:1-ARG0 20:1-ARG2 22:1-ARGM-ADV
+phoenix_0001.parse 62 2 predicted invite-v invite.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+phoenix_0001.parse 62 10 predicted be-v be.01 ----- 10:0-rel  0:1-ARGM-ADV 9:1-ARG1 11:1-ARG2
+phoenix_0001.parse 63 11 predicted begin-v begin.01 ----- 11:0-rel  0:2-R-ARG1 8:1-ARG0 12:2-C-ARG1
+phoenix_0001.parse 63 13 predicted take-v take.01 ----- 13:0-rel  8:1-ARG0 14:1-ARG1
+phoenix_0001.parse 64 2 predicted attening-v attening.- ----- 2:0-rel  3:1-ARG1
+phoenix_0001.parse 64 8 predicted begin-v begin.01 ----- 8:0-rel  0:1-ARGM-ADV 6:1-ARG0 9:2-ARG1
+phoenix_0001.parse 64 10 predicted make-v make.04 ----- 10:0-rel  6:1-ARG0 11:2-ARG1
+phoenix_0001.parse 64 16 predicted ask-v ask.02 ----- 16:0-rel  6:1-ARG0 17:1-ARG2 18:2-ARG1
+phoenix_0001.parse 64 19 predicted undertake-v undertake.01 ----- 19:0-rel  17:1-ARG0 20:1-ARG1
+phoenix_0001.parse 65 3 predicted set-v set.03 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-DIS 5:1-ARG1
+phoenix_0001.parse 65 8 predicted raise-v raise.01 ----- 8:0-rel  6:0-ARG1 9:0-ARG0
+phoenix_0001.parse 65 11 predicted serve-v serve.01 ----- 11:0-rel  0:1-ARG0 12:1-ARG1
+phoenix_0001.parse 65 18 predicted help-v help.01 ----- 18:0-rel  17:1-ARG0 19:2-ARG1
+phoenix_0001.parse 65 21 predicted take-v take.11 ----- 21:0-rel  19:1-ARG0 23:1-ARG1
+phoenix_0001.parse 65 32 predicted participate-v participate.01 ----- 32:0-rel  30:1-ARG0 33:1-ARG1
+phoenix_0001.parse 66 3 predicted think-v think.01 ----- 3:0-rel  1:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+phoenix_0001.parse 66 7 predicted do-v do.02 ----- 7:0-rel  4:1-ARG1 5:1-ARG0 6:0-ARGM-MOD 8:1-ARGM-ADV
+phoenix_0001.parse 66 10 predicted could't-v could't.- ----- 10:0-rel  9:1-ARG0
+phoenix_0001.parse 66 11 predicted pay-v pay.02 ----- 11:0-rel  9:1-ARG0 13:1-ARG1 16:2-ARGM-TMP
+phoenix_0001.parse 66 18 predicted come-v come.04 ----- 18:0-rel  16:1-ARGM-TMP 17:1-ARG1 19:1-ARG2
+phoenix_0001.parse 67 9 predicted think-v think.01 ----- 9:0-rel  2:1-ARGM-TMP 6:1-ARG0 8:0-ARGM-NEG 10:1-ARG2
+phoenix_0001.parse 68 4 predicted fail-v fail.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG1 3:1-ARGM-ADV 6:1-ARGM-DIS
+phoenix_0001.parse 69 6 predicted fail-v fail.01 ----- 6:0-rel  4:1-ARG1
+phoenix_0001.parse 69 9 predicted pay-v pay.01 ----- 9:0-rel  8:1-ARG0 11:1-ARG1
+phoenix_0001.parse 69 18 predicted come-v come.02 ----- 18:0-rel  15:1-ARG0 19:1-ARG1
+phoenix_0001.parse 70 4 predicted feel-v feel.01 ----- 4:0-rel  1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+phoenix_0001.parse 70 9 predicted look-v look.01 ----- 9:0-rel  8:1-ARG0 10:1-ARG1
+phoenix_0001.parse 71 4 predicted fail-v fail.01 ----- 4:0-rel  0:1-ARGM-MNR 1:0-ARGM-MOD 2:1-ARG1
+phoenix_0001.parse 72 11 predicted want-v want.01 ----- 11:0-rel  0:0-ARGM-DIS 1:3-ARG0 12:2-ARG1
+phoenix_0001.parse 72 13 predicted take-v take.01 ----- 13:0-rel  1:3-ARG0 14:1-ARG1 15:1-ARG2
+phoenix_0001.parse 72 19 predicted say-v say.01 ----- 19:0-rel  18:1-ARG0
+phoenix_0001.parse 72 23 predicted pay-v pay.01 ----- 23:0-rel  21:1-ARG0 22:0-ARGM-MOD 24:1-ARG1
+phoenix_0001.parse 72 29 predicted say-v say.01 ----- 29:0-rel  28:1-ARG0 30:2-ARG1
+phoenix_0001.parse 72 37 predicted take-v take.01 ----- 37:0-rel  35:1-ARG0 36:0-ARGM-MOD 38:1-ARG1 39:1-ARG2
+phoenix_0001.parse 73 2 predicted want-v want.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+phoenix_0001.parse 73 4 predicted pay-v pay.01 ----- 4:0-rel  1:1-ARG0 5:1-ARG1 6:1-ARGM-DIR
+phoenix_0001.parse 73 11 predicted pay-v pay.02 ----- 11:0-rel  0:1-ARGM-ADV 8:1-ARG0 9:0-ARGM-MOD 10:1-ARGM-MNR 12:1-ARG1
+phoenix_0001.parse 74 4 predicted pay-v pay.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1 6:1-ARGM-TMP
+phoenix_0001.parse 75 2 predicted telephone-v telephone.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:1-ARG1
+phoenix_0001.parse 75 5 predicted give-v give.01 ----- 5:0-rel  6:1-ARG1
+phoenix_0001.parse 75 12 predicted pay-v pay.01 ----- 12:0-rel  11:1-ARG0 13:1-ARG1
+phoenix_0001.parse 75 19 predicted be-v be.01 ----- 19:0-rel  5:1-ARGM-ADV 10:1-ARGM-ADV 20:1-ARG2
+phoenix_0001.parse 76 6 predicted say-v say.01 ----- 6:0-rel  0:2-ARG0 7:4-ARG1
+phoenix_0001.parse 76 14 predicted want-v want.01 ----- 14:0-rel  13:1-ARG0 15:2-ARG1
+phoenix_0001.parse 76 16 predicted take-v take.01 ----- 16:0-rel  13:1-ARG0 17:1-ARG1 18:1-ARG2
+phoenix_0001.parse 76 22 predicted want-v want.01 ----- 22:0-rel  21:1-ARG0 23:2-ARG1
+phoenix_0001.parse 76 24 predicted shut-v shut.05 ----- 24:0-rel  21:1-ARG0 29:1-ARG1
+phoenix_0001.parse 76 34 predicted confiscate-v confiscate.01 ----- 34:0-rel  21:1-ARG0 33:1-ARGM-ADV 35:1-ARG1
+phoenix_0001.parse 77 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-LOC 5:1-ARG1 8:1-ARG2
+phoenix_0001.parse 78 3 predicted take-v take.05 ----- 3:0-rel  0:1-ARG0 4:2-ARG1 8:1-ARGM-DIR
+phoenix_0001.parse 79 4 predicted understand-v understand.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG 7:1-ARG1
+phoenix_0001.parse 79 6 predicted blame-v blame.01 ----- 6:0-rel  0:1-ARG0 7:1-ARG1
+phoenix_0001.parse 79 8 predicted add-v add.02 ----- 8:0-rel  0:1-ARG1 9:1-ARG2
+phoenix_0001.parse 80 8 predicted bear-v bear.02 ----- 8:0-rel  9:0-ARG1
+phoenix_0001.parse 80 16 predicted understand-v understand.01 ----- 16:0-rel  0:1-ARGM-ADV 13:1-ARG0 15:0-ARGM-NEG 17:2-ARG1
+phoenix_0001.parse 80 22 predicted turn-v turn.11 ----- 22:0-rel  17:1-ARGM-MNR 18:1-ARG0 21:0-ARGM-MOD 24:1-ARGM-MNR
+phoenix_0001.parse 80 30 predicted leave-v leave.01 ----- 30:0-rel  28:1-ARG0 31:1-ARG1
+phoenix_0001.parse 81 12 predicted take-v take.01 ----- 12:0-rel  0:0-ARGM-DIS 1:1-ARGM-CAU 8:1-ARG0 11:1-ARGM-TMP 13:1-ARG1 15:1-ARG2
+phoenix_0001.parse 82 9 predicted let-v let.01 ----- 9:0-rel  6:1-ARG0 10:2-ARG1
+phoenix_0001.parse 82 11 predicted go-v go.13 ----- 11:0-rel  10:1-ARG1
+phoenix_0001.parse 83 3 predicted shut-v shut.05 ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 5:1-ARG1 7:1-ARGM-ADV
+phoenix_0001.parse 83 9 predicted require-v require.01 ----- 9:0-rel  0:1-ARG0 2:0-ARGM-NEG 10:1-ARG2 11:2-ARG1
+phoenix_0001.parse 83 12 predicted mortgage-v mortgage.01 ----- 12:0-rel  0:1-ARG0 10:1-ARG0 13:1-ARG1
+phoenix_0001.parse 84 4 predicted file-v file.01 ----- 4:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:1-ARG1 7:1-ARG3
+phoenix_0001.parse 84 14 predicted come-v come.01 ----- 14:0-rel  11:1-ARG1 13:1-ARGM-ADV
+phoenix_0001.parse 85 3 predicted come-v come.01 ----- 3:0-rel  1:1-ARG1
+phoenix_0001.parse 85 6 predicted explain-v explain.01 ----- 6:0-rel  0:1-ARGM-TMP 5:1-ARG0 7:1-ARG1 9:1-ARG2
+phoenix_0001.parse 85 13 predicted say-v say.01 ----- 13:0-rel  0:2-ARG1 12:1-ARG0
+phoenix_0001.parse 85 20 predicted file-v file.01 ----- 20:0-rel  15:1-ARG0 19:1-ARGM-TMP 21:1-ARG1 22:1-ARG3
+phoenix_0001.parse 86 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 86 9 predicted help-v help.01 ----- 9:0-rel  4:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-TMP 7:0-ARGM-MOD 8:0-ARGM-NEG 10:1-ARG1
+phoenix_0001.parse 87 2 predicted ask-v ask.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+phoenix_0001.parse 87 11 predicted happen-v happen.01 ----- 11:0-rel  10:1-ARG1
+phoenix_0001.parse 88 2 predicted explain-v explain.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1 5:1-ARGM-MNR
+phoenix_0001.parse 89 2 predicted explain-v explain.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+phoenix_0001.parse 89 7 predicted look-v look.02 ----- 7:0-rel  0:1-ARGM-TMP 5:1-ARG0 8:1-ARG1
+phoenix_0001.parse 90 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 90 5 predicted go-v go.05 ----- 5:0-rel  3:1-ARG0 4:0-ARGM-MOD
+phoenix_0001.parse 90 6 predicted see-v see.01 ----- 6:0-rel  3:1-ARG0 7:1-ARG1
+phoenix_0001.parse 90 13 predicted ask-v ask.02 ----- 13:0-rel  14:1-ARG2
+phoenix_0001.parse 90 18 predicted file-v file.01 ----- 18:0-rel  16:0-ARGM-NEG 19:1-ARG1
+phoenix_0001.parse 91 3 predicted sort-v sort.02 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0
+phoenix_0001.parse 92 4 predicted arrange-v arrange.01 ----- 4:0-rel  2:1-ARG0 5:2-ARG1
+phoenix_0001.parse 92 14 predicted say-v say.01 ----- 14:0-rel  0:0-ARGM-DIS 8:2-ARG0
+phoenix_0001.parse 92 19 predicted reach-v reach.01 ----- 19:0-rel  16:1-ARGM-TMP 17:1-ARG0 20:1-ARG1
+phoenix_0001.parse 92 26 predicted pay-v pay.01 ----- 26:0-rel  24:1-ARG0 25:0-ARGM-MOD 27:1-ARG1 29:1-ARGM-TMP
+phoenix_0001.parse 93 8 predicted have-v have.03 ----- 8:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 6:1-ARG0 7:1-ARGM-TMP 9:2-ARG1
+phoenix_0001.parse 94 6 predicted expire-v expire.01 ----- 6:0-rel  1:1-ARGM-TMP 3:1-R-ARGM-TMP 4:1-ARG1
+phoenix_0001.parse 94 10 predicted be-v be.01 ----- 10:0-rel  8:0-ARGM-MOD 9:1-ARG1
+phoenix_0001.parse 94 13 predicted pay-v pay.02 ----- 13:0-rel  9:1-ARG0 15:1-ARG1
+phoenix_0001.parse 95 11 predicted provide-v provide.01 ----- 11:0-rel  8:1-ARG0 10:0-ARGM-NEG 12:1-ARG1 15:1-ARG2
+phoenix_0001.parse 95 21 predicted pay-v pay.01 ----- 21:0-rel  7:1-ARGM-ADV 19:1-ARG0 20:0-ARGM-MOD 22:1-ARG1
+phoenix_0001.parse 96 3 predicted need-v need.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+phoenix_0001.parse 98 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+phoenix_0001.parse 98 5 predicted stop-v stop.01 ----- 5:0-rel  2:1-ARGM-MNR 6:1-ARG1
+phoenix_0001.parse 99 3 predicted discuss-v discuss.01 ----- 3:0-rel  0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1 5:1-ARG2
+phoenix_0001.parse 100 2 predicted defer-v defer.01 ----- 2:0-rel  0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+phoenix_0001.parse 101 4 predicted give-v give.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG2 6:1-ARG1
+phoenix_0001.parse 102 3 predicted push-v push.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1 7:1-ARGM-TMP
+phoenix_0001.parse 103 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 3:1-ARG2
+phoenix_0001.parse 103 7 predicted understand-v understand.01 ----- 7:0-rel  5:1-ARG0 6:0-ARGM-MOD
+phoenix_0001.parse 103 9 predicted agree-v agree.01 ----- 9:0-rel  5:1-ARG0 6:0-ARGM-MOD 10:2-ARG1
+phoenix_0001.parse 103 11 predicted do-v do.02 ----- 11:0-rel  5:1-ARG0 12:1-ARG1 13:1-ARGM-MNR
+phoenix_0001.parse 104 4 predicted shoot-v shoot.03 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-NEG
+phoenix_0001.parse 104 8 predicted shoot-v shoot.03 ----- 8:0-rel  7:0-ARGM-NEG
+phoenix_0001.parse 104 19 predicted cry-v cry.02 ----- 19:0-rel  16:1-ARG0 18:0-ARGM-NEG
+phoenix_0001.parse 105 3 predicted think-v think.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG0 4:3-ARG1
+phoenix_0001.parse 105 6 predicted help-v help.01 ----- 6:0-rel  4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1
+phoenix_0001.parse 105 10 predicted raise-v raise.01 ----- 10:0-rel  7:1-ARG0 11:1-ARG1
+phoenix_0001.parse 105 19 predicted take-v take.09 ----- 19:0-rel  15:1-ARGM-CAU 18:1-ARG0 21:2-ARG1
+phoenix_0001.parse 105 29 predicted got-v got.- ----- 29:0-rel  28:1-ARG1
+phoenix_0001.parse 105 30 predicted take-v take.01 ----- 30:0-rel  28:1-ARG1 31:1-ARG2
+phoenix_0001.parse 106 4 predicted quit-v quit.01 ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 5:1-ARG1 7:1-ARGM-PRD
+phoenix_0001.parse 107 3 predicted run-v run.01 ----- 3:0-rel  4:1-ARG1
+phoenix_0001.parse 107 10 predicted give-v give.01 ----- 10:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 8:1-ARG0 9:1-ARGM-TMP 11:1-ARG1 12:1-ARG2
+phoenix_0001.parse 107 17 predicted make-v make.02 ----- 17:0-rel  16:1-ARG0 18:2-ARG1
+phoenix_0001.parse 107 20 predicted have-v have.03 ----- 20:0-rel  18:1-ARG0
+phoenix_0001.parse 107 28 predicted collect-v collect.01 ----- 28:0-rel  21:2-ARG1 25:0-ARGM-MOD 26:0-ARGM-NEG
+phoenix_0001.parse 108 2 predicted think-v think.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG2
+phoenix_0001.parse 108 7 predicted resolve-v resolve.01 ----- 7:0-rel  4:1-ARGM-MNR 8:1-ARG1
+phoenix_0001.parse 108 15 predicted imagine-v imagine.01 ----- 15:0-rel  12:1-ARG0 13:1-ARGM-NEG 16:1-ARG1
+phoenix_0001.parse 108 23 predicted end-v end.03 ----- 23:0-rel  17:1-ARGM-CAU 20:1-ARG1 21:0-ARGM-MOD 22:0-ARGM-ADV 25:1-ARG2
+phoenix_0001.parse 109 16 predicted be-v be.01 ----- 16:0-rel  13:1-ARG1 14:0-ARGM-MOD 15:0-ARGM-NEG 17:1-ARG2
+phoenix_0001.parse 109 19 predicted get-v get.09 ----- 19:0-rel  13:1-ARG0 20:1-ARG1
+phoenix_0001.parse 110 6 predicted collect-v collect.01 ----- 6:0-rel  3:1-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG 7:1-ARG1
+phoenix_0001.parse 110 14 predicted think-v think.01 ----- 14:0-rel  12:1-ARG0
+phoenix_0001.parse 110 18 predicted be-v be.01 ----- 18:0-rel  15:1-ARGM-MNR 16:0-ARGM-MOD 17:1-ARG1
+phoenix_0001.parse 110 21 predicted give-v give.01 ----- 21:0-rel  17:1-ARG0 22:1-ARG2 24:1-ARG1
+phoenix_0001.parse 110 26 predicted solve-v solve.01 ----- 26:0-rel  27:2-ARG1
+phoenix_0001.parse 111 4 predicted keep-v keep.04 ----- 4:0-rel  1:1-ARGM-MNR 2:0-ARGM-MOD 3:1-ARG0 5:1-ARG1 6:1-ARG2
+phoenix_0001.parse 111 7 predicted have-v have.03 ----- 7:0-rel  8:1-ARG1
+phoenix_0001.parse 112 1 predicted discover-v discover.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+phoenix_0001.parse 112 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1
+phoenix_0001.parse 112 7 predicted have-v have.03 ----- 7:0-rel  3:1-ARG0 5:0-ARGM-NEG 6:1-ARGM-ADV 8:1-ARG1
+phoenix_0001.parse 113 5 predicted think-v think.01 ----- 5:0-rel  0:1-ARGM-TMP 3:1-ARG0
+phoenix_0001.parse 113 11 predicted join-v join.02 ----- 11:0-rel  7:0-ARGM-MOD 8:0-ARGM-NEG 9:1-ARG0 13:1-ARG1
+phoenix_0001.parse 113 20 predicted become-v become.01 ----- 20:0-rel  21:1-ARG2
+phoenix_0001.parse 114 10 predicted have-v have.02 ----- 10:0-rel  9:0-ARGM-MOD
+phoenix_0001.parse 114 12 predicted invest-v invest.01 ----- 12:0-rel  8:1-ARG0 13:2-ARG1 16:1-ARGM-TMP
+phoenix_0001.parse 115 7 predicted let-v let.01 ----- 7:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARGM-ADV 6:1-ARG0
+phoenix_0001.parse 115 10 predicted invest-v invest.01 ----- 10:0-rel  0:0-ARGM-DIS 8:1-ARG0 11:1-ARG1 13:1-ARG2
+phoenix_0001.parse 116 11 predicted come-v come.01 ----- 11:0-rel  0:1-ARGM-TMP 2:1-ARGM-TMP 9:1-ARG1 10:0-ARGM-MOD 12:1-ARGM-TMP
+phoenix_0001.parse 116 16 predicted get-v get.01 ----- 16:0-rel  17:1-ARG1
+phoenix_0001.parse 117 12 predicted settle-v settle.02 ----- 12:0-rel  0:1-ARGM-DIS 2:1-ARGM-TMP 10:1-ARG0 11:0-ARGM-MOD 14:1-ARG1
+phoenix_0001.parse 118 4 predicted invest-v invest.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG0
+phoenix_0001.parse 118 9 predicted invest-v invest.01 ----- 9:0-rel  7:1-ARG0
+phoenix_0001.parse 118 14 predicted take-v take.01 ----- 14:0-rel  6:1-ARGM-ADV 11:1-ARGM-TMP 12:1-ARG0 13:0-ARGM-MOD 15:1-ARG1
+phoenix_0001.parse 118 18 predicted buy-v buy.01 ----- 18:0-rel  12:1-ARG0 13:0-ARGM-MOD 19:1-ARG1
+phoenix_0001.parse 118 21 predicted sell-v sell.01 ----- 21:0-rel  12:1-ARG0 22:1-ARG1
+phoenix_0001.parse 119 5 predicted bring-v bring.01 ----- 5:0-rel  3:1-ARG0 6:1-ARGM-DIR 7:1-ARG1
+phoenix_0001.parse 119 14 predicted take-v take.01 ----- 14:0-rel  11:1-ARG0 13:0-ARGM-MOD 15:2-ARG1
+phoenix_0001.parse 119 20 predicted run-v run.01 ----- 20:0-rel  11:1-ARG0 13:0-ARGM-MOD 22:1-ARG1
+phoenix_0001.parse 120 6 predicted say-v say.01 ----- 6:0-rel  4:1-ARG0 5:1-R-ARG0 7:1-ARG2 9:1-ARG1
+phoenix_0001.parse 120 15 predicted consider-v consider.01 ----- 15:0-rel  10:1-ARG1 12:0-ARGM-MOD 16:3-C-ARG1
+phoenix_0001.parse 120 20 predicted raise-v raise.02 ----- 20:0-rel  21:1-ARG1
+phoenix_0001.parse 121 4 predicted think-v think.01 ----- 4:0-rel  3:1-ARG0
+phoenix_0001.parse 121 10 predicted come-v come.04 ----- 10:0-rel  9:1-ARGM-MNR
+phoenix_0001.parse 121 13 predicted be-v be.01 ----- 13:0-rel  11:1-ARG1 14:1-ARG2
+phoenix_0001.parse 121 17 predicted do-v do.02 ----- 17:0-rel  11:1-ARG1
+phoenix_0001.parse 122 13 predicted do-v do.02 ----- 13:0-rel  12:1-ARG0 14:1-ARG1
+phoenix_0001.parse 123 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+phoenix_0001.parse 124 6 predicted begin-v begin.01 ----- 6:0-rel  0:1-ARGM-TMP 5:1-ARG0 7:2-ARG1
+phoenix_0001.parse 124 9 predicted deal-v deal.01 ----- 9:0-rel  5:1-ARG0 8:1-ARGM-ADV 10:1-ARG1
+phoenix_0001.parse 124 16 predicted know-v know.01 ----- 16:0-rel  14:2-ARG0
+phoenix_0001.parse 124 20 predicted make-v make.02 ----- 20:0-rel  19:1-ARG0 21:2-ARG1
+phoenix_0001.parse 125 20 predicted say-v say.01 ----- 20:0-rel  18:1-ARG0
+phoenix_0001.parse 125 24 predicted raise-v raise.02 ----- 24:0-rel  21:1-ARG0 25:1-ARG1 26:1-ARGM-MNR
+phoenix_0001.parse 126 4 predicted cheat-v cheat.01 ----- 4:0-rel  0:1-ARGM-DIS 2:1-ARG0 5:1-ARG2 6:1-ARG1
+phoenix_0001.parse 127 3 predicted cheat-v cheat.01 ----- 3:0-rel  1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:1-ARG1
+phoenix_0001.parse 127 15 predicted leave-v leave.01 ----- 15:0-rel  12:1-ARGM-ADV 13:1-ARG0 14:0-ARGM-MOD 16:1-ARG1
+phoenix_0001.parse 128 3 predicted shake-v shake.03 ----- 3:0-rel  0:1-ARG0 2:1-ARGM-ADV 5:1-ARG1
+phoenix_0001.parse 129 10 predicted come-v come.01 ----- 10:0-rel  0:2-ARG1 8:2-ARG0
+phoenix_0001.parse 130 3 predicted come-v come.01 ----- 3:0-rel  1:2-ARG1
+phoenix_0001.parse 130 6 predicted say-v say.01 ----- 6:0-rel  5:1-ARG0 7:1-ARG2
+phoenix_0001.parse 130 14 predicted need-v need.01 ----- 14:0-rel  0:1-ARGM-TMP 13:1-ARG0 15:2-ARG1
+phoenix_0001.parse 130 16 predicted investigate-v investigate.01 ----- 16:0-rel  13:1-ARG0 17:1-ARG1
+phoenix_0001.parse 131 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 131 6 predicted need-v need.01 ----- 6:0-rel  3:1-ARGM-CAU 5:1-ARG0 7:2-ARG1
+phoenix_0001.parse 131 8 predicted investigate-v investigate.01 ----- 8:0-rel  5:1-ARG0
+phoenix_0001.parse 132 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 132 4 predicted hear-v hear.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1
+phoenix_0001.parse 132 8 predicted raise-v raise.02 ----- 8:0-rel  6:1-ARG0 9:1-ARG1 10:1-ARGM-MNR
+phoenix_0001.parse 133 13 predicted come-v come.01 ----- 13:0-rel  0:1-ARGM-CAU 11:1-ARG1 12:1-ARGM-ADV 14:1-ARG4 15:1-ARG4
+phoenix_0001.parse 134 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+phoenix_0001.parse 134 4 predicted raise-v raise.02 ----- 4:0-rel  1:1-ARG0 3:1-ARGM-MNR 5:1-ARG1
+phoenix_0001.parse 135 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 135 6 predicted raise-v raise.02 ----- 6:0-rel  4:1-ARG0 7:1-ARG1 8:1-ARGM-MNR
+phoenix_0001.parse 135 12 predicted shut-v shut.05 ----- 12:0-rel  3:1-ARGM-ADV 10:1-ARG0 11:0-ARGM-MOD 14:1-ARGM-TMP
+phoenix_0001.parse 135 20 predicted do-v do.02 ----- 20:0-rel  17:1-ARG0 18:0-ARGM-MOD 19:0-ARGM-NEG 21:1-ARG1 22:1-ARGM-TMP
+phoenix_0001.parse 136 3 predicted raise-v raise.02 ----- 3:0-rel  4:1-ARG1 5:1-ARGM-MNR
+phoenix_0001.parse 136 6 predicted be-v be.01 ----- 6:0-rel  0:2-ARG1 7:0-ARGM-NEG 8:1-ARG2
+phoenix_0001.parse 137 2 predicted investigate-v investigate.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+phoenix_0001.parse 138 3 predicted persuade-v persuade.01 ----- 3:0-rel  0:1-ARGM-TMP 1:1-ARG1
+phoenix_0001.parse 138 5 predicted prevent-v prevent.01 ----- 5:0-rel  0:1-ARGM-TMP 1:1-ARG1 6:1-ARG0
+phoenix_0001.parse 139 4 predicted feed-v feed.01 ----- 4:0-rel  1:1-ARG1 6:1-ARG2
+phoenix_0001.parse 139 13 predicted convince-v convince.01 ----- 13:0-rel  11:1-ARG1 14:1-ARG2
+phoenix_0001.parse 139 17 predicted give-v give.07 ----- 17:0-rel  15:1-ARG0 16:0-ARGM-MOD
+phoenix_0001.parse 140 6 predicted make-v make.04 ----- 6:0-rel  0:1-ARGM-TMP 4:1-ARG0 7:1-ARG1
+phoenix_0001.parse 140 12 predicted donate-v donate.01 ----- 12:0-rel  11:1-ARG0 13:1-ARG1 17:1-ARGM-ADV
+phoenix_0001.parse 140 24 predicted pay-v pay.01 ----- 24:0-rel  25:1-ARG2
+phoenix_0001.parse 141 4 predicted enable-v enable.01 ----- 4:0-rel  0:1-ARGM-DIS 1:1-ARG0 5:1-ARG2 7:2-ARG1
+phoenix_0001.parse 141 8 predicted earn-v earn.01 ----- 8:0-rel  9:1-ARG1
+phoenix_0001.parse 141 14 predicted want-v want.01 ----- 14:0-rel  11:1-ARGM-CAU 13:1-ARG0 15:2-ARG1
+phoenix_0001.parse 141 16 predicted give-v give.02 ----- 16:0-rel  13:1-ARG0 17:1-ARG1
+phoenix_0001.parse 142 13 predicted have-v have.01 ----- 13:0-rel  11:1-ARGM-TMP 12:1-ARG0
+phoenix_0001.parse 143 3 predicted take-v take.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:2-ARG1
+phoenix_0001.parse 143 8 predicted run-v run.01 ----- 8:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 9:1-ARG1 10:1-ARGM-MNR
+phoenix_0001.parse 143 15 predicted make-v make.05 ----- 15:0-rel  16:1-ARG1 17:1-ARGM-ADV
+phoenix_0001.parse 144 5 predicted tell-v tell.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 4:1-ARG0 6:1-ARG2 8:1-ARG1
+phoenix_0001.parse 144 18 predicted agree-v agree.01 ----- 18:0-rel  15:1-ARG0 17:0-ARGM-NEG
+phoenix_0001.parse 145 3 predicted let-v let.01 ----- 3:0-rel  0:1-ARGM-TMP 2:0-ARGM-NEG 4:2-ARG1
+phoenix_0001.parse 146 2 predicted let-v let.01 ----- 2:0-rel  1:0-ARGM-NEG 3:2-ARG1
+phoenix_0001.parse 146 11 predicted be-v be.01 ----- 11:0-rel  7:1-ARGM-TMP 8:1-ARG1 9:0-ARGM-MOD 12:1-ARG2
+phoenix_0001.parse 146 14 predicted loan-v loan.01 ----- 14:0-rel  8:1-ARG0 15:1-ARG1
+phoenix_0001.parse 146 18 predicted get-v get.04 ----- 18:0-rel  8:1-ARG0 19:2-ARG1
+phoenix_0001.parse 146 21 predicted go-v go.09 ----- 21:0-rel  19:1-ARG1
+phoenix_0001.parse 147 4 predicted feel-v feel.02 ----- 4:0-rel  0:1-ARGM-DIS 3:1-ARG0
+phoenix_0001.parse 147 10 predicted need-v need.01 ----- 10:0-rel  6:1-ARG0 9:1-ARG0 11:2-ARG1
+phoenix_0001.parse 148 3 predicted guess-v guess.01 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1
+phoenix_0001.parse 148 8 predicted be-v be.01 ----- 8:0-rel  5:1-ARG1 7:0-ARGM-MOD 9:1-ARG2
+phoenix_0001.parse 149 1 predicted work-v work.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-MNR 4:1-ARGM-TMP
+phoenix_0001.parse 150 3 predicted agree-v agree.01 ----- 3:0-rel  0:1-ARGM-TMP 1:0-ARG1 2:1-ARG0 4:0-C-ARG1
+phoenix_0001.parse 151 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARGM-TMP 3:1-ARG0 7:1-ARGM-TMP
+phoenix_0001.parse 151 11 predicted raise-v raise.02 ----- 11:0-rel  9:1-ARG0 12:1-ARG1 13:1-ARGM-MNR
+phoenix_0001.parse 152 4 predicted sacrifice-v sacrifice.01 ----- 4:0-rel  0:1-ARG0 3:1-R-ARG0 5:1-ARG1
+phoenix_0001.parse 152 10 predicted got-v got.- ----- 10:0-rel  0:2-ARG0 9:1-ARGM-MNR 11:2-ARG1
+phoenix_0001.parse 152 14 predicted work-v work.09 ----- 14:0-rel  0:2-ARG0 11:1-ARG0 15:1-ARGM-MNR
+phoenix_0001.parse 153 4 predicted come-v come.03 ----- 4:0-rel  1:1-ARG1 3:1-R-ARG1 5:1-ARGM-TMP
+phoenix_0001.parse 153 6 predicted make-v make.02 ----- 6:0-rel  0:0-ARGM-DIS 1:2-ARG0
+phoenix_0001.parse 153 11 predicted see-v see.01 ----- 11:0-rel  7:1-ARG0 12:1-ARG1
+phoenix_0001.parse 153 15 predicted have-v have.03 ----- 15:0-rel  13:1-ARG0 16:2-ARG1
+phoenix_0001.parse 153 27 predicted instill-v instill.- ----- 27:0-rel  22:1-ARG0 25:1-ARGM-ADV 26:0-ARGM-MOD
+phoenix_0001.parse 154 1 predicted organize-v organize.01 ----- 1:0-rel  2:1-ARG1
+phoenix_0001.parse 154 11 predicted come-v come.06 ----- 11:0-rel  6:1-ARGM-MNR 8:1-ARG1 12:1-ARG2
+phoenix_0001.parse 155 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+phoenix_0001.parse 155 6 predicted be-v be.01 ----- 6:0-rel  2:1-ARGM-CAU 3:0-ARGM-MOD 4:0-ARGM-NEG 5:1-ARG1
+phoenix_0001.parse 155 15 predicted dance-v dance.01 ----- 15:0-rel  16:1-ARGM-TMP
+phoenix_0001.parse 156 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+phoenix_0001.parse 156 8 predicted compare-v compare.01 ----- 8:0-rel  4:1-ARGM-MNR 5:0-ARGM-MOD 6:1-ARG1 9:1-ARG2
+phoenix_0001.parse 157 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 157 8 predicted compare-v compare.01 ----- 8:0-rel  3:1-ARGM-CAU 4:0-ARGM-MOD 5:0-ARGM-NEG 6:1-ARG1 9:1-ARG2
+phoenix_0001.parse 158 3 predicted go-v go.02 ----- 3:0-rel  0:1-ARGM-TMP 2:1-ARG0
+phoenix_0001.parse 158 15 predicted give-v give.01 ----- 15:0-rel  11:2-ARG0 16:1-ARG2 17:1-ARG1
+phoenix_0001.parse 158 22 predicted invite-v invite.01 ----- 22:0-rel  0:3-ARG0 23:2-ARG1
+phoenix_0001.parse 160 10 predicted got-v got.- ----- 10:0-rel  0:2-ARGM-TMP 8:1-ARG0 9:1-ARGM-TMP 11:1-ARG2
+phoenix_0001.parse 161 6 predicted dance-v dance.01 ----- 6:0-rel  0:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 5:0-ARGM-NEG 7:1-ARG1
+phoenix_0001.parse 162 1 predicted laugh-v laugh.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-TMP
+phoenix_0001.parse 164 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+phoenix_0001.parse 166 4 predicted dance-v dance.01 ----- 4:0-rel  1:1-ARGM-MNR 2:0-ARGM-MOD 3:1-ARG0
+phoenix_0001.parse 167 21 predicted be-v be.03 ----- 21:0-rel  20:1-ARG1
+phoenix_0001.parse 167 23 predicted laugh-v laugh.01 ----- 23:0-rel  20:1-ARG0 24:1-ARGM-MNR
+phoenix_0001.parse 168 7 predicted learn-v learn.01 ----- 7:0-rel  0:1-ARGM-TMP 4:1-ARG0 6:0-ARGM-NEG 8:1-ARG1
+phoenix_0001.parse 169 2 predicted see-v see.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+phoenix_0001.parse 169 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG1 6:1-ARG2
+phoenix_0001.parse 169 15 predicted feel-v feel.02 ----- 15:0-rel  14:1-ARG0
+phoenix_0001.parse 169 19 predicted be-v be.01 ----- 19:0-rel  17:1-ARGM-ADV 18:1-ARG1 20:2-ARG2
+phoenix_0001.parse 170 2 predicted persist-v persist.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG0
+phoenix_0001.parse 171 1 predicted persist-v persist.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-TMP
+phoenix_0001.parse 172 1 predicted imagine-v imagine.01 ----- 1:0-rel  0:1-ARGM-ADV
+phoenix_0001.parse 172 10 predicted be-v be.01 ----- 10:0-rel  9:1-ARG1 11:1-ARG2
+phoenix_0001.parse 172 13 predicted join-v join.05 ----- 13:0-rel  3:2-ARG0 14:1-ARGM-LOC
+phoenix_0001.parse 173 16 predicted change-v change.01 ----- 16:0-rel  0:1-ARGM-TMP 8:2-ARG1
+phoenix_0001.parse 174 9 predicted organize-v organize.01 ----- 9:0-rel  0:1-ARGM-TMP 7:1-ARG0
+phoenix_0001.parse 174 19 predicted participate-v participate.01 ----- 19:0-rel  15:1-R-ARG1 17:1-ARG0
+phoenix_0001.parse 175 11 predicted hold-v hold.04 ----- 11:0-rel  9:1-ARG0 12:1-ARG1
+phoenix_0001.parse 176 10 predicted call-v call.01 ----- 10:0-rel  11:1-ARG1
+phoenix_0001.parse 177 10 predicted achieve-v achieve.01 ----- 10:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 4:2-ARG0 9:0-ARGM-NEG 11:2-ARG1
+phoenix_0001.parse 178 15 predicted do-v do.02 ----- 15:0-rel  16:2-ARG1
+phoenix_0001.parse 178 18 predicted allow-v allow.01 ----- 18:0-rel  16:1-ARG0 17:1-R-ARG0 19:2-ARG1
+phoenix_0001.parse 178 22 predicted see-v see.01 ----- 22:0-rel  19:1-ARG0 23:2-ARG1
+phoenix_0001.parse 179 6 predicted establish-v establish.01 ----- 6:0-rel  2:1-ARG1
+phoenix_0001.parse 180 3 predicted want-v want.01 ----- 3:0-rel  0:1-ARGM-CAU 2:1-ARG0 4:2-ARG1
+phoenix_0001.parse 180 5 predicted set-v set.03 ----- 5:0-rel  2:1-ARG0 7:1-ARG1
+phoenix_0001.parse 181 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+phoenix_0001.parse 181 7 predicted have-v have.03 ----- 7:0-rel  8:1-ARG1
+phoenix_0001.parse 183 2 predicted rain-v rain.- ----- 2:0-rel  1:1-ARG1
+phoenix_0001.parse 183 13 predicted go-v go.02 ----- 13:0-rel  12:1-ARG0 14:1-ARG4
+phoenix_0001.parse 184 5 predicted have-v have.03 ----- 5:0-rel  0:1-ARGM-TMP 3:1-ARG0 6:2-ARG1
+phoenix_0001.parse 184 9 predicted double-v double.02 ----- 9:0-rel  6:1-ARG0 8:1-R-ARG0 10:1-ARG1
+phoenix_0001.parse 185 1 predicted go-v go.05 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+phoenix_0001.parse 185 3 predicted see-v see.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+phoenix_0001.parse 186 1 predicted speak-v speak.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2 4:1-ARGM-TMP
+phoenix_0001.parse 186 11 predicted say-v say.01 ----- 11:0-rel  8:1-ARG0 9:0-ARGM-MOD 10:1-ARGM-TMP 12:1-ARG1
+phoenix_0001.parse 187 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARGM-CAU 2:1-ARG0 4:1-ARG1
+phoenix_0001.parse 187 10 predicted have-v have.03 ----- 10:0-rel  7:1-ARG0 11:1-ARG1
+phoenix_0001.parse 188 1 predicted consider-v consider.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+phoenix_0001.parse 188 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARG1 6:1-ARG2
+phoenix_0001.parse 189 3 predicted discuss-v discuss.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARGM-MNR
+phoenix_0001.parse 190 1 predicted decide-v decide.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 190 3 predicted set-v set.03 ----- 3:0-rel  0:1-ARG0 5:1-ARG1
+phoenix_0001.parse 190 11 predicted focus-v focus.01 ----- 11:0-rel  0:1-ARG0 12:1-ARG2
+phoenix_0001.parse 190 13 predicted fix-v fix.04 ----- 13:0-rel  15:1-ARG1
+phoenix_0001.parse 191 3 predicted be-v be.01 ----- 3:0-rel  4:1-ARG1
+phoenix_0001.parse 191 9 predicted handle-v handle.01 ----- 9:0-rel  7:1-ARG0 8:0-ARGM-MOD
+phoenix_0001.parse 192 3 predicted discuss-v discuss.01 ----- 3:0-rel  1:2-ARG0 4:1-ARG1 5:1-ARGM-MNR
+phoenix_0001.parse 193 8 predicted be-v be.01 ----- 8:0-rel  0:1-ARGM-DIS 6:1-ARG1 9:2-ARG2
+phoenix_0001.parse 194 3 predicted do-v do.02 ----- 3:0-rel  2:1-ARG0 4:1-ARG1 5:1-ARGM-REC
+phoenix_0001.parse 194 11 predicted be-v be.01 ----- 11:0-rel  7:1-ARGM-CAU 8:0-ARGM-MOD 9:0-ARGM-NEG 10:1-ARG1 12:1-ARG2
+phoenix_0001.parse 194 14 predicted get-v get.04 ----- 14:0-rel  10:1-ARG0 15:2-ARG1
+phoenix_0001.parse 194 16 predicted do-v do.02 ----- 16:0-rel  15:1-ARG1
+phoenix_0001.parse 195 3 predicted be-v be.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+phoenix_0001.parse 195 7 predicted select-v select.01 ----- 7:0-rel  5:2-ARG0 8:1-ARG1
+phoenix_0001.parse 197 2 predicted be-v be.01 ----- 2:0-rel  0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+phoenix_0001.parse 197 10 predicted clash-v clash.01 ----- 10:0-rel  7:0-ARGM-MOD 8:1-ARG0 9:0-ARGM-NEG 11:1-ARG1
+phoenix_0001.parse 198 1 predicted be-v be.02 ----- 1:0-rel  2:1-ARG1
+phoenix_0001.parse 199 5 predicted do-v do.02 ----- 5:0-rel  4:1-ARG0 6:1-ARG1
+phoenix_0001.parse 199 13 predicted want-v want.01 ----- 13:0-rel  10:1-ARG0 14:2-ARG1
+phoenix_0001.parse 199 15 predicted do-v do.02 ----- 15:0-rel  10:1-ARG0 16:1-ARG1
+phoenix_0001.parse 199 19 predicted have-v have.03 ----- 19:0-rel  9:1-ARGM-ADV 18:1-ARG0 20:1-ARG1
+phoenix_0001.parse 200 10 predicted be-v be.02 ----- 10:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:2-ARG1 11:2-C-ARG1
+phoenix_0001.parse 200 13 predicted have-v have.03 ----- 13:0-rel  11:1-ARG0 12:1-R-ARG0 14:2-ARG1
+phoenix_0001.parse 201 2 predicted be-v be.02 ----- 2:0-rel  0:1-ARGM-DIS 3:2-ARG1
+phoenix_0001.parse 202 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARGM-DIS 3:1-ARG2 4:2-ARG1
+phoenix_0001.parse 202 5 predicted convince-v convince.01 ----- 5:0-rel  6:1-ARG1
+phoenix_0001.parse 202 12 predicted mobilize-v mobilize.01 ----- 12:0-rel  9:1-ARG0
+phoenix_0001.parse 203 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:3-ARG2
+phoenix_0001.parse 203 5 predicted agree-v agree.01 ----- 5:0-rel  4:1-ARG0
+phoenix_0001.parse 204 10 predicted get-v get.04 ----- 10:0-rel  11:2-ARG1
+phoenix_0001.parse 204 13 predicted do-v do.02 ----- 13:0-rel  11:1-ARG1
+phoenix_0001.parse 204 16 predicted complete-v complete.01 ----- 16:0-rel  17:1-ARG1
+phoenix_0001.parse 205 14 predicted have-v have.03 ----- 14:0-rel  6:1-ARGM-CAU 8:1-ARG0 15:1-ARG1
+phoenix_0001.parse 205 23 predicted be-v be.01 ----- 23:0-rel  0:1-ARGM-ADV 6:2-ARG1 20:1-C-ARG1 24:2-ARG2
+phoenix_0001.parse 206 10 predicted suppose-v suppose.02 ----- 10:0-rel  5:1-ARG1 9:1-ARGM-TMP 11:2-ARG2
+phoenix_0001.parse 206 12 predicted do-v do.02 ----- 12:0-rel  4:1-ARG1 5:1-ARG0 13:2-ARG2 17:1-ARGM-TMP
+phoenix_0001.parse 207 3 predicted see-v see.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+phoenix_0001.parse 207 8 predicted safeguard-v safeguard.01 ----- 8:0-rel  5:1-ARG0 9:1-ARG1 14:1-ARGM-TMP
+phoenix_0001.parse 208 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+phoenix_0001.parse 209 10 predicted go-v go.01 ----- 10:0-rel  0:2-ARG1 11:1-ARG2
+phoenix_0001.parse 209 19 predicted fix-v fix.03 ----- 19:0-rel  16:1-ARG1 20:1-ARG4
+phoenix_0001.parse 210 14 predicted register-v register.02 ----- 14:0-rel  0:1-ARGM-TMP 7:1-ARG1 13:1-ARGM-MNR 15:1-ARG2
+phoenix_0001.parse 211 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG2
+phoenix_0001.parse 212 7 predicted operate-v operate.01 ----- 7:0-rel  4:1-ARG1 8:1-ARG0 13:1-ARGM-TMP
+phoenix_0001.parse 212 16 predicted register-v register.02 ----- 16:0-rel  14:1-ARG1
+phoenix_0001.parse 212 25 predicted set-v set.03 ----- 25:0-rel  0:1-ARGM-TMP 18:1-ARG1
+phoenix_0001.parse 212 28 predicted go-v go.06 ----- 28:0-rel  0:1-ARGM-TMP 18:1-ARG1 29:1-ARG2
+phoenix_0001.parse 213 11 predicted run-v run.07 ----- 11:0-rel  0:1-ARGM-LOC 5:2-ARG0 12:1-ARG1
+phoenix_0001.parse 214 5 predicted adopt-v adopt.01 ----- 5:0-rel  0:1-ARGM-PRP 4:1-ARG0 6:1-ARG1
+phoenix_0001.parse 215 10 predicted hold-v hold.01 ----- 10:0-rel  6:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+phoenix_0001.parse 216 4 predicted sell-v sell.01 ----- 4:0-rel  1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:2-ARG1
+phoenix_0001.parse 216 12 predicted let-v let.01 ----- 12:0-rel  0:1-ARGM-ADV 10:1-ARG0 11:0-ARGM-MOD 13:3-ARG1
+phoenix_0001.parse 216 23 predicted buy-v buy.01 ----- 23:0-rel  13:2-ARG0 24:1-ARG1
+phoenix_0001.parse 217 4 predicted exceed-v exceed.01 ----- 4:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:2-ARG1
+phoenix_0001.parse 218 1 predicted hear-v hear.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 218 4 predicted say-v say.01 ----- 4:0-rel  2:1-ARG0 5:3-ARG1
+phoenix_0001.parse 218 6 predicted make-v make.04 ----- 6:0-rel  5:1-ARG0 7:1-ARG1
+phoenix_0001.parse 219 2 predicted want-v want.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+phoenix_0001.parse 219 4 predicted hold-v hold.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+phoenix_0001.parse 219 11 predicted disagree-v disagree.01 ----- 11:0-rel  9:1-ARG0 10:1-ARGM-MNR
+phoenix_0001.parse 220 5 predicted want-v want.01 ----- 5:0-rel  0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:0-ARGM-NEG 6:2-ARG1
+phoenix_0001.parse 220 7 predicted hear-v hear.01 ----- 7:0-rel  1:1-ARG0 8:2-ARG1
+phoenix_0001.parse 222 4 predicted organize-v organize.01 ----- 4:0-rel  2:1-ARG0
+phoenix_0001.parse 222 19 predicted propose-v propose.01 ----- 19:0-rel  18:1-ARG0
+phoenix_0001.parse 222 22 predicted want-v want.01 ----- 22:0-rel  21:1-ARG0 23:2-ARG1
+phoenix_0001.parse 222 24 predicted hold-v hold.01 ----- 24:0-rel  21:1-ARG0 25:1-ARG1
+phoenix_0001.parse 223 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+phoenix_0001.parse 223 5 predicted run-v run.01 ----- 5:0-rel  2:1-ARG1 3:1-ARG0
+phoenix_0001.parse 223 6 predicted be-v be.01 ----- 6:0-rel  8:1-ARG2
+phoenix_0001.parse 224 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:2-ARG2
+phoenix_0001.parse 224 17 predicted announce-v announce.01 ----- 17:0-rel  14:1-ARG0 16:1-ARGM-TMP 18:1-ARG1 20:1-ARGM-TMP
+phoenix_0001.parse 225 3 predicted begin-v begin.01 ----- 3:0-rel  0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0 4:1-ARG1 5:1-ARGM-LOC
+phoenix_0001.parse 226 3 predicted do-v do.02 ----- 3:0-rel  0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1 5:1-ARGM-MNR
+phoenix_0001.parse 227 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+phoenix_0001.parse 228 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0
+phoenix_0001.parse 228 5 predicted go-v go.02 ----- 5:0-rel  3:1-ARGM-TMP 4:1-ARG0 6:1-ARG4
+phoenix_0001.parse 228 8 predicted study-v study.02 ----- 8:0-rel  4:1-ARG0 10:1-ARG1
+phoenix_0001.parse 228 15 predicted be-v be.01 ----- 15:0-rel  12:1-ARG1 16:2-ARG2
+phoenix_0001.parse 228 20 predicted come-v come.01 ----- 20:0-rel  19:1-ARGM-TMP 21:1-ARGM-DIR
+phoenix_0001.parse 228 25 predicted talk-v talk.01 ----- 25:0-rel  23:1-ARG0 24:0-ARGM-MOD
+phoenix_0001.parse 229 2 predicted think-v think.01 ----- 2:0-rel  1:1-ARG0 3:3-ARG1
+phoenix_0001.parse 229 5 predicted want-v want.01 ----- 5:0-rel  3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+phoenix_0001.parse 229 7 predicted hold-v hold.01 ----- 7:0-rel  3:1-ARG0 8:1-ARG1
+phoenix_0001.parse 229 13 predicted suggest-v suggest.01 ----- 13:0-rel  0:1-ARGM-ADV 12:1-ARG0 14:3-ARG1
+phoenix_0001.parse 229 15 predicted set-v set.03 ----- 15:0-rel  14:1-ARG0 17:1-ARG1
+phoenix_0001.parse 230 3 predicted hold-v hold.01 ----- 3:0-rel  4:1-ARG1
+phoenix_0001.parse 230 8 predicted be-v be.01 ----- 8:0-rel  0:2-ARG1 9:0-ARGM-NEG
+phoenix_0001.parse 230 12 predicted use-v use.01 ----- 12:0-rel  13:2-ARG1 16:2-ARG2
+phoenix_0001.parse 230 17 predicted serve-v serve.02 ----- 17:0-rel  18:1-ARG2
+phoenix_0001.parse 231 8 predicted clash-v clash.01 ----- 8:0-rel  0:0-ARGM-DIS 1:2-ARGM-TMP 6:1-ARG0 7:1-ARGM-ADV 9:1-ARG1
+phoenix_0001.parse 232 1 predicted be-v be.02 ----- 1:0-rel  2:2-ARG1
+phoenix_0001.parse 232 9 predicted categorize-v categorize.- ----- 9:0-rel  5:1-ARG1 7:1-R-ARG1 10:1-ARG2
+phoenix_0001.parse 233 2 predicted propose-v propose.01 ----- 2:0-rel  0:1-ARG0
+phoenix_0001.parse 233 3 predicted give-v give.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 6:1-ARG2
+phoenix_0001.parse 233 13 predicted come-v come.03 ----- 13:0-rel  11:1-ARG1 14:1-ARG2
+phoenix_0001.parse 234 8 predicted split-v split.01 ----- 8:0-rel  0:2-ARG0 10:1-ARG1 13:2-ARGM-PRP
+phoenix_0001.parse 234 14 predicted discuss-v discuss.01 ----- 14:0-rel  0:2-ARG0 15:2-ARG1
+phoenix_0001.parse 234 18 predicted give-v give.01 ----- 18:0-rel  19:1-ARG1 20:1-ARG2
+phoenix_0001.parse 234 28 predicted support-v support.01 ----- 28:0-rel  25:2-ARG0 29:2-ARG1
+phoenix_0001.parse 235 4 predicted persist-v persist.01 ----- 4:0-rel  1:1-ARGM-TMP 2:1-ARG0
+phoenix_0001.parse 235 8 predicted agree-v agree.01 ----- 8:0-rel  0:0-ARGM-DIS 1:2-ARGM-TMP 6:1-ARG0 7:1-ARGM-TMP
+phoenix_0001.parse 236 4 predicted used-v used.- ----- 4:0-rel  0:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-MNR 5:2-ARG1
+phoenix_0001.parse 237 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG2 3:1-ARG1
+phoenix_0001.parse 237 7 predicted refer-v refer.01 ----- 7:0-rel  5:1-ARG0 8:1-ARG1
+phoenix_0001.parse 238 3 predicted give-v give.01 ----- 3:0-rel  0:1-ARGM-TMP 2:1-ARG0 4:1-ARG2 7:1-ARG1
+phoenix_0001.parse 239 2 predicted begin-v begin.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+phoenix_0001.parse 239 7 predicted put-v put.10 ----- 7:0-rel  0:1-ARGM-TMP 6:1-ARG0 9:1-ARG1
+phoenix_0001.parse 239 15 predicted present-v present.01 ----- 15:0-rel  14:1-ARG0 16:1-ARG1
+phoenix_0001.parse 240 4 predicted experiment-v experiment.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-LOC
+phoenix_0001.parse 241 5 predicted ask-v ask.01 ----- 5:0-rel  3:1-ARG0 6:1-ARG2 8:1-ARG1
+phoenix_0001.parse 241 15 predicted imply-v imply.01 ----- 15:0-rel  12:1-ARG1 14:1-ARG0
+phoenix_0001.parse 242 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 3:1-ARG1
+phoenix_0001.parse 243 3 predicted want-v want.01 ----- 3:0-rel  0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARG0 4:4-ARG1
+phoenix_0001.parse 243 14 predicted be-v be.01 ----- 14:0-rel  4:3-ARG1 15:2-ARG2
+phoenix_0001.parse 244 4 predicted want-v want.01 ----- 4:0-rel  0:1-ARGM-DIS 2:0-ARGM-DIS 3:1-ARG0 5:3-ARG1
+phoenix_0001.parse 244 13 predicted be-v be.01 ----- 13:0-rel  5:2-ARG1 14:1-ARG2
+phoenix_0001.parse 245 3 predicted set-v set.08 ----- 3:0-rel  0:1-ARG1
+phoenix_0001.parse 245 5 predicted be-v be.01 ----- 5:0-rel  0:1-ARG1 6:2-ARG2
+phoenix_0001.parse 246 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+phoenix_0001.parse 246 9 predicted establish-v establish.01 ----- 9:0-rel  2:1-ARG1 7:1-ARG0 10:1-ARG3
+phoenix_0001.parse 247 3 predicted want-v want.01 ----- 3:0-rel  2:1-ARG0 4:2-ARG1
+phoenix_0001.parse 247 5 predicted achieve-v achieve.01 ----- 5:0-rel  2:1-ARG0 6:1-ARG1
+phoenix_0001.parse 247 12 predicted be-v be.01 ----- 12:0-rel  0:0-ARGM-DIS 1:1-ARGM-ADV 11:1-ARG1
+phoenix_0001.parse 247 18 predicted say-v say.01 ----- 18:0-rel  16:1-ARG0 17:0-ARGM-MOD 19:1-ARG1
+phoenix_0001.parse 247 22 predicted be-v be.01 ----- 22:0-rel  21:1-ARG1 23:1-ARG2
+phoenix_0001.parse 248 4 predicted overcome-v overcome.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-MNR 5:3-ARG1
+phoenix_0001.parse 249 4 predicted challenge-v challenge.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-MNR 5:1-ARG1
+phoenix_0001.parse 250 7 predicted have-v have.03 ----- 7:0-rel  0:1-ARGM-DIS 1:1-ARG0 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1 12:1-ARG2
+phoenix_0001.parse 251 4 predicted quit-v quit.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+phoenix_0001.parse 251 9 predicted donate-v donate.01 ----- 9:0-rel  2:1-ARG0 11:1-ARG1
+phoenix_0001.parse 251 31 predicted be-v be.01 ----- 31:0-rel  0:1-ARGM-TMP 25:2-ARG1 30:1-ARGM-TMP 32:1-ARGM-TMP 33:2-ARG2
+phoenix_0001.parse 252 6 predicted collect-v collect.01 ----- 6:0-rel  0:2-ARG0 5:0-ARGM-NEG 7:1-ARG1
+phoenix_0001.parse 252 17 predicted belong-v belong.01 ----- 17:0-rel  11:1-ARG0 16:1-R-ARG0 18:1-ARG1
+phoenix_0001.parse 252 20 predicted give-v give.01 ----- 20:0-rel  11:2-ARG0 21:1-ARG2
+phoenix_0001.parse 253 2 predicted let-v let.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-ADV
+phoenix_0001.parse 253 4 predicted buy-v buy.01 ----- 4:0-rel  3:1-ARG0 5:1-ARGM-MNR
+phoenix_0001.parse 253 8 predicted pay-v pay.02 ----- 8:0-rel  3:1-ARG0 9:1-ARG1 11:1-ARGM-TMP
+phoenix_0001.parse 254 11 predicted contribute-v contribute.01 ----- 11:0-rel  1:3-ARG1 10:1-ARG0
+phoenix_0001.parse 255 3 predicted total-v total.03 ----- 3:0-rel  1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+phoenix_0001.parse 255 10 predicted pay-v pay.03 ----- 10:0-rel  0:1-ARGM-ADV 7:1-ARG0 12:2-ARG1
+phoenix_0001.parse 256 7 predicted organize-v organize.01 ----- 7:0-rel  8:1-ARG1
+phoenix_0001.parse 256 12 predicted invest-v invest.01 ----- 12:0-rel  0:1-ARG2 11:1-ARG0 13:1-ARG1 17:1-ARG2
+phoenix_0001.parse 257 3 predicted pain-v pain.- ----- 3:0-rel  0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+phoenix_0001.parse 257 7 predicted feel-v feel.02 ----- 7:0-rel  6:1-ARG0 8:3-ARG1
+phoenix_0001.parse 257 9 predicted be-v be.01 ----- 9:0-rel  8:1-ARG1 10:1-ARG2

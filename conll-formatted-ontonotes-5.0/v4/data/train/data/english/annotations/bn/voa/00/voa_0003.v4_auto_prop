@@ -1,0 +1,17 @@
+voa_0003.parse 0 2 predicted urge-v urge.01 ----- 2:0-rel  0:1-ARG0 3:1-ARGM-TMP 5:2-ARG2
+voa_0003.parse 0 6 predicted approve-v approve.01 ----- 6:0-rel  3:1-ARG0 7:2-ARG1
+voa_0003.parse 0 11 predicted cut-v cut.02 ----- 11:0-rel  12:2-ARG1
+voa_0003.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+voa_0003.parse 1 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 6:1-ARGM-ADV
+voa_0003.parse 2 1 predicted let-v let.01 ----- 1:0-rel  0:1-ARGM-TMP 2:2-ARG1
+voa_0003.parse 2 3 predicted remind-v remind.01 ----- 3:0-rel  2:1-ARG0 4:1-ARG2
+voa_0003.parse 2 8 predicted talk-v talk.01 ----- 8:0-rel  6:1-ARG0 9:1-ARGM-DIS 10:1-ARG1
+voa_0003.parse 2 17 predicted lift-v lift.02 ----- 17:0-rel  18:2-ARG1
+voa_0003.parse 3 2 predicted talk-v talk.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+voa_0003.parse 3 4 predicted give-v give.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG2 10:2-ARG1
+voa_0003.parse 3 18 predicted do-v do.02 ----- 18:0-rel  19:2-ARG1
+voa_0003.parse 3 25 predicted demand-v demand.01 ----- 25:0-rel  21:1-ARG1 22:1-ARG0 26:1-ARG2
+voa_0003.parse 4 3 predicted join-v join.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG0
+voa_0003.parse 5 4 predicted fail-v fail.01 ----- 4:0-rel  0:1-ARG1 2:1-ARGM-TMP 5:2-ARG2
+voa_0003.parse 5 6 predicted provide-v provide.01 ----- 6:0-rel  0:1-ARG0 7:2-ARG1
+voa_0003.parse 5 15 predicted seek-v seek.01 ----- 15:0-rel  7:1-ARG1 10:1-R-ARG1 11:1-ARG0

@@ -1,0 +1,17 @@
+mnb_0002.parse 0 4 predicted derail-v derail.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+mnb_0002.parse 0 18 predicted make-v make.02 ----- 18:0-rel  13:1-ARGM-TMP 17:1-ARG0
+mnb_0002.parse 0 29 predicted watch-v watch.01 ----- 29:0-rel  22:2-ARG0 30:2-ARG1
+mnb_0002.parse 2 4 predicted strand-v strand.01 ----- 4:0-rel  0:2-ARG1
+mnb_0002.parse 2 5 predicted ground-v ground.- ----- 5:0-rel  0:2-ARG1 6:1-ARG0
+mnb_0002.parse 3 6 predicted knock-v knock.03 ----- 6:0-rel  0:1-ARGM-LOC 4:1-ARG0 8:1-ARG1
+mnb_0002.parse 4 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0
+mnb_0002.parse 6 4 predicted arrange-v arrange.01 ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+mnb_0002.parse 6 8 predicted watch-v watch.01 ----- 8:0-rel  6:1-ARG0 9:1-ARG1 10:1-ARGM-LOC
+mnb_0002.parse 7 1 predicted miss-v miss.02 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+mnb_0002.parse 8 7 predicted break-v break.12 ----- 7:0-rel  0:2-ARG1
+mnb_0002.parse 9 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+mnb_0002.parse 10 2 predicted switch-v switch.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+mnb_0002.parse 11 2 predicted got-v got.- ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+mnb_0002.parse 11 6 predicted urge-v urge.01 ----- 6:0-rel  4:1-ARGM-TMP 5:1-ARG0 7:1-ARG1 9:2-ARG2
+mnb_0002.parse 11 10 predicted vote-v vote.01 ----- 10:0-rel  7:1-ARG0 11:1-ARGM-TMP
+mnb_0002.parse 12 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2

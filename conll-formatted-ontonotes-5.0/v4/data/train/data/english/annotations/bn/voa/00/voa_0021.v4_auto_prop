@@ -1,0 +1,99 @@
+voa_0021.parse 0 4 predicted show-v show.01 ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+voa_0021.parse 1 4 predicted report-v report.01 ----- 4:0-rel  0:2-ARG0 5:2-ARG1
+voa_0021.parse 2 1 predicted follow-v follow.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+voa_0021.parse 2 8 predicted dollarize-v dollarize.- ----- 8:0-rel  9:1-ARG1
+voa_0021.parse 3 4 predicted report-v report.01 ----- 4:0-rel  0:2-ARG0 5:1-ARGM-DIR
+voa_0021.parse 3 12 predicted work-v work.01 ----- 12:0-rel  9:1-ARG0
+voa_0021.parse 3 16 predicted see-v see.01 ----- 16:0-rel  8:1-ARGM-TMP 14:1-ARG0 15:1-ARGM-TMP 17:2-ARG1
+voa_0021.parse 4 13 predicted have-v have.03 ----- 13:0-rel  0:2-R-ARG0 9:2-ARG0 14:2-ARG1
+voa_0021.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+voa_0021.parse 5 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARG2 6:1-ARGM-TMP
+voa_0021.parse 5 15 predicted know-v know.01 ----- 15:0-rel  12:1-ARG1 16:1-ARG2
+voa_0021.parse 5 21 predicted be-v be.01 ----- 21:0-rel  9:2-ARG1 20:0-ARGM-NEG 22:1-ARG2
+voa_0021.parse 6 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+voa_0021.parse 6 5 predicted work-v work.01 ----- 5:0-rel  3:1-ARG0 4:1-R-ARG0 6:1-ARG3
+voa_0021.parse 6 10 predicted have-v have.02 ----- 10:0-rel  3:2-ARG0
+voa_0021.parse 6 12 predicted make-v make.01 ----- 12:0-rel  3:2-ARG0 13:1-ARG1 14:1-ARGM-TMP
+voa_0021.parse 6 18 predicted learn-v learn.01 ----- 18:0-rel  16:1-ARGM-DIS 17:1-ARG0
+voa_0021.parse 6 22 predicted work-v work.01 ----- 22:0-rel  19:1-ARGM-MNR 23:1-ARG3
+voa_0021.parse 7 5 predicted end-v end.02 ----- 5:0-rel  0:1-ARGM-TMP 1:1-ARG1 6:1-ARGM-TMP
+voa_0021.parse 7 13 predicted move-v move.01 ----- 13:0-rel  0:1-ARGM-TMP 1:3-ARG1 14:1-ARG2
+voa_0021.parse 7 21 predicted found-v found.01 ----- 21:0-rel  0:2-ARGM-TMP 19:1-ARG0 22:3-ARG1
+voa_0021.parse 7 23 predicted be-v be.01 ----- 23:0-rel  22:1-ARG1 24:1-ARG2
+voa_0021.parse 8 3 predicted work-v work.01 ----- 3:0-rel  0:1-ARG0 2:1-R-ARG0 4:1-ARG2
+voa_0021.parse 8 13 predicted say-v say.01 ----- 13:0-rel  0:2-ARG0 14:4-ARG1
+voa_0021.parse 8 17 predicted be-v be.01 ----- 17:0-rel  14:2-ARG1 18:1-ARG2
+voa_0021.parse 9 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+voa_0021.parse 9 3 predicted happen-v happen.01 ----- 3:0-rel  2:1-ARG1 4:1-ARGM-TMP
+voa_0021.parse 9 10 predicted lose-v lose.02 ----- 10:0-rel  9:1-ARG0 11:1-ARG1 12:1-ARGM-CAU
+voa_0021.parse 9 16 predicted have-v have.03 ----- 16:0-rel  13:1-ARG0 15:0-ARGM-NEG
+voa_0021.parse 9 20 predicted make-v make.01 ----- 20:0-rel  13:1-ARG0 17:1-ARG1 21:1-ARG2
+voa_0021.parse 10 4 predicted mint-v mint.- ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+voa_0021.parse 10 7 predicted resemble-v resemble.01 ----- 7:0-rel  5:1-ARG1 6:1-R-ARG1
+voa_0021.parse 10 14 predicted provide-v provide.01 ----- 14:0-rel  8:2-ARG0 15:1-ARG1
+voa_0021.parse 10 24 predicted take-v take.10 ----- 24:0-rel  22:1-ARG0
+voa_0021.parse 10 28 predicted reach-v reach.02 ----- 28:0-rel  29:1-ARG1
+voa_0021.parse 10 45 predicted make-v make.14 ----- 45:0-rel  41:1-ARG0 46:1-ARG1 47:1-ARG2
+voa_0021.parse 10 58 predicted consider-v consider.02 ----- 58:0-rel  52:2-ARG0 59:2-ARG1
+voa_0021.parse 10 61 predicted be-v be.01 ----- 61:0-rel  52:2-ARG1 59:1-ARG1 62:2-ARG2
+voa_0021.parse 10 67 predicted view-v view.02 ----- 67:0-rel  52:2-ARG0 68:1-ARG1 71:1-ARG2
+voa_0021.parse 11 6 predicted agree-v agree.01 ----- 6:0-rel  0:2-ARG0
+voa_0021.parse 12 5 predicted work-v work.01 ----- 5:0-rel  0:1-ARG0 4:1-R-ARG0 6:1-ARG3
+voa_0021.parse 12 11 predicted say-v say.01 ----- 11:0-rel  0:2-ARG0 12:4-ARG1
+voa_0021.parse 12 12 predicted adopt-v adopt.01 ----- 12:0-rel  13:1-ARG1
+voa_0021.parse 12 17 predicted put-v put.03 ----- 17:0-rel  12:2-ARG0 18:1-ARG1 20:1-ARG2
+voa_0021.parse 12 25 predicted characterize-v characterize.01 ----- 25:0-rel  21:2-ARG1 26:1-ARGM-MNR
+voa_0021.parse 13 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+voa_0021.parse 13 9 predicted be-v be.01 ----- 9:0-rel  2:2-ARG1 10:2-ARG2
+voa_0021.parse 14 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+voa_0021.parse 14 5 predicted be-v be.01 ----- 5:0-rel  2:2-ARG1
+voa_0021.parse 14 10 predicted suffer-v suffer.01 ----- 10:0-rel  7:1-ARGM-TMP 9:1-ARG0 11:2-ARG1
+voa_0021.parse 15 5 predicted note-v note.01 ----- 5:0-rel  4:1-ARG0
+voa_0021.parse 15 9 predicted go-v go.01 ----- 9:0-rel  0:1-ARGM-TMP 7:1-ARG1
+voa_0021.parse 16 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+voa_0021.parse 16 3 predicted conduct-v conduct.01 ----- 3:0-rel  4:1-ARG1 5:1-ARGM-LOC
+voa_0021.parse 16 16 predicted need-v need.01 ----- 16:0-rel  13:1-ARG0 17:2-ARG1
+voa_0021.parse 16 18 predicted keep-v keep.04 ----- 18:0-rel  13:1-ARG0
+voa_0021.parse 16 32 predicted plan-v plan.01 ----- 32:0-rel  33:1-ARG1
+voa_0021.parse 17 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+voa_0021.parse 17 3 predicted be-v be.01 ----- 3:0-rel  2:1-ARG1 4:1-ARGM-TMP 5:1-ARG2
+voa_0021.parse 17 12 predicted increase-v increase.01 ----- 12:0-rel  9:1-ARG1
+voa_0021.parse 18 5 predicted ease-v ease.02 ----- 5:0-rel  0:2-ARG1 6:1-ARGM-EXT
+voa_0021.parse 18 20 predicted allow-v allow.01 ----- 20:0-rel  19:1-ARG0
+voa_0021.parse 18 23 predicted produce-v produce.01 ----- 23:0-rel  21:0-ARG1 24:0-ARG0
+voa_0021.parse 18 26 predicted buy-v buy.01 ----- 26:0-rel  21:2-ARG0 27:2-ARG1
+voa_0021.parse 18 38 predicted say-v say.01 ----- 38:0-rel  36:1-ARG0 39:1-ARGM-TMP
+voa_0021.parse 18 40 predicted be-v be.01 ----- 40:0-rel  36:1-ARG1 39:1-ARGM-TMP 41:2-ARG2
+voa_0021.parse 18 44 predicted start-v start.01 ----- 44:0-rel  41:1-ARGM-TMP
+voa_0021.parse 18 45 predicted think-v think.01 ----- 45:0-rel  46:1-ARG2
+voa_0021.parse 18 48 predicted happen-v happen.01 ----- 48:0-rel  47:1-ARG1 49:2-ARGM-TMP
+voa_0021.parse 18 52 predicted change-v change.01 ----- 52:0-rel  49:1-ARGM-TMP 50:1-ARG1
+voa_0021.parse 19 1 predicted ask-v ask.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+voa_0021.parse 19 4 predicted happen-v happen.01 ----- 4:0-rel  2:1-ARG1 3:0-ARGM-MOD
+voa_0021.parse 19 8 predicted go-v go.01 ----- 8:0-rel  6:1-ARG1 9:1-ARGM-DIR
+voa_0021.parse 19 17 predicted bring-v bring.01 ----- 17:0-rel  12:1-ARG0 14:0-ARGM-MOD 15:1-ARGM-TMP 19:1-ARG1
+voa_0021.parse 19 22 predicted sustain-v sustain.01 ----- 22:0-rel  23:1-ARG1
+voa_0021.parse 20 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+voa_0021.parse 20 5 predicted be-v be.01 ----- 5:0-rel  4:1-ARG2 6:2-ARG1
+voa_0021.parse 20 12 predicted implement-v implement.01 ----- 12:0-rel  9:1-ARG0 13:1-ARG1
+voa_0021.parse 20 17 predicted stimulate-v stimulate.01 ----- 17:0-rel  9:1-ARG0 18:2-ARG1
+voa_0021.parse 21 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:4-ARG1
+voa_0021.parse 21 5 predicted be-v be.01 ----- 5:0-rel  2:1-ARG1
+voa_0021.parse 21 23 predicted need-v need.01 ----- 23:0-rel  22:1-ARG0 24:2-ARG1
+voa_0021.parse 21 25 predicted concentrate-v concentrate.01 ----- 25:0-rel  22:1-ARG0 26:1-ARG1
+voa_0021.parse 22 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:0-ARG1
+voa_0021.parse 22 6 predicted develop-v develop.02 ----- 6:0-rel  4:1-ARG0 7:2-ARG1
+voa_0021.parse 22 11 predicted address-v address.02 ----- 11:0-rel  7:1-ARG0 12:2-ARG1
+voa_0021.parse 22 31 predicted be-v be.01 ----- 31:0-rel  18:2-ARG1 29:0-ARGM-MOD 30:0-ARGM-NEG 32:1-ARG2
+voa_0021.parse 23 6 predicted watch-v watch.01 ----- 6:0-rel  0:2-ARG1 7:1-ARGM-MNR
+voa_0021.parse 23 16 predicted receive-v receive.01 ----- 16:0-rel  11:1-ARG0 15:1-R-ARG0 17:1-ARG1
+voa_0021.parse 23 22 predicted increase-v increase.01 ----- 22:0-rel  23:0-ARG1
+voa_0021.parse 24 6 predicted discuss-v discuss.01 ----- 6:0-rel  0:2-ARG1 7:1-ARG3 11:1-ARGM-TMP
+voa_0021.parse 25 8 predicted view-v view.02 ----- 8:0-rel  0:1-ARG0 4:1-ARGM-DIS 9:1-ARG1 10:1-ARG2
+voa_0021.parse 25 15 predicted test-v test.01 ----- 15:0-rel  11:1-ARGM-LOC
+voa_0021.parse 25 23 predicted burden-v burden.01 ----- 23:0-rel  19:1-ARG1 22:1-ARGM-ADV 24:1-ARG2
+voa_0021.parse 25 32 predicted be-v be.01 ----- 32:0-rel  29:1-ARG1 33:1-ARG2
+voa_0021.parse 26 5 predicted put-v put.02 ----- 5:0-rel  3:1-ARG0 6:1-ARG1
+voa_0021.parse 26 13 predicted conclude-v conclude.01 ----- 13:0-rel  0:1-ARGM-DIS 2:1-ARGM-ADV 8:2-ARG0 12:0-ARGM-MOD 14:1-ARG1
+voa_0021.parse 26 18 predicted work-v work.01 ----- 18:0-rel  16:1-ARG0 17:0-ARGM-MOD 19:1-ARGM-LOC 20:1-ARGM-LOC
+voa_0021.parse 26 25 predicted work-v work.01 ----- 25:0-rel  15:1-ARGM-ADV 23:1-ARG0 24:0-ARGM-MOD 26:1-ARGM-LOC

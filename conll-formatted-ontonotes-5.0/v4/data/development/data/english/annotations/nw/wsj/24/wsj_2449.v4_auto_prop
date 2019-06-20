@@ -1,0 +1,40 @@
+wsj_2449.parse 0 4 predicted urge-v urge.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 8:2-ARG2
+wsj_2449.parse 0 9 predicted give-v give.01 ----- 9:0-rel  5:1-ARG0 10:1-ARG2 11:2-ARG1
+wsj_2449.parse 0 14 predicted restrict-v restrict.01 ----- 14:0-rel  15:1-ARG1
+wsj_2449.parse 0 17 predicted say-v say.01 ----- 17:0-rel  0:2-ARG0 18:3-ARG1
+wsj_2449.parse 1 4 predicted argue-v argue.01 ----- 4:0-rel  0:2-ARG0 5:1-ARG1
+wsj_2449.parse 1 16 predicted recognize-v recognize.01 ----- 16:0-rel  17:2-ARG1
+wsj_2449.parse 2 2 predicted argue-v argue.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1
+wsj_2449.parse 2 15 predicted have-v have.03 ----- 15:0-rel  14:1-ARG0 16:2-ARG1
+wsj_2449.parse 2 23 predicted be-v be.01 ----- 23:0-rel  20:1-R-ARG1 22:0-ARGM-NEG
+wsj_2449.parse 2 25 predicted veto-v veto.01 ----- 25:0-rel  20:1-R-ARG1 21:0-ARGM-MOD 22:0-ARGM-NEG 24:1-ARGM-ADV 26:1-ARG0
+wsj_2449.parse 3 5 predicted outline-v outline.01 ----- 5:0-rel  0:2-ARG1
+wsj_2449.parse 3 16 predicted file-v file.01 ----- 16:0-rel  7:1-ARG1 17:1-ARGM-TMP
+wsj_2449.parse 3 28 predicted argue-v argue.01 ----- 28:0-rel  23:1-ARG1 26:0-ARGM-MOD
+wsj_2449.parse 3 31 predicted decide-v decide.01 ----- 31:0-rel  23:1-ARG0 30:0-ARGM-MOD 32:1-ARG1
+wsj_2449.parse 4 2 predicted file-v file.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+wsj_2449.parse 4 8 predicted involve-v involve.01 ----- 8:0-rel  6:1-ARG2
+wsj_2449.parse 4 13 predicted require-v require.01 ----- 13:0-rel  9:1-ARG0 12:1-R-ARG0 14:1-ARG1
+wsj_2449.parse 4 21 predicted notify-v notify.01 ----- 21:0-rel  15:2-ARG1 22:1-ARGM-TMP
+wsj_2449.parse 4 25 predicted have-v have.03 ----- 25:0-rel  23:1-ARG0 24:0-ARGM-MOD 26:1-ARG1
+wsj_2449.parse 5 2 predicted urge-v urge.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1 5:2-ARG2
+wsj_2449.parse 5 6 predicted adopt-v adopt.01 ----- 6:0-rel  3:1-ARG0
+wsj_2449.parse 5 10 predicted suggest-v suggest.01 ----- 10:0-rel  7:1-ARG1 11:1-ARG0 18:2-ARGM-TMP
+wsj_2449.parse 5 22 predicted uphold-v uphold.01 ----- 22:0-rel  18:1-ARGM-TMP 19:1-ARG0 23:2-ARG1
+wsj_2449.parse 6 5 predicted garner-v garner.01 ----- 5:0-rel  4:1-R-ARG0 6:2-ARG1
+wsj_2449.parse 6 21 predicted be-v be.01 ----- 21:0-rel  0:1-ARGM-LOC 16:2-ARG1 22:1-ARG2
+wsj_2449.parse 6 26 predicted have-v have.03 ----- 26:0-rel  24:1-ARG0 27:2-ARG1
+wsj_2449.parse 6 33 predicted adopt-v adopt.01 ----- 33:0-rel  34:1-ARG1
+wsj_2449.parse 7 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+wsj_2449.parse 7 10 predicted satisfy-v satisfy.01 ----- 10:0-rel  7:1-ARG0
+wsj_2449.parse 7 21 predicted require-v require.01 ----- 21:0-rel  20:1-R-ARG0 22:1-ARG2 24:2-ARG1
+wsj_2449.parse 7 25 predicted have-v have.03 ----- 25:0-rel  26:2-ARG1
+wsj_2449.parse 7 32 predicted restrict-v restrict.01 ----- 32:0-rel  33:1-ARG1
+wsj_2449.parse 8 11 predicted say-v say.01 ----- 11:0-rel  0:1-ARGM-LOC 8:1-ARG0 12:1-ARG1
+wsj_2449.parse 8 13 predicted require-v require.01 ----- 13:0-rel  14:2-ARG1
+wsj_2449.parse 8 18 predicted notify-v notify.01 ----- 18:0-rel  15:1-ARG1
+wsj_2449.parse 8 19 predicted be-v be.01 ----- 19:0-rel  20:1-ARG2
+wsj_2449.parse 8 31 predicted have-v have.03 ----- 31:0-rel  32:2-ARG1
+wsj_2449.parse 8 35 predicted allow-v allow.01 ----- 35:0-rel  32:1-ARG0 34:1-R-ARG0 36:2-ARG1
+wsj_2449.parse 8 38 predicted go-v go.02 ----- 38:0-rel  36:1-ARG0 39:1-ARG4 41:1-ARGM-CAU 46:1-ARGM-ADV
+wsj_2449.parse 9 9 predicted argue-v argue.01 ----- 9:0-rel  0:2-ARG1 7:0-ARGM-MOD 10:1-ARGM-TMP

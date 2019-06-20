@@ -1,0 +1,15 @@
+cnn_0221.parse 0 18 predicted rise-v rise.01 ----- 18:0-rel  0:2-ARGM-TMP 13:1-ARG1 17:1-ARGM-TMP
+cnn_0221.parse 1 4 predicted die-v die.01 ----- 4:0-rel  0:1-ARG1
+cnn_0221.parse 2 6 predicted kill-v kill.01 ----- 6:0-rel  0:1-ARGM-DIS 3:1-ARG1 8:1-ARGM-PRD
+cnn_0221.parse 2 9 predicted include-v include.01 ----- 9:0-rel  8:0-ARGM-NEG 10:1-ARG1
+cnn_0221.parse 2 12 predicted suspect-v suspect.01 ----- 12:0-rel  13:0-ARG1
+cnn_0221.parse 3 4 predicted injure-v injure.01 ----- 4:0-rel  0:2-ARG1
+cnn_0221.parse 4 4 predicted say-v say.01 ----- 4:0-rel  0:2-ARG0 5:3-ARG1
+cnn_0221.parse 4 7 predicted bear-v bear.01 ----- 7:0-rel  5:1-ARG0 8:2-ARG1
+cnn_0221.parse 5 4 predicted time-v time.01 ----- 4:0-rel  0:1-ARG1 1:0-ARGM-MOD 5:2-ARG2
+cnn_0221.parse 5 6 predicted coincide-v coincide.- ----- 6:0-rel  0:1-ARG1 7:1-ARG1
+cnn_0221.parse 6 4 predicted order-v order.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+cnn_0221.parse 7 4 predicted head-v head.02 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 8:2-ARGM-PRP
+cnn_0221.parse 7 9 predicted help-v help.01 ----- 9:0-rel  0:1-ARG0 10:2-ARG1
+cnn_0221.parse 7 10 predicted investigate-v investigate.01 ----- 10:0-rel  11:1-ARG1
+cnn_0221.parse 8 1 predicted target-v target.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1

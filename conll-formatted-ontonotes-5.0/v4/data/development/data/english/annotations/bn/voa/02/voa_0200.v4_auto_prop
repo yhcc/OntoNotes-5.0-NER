@@ -1,0 +1,9 @@
+voa_0200.parse 0 3 predicted show-v show.01 ----- 3:0-rel  0:1-ARG0
+voa_0200.parse 0 15 predicted be-v be.01 ----- 15:0-rel  4:2-ARG1 16:2-ARG2
+voa_0200.parse 1 3 predicted place-v place.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1 11:1-ARGM-MNR
+voa_0200.parse 3 2 predicted finish-v finish.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+voa_0200.parse 3 19 predicted tie-v tie.01 ----- 19:0-rel  20:1-ARG1
+voa_0200.parse 4 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-DIS
+voa_0200.parse 4 8 predicted sign-v sign.02 ----- 8:0-rel  9:1-ARG1
+voa_0200.parse 4 15 predicted purchase-v purchase.01 ----- 15:0-rel  16:2-ARG1
+voa_0200.parse 5 3 predicted move-v move.01 ----- 3:0-rel  0:1-ARG1 9:1-ARGM-TMP

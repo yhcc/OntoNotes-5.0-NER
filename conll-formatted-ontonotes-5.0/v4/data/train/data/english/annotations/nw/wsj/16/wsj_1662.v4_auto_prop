@@ -1,0 +1,11 @@
+wsj_1662.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1662.parse 0 4 predicted be-v be.01 ----- 4:0-rel  3:1-ARG1 5:2-ARG2
+wsj_1662.parse 0 10 predicted receive-v receive.01 ----- 10:0-rel  7:1-ARG0 11:1-ARG1
+wsj_1662.parse 0 16 predicted operate-v operate.01 ----- 16:0-rel  17:1-ARG1 22:1-ARGM-LOC
+wsj_1662.parse 1 8 predicted estimate-v estimate.01 ----- 8:0-rel  0:2-ARG1 9:1-ARG2
+wsj_1662.parse 2 9 predicted say-v say.01 ----- 9:0-rel  0:2-ARG0 10:3-ARG1
+wsj_1662.parse 2 13 predicted know-v know.01 ----- 13:0-rel  10:1-ARG0 12:0-ARGM-NEG 14:2-ARG1
+wsj_1662.parse 3 6 predicted win-v win.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1
+wsj_1662.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1662.parse 4 4 predicted build-v build.01 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD
+wsj_1662.parse 4 6 predicted operate-v operate.01 ----- 6:0-rel  2:1-ARG0 3:0-ARGM-MOD

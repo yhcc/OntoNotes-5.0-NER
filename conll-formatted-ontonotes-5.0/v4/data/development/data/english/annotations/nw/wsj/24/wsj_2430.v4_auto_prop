@@ -1,0 +1,17 @@
+wsj_2430.parse 0 3 predicted post-v post.01 ----- 3:0-rel  0:1-ARG0 13:1-ARGM-TMP
+wsj_2430.parse 0 14 predicted join-v join.01 ----- 14:0-rel  0:1-ARG0 15:1-ARG1
+wsj_2430.parse 0 20 predicted add-v add.02 ----- 20:0-rel  19:1-ARGM-EXT 21:1-ARG2
+wsj_2430.parse 1 17 predicted say-v say.01 ----- 17:0-rel  0:3-ARG0 18:3-ARG1
+wsj_2430.parse 1 19 predicted set-v set.01 ----- 19:0-rel  18:1-ARG0 20:1-ARG2 21:2-ARG1 24:2-ARGM-PNC
+wsj_2430.parse 1 25 predicted absorb-v absorb.01 ----- 25:0-rel  18:1-ARG0 26:2-ARG1
+wsj_2430.parse 2 16 predicted bring-v bring.01 ----- 16:0-rel  0:1-ARG0 3:1-ARGM-ADV 15:0-ARG0 17:1-ARG1 19:1-ARG2
+wsj_2430.parse 2 22 predicted equal-v equal.01 ----- 22:0-rel  20:1-ARG1
+wsj_2430.parse 3 5 predicted reduce-v reduce.01 ----- 5:0-rel  0:1-ARG0 2:1-ARGM-TMP 6:2-ARG1 11:1-ARG4
+wsj_2430.parse 4 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARGM-ADV 4:1-ARG0 7:3-ARG1
+wsj_2430.parse 4 10 predicted need-v need.01 ----- 10:0-rel  7:1-ARG0 9:0-ARGM-NEG 11:2-ARG1
+wsj_2430.parse 4 12 predicted sell-v sell.01 ----- 12:0-rel  7:1-ARG0 13:1-ARG1
+wsj_2430.parse 4 15 predicted raise-v raise.02 ----- 15:0-rel  7:1-ARG0 16:1-ARG1
+wsj_2430.parse 5 6 predicted realize-v realize.02 ----- 6:0-rel  0:1-ARGM-TMP 4:1-ARG0 7:2-ARG1
+wsj_2430.parse 6 7 predicted dip-v dip.01 ----- 7:0-rel  0:3-ARG1 8:1-ARG2 17:1-ARG4
+wsj_2430.parse 7 11 predicted leveraged-v leveraged.- ----- 11:0-rel  12:0-ARG1
+wsj_2430.parse 7 17 predicted rise-v rise.01 ----- 17:0-rel  0:2-ARG1 18:1-ARG2 20:1-ARG4 24:1-ARG3

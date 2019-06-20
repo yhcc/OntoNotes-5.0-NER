@@ -1,0 +1,11 @@
+cnn_0170.parse 0 3 predicted question-v question.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0170.parse 1 11 predicted say-v say.01 ----- 11:0-rel  0:2-R-ARG0 9:1-ARG0 12:3-ARG1
+cnn_0170.parse 1 13 predicted win-v win.01 ----- 13:0-rel  12:1-ARG0 14:1-ARG1
+cnn_0170.parse 1 19 predicted stop-v stop.01 ----- 19:0-rel  18:1-ARG0 20:2-ARG1
+cnn_0170.parse 1 30 predicted praise-v praise.01 ----- 30:0-rel  28:1-ARG0 40:1-ARG2
+cnn_0170.parse 1 44 predicted handle-v handle.01 ----- 44:0-rel  41:1-ARGM-MNR 43:1-ARG0 45:1-ARG1
+cnn_0170.parse 2 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0170.parse 2 3 predicted thank-v thank.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 6:1-ARG2
+cnn_0170.parse 4 1 predicted think-v think.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0170.parse 4 3 predicted do-v do.02 ----- 3:0-rel  2:1-ARG0 4:1-ARG1
+cnn_0170.parse 4 8 predicted lead-v lead.01 ----- 8:0-rel  9:2-ARG1

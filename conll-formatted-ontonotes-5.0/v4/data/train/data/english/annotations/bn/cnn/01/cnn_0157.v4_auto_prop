@@ -1,0 +1,11 @@
+cnn_0157.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0157.parse 1 2 predicted choose-v choose.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0157.parse 2 1 predicted show-v show.01 ----- 1:0-rel  0:1-ARG0 2:5-ARG1
+cnn_0157.parse 2 8 predicted win-v win.01 ----- 8:0-rel  2:3-ARG0 7:0-ARGM-MOD 9:2-ARG1
+cnn_0157.parse 2 12 predicted need-v need.01 ----- 12:0-rel  9:1-ARG1 11:1-ARG0 13:2-ARGM-PRP
+cnn_0157.parse 2 14 predicted begin-v begin.01 ----- 14:0-rel  11:1-ARG0 15:2-ARG1
+cnn_0157.parse 2 15 predicted introduce-v introduce.02 ----- 15:0-rel  11:1-ARG0 16:1-ARG1
+cnn_0157.parse 3 7 predicted cast-v cast.01 ----- 7:0-rel  0:2-ARGM-TMP 3:2-ARG0 8:1-ARG1
+cnn_0157.parse 4 3 predicted lose-v lose.03 ----- 3:0-rel  1:1-ARG0 4:1-ARGM-ADV
+cnn_0157.parse 4 9 predicted be-v be.01 ----- 9:0-rel  0:1-ARGM-ADV 7:1-ARG1 8:0-ARGM-MOD 10:1-ARG2
+cnn_0157.parse 5 3 predicted expect-v expect.01 ----- 3:0-rel  0:1-ARG1 4:2-ARGM-TMP

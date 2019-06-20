@@ -1,0 +1,25 @@
+pri_0047.parse 0 7 predicted be-v be.01 ----- 7:0-rel  0:1-ARGM-DIR 6:1-ARG1 8:2-ARG2
+pri_0047.parse 1 4 predicted fly-v fly.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-DIR 7:1-ARGM-DIR
+pri_0047.parse 1 11 predicted crash-v crash.01 ----- 11:0-rel  0:2-ARG1
+pri_0047.parse 2 3 predicted carry-v carry.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+pri_0047.parse 2 10 predicted crash-v crash.01 ----- 10:0-rel  8:1-ARGM-TMP 9:1-ARG1 11:1-ARGM-MNR 13:2-ARGM-TMP
+pri_0047.parse 3 5 predicted know-v know.01 ----- 5:0-rel  0:3-ARG1 6:2-C-ARG1
+pri_0047.parse 3 9 predicted kill-v kill.01 ----- 9:0-rel  0:3-ARG1
+pri_0047.parse 3 15 predicted unaccounted-v unaccounted.- ----- 15:0-rel  11:2-ARG1 16:1-ARG2
+pri_0047.parse 4 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0
+pri_0047.parse 5 6 predicted describe-v describe.01 ----- 6:0-rel  0:2-ARG0 7:2-ARG1
+pri_0047.parse 5 11 predicted tax-v tax.01 ----- 11:0-rel  7:1-ARGM-MNR 8:1-ARG0 13:1-ARG1
+pri_0047.parse 6 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+pri_0047.parse 6 7 predicted decide-v decide.01 ----- 7:0-rel  4:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+pri_0047.parse 6 10 predicted board-v board.01 ----- 10:0-rel  4:1-ARG0 8:0-ARGM-NEG 11:1-ARG1
+pri_0047.parse 6 17 predicted call-v call.01 ----- 17:0-rel  15:1-ARG1 16:1-ARG0 18:2-ARG2
+pri_0047.parse 7 1 predicted describe-v describe.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+pri_0047.parse 7 6 predicted turn-v turn.01 ----- 6:0-rel  2:1-ARGM-MNR 3:1-ARG1 8:1-ARGM-TMP 11:2-ARGM-ADV
+pri_0047.parse 7 13 predicted hang-v hang.01 ----- 13:0-rel  12:1-ARG1 14:1-ARGM-MNR
+pri_0047.parse 8 3 predicted engulf-v engulf.01 ----- 3:0-rel  0:1-ARG1 2:1-ARGM-MNR 4:1-ARG0
+pri_0047.parse 9 2 predicted describe-v describe.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+pri_0047.parse 9 3 predicted see-v see.01 ----- 3:0-rel  0:1-ARG0
+pri_0047.parse 9 9 predicted put-v put.02 ----- 9:0-rel  8:1-ARG0 10:1-ARG1
+pri_0047.parse 9 13 predicted light-v light.02 ----- 13:0-rel  4:2-ARG1 15:1-ARGM-MNR
+pri_0047.parse 10 2 predicted shoot-v shoot.06 ----- 2:0-rel  1:1-ARG1 4:1-ARGM-LOC
+pri_0047.parse 10 20 predicted say-v say.01 ----- 20:0-rel  19:1-ARG0 21:0-ARG1

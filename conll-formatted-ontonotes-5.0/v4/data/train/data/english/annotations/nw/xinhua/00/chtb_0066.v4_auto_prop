@@ -1,0 +1,31 @@
+chtb_0066.parse 1 4 predicted restrict-v restrict.01 ----- 4:0-rel  0:1-ARG0 3:1-R-ARG0 5:2-ARG1
+chtb_0066.parse 1 12 predicted think-v think.01 ----- 12:0-rel  0:2-ARG1 11:1-ARGM-TMP 13:1-ARG2
+chtb_0066.parse 1 23 predicted become-v become.01 ----- 23:0-rel  19:1-ARG1 24:2-ARG2
+chtb_0066.parse 1 28 predicted focus-v focus.01 ----- 28:0-rel  29:0-ARG1
+chtb_0066.parse 2 9 predicted be-v be.01 ----- 9:0-rel  0:2-ARG1 10:1-ARG2 11:1-ARGM-TMP
+chtb_0066.parse 3 29 predicted restrict-v restrict.01 ----- 29:0-rel  23:2-ARG0 30:1-ARG1
+chtb_0066.parse 4 13 predicted express-v express.01 ----- 13:0-rel  0:1-ARGM-TMP 6:2-ARG0 12:1-ARGM-MNR 14:1-ARG1
+chtb_0066.parse 4 17 predicted get-v get.04 ----- 17:0-rel  6:2-ARG0 18:2-ARG1
+chtb_0066.parse 5 3 predicted make-v make.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+chtb_0066.parse 5 11 predicted put-v put.03 ----- 11:0-rel  0:1-ARG0 12:1-ARGM-DIR 13:2-ARG1
+chtb_0066.parse 5 17 predicted commercialize-v commercialize.01 ----- 17:0-rel  13:1-ARG0 16:1-R-ARG0 18:1-ARG1
+chtb_0066.parse 5 21 predicted approve-v approve.01 ----- 21:0-rel  0:1-ARG0
+chtb_0066.parse 5 34 predicted invest-v invest.01 ----- 34:0-rel  31:1-ARG0 35:1-ARG2
+chtb_0066.parse 6 4 predicted allow-v allow.01 ----- 4:0-rel  5:1-ARG1
+chtb_0066.parse 6 29 predicted come-v come.01 ----- 29:0-rel  23:2-ARG1 28:1-ARGM-TMP 30:2-ARGM-PRP
+chtb_0066.parse 6 31 predicted negotiate-v negotiate.01 ----- 31:0-rel  23:2-ARG0
+chtb_0066.parse 6 37 predicted strike-v strike.05 ----- 37:0-rel  33:1-ARG1 36:1-ARGM-TMP 38:1-ARGM-ADV
+chtb_0066.parse 7 13 predicted design-v design.01 ----- 13:0-rel  11:1-ARG1 14:1-ARGM-ADV
+chtb_0066.parse 7 24 predicted be-v be.01 ----- 24:0-rel  23:0-ARGM-MOD
+chtb_0066.parse 7 26 predicted undertake-v undertake.01 ----- 26:0-rel  23:0-ARGM-MOD 25:1-ARGM-MNR
+chtb_0066.parse 7 28 predicted construct-v construct.01 ----- 28:0-rel  0:3-ARG1 23:0-ARGM-MOD 29:1-ARG0
+chtb_0066.parse 7 34 predicted invest-v invest.01 ----- 34:0-rel  30:1-ARG0 35:2-ARG1
+chtb_0066.parse 8 9 predicted use-v use.01 ----- 9:0-rel  0:2-ARG0 10:2-ARG1
+chtb_0066.parse 8 20 predicted have-v have.03 ----- 20:0-rel  0:2-ARG0 19:0-ARGM-MOD
+chtb_0066.parse 8 27 predicted reach-v reach.01 ----- 27:0-rel  21:1-ARG0 25:1-R-ARG0 26:0-ARGM-MOD 28:3-ARG1
+chtb_0066.parse 8 37 predicted alleviate-v alleviate.01 ----- 37:0-rel  25:1-R-ARG0 35:0-ARGM-MOD 36:1-ARGM-EXT
+chtb_0066.parse 9 14 predicted reach-v reach.01 ----- 14:0-rel  0:1-ARGM-PNC 10:1-ARG1 15:1-ARGM-ADV
+chtb_0066.parse 9 25 predicted need-v need.01 ----- 25:0-rel  23:1-ARG1
+chtb_0066.parse 9 26 predicted be-v be.01 ----- 26:0-rel  23:2-ARG1 27:2-ARG2
+chtb_0066.parse 10 11 predicted come-v come.01 ----- 11:0-rel  0:1-ARGM-ADV 7:1-ARG1 10:1-ARGM-DIS 12:2-ARGM-PRP
+chtb_0066.parse 10 13 predicted negotiate-v negotiate.01 ----- 13:0-rel  7:1-ARG0 14:1-ARG2

@@ -1,0 +1,11 @@
+cnn_0213.parse 0 8 predicted exchange-v exchange.01 ----- 8:0-rel  0:1-ARGM-LOC 4:1-ARG0
+cnn_0213.parse 1 5 predicted say-v say.01 ----- 5:0-rel  0:1-ARG0 6:3-ARG1
+cnn_0213.parse 1 8 predicted protest-v protest.01 ----- 8:0-rel  6:1-ARG0 9:2-ARG1
+cnn_0213.parse 2 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1 4:1-ARG0
+cnn_0213.parse 2 9 predicted say-v say.01 ----- 9:0-rel  8:1-R-ARG0 10:3-ARG1
+cnn_0213.parse 2 12 predicted respond-v respond.01 ----- 12:0-rel  10:1-ARG0 13:1-ARG1
+cnn_0213.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+cnn_0213.parse 3 7 predicted kill-v kill.01 ----- 7:0-rel  3:1-ARG1
+cnn_0213.parse 3 10 predicted wounded-v wounded.- ----- 10:0-rel  9:1-ARG1 11:1-ARGM-TMP
+cnn_0213.parse 4 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0213.parse 4 5 predicted involve-v involve.01 ----- 5:0-rel  3:1-ARG1 6:1-ARG2

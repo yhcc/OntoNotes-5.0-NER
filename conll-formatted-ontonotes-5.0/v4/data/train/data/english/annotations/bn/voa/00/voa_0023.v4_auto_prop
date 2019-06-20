@@ -1,0 +1,46 @@
+voa_0023.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+voa_0023.parse 2 8 predicted be-v be.01 ----- 8:0-rel  0:1-ARG1 6:0-ARGM-MOD 7:1-ARGM-TMP
+voa_0023.parse 2 11 predicted help-v help.01 ----- 11:0-rel  0:1-ARG0 12:2-ARG1
+voa_0023.parse 2 13 predicted tell-v tell.02 ----- 13:0-rel  12:1-ARG0
+voa_0023.parse 2 19 predicted be-v be.01 ----- 19:0-rel  14:2-ARG1 20:1-ARG2
+voa_0023.parse 2 23 predicted develop-v develop.01 ----- 23:0-rel  24:3-ARG1
+voa_0023.parse 2 28 predicted threaten-v threaten.01 ----- 28:0-rel  26:0-ARG2 29:0-ARG0
+voa_0023.parse 3 4 predicted explain-v explain.01 ----- 4:0-rel  0:2-ARG0
+voa_0023.parse 4 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+voa_0023.parse 4 7 predicted be-v be.01 ----- 7:0-rel  4:1-ARG1 6:1-ARGM-TMP
+voa_0023.parse 4 15 predicted develop-v develop.01 ----- 15:0-rel  14:1-ARG0 16:1-ARG2
+voa_0023.parse 5 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1
+voa_0023.parse 5 5 predicted be-v be.01 ----- 5:0-rel  3:1-ARG1 6:1-ARG2
+voa_0023.parse 5 7 predicted relate-v relate.01 ----- 7:0-rel  3:1-ARG1 6:0-ARGM-MNR 8:1-ARG2
+voa_0023.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:3-ARG2
+voa_0023.parse 6 6 predicted have-v have.03 ----- 6:0-rel  2:1-ARGM-TMP 4:1-ARG0 7:1-ARG1
+voa_0023.parse 6 15 predicted control-v control.01 ----- 15:0-rel  10:1-ARGM-MNR 12:1-ARG1
+voa_0023.parse 6 19 predicted be-v be.01 ----- 19:0-rel  20:1-ARG2
+voa_0023.parse 6 38 predicted differ-v differ.02 ----- 38:0-rel  22:2-ARG1 39:1-ARGM-MNR
+voa_0023.parse 6 47 predicted be-v be.01 ----- 47:0-rel  44:1-ARG1 46:1-R-ARG1 48:1-ARG2
+voa_0023.parse 7 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+voa_0023.parse 7 7 predicted take-v take.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG0
+voa_0023.parse 7 9 predicted end-v end.03 ----- 9:0-rel  3:2-ARG1
+voa_0023.parse 7 18 predicted blind-v blind.- ----- 18:0-rel  19:1-ARG1
+voa_0023.parse 8 2 predicted suspect-v suspect.01 ----- 2:0-rel  0:1-ARG0
+voa_0023.parse 8 5 predicted be-v be.02 ----- 5:0-rel  4:0-ARGM-MOD 6:2-ARG1
+voa_0023.parse 8 17 predicted develop-v develop.02 ----- 17:0-rel  15:1-ARG0 16:1-R-ARG0 18:1-ARG1
+voa_0023.parse 8 24 predicted have-v have.02 ----- 24:0-rel  23:0-ARGM-MOD
+voa_0023.parse 8 26 predicted do-v do.02 ----- 26:0-rel  21:1-ARG0 27:1-ARG1
+voa_0023.parse 8 34 predicted be-v be.01 ----- 34:0-rel  30:1-ARG1 32:1-R-ARG1 35:2-ARG2
+voa_0023.parse 8 36 predicted mop-v mop.- ----- 36:0-rel  38:1-ARG1
+voa_0023.parse 8 40 predicted destroy-v destroy.01 ----- 40:0-rel  41:1-ARG1
+voa_0023.parse 9 4 predicted release-v release.01 ----- 4:0-rel  0:1-ARG1 5:2-ARGM-TMP
+voa_0023.parse 9 7 predicted carry-v carry.01 ----- 7:0-rel  6:1-ARG1 8:1-ARG2
+voa_0023.parse 9 11 predicted call-v call.01 ----- 11:0-rel  5:1-ARGM-TMP 6:2-ARG0 12:2-ARG1
+voa_0023.parse 10 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+voa_0023.parse 10 4 predicted be-v be.02 ----- 4:0-rel  5:2-ARG1
+voa_0023.parse 10 21 predicted found-v found.01 ----- 21:0-rel  11:2-ARG0
+voa_0023.parse 10 27 predicted call-v call.01 ----- 27:0-rel  26:1-ARG1 28:1-ARG2
+voa_0023.parse 10 32 predicted appear-v appear.02 ----- 32:0-rel  23:2-ARG1 33:1-C-ARG1 37:1-ARGM-ADV
+voa_0023.parse 11 4 predicted lead-v lead.02 ----- 4:0-rel  2:1-ARG1 5:1-ARG0
+voa_0023.parse 11 9 predicted develop-v develop.02 ----- 9:0-rel  0:2-ARG0 10:2-ARG1
+voa_0023.parse 11 15 predicted let-v let.01 ----- 15:0-rel  10:1-ARG0 16:2-ARG1
+voa_0023.parse 11 19 predicted know-v know.01 ----- 19:0-rel  16:1-ARG0 20:2-ARG1
+voa_0023.parse 11 21 predicted be-v be.01 ----- 21:0-rel  20:1-ARG1 22:1-ARG2
+voa_0023.parse 11 25 predicted develop-v develop.01 ----- 25:0-rel  20:1-ARG1 26:1-ARG2

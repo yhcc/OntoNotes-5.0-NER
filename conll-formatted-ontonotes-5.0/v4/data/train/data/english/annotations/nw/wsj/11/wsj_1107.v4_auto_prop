@@ -1,0 +1,41 @@
+wsj_1107.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+wsj_1107.parse 0 15 predicted be-v be.01 ----- 15:0-rel  12:1-ARG1 16:1-ARG2
+wsj_1107.parse 0 21 predicted think-v think.01 ----- 21:0-rel  20:1-ARG0
+wsj_1107.parse 1 5 predicted see-v see.01 ----- 5:0-rel  0:1-ARGM-LOC 3:1-ARG0 6:2-ARG1
+wsj_1107.parse 2 2 predicted deteriorate-v deteriorate.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-MNR 5:2-ARGM-ADV
+wsj_1107.parse 2 5 predicted affect-v affect.01 ----- 5:0-rel  0:1-ARG0 6:2-ARG1
+wsj_1107.parse 2 21 predicted fall-v fall.01 ----- 21:0-rel  12:1-ARGM-LOC 17:1-ARG1 20:0-ARGM-MOD 22:1-ARG4
+wsj_1107.parse 3 7 predicted walk-v walk.01 ----- 7:0-rel  0:1-ARGM-TMP 3:1-ARG0 5:1-ARGM-ADV
+wsj_1107.parse 3 15 predicted exceed-v exceed.01 ----- 15:0-rel  12:1-ARGM-LOC 13:1-ARG0 16:1-ARG1
+wsj_1107.parse 4 6 predicted afford-v afford.01 ----- 6:0-rel  1:2-ARG0 4:0-ARGM-MOD 7:2-ARG1
+wsj_1107.parse 4 8 predicted keep-v keep.05 ----- 8:0-rel  1:2-ARG0 10:1-ARG1
+wsj_1107.parse 4 14 predicted choose-v choose.01 ----- 14:0-rel  13:1-ARG0 15:1-ARG1
+wsj_1107.parse 4 17 predicted do-v do.02 ----- 17:0-rel  13:1-ARG0 15:0-ARGM-NEG 18:1-ARG1
+wsj_1107.parse 5 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+wsj_1107.parse 5 7 predicted need-v need.01 ----- 7:0-rel  6:1-ARG0 8:2-ARG1
+wsj_1107.parse 5 9 predicted try-v try.01 ----- 9:0-rel  6:1-ARG0 10:1-ARG1
+wsj_1107.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG2
+wsj_1107.parse 7 2 predicted foreclose-v foreclose.01 ----- 2:0-rel  3:0-ARG1
+wsj_1107.parse 7 6 predicted sell-v sell.01 ----- 6:0-rel  2:1-ARG1 4:0-ARGM-MOD 7:1-ARG0
+wsj_1107.parse 8 11 predicted be-v be.01 ----- 11:0-rel  12:1-ARG1
+wsj_1107.parse 8 26 predicted pay-v pay.01 ----- 26:0-rel  23:1-ARG3
+wsj_1107.parse 8 30 predicted have-v have.04 ----- 30:0-rel  29:1-ARGM-ADV
+wsj_1107.parse 8 34 predicted defer-v defer.01 ----- 34:0-rel  31:1-ARG1
+wsj_1107.parse 8 59 predicted remain-v remain.01 ----- 59:0-rel  57:1-ARG1 60:1-ARG3
+wsj_1107.parse 10 9 predicted be-v be.01 ----- 9:0-rel  0:1-ARG1 2:0-ARGM-MOD 10:2-ARG2
+wsj_1107.parse 11 8 predicted dump-v dump.01 ----- 8:0-rel  0:1-ARGM-MNR 4:1-ARG1 7:0-ARGM-NEG 10:1-ARGM-DIR
+wsj_1107.parse 11 12 predicted glut-v glut.01 ----- 12:0-rel  13:0-ARG1
+wsj_1107.parse 14 16 predicted aggravate-v aggravate.01 ----- 16:0-rel  0:2-ARG0 15:1-ARGM-DIS 17:2-ARG1
+wsj_1107.parse 14 25 predicted buy-v buy.01 ----- 25:0-rel  26:1-ARGM-LOC
+wsj_1107.parse 14 30 predicted foreclose-v foreclose.01 ----- 30:0-rel  31:0-ARG1
+wsj_1107.parse 14 50 predicted say-v say.01 ----- 50:0-rel  51:1-ARG1
+wsj_1107.parse 14 62 predicted allow-v allow.01 ----- 62:0-rel  63:1-ARG1
+wsj_1107.parse 14 67 predicted price-v price.01 ----- 67:0-rel  63:1-ARG0
+wsj_1107.parse 14 73 predicted be-v be.01 ----- 73:0-rel  71:1-ARG1 72:1-ARG1 74:1-ARGM-ADV 75:1-ARG2
+wsj_1107.parse 15 5 predicted sit-v sit.01 ----- 5:0-rel  2:1-ARG1 4:1-ARGM-TMP
+wsj_1107.parse 15 7 predicted deteriorate-v deteriorate.01 ----- 7:0-rel  2:1-ARG1 6:1-ARGM-ADV 8:1-ARGM-TMP
+wsj_1107.parse 15 17 predicted resell-v resell.01 ----- 17:0-rel  18:1-ARGM-TMP
+wsj_1107.parse 15 40 predicted afford-v afford.01 ----- 40:0-rel  34:1-ARG0 37:1-R-ARG0 38:0-ARGM-MOD 39:0-ARGM-NEG 41:1-ARG1
+wsj_1107.parse 15 49 predicted have-v have.03 ----- 49:0-rel  50:1-ARG1
+wsj_1107.parse 15 56 predicted walk-v walk.01 ----- 56:0-rel  54:1-ARG0 55:0-ARGM-MOD 57:1-ARGM-DIR
+wsj_1107.parse 15 62 predicted repeat-v repeat.01 ----- 62:0-rel  59:1-ARG1 63:1-ARGM-REC 64:1-ARGM-TMP

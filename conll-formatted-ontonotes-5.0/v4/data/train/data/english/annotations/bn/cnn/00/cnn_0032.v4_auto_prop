@@ -1,0 +1,15 @@
+cnn_0032.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-TMP 3:2-ARG2
+cnn_0032.parse 1 6 predicted shatter-v shatter.01 ----- 6:0-rel  0:2-ARGM-TMP 4:1-ARG0 7:3-ARG1
+cnn_0032.parse 2 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+cnn_0032.parse 2 6 predicted hurt-v hurt.01 ----- 6:0-rel  3:1-ARG1
+cnn_0032.parse 3 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1
+cnn_0032.parse 3 8 predicted know-v know.01 ----- 8:0-rel  0:2-ARG1 6:0-ARGM-NEG 7:1-ARGM-TMP
+cnn_0032.parse 3 16 predicted say-v say.01 ----- 16:0-rel  11:2-ARG0 17:3-ARG1
+cnn_0032.parse 3 18 predicted appear-v appear.02 ----- 18:0-rel  17:1-ARG1 19:3-C-ARG1
+cnn_0032.parse 3 22 predicted throw-v throw.01 ----- 22:0-rel  19:1-ARG1 23:1-ARGM-DIR 26:1-ARG2
+cnn_0032.parse 4 1 predicted tell-v tell.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG2
+cnn_0032.parse 4 8 predicted seem-v seem.01 ----- 8:0-rel  6:1-ARG1 9:2-C-ARG1
+cnn_0032.parse 4 11 predicted land-v land.01 ----- 11:0-rel  6:1-ARG1 18:2-ARGM-PRD
+cnn_0032.parse 4 18 predicted cause-v cause.01 ----- 18:0-rel  19:1-ARG1
+cnn_0032.parse 5 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0032.parse 5 4 predicted seem-v seem.01 ----- 4:0-rel  2:1-ARG1 5:2-C-ARG1

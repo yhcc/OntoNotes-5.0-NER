@@ -1,0 +1,10 @@
+voa_0044.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-TMP 5:3-ARG1
+voa_0044.parse 0 10 predicted refuel-v refuel.- ----- 10:0-rel  5:1-ARG1 11:2-ARGM-TMP
+voa_0044.parse 0 14 predicted rip-v rip.01 ----- 14:0-rel  11:1-ARGM-TMP 12:1-ARG1 15:1-ARGM-DIR 17:1-ARGM-LOC 19:1-ARGM-TMP 22:2-ARGM-PRD
+voa_0044.parse 0 22 predicted kill-v kill.01 ----- 22:0-rel  12:1-ARG0 23:1-ARG1
+voa_0044.parse 1 1 predicted revise-v revise.01 ----- 1:0-rel  2:0-ARG1
+voa_0044.parse 1 7 predicted give-v give.01 ----- 7:0-rel  0:2-ARG1
+voa_0044.parse 1 13 predicted raise-v raise.01 ----- 13:0-rel  14:2-ARG1
+voa_0044.parse 1 21 predicted carry-v carry.01 ----- 21:0-rel  18:1-ARG0 22:1-ARG1
+voa_0044.parse 1 27 predicted get-v get.05 ----- 27:0-rel  18:2-ARG1 28:1-ARG2
+voa_0044.parse 1 32 predicted set-v set.05 ----- 32:0-rel  34:1-ARG1

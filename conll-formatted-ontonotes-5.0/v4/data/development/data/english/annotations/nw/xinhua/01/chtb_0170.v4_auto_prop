@@ -1,0 +1,13 @@
+chtb_0170.parse 0 5 predicted report-v report.01 ----- 5:0-rel  2:1-ARG1 6:1-ARGM-LOC
+chtb_0170.parse 0 20 predicted discover-v discover.01 ----- 20:0-rel  0:1-ARGM-ADV 16:2-ARG0 21:1-ARG1
+chtb_0170.parse 0 33 predicted control-v control.01 ----- 33:0-rel  22:2-ARG0 30:0-ARGM-MOD 31:0-ARGM-NEG 32:1-ARGM-ADV 34:2-ARG1
+chtb_0170.parse 0 44 predicted kill-v kill.01 ----- 44:0-rel  22:2-ARG0 42:0-ARGM-MOD 43:1-ARGM-DIS 45:1-ARG1
+chtb_0170.parse 1 4 predicted pollute-v pollute.01 ----- 4:0-rel  0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+chtb_0170.parse 2 1 predicted mix-v mix.01 ----- 1:0-rel  0:1-ARG0 13:2-ARGM-PRP
+chtb_0170.parse 2 14 predicted produce-v produce.01 ----- 14:0-rel  15:1-ARG1
+chtb_0170.parse 4 2 predicted feed-v feed.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG0
+chtb_0170.parse 4 5 predicted suck-v suck.- ----- 5:0-rel  0:2-ARGM-TMP 4:1-ARG0 14:1-ARG2
+chtb_0170.parse 5 2 predicted show-v show.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+chtb_0170.parse 5 4 predicted adopt-v adopt.01 ----- 4:0-rel  5:1-ARG1
+chtb_0170.parse 5 8 predicted reduce-v reduce.01 ----- 8:0-rel  4:2-ARG0 7:0-ARGM-MOD 9:2-ARG1
+chtb_0170.parse 5 13 predicted transmit-v transmit.01 ----- 13:0-rel  12:1-ARG0 14:1-ARG1

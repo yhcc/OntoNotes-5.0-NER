@@ -1,0 +1,8 @@
+wsj_1521.parse 0 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+wsj_1521.parse 0 9 predicted purchase-v purchase.01 ----- 9:0-rel  4:1-ARG0 10:1-ARG1 13:1-ARGM-LOC 15:1-C-ARG1
+wsj_1521.parse 0 17 predicted add-v add.02 ----- 17:0-rel  15:0-ARG0 16:0-ARGM-MOD 18:3-ARG1
+wsj_1521.parse 1 4 predicted serve-v serve.01 ----- 4:0-rel  2:1-ARG0 5:2-ARG2
+wsj_1521.parse 1 16 predicted be-v be.01 ----- 16:0-rel  0:2-ARG1 17:2-ARG2
+wsj_1521.parse 1 24 predicted expand-v expand.01 ----- 24:0-rel  25:1-ARGM-LOC
+wsj_1521.parse 1 27 predicted grow-v grow.01 ----- 27:0-rel  28:0-ARG1 29:0-C-ARG1
+wsj_1521.parse 2 3 predicted disclose-v disclose.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-NEG

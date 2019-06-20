@@ -1,0 +1,12 @@
+cnn_0322.parse 1 10 predicted announce-v announce.01 ----- 10:0-rel  6:1-ARG0 11:3-ARG1
+cnn_0322.parse 1 13 predicted lift-v lift.02 ----- 13:0-rel  11:1-ARG0 20:1-ARGM-CAU
+cnn_0322.parse 2 2 predicted be-v be.01 ----- 2:0-rel  3:1-ARG2
+cnn_0322.parse 2 11 predicted transmit-v transmit.01 ----- 11:0-rel  10:0-ARGM-MNR 12:0-ARG1
+cnn_0322.parse 2 19 predicted be-v be.02 ----- 19:0-rel  20:2-ARG1
+cnn_0322.parse 2 22 predicted confirm-v confirm.01 ----- 22:0-rel  23:0-ARG1
+cnn_0322.parse 2 26 predicted export-v export.01 ----- 26:0-rel  25:1-ARG1 27:1-ARG2
+cnn_0322.parse 3 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+cnn_0322.parse 3 17 predicted remain-v remain.01 ----- 17:0-rel  3:2-ARG1 16:0-ARGM-MOD 18:1-ARG3
+cnn_0322.parse 4 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0322.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0322.parse 6 11 predicted rank-v rank.01 ----- 11:0-rel  10:1-R-ARG1 12:2-ARG2

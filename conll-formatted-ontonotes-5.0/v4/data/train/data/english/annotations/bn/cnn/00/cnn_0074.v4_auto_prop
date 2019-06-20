@@ -1,0 +1,16 @@
+cnn_0074.parse 0 3 predicted urge-v urge.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0074.parse 0 8 predicted strengthen-v strengthen.01 ----- 8:0-rel  4:1-ARG0 9:1-ARG1
+cnn_0074.parse 1 13 predicted make-v make.04 ----- 13:0-rel  0:3-ARG0 14:1-ARG1 16:1-ARGM-LOC
+cnn_0074.parse 2 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1
+cnn_0074.parse 2 6 predicted wounded-v wounded.- ----- 6:0-rel  5:1-ARG1 7:2-ARGM-TMP
+cnn_0074.parse 2 13 predicted attack-v attack.01 ----- 13:0-rel  7:1-ARGM-TMP 8:1-ARG1 14:1-ARGM-TMP
+cnn_0074.parse 2 16 predicted refuel-v refuel.- ----- 16:0-rel  15:1-ARG1 17:1-ARGM-LOC
+cnn_0074.parse 3 3 predicted deny-v deny.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0074.parse 3 8 predicted claim-v claim.01 ----- 8:0-rel  4:1-ARG0 7:1-R-ARG0
+cnn_0074.parse 3 12 predicted obtain-v obtain.01 ----- 12:0-rel  9:1-ARG0 13:2-ARG1
+cnn_0074.parse 3 15 predicted link-v link.01 ----- 15:0-rel  13:1-ARG2 16:2-ARG1 21:1-ARG1
+cnn_0074.parse 4 4 predicted report-v report.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+cnn_0074.parse 4 10 predicted uncover-v uncover.01 ----- 10:0-rel  5:1-ARG1 7:1-R-ARG1 11:2-ARG2
+cnn_0074.parse 4 14 predicted finance-v finance.01 ----- 14:0-rel  12:1-ARG0 15:1-ARG1
+cnn_0074.parse 4 18 predicted assign-v assign.01 ----- 18:0-rel  12:1-ARG0 19:2-ARG1 24:2-ARG2
+cnn_0074.parse 4 25 predicted supervise-v supervise.01 ----- 25:0-rel  26:1-ARG1

@@ -1,0 +1,27 @@
+cnn_0087.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1
+cnn_0087.parse 0 4 predicted toss-v toss.01 ----- 4:0-rel  7:0-ARG0
+cnn_0087.parse 0 11 predicted try-v try.01 ----- 11:0-rel  0:1-ARG0 12:2-ARG1
+cnn_0087.parse 0 13 predicted turn-v turn.01 ----- 13:0-rel  14:2-ARG1
+cnn_0087.parse 1 1 predicted tell-v tell.01 ----- 1:0-rel  0:1-ARG0 7:3-ARG1
+cnn_0087.parse 1 10 predicted be-v be.01 ----- 10:0-rel  7:1-ARG1 11:2-ARG2
+cnn_0087.parse 1 13 predicted do-v do.02 ----- 13:0-rel  11:1-ARG1 14:1-ARG2
+cnn_0087.parse 2 5 predicted pay-v pay.01 ----- 5:0-rel  0:1-ARGM-TMP 4:1-ARG0
+cnn_0087.parse 2 16 predicted do-v do.02 ----- 16:0-rel  15:1-ARG0
+cnn_0087.parse 3 1 predicted want-v want.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0087.parse 3 4 predicted think-v think.01 ----- 4:0-rel  2:1-ARG0 5:1-ARG1
+cnn_0087.parse 4 4 predicted work-v work.01 ----- 4:0-rel  0:1-ARG0 5:1-ARGM-MNR
+cnn_0087.parse 4 11 predicted pay-v pay.01 ----- 11:0-rel  0:1-ARG0
+cnn_0087.parse 5 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+cnn_0087.parse 6 1 predicted need-v need.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0087.parse 6 3 predicted send-v send.01 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0087.parse 6 13 predicted pay-v pay.01 ----- 13:0-rel  10:1-ARG0 12:1-R-ARG0 14:1-ARG2
+cnn_0087.parse 7 3 predicted provide-v provide.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0087.parse 7 9 predicted pay-v pay.01 ----- 9:0-rel  7:1-ARG0 8:1-R-ARG0 10:1-ARG2
+cnn_0087.parse 8 15 predicted include-v include.01 ----- 15:0-rel  0:1-ARGM-ADV 9:3-ARG2 16:2-ARG1
+cnn_0087.parse 9 3 predicted join-v join.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 4:1-ARGM-LOC 5:1-ARG0
+cnn_0087.parse 9 13 predicted outline-v outline.01 ----- 13:0-rel  0:1-ARG0 12:0-ARGM-MOD 14:2-ARG1
+cnn_0087.parse 9 17 predicted repair-v repair.01 ----- 17:0-rel  18:2-ARG1
+cnn_0087.parse 9 20 predicted call-v call.01 ----- 20:0-rel  18:1-ARG1 19:1-ARG0
+cnn_0087.parse 10 4 predicted fly-v fly.01 ----- 4:0-rel  0:1-ARGM-DIR 3:1-ARG1 5:1-ARGM-DIR
+cnn_0087.parse 10 15 predicted focus-v focus.01 ----- 15:0-rel  11:1-ARGM-LOC 12:1-ARG0 13:1-ARGM-ADV 14:0-ARGM-MOD 16:1-ARG2
+cnn_0087.parse 11 2 predicted have-v have.03 ----- 2:0-rel  0:1-ARG0 3:2-ARG1

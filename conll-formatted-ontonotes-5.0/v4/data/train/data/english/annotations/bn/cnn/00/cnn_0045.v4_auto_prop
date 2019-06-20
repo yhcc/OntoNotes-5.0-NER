@@ -1,0 +1,13 @@
+cnn_0045.parse 0 8 predicted claim-v claim.02 ----- 8:0-rel  0:2-ARG0 9:2-ARG1 14:1-ARGM-TMP
+cnn_0045.parse 1 2 predicted shoot-v shoot.02 ----- 2:0-rel  0:1-ARG1 3:0-ARGM-PRD
+cnn_0045.parse 2 3 predicted erupt-v erupt.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-TMP
+cnn_0045.parse 2 17 predicted design-v design.01 ----- 17:0-rel  8:1-ARG1 15:1-R-ARG1 18:2-ARG3
+cnn_0045.parse 2 19 predicted pave-v pave.02 ----- 19:0-rel  15:1-ARG0 20:1-ARG1 22:1-ARG2
+cnn_0045.parse 3 2 predicted act-v act.01 ----- 2:0-rel  3:0-ARG0 4:0-C-ARG0
+cnn_0045.parse 3 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+cnn_0045.parse 3 9 predicted hope-v hope.01 ----- 9:0-rel  6:1-ARG0 10:2-ARG1
+cnn_0045.parse 3 11 predicted renew-v renew.01 ----- 11:0-rel  6:1-ARG0 12:1-ARG1
+cnn_0045.parse 3 21 predicted take-v take.01 ----- 21:0-rel  16:2-ARG0 22:1-ARG1
+cnn_0045.parse 4 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0045.parse 4 4 predicted proceed-v proceed.01 ----- 4:0-rel  2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1
+cnn_0045.parse 4 8 predicted form-v form.01 ----- 8:0-rel  9:2-ARG1

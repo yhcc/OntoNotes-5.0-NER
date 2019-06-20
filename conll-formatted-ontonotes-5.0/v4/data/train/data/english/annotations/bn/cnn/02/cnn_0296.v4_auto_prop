@@ -1,0 +1,6 @@
+cnn_0296.parse 0 4 predicted check-v check.04 ----- 4:0-rel  0:1-ARGM-TMP 6:1-ARG1
+cnn_0296.parse 0 10 predicted get-v get.01 ----- 10:0-rel  0:1-ARGM-TMP 11:2-ARG1
+cnn_0296.parse 1 1 predicted know-v know.01 ----- 1:0-rel  0:1-ARG0
+cnn_0296.parse 1 11 predicted hold-v hold.03 ----- 11:0-rel  7:1-ARGM-DIS 8:2-ARG0
+cnn_0296.parse 1 19 predicted release-v release.01 ----- 19:0-rel  12:1-ARG1
+cnn_0296.parse 2 16 predicted say-v say.01 ----- 16:0-rel  13:1-ARG1 14:1-ARG0

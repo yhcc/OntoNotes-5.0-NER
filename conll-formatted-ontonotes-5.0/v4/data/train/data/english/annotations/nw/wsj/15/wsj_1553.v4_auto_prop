@@ -1,0 +1,13 @@
+wsj_1553.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1553.parse 0 8 predicted complete-v complete.01 ----- 8:0-rel  3:1-ARG0 9:3-ARG1
+wsj_1553.parse 1 8 predicted have-v have.03 ----- 8:0-rel  0:2-ARG0
+wsj_1553.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+wsj_1553.parse 3 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+wsj_1553.parse 3 10 predicted cover-v cover.01 ----- 10:0-rel  6:1-ARG2 11:2-ARG1
+wsj_1553.parse 4 2 predicted represent-v represent.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1553.parse 5 4 predicted have-v have.03 ----- 4:0-rel  0:1-ARG0 3:1-R-ARG0 5:3-ARG1
+wsj_1553.parse 5 15 predicted make-v make.01 ----- 15:0-rel  13:0-ARG1
+wsj_1553.parse 5 19 predicted process-v process.01 ----- 19:0-rel  17:0-ARG1 20:0-ARG0
+wsj_1553.parse 5 22 predicted say-v say.01 ----- 22:0-rel  0:2-ARG0 23:3-ARG1
+wsj_1553.parse 5 24 predicted plan-v plan.01 ----- 24:0-rel  23:1-ARG0 25:2-ARG1
+wsj_1553.parse 5 26 predicted make-v make.03 ----- 26:0-rel  23:1-ARG0 27:2-ARG1

@@ -1,0 +1,9 @@
+cnn_0009.parse 0 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cnn_0009.parse 1 2 predicted win-v win.01 ----- 2:0-rel  0:1-ARG0
+cnn_0009.parse 2 2 predicted receive-v receive.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0009.parse 3 4 predicted got-v got.- ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0009.parse 4 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0009.parse 4 7 predicted win-v win.01 ----- 7:0-rel  2:1-ARG0 8:1-ARG1 10:1-ARGM-TMP
+cnn_0009.parse 5 2 predicted hope-v hope.01 ----- 2:0-rel  1:1-ARG0 3:2-ARG1
+cnn_0009.parse 5 4 predicted dance-v dance.01 ----- 4:0-rel  3:1-ARG0
+cnn_0009.parse 5 13 predicted award-v award.01 ----- 13:0-rel  7:1-ARG0 14:2-ARG1

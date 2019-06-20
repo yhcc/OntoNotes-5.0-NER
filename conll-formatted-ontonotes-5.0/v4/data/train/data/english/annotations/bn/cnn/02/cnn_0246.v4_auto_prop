@@ -1,0 +1,25 @@
+cnn_0246.parse 0 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0246.parse 2 3 predicted go-v go.01 ----- 3:0-rel  1:1-ARG1 4:1-ARG4
+cnn_0246.parse 3 2 predicted listen-v listen.01 ----- 2:0-rel  1:1-ARG0 3:1-ARG1
+cnn_0246.parse 3 9 predicted sound-v sound.01 ----- 9:0-rel  0:1-ARGM-ADV 8:1-ARG1 10:1-ARG2
+cnn_0246.parse 3 13 predicted be-v be.01 ----- 13:0-rel  11:1-ARG1
+cnn_0246.parse 3 16 predicted begin-v begin.01 ----- 16:0-rel  11:1-ARG1
+cnn_0246.parse 4 4 predicted lay-v lay.01 ----- 4:0-rel  0:2-ARG0 6:2-ARG1
+cnn_0246.parse 5 5 predicted act-v act.01 ----- 5:0-rel  0:3-ARG0 6:1-ARG1
+cnn_0246.parse 5 10 predicted point-v point.02 ----- 10:0-rel  0:3-ARG0 12:2-ARG1
+cnn_0246.parse 6 8 predicted say-v say.01 ----- 8:0-rel  5:1-ARG0 9:1-ARG1
+cnn_0246.parse 6 11 predicted be-v be.01 ----- 11:0-rel  10:1-ARG1 12:1-ARG2
+cnn_0246.parse 6 14 predicted fight-v fight.01 ----- 14:0-rel  10:1-ARG0 15:1-ARGM-TMP
+cnn_0246.parse 6 20 predicted await-v await.01 ----- 20:0-rel  19:1-ARG1 21:2-ARG2
+cnn_0246.parse 6 30 predicted be-v be.02 ----- 30:0-rel  31:1-ARG1
+cnn_0246.parse 6 40 predicted plan-v plan.01 ----- 40:0-rel  35:1-ARG0
+cnn_0246.parse 6 52 predicted be-v be.01 ----- 52:0-rel  50:1-ARG1
+cnn_0246.parse 6 60 predicted echo-v echo.01 ----- 60:0-rel  59:1-ARG1
+cnn_0246.parse 7 3 predicted voice-v voice.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1 5:1-ARGM-TMP
+cnn_0246.parse 8 5 predicted speak-v speak.01 ----- 5:0-rel  0:1-ARGM-TMP 1:1-ARGM-TMP 3:1-ARG0 4:0-ARGM-MOD 6:1-ARGM-MNR
+cnn_0246.parse 8 14 predicted dispatch-v dispatch.01 ----- 14:0-rel  12:1-ARG1 15:1-ARG0
+cnn_0246.parse 8 21 predicted persuade-v persuade.01 ----- 21:0-rel  22:1-ARG1 24:2-ARG2
+cnn_0246.parse 8 25 predicted avoid-v avoid.01 ----- 25:0-rel  22:1-ARG0 26:1-ARG1
+cnn_0246.parse 8 30 predicted begin-v begin.01 ----- 30:0-rel  29:1-ARG0
+cnn_0246.parse 9 15 predicted switch-v switch.01 ----- 15:0-rel  10:2-ARG0 14:1-R-ARG0 16:1-ARG2
+cnn_0246.parse 9 19 predicted talk-v talk.01 ----- 19:0-rel  20:1-ARG1

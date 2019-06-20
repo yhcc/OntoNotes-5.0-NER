@@ -1,0 +1,5 @@
+wsj_1277.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1277.parse 0 4 predicted sell-v sell.01 ----- 4:0-rel  3:1-ARG0 5:1-ARG1 10:1-ARG2
+wsj_1277.parse 1 6 predicted disclose-v disclose.01 ----- 6:0-rel  0:2-ARG1 5:0-ARGM-NEG
+wsj_1277.parse 2 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+wsj_1277.parse 2 5 predicted employ-v employ.01 ----- 5:0-rel  2:1-ARG0 6:3-ARG1

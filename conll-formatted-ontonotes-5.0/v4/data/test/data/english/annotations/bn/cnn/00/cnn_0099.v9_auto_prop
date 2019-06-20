@@ -1,0 +1,6 @@
+cnn_0099.parse 2 6 predicted move-v move.01 ----- 6:0-rel  0:2-ARG1 7:1-ARGM-DIR
+cnn_0099.parse 3 3 predicted jump-v jump.01 ----- 3:0-rel  0:2-ARG1 4:1-ARG0 6:1-ARGM-TMP
+cnn_0099.parse 3 18 predicted hit-v hit.01 ----- 18:0-rel  0:3-ARGM-PRD 9:2-ARG0 19:2-ARG1
+cnn_0099.parse 4 2 predicted show-v show.01 ----- 2:0-rel  0:1-ARG0 3:4-ARG1
+cnn_0099.parse 4 10 predicted loosen-v loosen.01 ----- 10:0-rel  3:2-ARG1 12:1-ARGM-MNR
+cnn_0099.parse 4 18 predicted be-v be.01 ----- 18:0-rel  16:1-ARGM-TMP 17:1-ARG1 19:1-ARG2

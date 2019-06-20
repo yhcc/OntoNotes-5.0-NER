@@ -1,0 +1,12 @@
+cnn_0022.parse 0 11 predicted reiterate-v reiterate.01 ----- 11:0-rel  5:2-ARG0
+cnn_0022.parse 0 15 predicted take-v take.01 ----- 15:0-rel  16:2-ARG1
+cnn_0022.parse 0 23 predicted stop-v stop.01 ----- 23:0-rel  20:1-ARG1 22:0-ARGM-NEG 24:1-ARGM-TMP
+cnn_0022.parse 1 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:5-ARG1
+cnn_0022.parse 1 7 predicted have-v have.03 ----- 7:0-rel  2:3-ARG0 8:1-ARG1
+cnn_0022.parse 1 11 predicted halt-v halt.01 ----- 11:0-rel  2:3-ARG0 12:1-ARG1
+cnn_0022.parse 2 1 predicted blame-v blame.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG1 4:1-ARG2
+cnn_0022.parse 2 5 predicted ignite-v ignite.01 ----- 5:0-rel  6:1-ARG1
+cnn_0022.parse 4 5 predicted try-v try.01 ----- 5:0-rel  0:2-ARG0 6:2-ARG1
+cnn_0022.parse 4 7 predicted form-v form.01 ----- 7:0-rel  0:2-ARG0 8:1-ARG1
+cnn_0022.parse 5 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+cnn_0022.parse 5 7 predicted remain-v remain.01 ----- 7:0-rel  5:1-ARG1 6:0-ARGM-MOD 8:1-ARGM-LOC 10:1-ARG3

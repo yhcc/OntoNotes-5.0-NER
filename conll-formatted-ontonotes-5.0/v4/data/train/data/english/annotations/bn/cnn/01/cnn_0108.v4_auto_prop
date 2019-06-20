@@ -1,0 +1,13 @@
+cnn_0108.parse 0 8 predicted end-v end.02 ----- 8:0-rel  0:2-ARG1 9:1-ARGM-MNR
+cnn_0108.parse 1 1 predicted work-v work.01 ----- 1:0-rel  0:1-ARG0 12:2-ARG1
+cnn_0108.parse 1 13 predicted find-v find.01 ----- 13:0-rel  0:1-ARG0 14:2-ARG1
+cnn_0108.parse 1 16 predicted implement-v implement.01 ----- 16:0-rel  14:1-ARGM-MNR 17:1-ARG1
+cnn_0108.parse 2 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:2-ARG2
+cnn_0108.parse 2 6 predicted reduce-v reduce.01 ----- 6:0-rel  7:2-ARG1 14:1-ARG2
+cnn_0108.parse 2 12 predicted trap-v trap.01 ----- 12:0-rel  10:0-ARG1 13:0-ARG0
+cnn_0108.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0108.parse 3 5 predicted agree-v agree.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+cnn_0108.parse 3 9 predicted do-v do.02 ----- 9:0-rel  7:1-ARGM-MNR 10:1-ARG1
+cnn_0108.parse 4 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cnn_0108.parse 4 7 predicted reduce-v reduce.01 ----- 7:0-rel  4:1-ARGM-MNR 5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1 10:1-ARGM-MNR
+cnn_0108.parse 4 12 predicted burn-v burn.01 ----- 12:0-rel  11:1-ARGM-ADV 13:1-ARG1

@@ -1,0 +1,4 @@
+cnn_0102.parse 0 6 predicted warn-v warn.01 ----- 6:0-rel  0:1-ARG0 7:1-ARG1
+cnn_0102.parse 1 7 predicted cut-v cut.02 ----- 7:0-rel  0:3-ARG0 8:3-ARG1
+cnn_0102.parse 2 11 predicted agree-v agree.01 ----- 11:0-rel  0:1-ARGM-LOC 9:1-ARG0 12:1-ARG1
+cnn_0102.parse 2 16 predicted funnel-v funnel.01 ----- 16:0-rel  13:1-ARGM-MNR

@@ -1,0 +1,15 @@
+cnn_0196.parse 0 6 predicted denounce-v denounce.01 ----- 6:0-rel  0:2-ARG0
+cnn_0196.parse 0 10 predicted conclude-v conclude.02 ----- 10:0-rel  8:0-ARGM-ADV 11:0-ARG1 12:0-C-ARG1 13:0-C-ARG1
+cnn_0196.parse 1 2 predicted lead-v lead.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0196.parse 1 12 predicted lead-v lead.03 ----- 12:0-rel  11:1-ARG0
+cnn_0196.parse 2 11 predicted address-v address.02 ----- 11:0-rel  0:3-ARG0 12:2-ARG1 20:1-ARGM-TMP
+cnn_0196.parse 3 1 predicted condemn-v condemn.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+cnn_0196.parse 3 4 predicted call-v call.01 ----- 4:0-rel  2:1-ARG1 3:1-ARG0
+cnn_0196.parse 3 18 predicted pledge-v pledge.01 ----- 18:0-rel  17:1-ARG0 19:2-ARG2
+cnn_0196.parse 3 23 predicted last-v last.01 ----- 23:0-rel  26:0-ARG1
+cnn_0196.parse 4 1 predicted tell-v tell.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2
+cnn_0196.parse 4 6 predicted be-v be.01 ----- 6:0-rel  4:1-ARG1
+cnn_0196.parse 4 14 predicted face-v face.01 ----- 14:0-rel  13:1-ARG0 15:2-ARGM-TMP
+cnn_0196.parse 4 19 predicted express-v express.01 ----- 19:0-rel  13:1-ARG0 20:1-ARG1
+cnn_0196.parse 4 23 predicted come-v come.01 ----- 23:0-rel  21:1-ARG1 22:0-ARGM-MOD 24:2-ARGM-TMP
+cnn_0196.parse 4 28 predicted think-v think.01 ----- 28:0-rel  26:1-ARG0

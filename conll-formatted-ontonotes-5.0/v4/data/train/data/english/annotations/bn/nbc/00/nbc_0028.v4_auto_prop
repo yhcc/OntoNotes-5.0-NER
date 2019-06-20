@@ -1,0 +1,48 @@
+nbc_0028.parse 0 6 predicted spend-v spend.02 ----- 6:0-rel  0:3-ARG0 7:1-ARG1 9:1-ARGM-MNR
+nbc_0028.parse 0 13 predicted dispatch-v dispatch.01 ----- 13:0-rel  0:3-ARG0 14:1-ARG1 16:2-ARGM-PRP
+nbc_0028.parse 1 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nbc_0028.parse 4 3 predicted have-v have.06 ----- 3:0-rel  1:2-ARG0 4:1-ARG1
+nbc_0028.parse 5 2 predicted continue-v continue.01 ----- 2:0-rel  0:1-ARG0
+nbc_0028.parse 5 4 predicted refuse-v refuse.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1 6:1-ARG2
+nbc_0028.parse 5 14 predicted leave-v leave.02 ----- 14:0-rel  0:1-ARG0 15:1-ARG1 16:1-ARG2
+nbc_0028.parse 5 27 predicted defend-v defend.01 ----- 27:0-rel  28:1-ARG1
+nbc_0028.parse 6 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+nbc_0028.parse 6 4 predicted call-v call.03 ----- 4:0-rel  2:1-ARG1 5:1-ARG2 6:1-ARG0
+nbc_0028.parse 7 2 predicted provide-v provide.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+nbc_0028.parse 7 10 predicted check-v check.01 ----- 10:0-rel  7:1-ARG0 11:1-ARG1
+nbc_0028.parse 8 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:5-ARG1
+nbc_0028.parse 8 6 predicted complete-v complete.01 ----- 6:0-rel  2:1-ARG1 4:0-ARGM-MOD 7:1-ARGM-TMP
+nbc_0028.parse 8 20 predicted contend-v contend.01 ----- 20:0-rel  13:1-ARGM-TMP 17:1-ARG0
+nbc_0028.parse 8 24 predicted be-v be.01 ----- 24:0-rel  22:1-ARG1 23:0-ARGM-MOD
+nbc_0028.parse 8 34 predicted win-v win.01 ----- 34:0-rel  35:1-ARG1
+nbc_0028.parse 9 5 predicted spend-v spend.02 ----- 5:0-rel  0:1-ARGM-TMP 2:1-ARG0 6:1-ARG1 8:1-ARG2
+nbc_0028.parse 9 29 predicted appear-v appear.01 ----- 29:0-rel  23:2-ARG1 30:1-ARGM-LOC 35:2-ARGM-ADV
+nbc_0028.parse 9 35 predicted argue-v argue.01 ----- 35:0-rel  23:2-ARG0
+nbc_0028.parse 9 41 predicted be-v be.01 ----- 41:0-rel  38:1-ARG1 42:1-ARG2
+nbc_0028.parse 9 46 predicted stop-v stop.01 ----- 46:0-rel  38:1-ARG1 44:0-ARGM-MOD
+nbc_0028.parse 10 1 predicted open-v open.03 ----- 1:0-rel  0:1-ARG0
+nbc_0028.parse 10 11 predicted open-v open.03 ----- 11:0-rel  9:1-ARGM-DIS 10:1-ARG0
+nbc_0028.parse 11 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+nbc_0028.parse 11 5 predicted lose-v lose.03 ----- 5:0-rel  4:1-ARG0 6:1-ARG1 8:1-ARGM-LOC 10:1-ARGM-TMP
+nbc_0028.parse 11 14 predicted appeal-v appeal.01 ----- 14:0-rel  3:1-ARGM-ADV 12:1-ARG0 13:0-ARGM-MOD
+nbc_0028.parse 11 19 predicted lose-v lose.02 ----- 19:0-rel  18:1-ARG0 20:1-ARG1
+nbc_0028.parse 11 24 predicted ask-v ask.02 ----- 24:0-rel  17:1-ARGM-ADV 22:1-ARG0 23:0-ARGM-MOD
+nbc_0028.parse 11 38 predicted pass-v pass.03 ----- 38:0-rel  31:1-ARGM-LOC 32:1-ARG1 36:0-ARGM-NEG 37:1-ARGM-TMP
+nbc_0028.parse 11 43 predicted be-v be.01 ----- 43:0-rel  40:1-ARGM-LOC 41:1-ARG1 44:1-ARG2
+nbc_0028.parse 11 46 predicted include-v include.01 ----- 46:0-rel  47:1-ARG1
+nbc_0028.parse 11 54 predicted help-v help.01 ----- 54:0-rel  51:1-ARG0 52:1-R-ARG0 53:0-ARGM-MOD 55:2-ARG1
+nbc_0028.parse 11 56 predicted win-v win.01 ----- 56:0-rel  55:1-ARG0
+nbc_0028.parse 12 3 predicted be-v be.02 ----- 3:0-rel  1:0-ARGM-MOD 2:1-ARGM-DIS 4:2-ARG1
+nbc_0028.parse 12 13 predicted be-v be.01 ----- 13:0-rel  10:1-ARGM-LOC 11:1-ARG1 14:1-ARG2
+nbc_0028.parse 13 6 predicted impound-v impound.- ----- 6:0-rel  7:0-ARG1
+nbc_0028.parse 13 12 predicted make-v make.04 ----- 12:0-rel  6:2-ARG0
+nbc_0028.parse 14 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 4:1-ARGM-DIS
+nbc_0028.parse 14 6 predicted consider-v consider.02 ----- 6:0-rel  0:1-ARG0 4:1-ARGM-DIS 5:1-ARGM-ADV
+nbc_0028.parse 14 11 predicted go-v go.02 ----- 11:0-rel  12:1-ARG4
+nbc_0028.parse 14 20 predicted give-v give.01 ----- 20:0-rel  15:1-ARG0 19:0-ARGM-NEG 21:1-ARG2 27:1-ARG1
+nbc_0028.parse 14 31 predicted say-v say.01 ----- 31:0-rel  29:1-ARG0 32:3-ARG1
+nbc_0028.parse 14 33 predicted want-v want.01 ----- 33:0-rel  32:1-ARG0 34:2-ARG1
+nbc_0028.parse 14 35 predicted move-v move.02 ----- 35:0-rel  32:1-ARG1 36:2-ARGM-MNR
+nbc_0028.parse 14 43 predicted consider-v consider.02 ----- 43:0-rel  41:1-ARG0 44:2-ARG1
+nbc_0028.parse 14 47 predicted cause-v cause.01 ----- 47:0-rel  44:1-ARG0 45:1-R-ARG0 46:0-ARGM-MOD
+nbc_0028.parse 14 51 predicted drag-v drag.01 ----- 51:0-rel  48:1-ARG1 53:1-ARGM-TMP

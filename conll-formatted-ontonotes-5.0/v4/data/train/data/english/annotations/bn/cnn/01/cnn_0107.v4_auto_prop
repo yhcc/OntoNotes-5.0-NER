@@ -1,0 +1,10 @@
+cnn_0107.parse 0 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+cnn_0107.parse 1 6 predicted make-v make.04 ----- 6:0-rel  0:1-ARGM-TMP 2:1-ARG0 7:1-ARG1 11:1-ARGM-TMP
+cnn_0107.parse 1 12 predicted lose-v lose.02 ----- 12:0-rel  13:1-ARG1
+cnn_0107.parse 2 1 predicted address-v address.02 ----- 1:0-rel  0:1-ARG0
+cnn_0107.parse 3 1 predicted denounce-v denounce.01 ----- 1:0-rel  0:1-ARG0
+cnn_0107.parse 3 7 predicted unseat-v unseat.- ----- 7:0-rel  2:1-ARG0 6:1-R-ARG0 8:1-ARG1
+cnn_0107.parse 3 10 predicted call-v call.01 ----- 10:0-rel  0:1-ARG0 11:1-ARG1
+cnn_0107.parse 4 2 predicted accuse-v accuse.01 ----- 2:0-rel  0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1 5:1-ARG2
+cnn_0107.parse 4 6 predicted try-v try.01 ----- 6:0-rel  3:1-ARG0 7:2-ARG1
+cnn_0107.parse 4 8 predicted break-v break.08 ----- 8:0-rel  3:1-ARG0 10:1-ARG1

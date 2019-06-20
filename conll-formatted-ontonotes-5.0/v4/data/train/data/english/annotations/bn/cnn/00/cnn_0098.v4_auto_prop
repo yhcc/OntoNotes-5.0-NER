@@ -1,0 +1,14 @@
+cnn_0098.parse 0 4 predicted perform-v perform.01 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-ADV 5:1-ARG1
+cnn_0098.parse 1 2 predicted try-v try.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0098.parse 1 4 predicted confirm-v confirm.01 ----- 4:0-rel  0:1-ARG0 5:2-ARG1
+cnn_0098.parse 1 10 predicted believe-v believe.01 ----- 10:0-rel  8:1-ARG1 11:2-R-ARG1
+cnn_0098.parse 1 12 predicted be-v be.01 ----- 12:0-rel  13:1-ARG2
+cnn_0098.parse 2 3 predicted kill-v kill.01 ----- 3:0-rel  0:1-ARG1 4:2-ARG2
+cnn_0098.parse 2 8 predicted carry-v carry.01 ----- 8:0-rel  5:1-ARG0 9:1-ARG1
+cnn_0098.parse 2 11 predicted explode-v explode.01 ----- 11:0-rel  4:1-ARGM-TMP 5:2-ARG1 12:1-ARGM-LOC 18:1-ARGM-TMP
+cnn_0098.parse 2 21 predicted refuel-v refuel.- ----- 21:0-rel  19:1-ARG1 22:1-ARGM-LOC
+cnn_0098.parse 3 1 predicted come-v come.03 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0098.parse 3 6 predicted say-v say.01 ----- 6:0-rel  3:1-ARG0 5:1-R-ARG0 7:3-ARG1
+cnn_0098.parse 3 10 predicted retaliate-v retaliate.01 ----- 10:0-rel  7:1-ARG0 9:0-ARGM-MOD 11:1-ARGM-MNR 17:1-ARGM-ADV
+cnn_0098.parse 3 19 predicted find-v find.01 ----- 19:0-rel  18:1-ARG0 21:2-ARG1
+cnn_0098.parse 3 22 predicted be-v be.01 ----- 22:0-rel  21:1-ARG1 23:1-ARG2

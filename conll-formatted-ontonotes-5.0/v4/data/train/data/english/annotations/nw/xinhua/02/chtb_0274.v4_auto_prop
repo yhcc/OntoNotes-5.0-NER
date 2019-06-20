@@ -1,0 +1,21 @@
+chtb_0274.parse 1 22 predicted award-v award.01 ----- 22:0-rel  0:2-ARG2 32:1-ARGM-TMP
+chtb_0274.parse 2 5 predicted hold-v hold.04 ----- 5:0-rel  0:1-ARG1 4:1-ARGM-MNR 6:1-ARGM-LOC
+chtb_0274.parse 3 3 predicted chair-v chair.01 ----- 3:0-rel  0:1-ARG0 4:1-ARG1
+chtb_0274.parse 3 8 predicted give-v give.06 ----- 8:0-rel  0:1-ARG0 10:2-ARG1
+chtb_0274.parse 3 22 predicted award-v award.01 ----- 22:0-rel  18:1-ARG2 23:2-ARG1
+chtb_0274.parse 4 1 predicted deliver-v deliver.01 ----- 1:0-rel  2:1-ARG1
+chtb_0274.parse 4 8 predicted say-v say.01 ----- 8:0-rel  0:1-ARGM-TMP 6:1-ARG0 9:1-ARG1
+chtb_0274.parse 4 14 predicted let-v let.01 ----- 14:0-rel  11:1-ARG0 12:0-ARGM-MOD 13:1-ARGM-NEG
+chtb_0274.parse 4 18 predicted give-v give.01 ----- 18:0-rel  16:1-ARG1 19:1-ARG2 21:1-ARG0
+chtb_0274.parse 5 8 predicted allocate-v allocate.01 ----- 8:0-rel  2:2-ARG1 5:1-ARG0 6:1-ARGM-TMP
+chtb_0274.parse 5 14 predicted make-v make.04 ----- 14:0-rel  0:1-ARGM-ADV 10:1-ARG0 11:0-ARGM-MOD 12:1-ARGM-ADV 13:1-ARGM-MNR
+chtb_0274.parse 5 21 predicted do-v do.02 ----- 21:0-rel  20:1-ARGM-MNR 22:1-ARG1
+chtb_0274.parse 5 25 predicted benefit-v benefit.01 ----- 25:0-rel  26:2-ARG1
+chtb_0274.parse 5 45 predicted accumulate-v accumulate.01 ----- 45:0-rel  44:1-ARG0 46:2-ARG1
+chtb_0274.parse 5 47 predicted spur-v spur.01 ----- 47:0-rel  44:1-ARG0 48:1-ARG1
+chtb_0274.parse 5 52 predicted develop-v develop.01 ----- 52:0-rel  53:1-ARG2
+chtb_0274.parse 6 7 predicted name-v name.02 ----- 7:0-rel  0:1-ARG1 5:1-R-ARG1 8:1-ARG2
+chtb_0274.parse 6 15 predicted call-v call.01 ----- 15:0-rel  0:2-ARG1 16:1-ARG2
+chtb_0274.parse 7 10 predicted bestow-v bestow.01 ----- 10:0-rel  7:1-R-ARG1 9:1-ARGM-ADV 11:1-ARGM-TMP 13:1-ARG1
+chtb_0274.parse 8 4 predicted bestow-v bestow.01 ----- 4:0-rel  1:1-ARG1 5:1-ARGM-TMP
+chtb_0274.parse 8 15 predicted win-v win.01 ----- 15:0-rel  0:1-ARGM-TMP 8:2-ARG0 14:1-ARGM-TMP 16:1-ARG1

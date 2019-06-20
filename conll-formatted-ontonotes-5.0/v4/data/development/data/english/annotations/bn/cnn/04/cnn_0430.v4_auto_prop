@@ -1,0 +1,31 @@
+cnn_0430.parse 0 2 predicted use-v use.01 ----- 2:0-rel  3:1-ARG1 4:1-ARGM-LOC
+cnn_0430.parse 1 12 predicted buy-v buy.01 ----- 12:0-rel  11:1-ARG0 13:1-ARG1
+cnn_0430.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:1-ARG2
+cnn_0430.parse 2 3 predicted recommend-v recommend.01 ----- 3:0-rel  0:1-ARG1 2:0-ARG0
+cnn_0430.parse 2 5 predicted work-v work.01 ----- 5:0-rel  0:1-ARG0 6:1-ARGM-MNR
+cnn_0430.parse 4 2 predicted rivet-v rivet.01 ----- 2:0-rel  0:1-ARG0 3:1-ARG1
+cnn_0430.parse 7 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARG1 1:0-ARGM-MOD 5:1-ARG2
+cnn_0430.parse 8 4 predicted accuse-v accuse.01 ----- 4:0-rel  0:1-ARGM-TMP 1:1-ARG0 5:1-ARG1
+cnn_0430.parse 8 6 predicted hit-v hit.01 ----- 6:0-rel  1:1-ARG0 7:1-ARG1 9:1-ARGM-MNR
+cnn_0430.parse 8 13 predicted drive-v drive.01 ----- 13:0-rel  1:1-ARG0 14:1-ARGM-DIR
+cnn_0430.parse 8 17 predicted stick-v stick.01 ----- 17:0-rel  16:1-ARG1 18:1-ARG2
+cnn_0430.parse 8 22 predicted leave-v leave.01 ----- 22:0-rel  16:1-ARG0 23:1-ARG1 24:1-ARG2 25:2-ARGM-PRP
+cnn_0430.parse 8 26 predicted die-v die.01 ----- 26:0-rel  23:1-ARG1
+cnn_0430.parse 9 12 predicted drive-v drive.02 ----- 12:0-rel  11:1-ARG0 13:1-ARG1 14:3-ARG2
+cnn_0430.parse 9 21 predicted jump-v jump.03 ----- 21:0-rel  22:1-ARG1
+cnn_0430.parse 9 33 predicted capture-v capture.01 ----- 33:0-rel  34:1-ARGM-LOC 36:1-ARG0
+cnn_0430.parse 10 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 3:1-ARG2
+cnn_0430.parse 11 1 predicted begin-v begin.01 ----- 1:0-rel  0:1-ARG0
+cnn_0430.parse 11 14 predicted be-v be.01 ----- 14:0-rel  12:1-ARG1 15:1-ARG2 16:1-ARGM-LOC
+cnn_0430.parse 11 25 predicted be-v be.01 ----- 25:0-rel  24:1-ARG1 26:3-ARG2
+cnn_0430.parse 11 36 predicted know-v know.01 ----- 36:0-rel  35:0-ARGM-MNR 37:0-ARG1 38:0-C-ARG1
+cnn_0430.parse 12 4 predicted air-v air.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-MOD 5:1-ARGM-TMP 6:1-ARGM-TMP
+cnn_0430.parse 12 20 predicted produce-v produce.01 ----- 20:0-rel  21:1-ARG0
+cnn_0430.parse 12 30 predicted be-v be.01 ----- 30:0-rel  10:3-ARG1 31:1-ARG2
+cnn_0430.parse 13 3 predicted be-v be.01 ----- 3:0-rel  0:1-ARGM-LOC 4:3-ARG2
+cnn_0430.parse 13 28 predicted publish-v publish.01 ----- 28:0-rel  27:1-R-ARG0 29:2-ARG1
+cnn_0430.parse 13 34 predicted facilitate-v facilitate.01 ----- 34:0-rel  33:0-ARG1 35:0-C-ARG1
+cnn_0430.parse 14 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+cnn_0430.parse 14 21 predicted consider-v consider.01 ----- 21:0-rel  17:1-ARG0 20:1-R-ARG0
+cnn_0430.parse 15 2 predicted arrest-v arrest.01 ----- 2:0-rel  0:1-ARG1 3:1-ARGM-TMP 5:1-ARGM-TMP
+cnn_0430.parse 15 8 predicted jump-v jump.01 ----- 8:0-rel  6:1-ARG0 9:1-ARG1 10:1-ARGM-LOC

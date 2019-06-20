@@ -1,0 +1,13 @@
+cnn_0188.parse 0 5 predicted be-v be.01 ----- 5:0-rel  0:2-ARG1 6:1-ARG2
+cnn_0188.parse 1 2 predicted claim-v claim.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+cnn_0188.parse 1 4 predicted be-v be.01 ----- 4:0-rel  0:1-ARG1 5:2-ARG2
+cnn_0188.parse 1 12 predicted hijack-v hijack.- ----- 12:0-rel  0:2-ARG0
+cnn_0188.parse 1 21 predicted demand-v demand.01 ----- 21:0-rel  22:2-ARG1
+cnn_0188.parse 1 24 predicted fly-v fly.01 ----- 24:0-rel  25:1-ARGM-DIR
+cnn_0188.parse 2 2 predicted manage-v manage.02 ----- 2:0-rel  0:1-ARG0
+cnn_0188.parse 2 4 predicted land-v land.01 ----- 4:0-rel  0:1-ARG0 5:1-ARG1
+cnn_0188.parse 2 15 predicted got-v got.- ----- 15:0-rel  10:1-ARGM-LOC 11:2-ARG1
+cnn_0188.parse 2 18 predicted include-v include.01 ----- 18:0-rel  19:1-ARG1
+cnn_0188.parse 3 1 predicted say-v say.01 ----- 1:0-rel  0:1-ARG0 2:3-ARG1
+cnn_0188.parse 3 6 predicted overpower-v overpower.- ----- 6:0-rel  2:1-ARG1 5:1-ARGM-TMP 7:1-ARG0
+cnn_0188.parse 3 11 predicted take-v take.01 ----- 11:0-rel  2:1-ARG1 12:1-ARG2

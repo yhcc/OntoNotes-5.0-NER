@@ -1,0 +1,7 @@
+cnn_0144.parse 0 6 predicted expect-v expect.01 ----- 6:0-rel  0:1-ARG1 7:1-ARGM-LOC 9:1-ARGM-TMP
+cnn_0144.parse 1 3 predicted follow-v follow.01 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD
+cnn_0144.parse 1 9 predicted go-v go.15 ----- 9:0-rel  7:1-ARG1 8:1-R-ARG1 11:1-ARGM-TMP
+cnn_0144.parse 2 7 predicted kill-v kill.01 ----- 7:0-rel  5:1-ARG1 8:1-ARG2
+cnn_0144.parse 3 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:5-ARG1
+cnn_0144.parse 3 10 predicted work-v work.01 ----- 10:0-rel  4:3-ARG0 11:1-ARG3 14:1-ARG1
+cnn_0144.parse 3 24 predicted leave-v leave.01 ----- 24:0-rel  22:1-ARG0 25:1-ARG1

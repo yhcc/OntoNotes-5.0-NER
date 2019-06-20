@@ -1,0 +1,13 @@
+cnn_0033.parse 0 2 predicted flare-v flare.01 ----- 2:0-rel  0:1-ARG1 5:1-ARGM-LOC
+cnn_0033.parse 1 8 predicted open-v open.01 ----- 8:0-rel  0:1-ARGM-LOC 6:1-ARG0 9:1-ARG1
+cnn_0033.parse 1 16 predicted shoot-v shoot.01 ----- 16:0-rel  13:1-ARGM-TMP 14:1-ARG0 15:1-ARGM-ADV 17:1-ARG2 19:1-ARGM-DIR
+cnn_0033.parse 2 18 predicted beat-v beat.01 ----- 18:0-rel  16:1-ARG0 19:1-ARG1 22:1-ARG2
+cnn_0033.parse 3 4 predicted take-v take.01 ----- 4:0-rel  0:1-ARG1 5:1-ARG2 8:1-ARGM-TMP
+cnn_0033.parse 3 11 predicted take-v take.01 ----- 11:0-rel  0:1-ARG0 9:1-ARGM-ADV 10:1-ARGM-MNR 12:1-ARG1
+cnn_0033.parse 4 6 predicted scuffle-v scuffle.- ----- 6:0-rel  0:1-ARGM-LOC 3:1-ARG0 7:1-ARG1 9:1-ARGM-LOC
+cnn_0033.parse 5 7 predicted allow-v allow.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG1
+cnn_0033.parse 6 3 predicted keep-v keep.04 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0033.parse 7 12 predicted die-v die.01 ----- 12:0-rel  0:1-ARG1 3:2-ARGM-ADV
+cnn_0033.parse 7 17 predicted begin-v begin.01 ----- 17:0-rel  14:1-ARG1 16:1-R-ARG1 18:1-ARGM-TMP 19:2-ARGM-TMP
+cnn_0033.parse 7 26 predicted visit-v visit.01 ----- 26:0-rel  19:1-ARGM-TMP 20:3-ARG0 27:2-ARG1
+cnn_0033.parse 7 31 predicted be-v be.01 ----- 31:0-rel  30:1-ARG1 32:1-ARG2

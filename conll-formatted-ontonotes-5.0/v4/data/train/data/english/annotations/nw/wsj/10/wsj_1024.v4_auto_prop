@@ -1,0 +1,13 @@
+wsj_1024.parse 0 8 predicted say-v say.01 ----- 8:0-rel  0:2-ARG0 9:3-ARG1
+wsj_1024.parse 0 16 predicted restructure-v restructure.01 ----- 16:0-rel  9:1-ARG1 17:2-ARGM-PRP
+wsj_1024.parse 0 18 predicted form-v form.01 ----- 18:0-rel  9:1-ARG0 19:2-ARG1
+wsj_1024.parse 1 6 predicted say-v say.01 ----- 6:0-rel  0:1-ARG0 7:3-ARG1
+wsj_1024.parse 1 12 predicted create-v create.01 ----- 12:0-rel  7:1-ARG0 13:2-ARG1
+wsj_1024.parse 1 19 predicted gear-v gear.01 ----- 19:0-rel  13:1-ARG1 20:1-ARG2
+wsj_1024.parse 1 22 predicted manage-v manage.01 ----- 22:0-rel  21:1-ARGM-MNR 23:2-ARG1
+wsj_1024.parse 2 5 predicted absorb-v absorb.01 ----- 5:0-rel  0:1-ARG1 6:1-ARG0 14:1-ARGM-TMP 16:2-ARGM-TMP
+wsj_1024.parse 2 18 predicted acquire-v acquire.01 ----- 18:0-rel  16:1-ARGM-TMP 17:1-ARG0 19:2-ARG1
+wsj_1024.parse 3 2 predicted relate-v relate.01 ----- 2:0-rel  3:0-ARG1
+wsj_1024.parse 3 15 predicted name-v name.01 ----- 15:0-rel  0:1-ARGM-LOC 5:2-ARG1 16:3-ARG2
+wsj_1024.parse 3 23 predicted operate-v operate.01 ----- 23:0-rel  24:0-ARG0
+wsj_1024.parse 4 12 predicted name-v name.01 ----- 12:0-rel  0:2-ARG1 13:3-ARG2

@@ -1,0 +1,10 @@
+wsj_1592.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1592.parse 0 4 predicted receive-v receive.01 ----- 4:0-rel  3:1-ARG0
+wsj_1592.parse 1 2 predicted satisfy-v satisfy.01 ----- 2:0-rel  0:1-ARG0
+wsj_1592.parse 1 4 predicted remain-v remain.01 ----- 4:0-rel  5:0-ARG1
+wsj_1592.parse 1 12 predicted expect-v expect.01 ----- 12:0-rel  10:1-ARG1 13:2-C-ARG1
+wsj_1592.parse 1 14 predicted close-v close.03 ----- 14:0-rel  10:1-ARG1 15:1-ARGM-TMP
+wsj_1592.parse 2 13 predicted have-v have.03 ----- 13:0-rel  0:2-ARG0 14:2-ARG1
+wsj_1592.parse 3 1 predicted have-v have.03 ----- 1:0-rel  0:1-ARG0
+wsj_1592.parse 3 6 predicted can-v can.01 ----- 6:0-rel  7:0-ARG1 8:0-C-ARG1
+wsj_1592.parse 4 1 predicted make-v make.01 ----- 1:0-rel  0:1-ARG0

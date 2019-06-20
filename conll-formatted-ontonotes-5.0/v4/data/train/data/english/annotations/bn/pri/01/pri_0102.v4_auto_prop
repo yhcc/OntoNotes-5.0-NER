@@ -1,0 +1,17 @@
+pri_0102.parse 1 5 predicted conclude-v conclude.02 ----- 5:0-rel  0:1-ARG0
+pri_0102.parse 2 10 predicted deliver-v deliver.01 ----- 10:0-rel  0:4-ARG0 11:3-ARG1
+pri_0102.parse 2 24 predicted face-v face.01 ----- 24:0-rel  20:1-ARGM-LOC 22:1-ARG0 23:0-ARGM-MOD 25:2-ARG1
+pri_0102.parse 3 2 predicted report-v report.01 ----- 2:0-rel  0:1-ARG0
+pri_0102.parse 4 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+pri_0102.parse 5 3 predicted reach-v reach.01 ----- 3:0-rel  4:2-ARG1
+pri_0102.parse 5 14 predicted yield-v yield.01 ----- 14:0-rel  0:1-ARG0 12:1-ARGM-TMP 15:1-ARG1
+pri_0102.parse 6 7 predicted go-v go.02 ----- 7:0-rel  8:1-ARGM-TMP
+pri_0102.parse 6 15 predicted suggest-v suggest.01 ----- 15:0-rel  0:2-ARGM-ADV 11:1-ARG0 16:3-ARG1
+pri_0102.parse 6 17 predicted be-v be.01 ----- 17:0-rel  16:1-ARG1 18:1-ARG2
+pri_0102.parse 7 7 predicted top-v top.02 ----- 7:0-rel  0:1-ARGM-TMP 4:1-ARG0 8:1-ARG1 10:1-ARGM-MNR
+pri_0102.parse 7 13 predicted trail-v trail.01 ----- 13:0-rel  11:1-ARG0 14:1-ARGM-EXT
+pri_0102.parse 8 4 predicted be-v be.01 ----- 4:0-rel  0:2-ARG1 5:1-ARG2
+pri_0102.parse 9 15 predicted be-v be.01 ----- 15:0-rel  0:1-ARGM-LOC 10:2-ARG1 16:1-ARG2
+pri_0102.parse 10 3 predicted try-v try.01 ----- 3:0-rel  0:1-ARG0
+pri_0102.parse 10 5 predicted sell-v sell.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1 10:1-ARG2
+pri_0102.parse 10 17 predicted buy-v buy.01 ----- 17:0-rel  11:1-ARG0 13:1-R-ARG0 14:0-ARGM-MOD 15:0-ARGM-NEG 16:1-ARGM-ADV 18:1-ARG1 21:1-ARG2

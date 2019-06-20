@@ -1,0 +1,25 @@
+wsj_1438.parse 0 4 predicted list-v list.01 ----- 4:0-rel  0:1-ARG1 2:1-ARGM-TMP 5:1-ARG2
+wsj_1438.parse 0 15 predicted join-v join.01 ----- 15:0-rel  13:1-ARG0 14:0-ARGM-MOD 16:1-ARG1 27:1-ARGM-TMP
+wsj_1438.parse 1 9 predicted list-v list.01 ----- 9:0-rel  0:4-ARG1 10:1-ARGM-MNR
+wsj_1438.parse 2 8 predicted trade-v trade.01 ----- 8:0-rel  0:1-ARG0 9:2-ARG1
+wsj_1438.parse 3 1 predicted invest-v invest.01 ----- 1:0-rel  0:1-ARG0 2:1-ARGM-ADV 3:1-ARG2
+wsj_1438.parse 4 7 predicted hold-v hold.01 ----- 7:0-rel  6:0-ARG1 8:0-ARG0
+wsj_1438.parse 4 11 predicted join-v join.01 ----- 11:0-rel  0:2-ARG0 10:0-ARGM-MOD 12:1-ARG1 15:1-ARGM-TMP 16:1-ARGM-MNR
+wsj_1438.parse 5 2 predicted begin-v begin.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG1
+wsj_1438.parse 5 3 predicted trade-v trade.01 ----- 3:0-rel  0:1-ARG0 4:1-ARGM-MNR
+wsj_1438.parse 6 16 predicted used-v used.- ----- 16:0-rel  10:2-ARG1 17:2-ARG2
+wsj_1438.parse 6 18 predicted back-v back.01 ----- 18:0-rel  20:2-ARG1
+wsj_1438.parse 6 24 predicted start-v start.01 ----- 24:0-rel  0:3-ARG0 25:1-ARG1 27:1-ARG2
+wsj_1438.parse 7 12 predicted start-v start.01 ----- 12:0-rel  0:3-ARG1 13:2-C-ARG1
+wsj_1438.parse 7 13 predicted trade-v trade.01 ----- 13:0-rel  0:3-ARG1 14:1-ARGM-MNR
+wsj_1438.parse 8 8 predicted start-v start.01 ----- 8:0-rel  0:2-ARG1 9:2-C-ARG1
+wsj_1438.parse 8 9 predicted trade-v trade.01 ----- 9:0-rel  0:2-ARG1 10:1-ARGM-MNR
+wsj_1438.parse 9 1 predicted operate-v operate.01 ----- 1:0-rel  0:1-ARG0 2:2-ARG1
+wsj_1438.parse 10 8 predicted put-v put.01 ----- 8:0-rel  0:1-ARGM-MNR
+wsj_1438.parse 10 10 predicted call-v call.01 ----- 10:0-rel  0:1-ARGM-ADV
+wsj_1438.parse 10 19 predicted start-v start.01 ----- 19:0-rel  17:1-ARG0 20:2-ARG1
+wsj_1438.parse 10 20 predicted trade-v trade.01 ----- 20:0-rel  17:1-ARG0
+wsj_1438.parse 11 4 predicted make-v make.01 ----- 4:0-rel  0:2-ARG0 5:2-ARG1
+wsj_1438.parse 12 1 predicted give-v give.01 ----- 1:0-rel  0:1-ARG0 2:1-ARG2
+wsj_1438.parse 12 15 predicted sell-v sell.01 ----- 15:0-rel  16:2-ARG1 22:1-ARGM-TMP
+wsj_1438.parse 12 20 predicted set-v set.01 ----- 20:0-rel  21:0-ARG1

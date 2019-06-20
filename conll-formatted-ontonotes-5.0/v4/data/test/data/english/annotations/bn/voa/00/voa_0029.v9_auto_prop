@@ -1,0 +1,14 @@
+voa_0029.parse 0 3 predicted strike-v strike.01 ----- 3:0-rel  0:1-ARG0
+voa_0029.parse 1 5 predicted say-v say.01 ----- 5:0-rel  0:2-ARG0 6:3-ARG1
+voa_0029.parse 1 8 predicted be-v be.01 ----- 8:0-rel  6:1-ARG1 9:1-ARG2
+voa_0029.parse 2 32 predicted control-v control.01 ----- 32:0-rel  30:0-ARG0 33:0-ARG1
+voa_0029.parse 3 5 predicted invite-v invite.01 ----- 5:0-rel  0:1-ARGM-TMP 3:1-ARG0 6:2-ARG1 11:2-ARG2
+voa_0029.parse 3 12 predicted join-v join.01 ----- 12:0-rel  13:1-ARG1 14:1-ARGM-LOC
+voa_0029.parse 4 14 predicted spark-v spark.01 ----- 14:0-rel  8:1-ARG0 13:1-R-ARG0 15:2-ARG1
+voa_0029.parse 4 18 predicted begin-v begin.01 ----- 18:0-rel  15:1-ARG1 17:1-R-ARG1 19:1-ARGM-TMP 21:1-ARGM-LOC
+voa_0029.parse 5 7 predicted lead-v lead.01 ----- 7:0-rel  0:2-ARG0 5:1-R-ARG0 8:2-ARG1
+voa_0029.parse 5 14 predicted urge-v urge.01 ----- 14:0-rel  0:3-ARG0 20:2-ARG2
+voa_0029.parse 5 21 predicted show-v show.01 ----- 21:0-rel  22:1-ARG1
+voa_0029.parse 6 13 predicted charge-v charge.05 ----- 13:0-rel  0:3-ARG0 14:1-ARG1 15:1-ARG2
+voa_0029.parse 6 16 predicted insult-v insult.- ----- 16:0-rel  14:1-ARG0 17:1-ARG1 20:1-ARGM-MNR
+voa_0029.parse 6 21 predicted violate-v violate.01 ----- 21:0-rel  22:1-ARG1 24:1-ARGM-LOC

@@ -1,0 +1,7 @@
+wsj_1522.parse 0 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+wsj_1522.parse 0 4 predicted move-v move.01 ----- 4:0-rel  3:1-ARG0
+wsj_1522.parse 1 8 predicted locate-v locate.01 ----- 8:0-rel  0:2-ARG1 7:1-ARGM-TMP 9:1-ARGM-LOC
+wsj_1522.parse 2 5 predicted call-v call.01 ----- 5:0-rel  0:1-ARG0 6:1-ARG1
+wsj_1522.parse 3 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+wsj_1522.parse 3 6 predicted grow-v grow.01 ----- 6:0-rel  4:0-ARGM-MNR 7:0-ARG1
+wsj_1522.parse 3 13 predicted say-v say.01 ----- 13:0-rel  0:2-ARG1 11:1-ARG0 14:0-C-ARG1

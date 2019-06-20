@@ -1,0 +1,6 @@
+cnn_0412.parse 0 16 predicted be-v be.01 ----- 16:0-rel  0:2-ARGM-TMP
+cnn_0412.parse 1 6 predicted kill-v kill.01 ----- 6:0-rel  0:2-ARG1 7:1-ARGM-TMP
+cnn_0412.parse 1 9 predicted chase-v chase.01 ----- 9:0-rel  10:1-ARG1
+cnn_0412.parse 1 16 predicted break-v break.06 ----- 16:0-rel  14:1-ARG1
+cnn_0412.parse 2 3 predicted declare-v declare.02 ----- 3:0-rel  0:1-ARG0 4:2-ARG1
+cnn_0412.parse 3 5 predicted have-v have.03 ----- 5:0-rel  0:2-ARG0 6:2-ARG1

@@ -1,0 +1,13 @@
+mnb_0024.parse 1 7 predicted start-v start.01 ----- 7:0-rel  4:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+mnb_0024.parse 1 8 predicted spew-v spew.01 ----- 8:0-rel  4:1-ARG0 9:2-ARG1
+mnb_0024.parse 1 12 predicted know-v know.01 ----- 12:0-rel  9:1-ARG1 13:1-ARG0 16:1-ARG2
+mnb_0024.parse 2 3 predicted land-v land.01 ----- 3:0-rel  1:1-ARG0 4:1-ARGM-LOC
+mnb_0024.parse 2 10 predicted see-v see.01 ----- 10:0-rel  0:1-ARGM-ADV 8:1-ARG0 11:1-ARG1
+mnb_0024.parse 4 2 predicted start-v start.01 ----- 2:0-rel  0:1-ARGM-TMP 1:1-ARG1 3:2-C-ARG1
+mnb_0024.parse 4 3 predicted shower-v shower.- ----- 3:0-rel  1:1-ARG0 4:1-ARG1 5:2-ARGM-TMP
+mnb_0024.parse 4 12 predicted start-v start.01 ----- 12:0-rel  0:2-ARGM-TMP 10:2-ARG0 13:2-ARG1
+mnb_0024.parse 4 13 predicted urge-v urge.01 ----- 13:0-rel  10:2-ARG0 14:3-ARG1 20:2-ARG2
+mnb_0024.parse 5 6 predicted refuse-v refuse.01 ----- 6:0-rel  0:2-ARG0 4:1-ARGM-ADV 5:0-ARGM-TMP
+mnb_0024.parse 6 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:3-ARG2
+mnb_0024.parse 7 3 predicted spew-v spew.01 ----- 3:0-rel  0:1-ARG1
+mnb_0024.parse 7 7 predicted set-v set.01 ----- 7:0-rel  0:1-ARG0 6:1-ARGM-ADV 8:1-ARG2 9:1-ARG1 11:1-ARGM-LOC

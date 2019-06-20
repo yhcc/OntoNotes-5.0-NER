@@ -1,0 +1,18 @@
+pri_0089.parse 0 1 predicted release-v release.01 ----- 1:0-rel  0:1-ARG0 7:1-ARG1
+pri_0089.parse 1 2 predicted say-v say.01 ----- 2:0-rel  0:1-ARG0 3:3-ARG1
+pri_0089.parse 1 4 predicted hope-v hope.01 ----- 4:0-rel  3:1-ARG0 5:2-ARG1
+pri_0089.parse 1 6 predicted cap-v cap.02 ----- 6:0-rel  3:1-ARG0 7:1-ARG1 9:1-ARGM-TMP
+pri_0089.parse 2 4 predicted report-v report.01 ----- 4:0-rel  0:2-ARG0 5:1-ARGM-DIR
+pri_0089.parse 3 4 predicted credit-v credit.02 ----- 4:0-rel  0:1-ARG0 3:1-ARGM-TMP 5:1-ARG1
+pri_0089.parse 3 11 predicted improve-v improve.01 ----- 11:0-rel  10:1-ARGM-MNR 12:2-ARG1
+pri_0089.parse 4 4 predicted stand-v stand.01 ----- 4:0-rel  0:2-ARG1 3:1-ARGM-TMP 5:1-ARG2
+pri_0089.parse 4 19 predicted say-v say.01 ----- 19:0-rel  17:1-ARG0 20:1-ARG1
+pri_0089.parse 4 23 predicted be-v be.01 ----- 23:0-rel  22:1-ARG1 24:0-ARGM-NEG 25:1-ARG2
+pri_0089.parse 4 33 predicted be-v be.01 ----- 33:0-rel  21:1-ARGM-ADV 30:1-ARG1 32:0-ARGM-MOD 34:2-ARG2
+pri_0089.parse 5 3 predicted say-v say.01 ----- 3:0-rel  0:1-ARG0 4:3-ARG1
+pri_0089.parse 5 7 predicted face-v face.01 ----- 7:0-rel  4:1-ARG0 6:1-ARGM-TMP
+pri_0089.parse 5 11 predicted cope-v cope.01 ----- 11:0-rel  8:1-ARG1 12:1-ARG2
+pri_0089.parse 6 6 predicted say-v say.01 ----- 6:0-rel  5:1-ARG0 8:1-C-ARG1
+pri_0089.parse 6 10 predicted grapple-v grapple.01 ----- 10:0-rel  0:1-ARGM-TMP 8:1-ARG0 9:0-ARGM-MOD 11:1-ARG1
+pri_0089.parse 6 13 predicted associate-v associate.01 ----- 13:0-rel  12:1-ARG1 14:1-ARG2
+pri_0089.parse 6 17 predicted age-v age.01 ----- 17:0-rel  16:0-ARGM-MNR 18:0-ARG1

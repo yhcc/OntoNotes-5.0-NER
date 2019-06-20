@@ -1,0 +1,20 @@
+chtb_0159.parse 1 7 predicted purchase-v purchase.01 ----- 7:0-rel  0:2-ARG1 8:1-ARG0
+chtb_0159.parse 1 13 predicted use-v use.01 ----- 13:0-rel  0:3-ARG0 14:2-ARG1
+chtb_0159.parse 1 16 predicted provide-v provide.01 ----- 16:0-rel  14:1-ARG1 17:1-ARG0
+chtb_0159.parse 1 24 predicted hold-v hold.04 ----- 24:0-rel  0:4-ARG1 25:1-ARGM-TMP 26:1-ARGM-LOC
+chtb_0159.parse 2 1 predicted be-v be.01 ----- 1:0-rel  0:1-ARG1 2:2-ARG2
+chtb_0159.parse 2 11 predicted enter-v enter.01 ----- 11:0-rel  5:1-R-ARG0 6:2-ARG0 12:1-ARG1 13:1-ARGM-MNR
+chtb_0159.parse 3 12 predicted come-v come.01 ----- 12:0-rel  11:1-R-ARG1 13:1-ARGM-MNR 14:2-ARGM-PRP
+chtb_0159.parse 3 15 predicted attend-v attend.01 ----- 15:0-rel  11:1-ARG0 16:1-ARG1
+chtb_0159.parse 3 26 predicted hand-v hand.02 ----- 26:0-rel  8:2-ARG0
+chtb_0159.parse 3 35 predicted be-v be.01 ----- 35:0-rel  32:1-ARG1 36:2-ARG2
+chtb_0159.parse 4 2 predicted include-v include.01 ----- 2:0-rel  0:1-ARG2 3:3-ARG1
+chtb_0159.parse 4 12 predicted build-v build.01 ----- 12:0-rel  10:0-ARG1 13:0-ARG0
+chtb_0159.parse 5 6 predicted deliver-v deliver.01 ----- 6:0-rel  0:2-ARG0 7:1-ARG1 9:1-ARGM-LOC
+chtb_0159.parse 5 14 predicted hope-v hope.01 ----- 14:0-rel  0:2-ARG0 15:2-ARG1
+chtb_0159.parse 5 16 predicted use-v use.01 ----- 16:0-rel  0:2-ARG0 17:1-ARG1 18:1-ARG2
+chtb_0159.parse 5 22 predicted expand-v expand.01 ----- 22:0-rel  23:2-ARG1
+chtb_0159.parse 6 6 predicted provide-v provide.01 ----- 6:0-rel  0:1-ARGM-TMP 2:2-ARG0 7:1-ARG2 8:1-ARG1
+chtb_0159.parse 7 2 predicted be-v be.01 ----- 2:0-rel  0:1-ARG1 3:2-ARG2
+chtb_0159.parse 7 6 predicted use-v use.01 ----- 6:0-rel  3:1-ARG0 7:1-ARG1 9:2-ARG2
+chtb_0159.parse 7 10 predicted import-v import.01 ----- 10:0-rel  11:2-ARG1

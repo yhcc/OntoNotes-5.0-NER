@@ -1,0 +1,6 @@
+cnn_0357.parse 0 3 predicted wake-v wake.02 ----- 3:0-rel  0:1-ARG1 2:0-ARGM-MOD 5:1-ARGM-TMP 6:2-ARGM-PRD
+cnn_0357.parse 1 3 predicted prepare-v prepare.02 ----- 3:0-rel  0:1-ARG0 4:2-ARG2
+cnn_0357.parse 1 5 predicted tie-v tie.01 ----- 5:0-rel  0:1-ARG0
+cnn_0357.parse 2 4 predicted perform-v perform.01 ----- 4:0-rel  0:1-ARG0 3:0-ARGM-MOD 5:1-ARG1
+cnn_0357.parse 3 3 predicted invite-v invite.01 ----- 3:0-rel  0:1-ARG1
+cnn_0357.parse 3 8 predicted provide-v provide.01 ----- 8:0-rel  5:1-ARG0 7:0-ARGM-MOD 9:1-ARG1

@@ -1,0 +1,15 @@
+voa_0010.parse 0 4 predicted say-v say.01 ----- 4:0-rel  0:1-ARG0 5:3-ARG1
+voa_0010.parse 0 6 predicted hide-v hide.01 ----- 6:0-rel  5:1-ARG0 11:1-ARG2
+voa_0010.parse 0 16 predicted hold-v hold.04 ----- 16:0-rel  5:1-ARG0 14:0-ARGM-MOD
+voa_0010.parse 1 2 predicted tell-v tell.01 ----- 2:0-rel  0:1-ARG0 3:2-ARG2 11:1-ARG1
+voa_0010.parse 1 14 predicted know-v know.01 ----- 14:0-rel  12:1-ARG0 15:1-ARG1 19:1-ARGM-TMP
+voa_0010.parse 1 25 predicted hold-v hold.04 ----- 25:0-rel  12:1-ARG0 23:0-ARGM-MOD 26:2-ARG1
+voa_0010.parse 2 11 predicted say-v say.01 ----- 11:0-rel  0:1-ARGM-LOC 7:2-ARG0 12:5-ARG1
+voa_0010.parse 2 22 predicted imply-v imply.01 ----- 22:0-rel  20:0-ARGM-MOD 23:0-ARG1
+voa_0010.parse 2 27 predicted deny-v deny.01 ----- 27:0-rel  25:1-ARG1 26:1-ARG0
+voa_0010.parse 3 4 predicted want-v want.01 ----- 4:0-rel  0:1-ARG0
+voa_0010.parse 3 10 predicted compensate-v compensate.01 ----- 10:0-rel  5:1-ARG0 11:2-ARG1
+voa_0010.parse 3 14 predicted cause-v cause.01 ----- 14:0-rel  13:1-ARG1 15:1-ARG0
+voa_0010.parse 3 18 predicted equip-v equip.01 ----- 18:0-rel  16:1-ARG1 19:1-ARG2
+voa_0010.parse 4 4 predicted die-v die.01 ----- 4:0-rel  0:1-ARG1 5:1-ARGM-LOC
+voa_0010.parse 4 10 predicted cause-v cause.01 ----- 10:0-rel  9:1-ARG1 11:1-ARG0
