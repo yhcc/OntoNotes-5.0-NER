@@ -69,8 +69,5 @@ if __name__ == '__main__':
     if not os.path.exists(dir_name):
         os.makedirs(dir_name)
     for split in ['train', 'development', 'test']:
-        if version=='v4' and split=='test':
-            re = '*auto_conll'
-        else:
-            re = '*gold_conll'
+        re = '*gold_conll'
         generate_collection(tag=split, dir_name=dir_name, lang=language, version=version, domains=domains, re=re)
