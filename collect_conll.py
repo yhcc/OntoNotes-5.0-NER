@@ -43,7 +43,7 @@ def generate_collection(tag, dir_name, domains, lang, version, re):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-v', '--version', help="Which version of split, v4 or v12.", default='v4')
-    parser.add_argument('-l', '--language', help='Which language to collect.', default='english')
+    parser.add_argument('-l', '--language', help='Which language to collect. support english, chinese, arabic', default='english')
     parser.add_argument('-d', '--domain', nargs='*', help="What domains to use. If not specified, all will be used."
                                                           " You can choose from bc bn mz nw tc wb.")
 
