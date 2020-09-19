@@ -35,7 +35,7 @@ $ source activate py27
 ```
 ./conll-formatted-ontonotes-5.0/scripts/skeleton2conll.sh -D ./ontonotes-release-5.0/data/files/data ./conll-formatted-ontonotes-5.0/v12/
 ```
-运行以上的命令之后，会在文件夹(onotenotes-release-5.0中最内层的文件夹)中生成*.gold_conll文件。
+运行以上的命令之后，会在文件夹/conll-formatted-ontonotes-5.0/v4最内层的文件夹中生成*.gold_conll文件。
 
 #### Step 3: 然后将数据collect起来放入train.txt, dev.txt, test.txt.
 由于/pt/中是圣经旧约与新约的内容，里面不包含NER的信息，所以不会包含它们
